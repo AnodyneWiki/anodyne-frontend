@@ -248,7 +248,7 @@
         "{xeff 'transformations'}",
         "{xeff 'geometry'}",
         "{xeff 'autonomous entity'}",
-        "{xeff 'addiction suppression'}"
+        "{xeff 'addiction suppression'} (helps discontinue nicotine/stimulant addiction)"
       ],
       "Adverse": [
         "{xeff 'brain zaps'}",
@@ -268,7 +268,10 @@
         },
         {
           "Name": "Sublingual",
-          "Dosage": "0.15-0.96mg"
+          "Dosage": "0.15-0.96mg",
+          "Onset": "30-90 minutes",
+          "Comeup": "30-60 minutes",
+          "Duration": "8-10 hours"
         },
         {
           "Name": "Vaporized",

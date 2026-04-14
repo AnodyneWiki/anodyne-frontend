@@ -239,6 +239,7 @@
 	{ "Title": "Amphetamine", "Abr": "Speed", "Ltitle": "Levoamphetamine", "Dtitle": "Dextroamphetamine", "Classes": [ "Stimulant" ] },
 	{ "Title": "N,N-Dimethylphenethylamine", "Abr": "N,N-DMPEA", "Classes": [ "Stimulant" ] },
 	{ "Title": "3-Hydroxy-N,N-dimethylphenethylamine", "Classes": [ "Serotonergic antidepressant" ] },
+	{ "Title": "Pholedrine", "Classes": [ "Sympathomimetic" ] },
 	{ "Title": "Dimethylamphetamine", "Abr": "Metrotonin", "Actives": [ "Amphetamine", "Methamphetamine" ], "Classes": [ "Prodrug", "Stimulant" ] },
 	{ "Title": "Trimethylamphetamine", "Abr": "TMA", "Search": "CID26640" },
 	{ "Title": "β-Methylamphetamine", "Classes": [ "Stimulant" ] },
