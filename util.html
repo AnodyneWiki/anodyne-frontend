@@ -1,0 +1,136 @@
+{{define "severity" -}}
+	<span class='severity-{{.}}'>{{.}}</span>
+{{- end}}
+
+{{define "stime" -}}
+	{{. | replace "days" "d" | replace "day" "d" | replace "hours" "h" | replace "hour" "h" | replace "minutes" "m" | replace "minute" "m" | replace "seconds" "s" | replace "second" "s" | replace "-" " - " | replace "~" "~ "}}
+{{- end}}
+
+{{define "sl"}}{{if typeIs "dict" .}}{{template "sb" .}}{{else}}{{$st := printf "substituted/%s.json" . | replace " " "_"}}{{with fileExists $st}}{{template "sb" (include $st | fromJson)}}{{end}}{{end}}{{end}}
+
+{{define "rco"}}{{initial . | join ", "}}{{if gt (len .) 1}} or {{end}}{{last .}}{{end}}
+{{define "srco"}}{{with . | join "|" | stripHTML | splitList "|"}}<strong>{{initial . | join "</strong>, <strong>"}}</strong>{{if gt (len .) 1}} or <strong>{{last .}}</strong>{{else}}<strong>{{first .}}</strong>{{end}}{{end}}{{end}}
+
+{{define "rcc"}}{{. | join ", "}}{{end}}
+{{define "rce"}}<em>{{. | join "</em>, <em>"}}</em>{{end}}
+{{define "rca"}}{{initial . | join ", "}}{{if gt (len .) 1}} and {{end}}{{last .}}{{end}}
+{{define "rcad"}}{{initial . | join ", " | lower}}{{if gt (len .) 1}} and {{end}}{{last . | lower}}{{end}}
+{{define "srca"}}{{with . | join "|" | stripHTML | splitList "|"}}<strong>{{initial . | join "</strong>, <strong>"}}</strong>{{if gt (len .) 1}} and {{end}}<strong>{{last .}}</strong>{{end}}{{end}}
+{{define "lrca"}}{{$prefix := .prefix}}{{$list := list}}{{range .list}}{{$list = append $list (printf "<a href='/%s/%s'>%s</a>" $prefix (pathEscape . | lower) (lower .))}}{{end}}{{template "rca" $list}}{{end}}
+
+{{define "rcal"}}{{$ns := len .}}{{range $i, $name := .}}{{if eq $i 0 | not}}{{if sub $ns 1 | eq $i  | not}}, {{else}} and {{end}}{{end}}<a href='/substance/{{pathEscape (lower $name)}}'>{{$name}}</a>{{end}}{{end}}
+
+{{define "ref"}}<a href="#cite_note-{{.}}"><sup>[{{.}}]</sup></a>{{end}}
+{{define "refi"}}<a href=#cite_note-{{.RefCount}}><sup>[{{.RefCount}}]</sup></a>{{$_ := set . "RefCount" (add1 .RefCount)}}{{$_ := set . "Refs" (append .Refs .RefCur)}}{{end}}
+{{define "refg"}}{{$v := .}}{{range $refi, $ref := $v.refs}}{{if $ref | lower | contains $v.grep}}{{template "ref" (add1 $refi)}}{{break}}{{end}}{{end}}{{end}}
+
+{{define "tree"}}{{$stn := .}}{{$st := fromJson (include (printf "/substituted/%s.json" ($stn | replace " " "_")))}}{{template "sb" $st}}{{if $st.Children}}<ul style="margin-left: 1.0em;">{{range sortAlpha $st.Children}}<li>{{template "tree" .}}</li>{{end}}</ul>{{end}}{{end}}
+
+{{define "exnd"}}[<label><input name=CollapseCheck type="checkbox" class='{{if eq . "all"}}expand{{else}}collapse{{end}}'></label>]{{end}}
+
+{{define "pexnd"}}<span class=collapseButton style="padding-left: 10px; margin-bottom: 0px;">&nbsp;[<label><input name="CollapseCheck" type="checkbox" class="collapse"></label>]</span>{{end}}
+
+{{define "rexnd"}}<span class=collapseButton style="float: right;">&nbsp;[<label><input name=CollapseCheck type="checkbox" class='{{if eq . "all"}}expand{{else}}collapse{{end}}'></label>]</span>{{end}}
+
+{{define "rimgbox"}}<table style="margin-bottom: 0.5em;"><!--<table style="float: right; clear: right; max-width: 300px; margin: 0.5em 0 0 1em;">--><tr><td class=InfoboxImage style="background-color: {{if .background}}{{.background}}{{else}}white{{end}};"><img style="height: 100%;{{if .width}}width: {{.width}};{{end}} {{if .padding}}padding: {{.padding}};{{end}} max-width: 300px;" src="{{.src}}"></td></tr>{{with .desc}}<tr><td class=InfoboxData><span style="background-color: var(--background-color-base);">{{template "user" .}}</span></td></tr>{{end}}</table>
+{{end}}
+
+<div style="max-width: 258px;" class=Infobox>
+{{define "imgbox"}}<div style="float: right;" class="infobox">{{template "rimgbox" .}}</div>{{end}}
+</div>
+
+{{define "lpr"}}<a{{with .cls}} class={{.}}{{end}} href={{printf "%s%s/%s" (hasPrefix "http" .pre | ternary " " "/") (.pre | replace " " "_") (.src | replace " " "_" | trimPrefix "/" )}}>{{.alias}}</a>{{end}}
+
+{{define "lu"}}{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "pre" "user"))}}{{end}}
+{{define "lc"}}{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "pre" "class"))}}{{end}}
+{{define "lsb"}}{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "pre" "substituted"))}}{{end}}
+{{define "lsu"}}{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "pre" "substance"))}}{{end}}
+{{define "lsa"}}{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "pre" "salt"))}}{{end}}
+{{define "lroa"}}{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "pre" "administration"))}}{{end}}
+
+{{define "wkp"}}{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "cls" "logo" "pre" "https://en.wikipedia.org/wiki"))}}{{end}}
+{{define "xeff"}}{{if not (kindIs "string" .)}}<a class=logo href=https://www.effectindex.com/effects/{{pathEscape .src}}>{{.alias}}</a>{{else}}<a class=logo href=https://www.effectindex.com/effects/{{kebabcase .}}>{{.}}</a>{{end}}{{end}}
+{{define "ieff"}}{{if not (kindIs "string" .)}}<a href=/effect/{{pathEscape .src}}>{{.alias}}</a>{{else}}<a href=/effect/{{kebabcase .}}>{{.}}</a>{{end}}{{end}}
+{{define "sb"}}{{$subst := "Substituted"}}{{if .Position}}{{$subst = printf "%s-Substituted" .Position}}{{end}}{{template "lpr" (dict "src" (.Name | lower) "alias" (hasSuffix "x" .Name | ternary "es" "s" | printf "%s %s%s" $subst .Name) "pre" "substituted")}}{{if .Abr}}{{if typeIs "string" .Abr}}{{printf " (%s)" .Abr}}{{else}}{{end}}{{end}}{{end}}
+
+{{define "user" -}}
+	{{- $out := html . }}
+	{{- range list "b" "p" "ul" "s" "i" "br" "sub"}}
+		{{- $out = ($out | replace (printf "{%s}" .) (printf "<%s>" .) | replace (printf "{E%s}" .) (printf "</%s>" .))}}
+	{{- end}}
+	{{- $out = (regexReplaceAll `\*([^*]+)\*` $out `<em>${1}</em>`) }}
+	{{- range $org := regexFindAll `\{xeff\s+&#39;[^&#]+&#39;\}` $out -1 -}}
+		{{$src := regexReplaceAll `\{xeff\s+&#39;([^&#]+)&#39;\}` $org `${1}` -}}
+		{{$new := printf `<a class=logo href='https://www.effectindex.com/effects/%s'>%s</a>` ($src | replace " " "-") ($src | replace "-" " ") -}}
+		{{$out = $out | replace $org $new -}}
+	{{end -}}
+	{{- range list (list "a" "a" "/") (list "sub" "a" "/substance/" ) (list "wkp" "a" "https://en.wikipedia.org/wiki/" "logo") (list "roa" "a" "/administration/") (list "subst" "a" "/substituted/") (list "class" "a" "/class/") (list "user" "a" "/user/" ) (list "xeff" "a" "https://www.effectindex.com/effects/" "logo") (list "ieff" "a" "/effect/")}}
+		{{- $class := "" -}}
+		{{if len . | eq 4 -}}
+			{{$class = last . | printf "class=%s " -}}
+		{{end -}}
+		{{$out = (printf `<%s %shref='%s${1}'>${2}</%s>` (rest . | first) $class (rest . | rest | first) (rest . | first) ) | regexReplaceAll (first . | printf `\{%s\s+&#39;([^&#]+)&#39;\s+&#39;([^&#]+)&#39;\}`) $out -}}
+		{{$out = (printf `<%s %shref='%s${1}'>${1}</%s>` (rest . | first) $class (rest . | rest | first) (rest . | first) ) | regexReplaceAll (first . | printf `\{%s\s+&#39;([^&#]+)&#39;\}`) $out -}}
+	{{end -}}
+	{{range list "gt" "lt" "apos" -}}
+	  {{- $out = (replace (printf "{%s}" .) (printf "&%s;" .) $out) -}}
+	{{end -}}
+	{{$out = regexReplaceAll `\{sev\s+&#39;([^&#]+)&#39;\}` $out `<span class='severity-${1}'>${1}</span>` -}}
+	{{$out -}}
+{{end}}
+{{define "stripuser" -}}
+	{{- $out := html . }}
+	{{- range list "b" "p" "ul" "s" "i" "br" "sub"}}
+		{{- $out = ($out | replace (printf "{%s}" .) (printf "<%s>" .) | replace (printf "{E%s}" .) (printf "</%s>" .))}}
+	{{- end}}
+	{{- $out = (regexReplaceAll `\*([^*]+)\*` $out `<em>${1}</em>`) }}
+	{{- range list (list "a" "a" "/") (list "sub" "a" "/substance/" ) (list "wkp" "a" "https://en.wikipedia.org/wiki/" "logo") (list "roa" "a" "/administration/") (list "subst" "a" "/substituted/") (list "class" "a" "/class/") (list "user" "a" "/user/" ) (list "xeff" "a" "https://www.effectindex.com/effects/" "logo") (list "ieff" "a" "/effect/")}}
+		{{- $class := "" -}}
+		{{if len . | eq 4 -}}
+			{{$class = last . | printf "class=%s " -}}
+		{{end -}}
+		{{$out = (printf `<%s %shref='%s${1}'>${2}</%s>` (rest . | first) $class (rest . | rest | first) (rest . | first) ) | regexReplaceAll (first . | printf `\{%s\s+&#39;([^&#]+)&#39;\s+&#39;([^&#]+)&#39;\}`) $out -}}
+		{{$out = (printf `<%s %shref='%s${1}'>${1}</%s>` (rest . | first) $class (rest . | rest | first) (rest . | first) ) | regexReplaceAll (first . | printf `\{%s\s+&#39;([^&#]+)&#39;\}`) $out -}}
+	{{end -}}
+	{{range list "gt" "lt" "apos" -}}
+	  {{- $out = (replace (printf "{%s}" .) (printf "&%s;" .) $out) -}}
+	{{end -}}
+	{{$out = regexReplaceAll `\{sev\s+&#39;([^&#]+)&#39;\}` $out `<span class='severity-${1}'>${1}</span>` -}}
+	{{$out | stripHTML | replace "&lt;" "<" | replace "&gt;" ">" -}}
+{{end}}
+
+{{define "whint"}}{{if eq .hint "wiki"}}{{template "wkp" .user}}{{else}}{{.user}}{{end}}{{end}}
+
+{{/*{{define "help"}}you are not alone, you will get through this, you are loved, even if only by me, run if you need to run.{{end}}*/}}
+
+{{define "input"}}<input type=text min=1 id="Form{{.f}}" name="Form{{.f}}" class=FormField placeholder="{{default .d .v}}" value="{{default .d .v}}"></input>{{end}}
+
+{{define "froa"}}{{$roa := .}}{{$rn := "" -}}
+{{if kindIs "spring" $roa}}{{$rn = $roa -}}
+{{else -}}
+{{$rn = default "" ($roa.Name | title) -}}
+{{with $roa.Dosage}}{{$rn = printf "%s (%s)" ($roa.Name | title) (. | replace "-" " - " | replace "~" "~ ")}}{{end -}}
+{{end}}{{$rn}}
+{{- if or $roa.Onset $roa.Comeup $roa.Duration}}<div class=times>{{with $roa.Onset}}<div class=time style="flex-grow: 2; border-bottom: 1px solid cyan;"><strong>Onset:</strong>&nbsp;{{template "stime" .}}</div>{{end}}{{with $roa.Comeup}}<div class=time style="flex-grow: 2; border-bottom: 1px solid yellow;"><strong>Comeup:</strong>&nbsp;{{template "stime" .}}</div>{{end}}<div class=time style="{{if or $roa.Onset $roa.Comeup}}max-width: 50%;{{end}} border-bottom: 1px solid orange; flex-grow: 3;"><div><strong>Duration:</strong>&nbsp;{{with $roa.Duration}}{{template "stime" .}}{{else}}?{{end}}</div></div>{{end}}{{end}}
+
+{{define "fnoterow"}}{{$v := .v -}}
+{{with $utrd := .utrd -}}
+<table{{if contains "user" $v.Prefix | not}} style="width: calc(100vw - 400px);"{{end}}><tr><th colspan=2 class=InfoboxLabel>{{if contains "user" $v.Prefix | not}}{{if $utrd.External}}(External) {{end -}}
+<a contenteditable={{$v.Editable}} href='/user/{{$utrd.User}}'>{{$utrd.User}}</a> / {{end}}{{if contains "substance" $v.Prefix}}<strong>{{$utrd.trd.Name}}</strong>{{else -}}
+<a contenteditable={{$v.Editable}} href='/substance/{{$utrd.trd.Name}}'>{{$utrd.trd.Name}}</a>{{end}}{{template "rexnd" $v.Collapse -}}
+</th></tr><tr>{{if contains "user" $v.Prefix}}<td class=svg><img src='/structure/{{lower $utrd.trd.Name | replace " " "_"}}.svg' /></td>{{end}}<td style="vertical-align: top">
+{{- if empty $utrd.trd.Routes | not}}{{with $utrd.trd.Routes}}<strong>Routes:</strong><ul>{{range . -}}
+<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{template "froa" .}}</span></li>{{end}}</ul>{{end}}{{end -}}
+{{with $utrd.trd.Dosages -}}
+ at {{template "srca" . -}}
+{{end -}}
+{{with $utrd.trd.Salts -}}<strong>Salts:</strong><ul>{{range . -}}
+<li>{{title .}}</li>{{end}}</ul>{{end -}}
+{{with $utrd.trd.Sources}}<strong>Source:</strong><ul>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{.}}</span></li>{{end}}</ul>{{end -}}
+{{with $utrd.trd.Indication}}<strong>Indication:</strong><ul>{{if kindIs "string" .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{else}}{{range .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}{{end}}</ul>{{end -}}
+{{with $utrd.trd.Effects}}<strong>Active Effects:</strong><ul>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}</ul>{{end -}}
+{{with $utrd.trd.After}}<strong>After Effects:</strong><ul>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}</ul>{{end -}}
+{{with $utrd.trd.Adverse}}<strong>Side Effects:</strong><ul>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}</ul>{{end -}}
+{{with $utrd.trd.Notes}}<strong>Notes:</strong><ul>{{if kindIs "string" .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{else}}{{range .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}{{end}}</ul>{{end -}}
+</td></tr></table>{{end -}}
+{{end}}

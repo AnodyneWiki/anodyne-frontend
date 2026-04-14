@@ -1,0 +1,33 @@
+{
+  "Name": "Common \"narcotics\"",
+  "Entries": [
+    { "Title": "Amphetamine" },
+    { "Title": "Methylphenidate" },
+    { "Title": "Methamphetamine" },
+    { "Title": "Mephedrone" },
+    { "Title": "3,4-Methylenedioxymethamphetamine" },
+    { "Title": "Cocaine" },
+
+    { "Title": "Alprazolam" },
+    { "Title": "Diazepam" },
+
+    { "Title": "Morphine" },
+    { "Title": "Diacetylmorphine" },
+
+    { "Title": "Cannabidiol" },
+    { "Title": "Δ-9-tetrahydrocannabinol" },
+
+    { "Title": "Ethanol" },
+    { "Title": "Nitrous oxide" },
+    { "Title": "Amyl nitrite" },
+
+    { "Title": "Ketamine" },
+    { "Title": "Phencyclidine" },
+    { "Title": "Nicotine" },
+
+    { "Title": "Dimethyltryptamine" },
+    { "Title": "Psilocybin" },
+    { "Title": "Mescaline" },
+    { "Title": "Lysergic acid diethylamide" }
+  ]
+}

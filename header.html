@@ -1,0 +1,26 @@
+{{define "header" -}}
+			<div style="display: flex; flex-flow: row;justify-content: space-between; margin-right: 6px;">
+				<div><h1 style="border: 0; margin-bottom: 0.15em;"><a href=/ style="text-decoration: none; word-break: keep-all;"><img style= "margin-left: 8px" width=50px height=50px src='/assets/funsies.png'>&nbsp;<span style="font-family: Inter, sans-serif; font-weight: 600;">Anodyne<span style="font-weight: 200">Wiki</span></span></a></h1></div>
+				<div class="dropdown" style="display: flex; flex-direction: column; white-space: nowrap; align-self: flex-end; margin-bottom: 0.5em;">
+				<div style="display: flex; gap: 8px; justify-content: flex-end;">
+					{{/*<div><a class=headerLink href='{{placeholder "http.request.orig_uri.path"}}?hint={{if eq .Hint "none"}}wiki{{else}}none{{end}}'>{{if eq .Hint "none"}}Enable Hints{{else}}Disable Hints{{end}}</a></div>*/}}
+					<div><a class=headerLink href='{{placeholder "http.request.orig_uri.path"}}?conformer={{if eq .Conformer "3dmoljs"}}none{{else}}{{if eq .Conformer "jsmol"}}3dmoljs{{else}}jsmol{{end}}{{end}}'>{{if eq .Conformer "3dmoljs"}}Disable conformers{{else}}{{if eq .Conformer "jsmol"}}Enable 3Dmol.js{{else}}Enable jsmol{{end}}{{end}}</a></div>
+					<div><a class=headerLink href='{{placeholder "http.request.orig_uri.path"}}?collapse={{if eq .Collapse "all"}}none{{else}}all{{end}}'>{{if eq .Collapse "all"}}Expand all{{else}}Collapse all{{end}}</a></div>
+					<div><a class=headerLink href='{{placeholder "http.request.orig_uri.path"}}?theme={{if eq .Theme "dark"}}light{{else}}dark{{end}}'>{{if eq .Theme "dark"}}Light{{else}}Dark{{end}} theme</a></div>
+				</div>
+				<search>
+					<form action="/substance/" method="GET" >
+						<div id=Search><input id=SearchInput style="font-family: sans-serif; color: var(--color-base);padding: 5px;" list="substance-index" type=search placeholder="Search..." oninput="this.form.action='/substance/' + this.value" autocomplete="off">
+						<button type="submit" style="color: var(--color-emphasized); padding: 5px">Search</button></div>{{/*
+						<!--</summary>-->
+						<!--<div class=options>-->
+							<!--<label><input type="radio" name="drug">Amphetamine</label>
+							<label><input type="radio" name="drug">Methamphetamine</label>
+							<label><input type="radio" name="drug">Ethamphetamine</label>
+							<label><input type="radio" name="drug">Propylphetamine</label>-->
+						<!--</div>--><!--</details>--> */}}
+					</form>
+				</search>
+				</div>
+			</div>
+{{- end}}

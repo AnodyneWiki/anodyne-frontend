@@ -1,0 +1,59 @@
+{
+  "Name": "β-carboline",
+  "Entries": [
+    {
+      "Title": "9-Methyl-β-carboline",
+      "Abr": "",
+      "MW": "182.22 g/mol"
+    },
+    {
+      "Title": "Harmaline",
+      "Abr": "",
+      "MW": "214.26 g/mol"
+    },
+    {
+      "Title": "Harmane",
+      "Abr": "",
+      "MW": "182.22 g/mol"
+    },
+    {
+      "Title": "Harmine",
+      "Abr": "",
+      "MW": "212.25 g/mol"
+    },
+    {
+      "Title": "Pinoline",
+      "Abr": "",
+      "MW": "202.25 g/mol"
+    },
+    {
+      "Title": "Tetrahydroharmine",
+      "Abr": "",
+      "MW": "216.28 g/mol"
+    },
+    {
+      "Title": "Tryptoline",
+      "Abr": "",
+      "MW": "172.23 g/mol"
+    },
+    {
+      "Title": "Mitragynine",
+      "Abr": "",
+      "MW": "398.5 g/mol"
+    },
+    {
+      "Title": "Tadalafil",
+      "Abr": null,
+      "MW": "389.4 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "β-Carboline",
+    "Abr": "",
+    "MW": "168.19 g/mol"
+  },
+  "Parent": "tryptamine",
+  "Analogues": [
+    "hexahydroazepinoindole"
+  ]
+}

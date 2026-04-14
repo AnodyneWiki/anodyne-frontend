@@ -1,0 +1,186 @@
+{
+  "Name": "steroid",
+  "Entries": [
+    {
+      "Title": "Androstenedione",
+      "Abr": "A4",
+      "MW": "286.4 g/mol"
+    },
+    {
+      "Title": "Beclometasone dipropionate",
+      "Abr": [],
+      "MW": "521.0 g/mol"
+    },
+    {
+      "Title": "Cyproterone acetate",
+      "Abr": "CPA",
+      "MW": "416.9 g/mol"
+    },
+    {
+      "Title": "Dihydrotestosterone",
+      "Abr": "DHT",
+      "MW": "290.4 g/mol"
+    },
+    {
+      "Title": "Estradiol",
+      "Abr": "E2",
+      "MW": "272.4 g/mol"
+    },
+    {
+      "Title": "Estriol",
+      "Abr": "E3",
+      "MW": "288.4 g/mol"
+    },
+    {
+      "Title": "Estrone",
+      "Abr": "E1",
+      "MW": "270.4 g/mol"
+    },
+    {
+      "Title": "Finasteride",
+      "MW": "372.5 g/mol"
+    },
+    {
+      "Title": "Medroxyprogesterone acetate",
+      "Abr": "MPA",
+      "MW": "386.5 g/mol"
+    },
+    {
+      "Title": "Methyltestosterone",
+      "Abr": "",
+      "MW": "302.5 g/mol"
+    },
+    {
+      "Title": "Nandrolone",
+      "Abr": "",
+      "MW": "274.4 g/mol"
+    },
+    {
+      "Title": "Progesterone",
+      "Abr": "P4",
+      "MW": "314.5 g/mol"
+    },
+    {
+      "Title": "Testosterone",
+      "Abr": "",
+      "MW": "288.4 g/mol"
+    },
+    {
+      "Title": "Cortisone",
+      "Abr": "",
+      "MW": "360.4 g/mol"
+    },
+    {
+      "Title": "Cortisol",
+      "Abr": "",
+      "MW": "362.5 g/mol"
+    },
+    {
+      "Title": "Hydrocortisone",
+      "Abr": "",
+      "MW": "362.5 g/mol"
+    },
+    {
+      "Title": "Beclometasone",
+      "Abr": "",
+      "MW": "408.9 g/mol"
+    },
+    {
+      "Title": "Estramustine",
+      "Abr": "",
+      "MW": "440.4 g/mol"
+    },
+    {
+      "Title": "Ethinylestradiol",
+      "Abr": "EE",
+      "MW": "296.4 g/mol"
+    },
+    {
+      "Title": "Aminoestradiol",
+      "Abr": "",
+      "MW": "271.4 g/mol"
+    },
+    {
+      "Title": "Equilin",
+      "Abr": "",
+      "MW": "268.3 g/mol"
+    },
+    {
+      "Title": "Moxestrol",
+      "Abr": "",
+      "MW": "326.4 g/mol"
+    },
+    {
+      "Title": "Estetrol",
+      "Abr": "E4",
+      "MW": "304.4 g/mol"
+    },
+    {
+      "Title": "17β-Dihydroequilin",
+      "Abr": "",
+      "MW": "270.4 g/mol"
+    },
+    {
+      "Title": "Hippulin",
+      "Abr": "",
+      "MW": "268.3 g/mol"
+    },
+    {
+      "Title": "Methylestradiol",
+      "Abr": "",
+      "MW": "286.4 g/mol"
+    },
+    {
+      "Title": "Equilenin",
+      "Abr": "",
+      "MW": "266.3 g/mol"
+    },
+    {
+      "Title": "Cyclodiol",
+      "Abr": "",
+      "MW": "298.4 g/mol"
+    },
+    {
+      "Title": "Mifepristone",
+      "Abr": "",
+      "MW": "429.6 g/mol"
+    },
+    {
+      "Title": "11β-Chloromethylestradiol",
+      "Abr": "",
+      "MW": "320.9 g/mol"
+    },
+    {
+      "Title": "Cyclotriol",
+      "Abr": "",
+      "MW": "314.4 g/mol"
+    },
+    {
+      "Title": "Hexolame",
+      "Abr": "",
+      "MW": "371.6 g/mol"
+    },
+    {
+      "Title": "8β-Vinylestradiol",
+      "Abr": "8β-VE2",
+      "MW": "298.4 g/mol"
+    },
+    {
+      "Title": "Estradiol enantate",
+      "Abr": [
+        "EEN"
+      ],
+      "MW": "384.6 g/mol"
+    },
+    {
+      "Title": "Spironolactone",
+      "Abr": [],
+      "MW": "416.6 g/mol"
+    }
+  ],
+  "Children": [
+    "androstene",
+    "estrane",
+    "pregnane"
+  ]
+}

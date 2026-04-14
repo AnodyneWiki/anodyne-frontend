@@ -1,0 +1,89 @@
+{
+  "Name": "benzylamine",
+  "Entries": [
+    {
+      "Title": "Isopropylbenzylamine",
+      "Abr": "",
+      "MW": "149.23 g/mol"
+    },
+    {
+      "Title": "Capsaicin",
+      "Abr": "",
+      "MW": "305.4 g/mol"
+    },
+    {
+      "Title": "Dihydrocapsaicin",
+      "Abr": "",
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "Nordihydrocapsaicin",
+      "Abr": "",
+      "MW": "293.4 g/mol"
+    },
+    {
+      "Title": "Homocapsaicin",
+      "Abr": "",
+      "MW": "319.4 g/mol"
+    },
+    {
+      "Title": "Homodihydrocapsaicin",
+      "Abr": "",
+      "MW": "321.5 g/mol"
+    },
+    {
+      "Title": "Nonivamide",
+      "Abr": "",
+      "MW": "293.4 g/mol"
+    },
+    {
+      "Title": "Pargyline",
+      "Abr": "",
+      "MW": "159.23 g/mol"
+    },
+    {
+      "Title": "Aptiganel",
+      "Abr": [],
+      "MW": "303.4 g/mol"
+    },
+    {
+      "Title": "Amisulpride",
+      "Abr": [
+        "AST",
+        "APD-421",
+        "APD421",
+        "APD-403",
+        "APD403",
+        "DAN-2163",
+        "DAN2163"
+      ],
+      "MW": "369.5 g/mol"
+    },
+    {
+      "Title": "Sulpiride",
+      "Abr": [],
+      "MW": "341.4 g/mol"
+    },
+    {
+      "Title": "Sultopride",
+      "Abr": [],
+      "MW": "354.5 g/mol"
+    },
+    {
+      "Title": "N-Benzylethylenediamine",
+      "Abr": null,
+      "MW": "150.22 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "Benzylamine",
+    "Abr": [],
+    "MW": "107.15 g/mol"
+  },
+  "Parent": "arylalkylamine",
+  "Children": [
+    "α-alkylbenzylamine",
+    "benzamide",
+    "benzylpiperazine"
+  ]
+}

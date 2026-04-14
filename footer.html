@@ -1,0 +1,11 @@
+{{define "footer" -}}
+			{{$quotes := include "/quotes.json"| fromJson -}}
+			<ul>
+				<li>
+					<span id=Fortune>{{- with randInt 0 (len $quotes.strings) | slice $quotes.strings | first}}{{template "user" .}}{{end}}</span>
+				</li>
+			</ul>
+			<ul>
+				<li class=LegalInfo>Content is available under <a href='/legal'>Public Domain unless otherwise noted</a>.</li>
+			</ul>
+{{- end}}

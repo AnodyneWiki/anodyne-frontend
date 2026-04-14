@@ -1,0 +1,20 @@
+{
+	"Title": "Intravenous",
+	"Aliases": [
+		"IV",
+		"shooting up",
+		"slamming",
+		"mainlining"
+	],
+	"Sites": [
+		"Cephalic",
+		"Median cubital",
+		"Femoral",
+		"Dorsal metacarpal",
+		"Small saphenous",
+		"Dorsal venous arch",
+		"Great saphenous",
+		"Jugular"
+	],
+	"About": "is the direct introduction of a substance from a vein into the bloodstream, typically using a hypodermic needle or venous catheter.{br}{p}Intravenous injection bypasses {wkp 'first-pass metabolism'}, therefore by definition achieving full bioavailibility at the cost of reduced duration and the significant associated risks such as spreading diseases only transmitted by blood, overdose, {wkp 'collapsed veins'}, {wkp 'neuropathy'} and {wkp 'emphysema'}(ritalin lung).{Ep}"
+}

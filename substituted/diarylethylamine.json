@@ -1,0 +1,103 @@
+{
+  "Name": "diarylethylamine",
+  "Entries": [
+    {
+      "Title": "Ephenidine",
+      "Abr": "",
+      "MW": "225.33 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxymephenidine",
+      "Abr": "",
+      "MW": "255.31 g/mol"
+    },
+    {
+      "Title": "Desylamine",
+      "Abr": "",
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "Diphenidine",
+      "Abr": "DPD",
+      "MW": "265.4 g/mol"
+    },
+    {
+      "Title": "Isopropylphenidine",
+      "Abr": "NPDPA",
+      "MW": "239.35 g/mol"
+    },
+    {
+      "Title": "Lefetamine",
+      "Abr": "",
+      "MW": "225.33 g/mol"
+    },
+    {
+      "Title": "Methoxphenidine",
+      "Abr": "MXP",
+      "MW": "295.4 g/mol"
+    },
+    {
+      "Title": "Propylphenidine",
+      "Abr": "",
+      "MW": "239.35 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidino-2-phenylacetophenone",
+      "Abr": "α-D2PV",
+      "MW": "265.3 g/mol"
+    },
+    {
+      "Title": "Fezolamine",
+      "Abr": "",
+      "MW": "305.4 g/mol"
+    },
+    {
+      "Title": "Ditazole",
+      "Abr": "",
+      "MW": "324.4 g/mol"
+    },
+    {
+      "Title": "Penitrem A",
+      "Abr": "Tremortin",
+      "MW": "634.2 g/mol"
+    },
+    {
+      "Title": "Bentazepam",
+      "Abr": "",
+      "MW": "296.4 g/mol"
+    },
+    {
+      "Title": "N-Propyl-α-phenylphenethylamine",
+      "Abr": "N-Pr-α-Ph-PEA",
+      "MW": "239.35 g/mol"
+    },
+    {
+      "Title": "Mephenidine",
+      "Abr": [],
+      "MW": "211.30 g/mol"
+    },
+    {
+      "Title": "Moxaverine",
+      "Abr": [],
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "Diphenpipenol",
+      "Abr": null,
+      "MW": "388.5 g/mol"
+    },
+    {
+      "Title": "1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine",
+      "Abr": [
+        "MT-45"
+      ],
+      "MW": "348.5 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "1,2-Diphenylethylamine",
+    "Abr": "",
+    "MW": "197.27 g/mol"
+  },
+  "Parent": "amphetamine"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "pyridodiazepine",
+  "Entries": [
+    {
+      "Title": "Zapizolam",
+      "Abr": "",
+      "MW": "330.2 g/mol"
+    },
+    {
+      "Title": "Lopirazepam",
+      "Abr": "",
+      "MW": "322.1 g/mol"
+    }
+  ],
+  "Parent": "pyridine",
+  "Analogues": [
+    "thienodiazepine",
+    "benzodiazepine"
+  ]
+}

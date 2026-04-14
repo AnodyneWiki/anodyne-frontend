@@ -1,0 +1,23 @@
+{{$path := .OriginalReq.URL.Path}}
+{{if empty .Args | not}}{{$path = index .Args 0}}{{end}}
+{{import "util.html"}}{{import "missing.html"}}{{import "article.html" -}}
+{{block "substance" (dict "Path" (stripHTML $path)) -}}
+	{{$pathParts := splitList "/" .Path -}}
+	{{$path := last $pathParts}}
+	{{/* $vars := lower $path | replace "_" "%20" | printf "/api/protein/%s" | httpInclude | fromJson */}}
+	{{$vars := dict "Title" "Dopamine transporter" "PDB" "8Y2C"}}
+	{{if or (not $vars) (empty $vars) ($vars.NotFound) -}}
+		{{template "missing" (dict "Title" (stripHTML (last $pathParts))) -}}
+		{{httpError 404 -}}
+	{{end -}}
+	{{if not (eq (lower $vars.Title) (lower (last $pathParts))) -}}
+		{{$_ := set $vars "SubstanceRedirect" $vars.Title -}}
+		{{$_ := set $vars "SubstanceRedirectSource" (replace "_" " " (last $pathParts)) -}}
+	{{end -}}
+	{{$abr := "" -}}
+	{{if and $vars.Abbreviation (not (empty $vars.Abbreviation)) -}}
+		{{$abr = ternary $vars.Abbreviation ($vars.Abbreviation | join ", ") (kindIs "string" $vars.Abbreviation) -}}
+	{{end -}}
+	{{$title := ternary (printf "%s - Anodyne" $vars.Title) (printf "%s (%s) - Anodyne" $vars.Title $abr) (empty $abr) -}}
+	{{template "article" (dict "Markdown" "protein.md" "Title" $title "Vars" $vars) -}}
+{{end -}} 

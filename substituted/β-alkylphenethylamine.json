@@ -1,0 +1,34 @@
+{
+  "Name": "β-alkylphenethylamine",
+  "First": {
+    "Title": "β-Methylphenethylamine",
+    "Abr": "BMPEA",
+    "MW": "135.21 g/mol"
+  },
+  "Entries": [
+    {
+      "Title": "β-Methylamphetamine",
+      "Abr": [
+        "BMA",
+        "βMA"
+      ],
+      "MW": "135.21 g/mol"
+    },
+    {
+      "Title": "β-Phenylmethamphetamine",
+      "Abr": "",
+      "MW": "225.33 g/mol"
+    },
+    {
+      "Title": "β,N,N-Trimethylphenethylamine",
+      "Abr": "DMPPA",
+      "MW": "163.26 g/mol"
+    },
+    {
+      "Title": "Phenpromethamine",
+      "Abr": "BMMPEA",
+      "MW": "149.23 g/mol"
+    }
+  ],
+  "Parent": "phenethylamine"
+}

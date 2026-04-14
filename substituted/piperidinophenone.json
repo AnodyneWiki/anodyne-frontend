@@ -1,0 +1,36 @@
+{
+  "Name": "piperidinophenone",
+  "Entries": [
+    {
+      "Title": "α-Piperidinobutiophenone",
+      "Abr": "α-PIPBP",
+      "MW": "231.33 g/mol"
+    },
+    {
+      "Title": "α-Piperidinohexiophenone",
+      "Abr": "α-PIPHP",
+      "MW": "259.4 g/mol"
+    },
+    {
+      "Title": "3,4-Trimethylene-α-piperidinopentiophenone",
+      "Abr": "3,4-Pr-PIPVP",
+      "MW": "285.4 g/mol"
+    },
+    {
+      "Title": "4-Fluoro-α-piperidinopentiophenone",
+      "Abr": "4-FPIPVP",
+      "MW": "263.35 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "α-Piperidinopropiophenone",
+    "Abr": [
+      "α-PIPPP"
+    ],
+    "MW": "217.31 g/mol"
+  },
+  "Analogues": [
+    "pyrrolidinophenone"
+  ],
+  "Parent": "cathinone"
+}

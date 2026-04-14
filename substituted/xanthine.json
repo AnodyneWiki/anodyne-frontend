@@ -1,0 +1,83 @@
+{
+  "Name": "xanthine",
+  "Entries": [
+    {
+      "Title": "8-Bromotheophylline",
+      "Abr": "8-BTP",
+      "MW": "259.06 g/mol"
+    },
+    {
+      "Title": "8-Chlorotheophylline",
+      "Abr": "8-CTP",
+      "MW": "214.61 g/mol"
+    },
+    {
+      "Title": "Caffeine",
+      "Abr": "",
+      "MW": "194.19 g/mol"
+    },
+    {
+      "Title": "Diprophylline",
+      "Abr": "",
+      "MW": "254.24 g/mol"
+    },
+    {
+      "Title": "Isobutylmethylxanthine",
+      "Abr": "IBMX",
+      "MW": "222.24 g/mol"
+    },
+    {
+      "Title": "Paraxanthine",
+      "Abr": "",
+      "MW": "180.16 g/mol"
+    },
+    {
+      "Title": "Theobromine",
+      "Abr": "",
+      "MW": "180.16 g/mol"
+    },
+    {
+      "Title": "Theophylline",
+      "Abr": "",
+      "MW": "180.16 g/mol"
+    },
+    {
+      "Title": "Dimenhydrinate",
+      "Abr": "",
+      "MW": "470.0 g/mol"
+    },
+    {
+      "Title": "8-Cyclopentyltheophylline",
+      "Abr": "CPX",
+      "MW": "248.28 g/mol"
+    },
+    {
+      "Title": "8-Phenyltheophylline",
+      "Abr": "",
+      "MW": "256.26 g/mol"
+    },
+    {
+      "Title": "Dipropylcyclopentylxanthine",
+      "Abr": "DPCPX",
+      "MW": "304.39 g/mol"
+    },
+    {
+      "Title": "1-Propargyltheobromine",
+      "Abr": "DMPX",
+      "MW": "218.21 g/mol"
+    },
+    {
+      "Title": "Propentofylline",
+      "Abr": [
+        "HWA 285",
+        "HWA-285"
+      ],
+      "MW": "306.36 g/mol"
+    },
+    {
+      "Title": "Uric acid",
+      "Abr": [],
+      "MW": "168.11 g/mol"
+    }
+  ]
+}

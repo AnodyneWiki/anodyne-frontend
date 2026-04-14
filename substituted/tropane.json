@@ -1,0 +1,28 @@
+{
+  "Name": "tropane",
+  "Entries": [
+    {
+      "Title": "Scopolamine",
+      "Abr": [],
+      "MW": "303.35 g/mol"
+    },
+    {
+      "Title": "2β-Propanoyl-3β-(2-naphthyl)-tropane",
+      "Abr": "WF-23",
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "Butylscopolamine",
+      "Abr": [],
+      "MW": "360.5 g/mol"
+    },
+    {
+      "Title": "Homatropine",
+      "Abr": [],
+      "MW": "275.34 g/mol"
+    }
+  ],
+  "Children": [
+    "phenyltropane"
+  ]
+}

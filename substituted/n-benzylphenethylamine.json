@@ -1,0 +1,68 @@
+{
+  "Name": "N-benzylphenethylamine",
+  "Format": "{i}N{Ei}-benzylphenethylamine",
+  "Abr": "x-NBx",
+  "Entries": [
+    {
+      "Title": "2,5-Dimethoxy-N-benzylphenethylamine",
+      "Abr": [
+        "25H-NB"
+      ],
+      "MW": "271.35 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-benzylphenethylamine",
+      "Abr": [
+        "25B-NB"
+      ],
+      "MW": "350.2 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-benzylphenethylamine",
+      "Abr": [
+        "25C-NB"
+      ],
+      "MW": "305.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-benzylphenethylamine",
+      "Abr": [
+        "25I-NB"
+      ],
+      "MW": "397.25 g/mol"
+    },
+    {
+      "Title": "Norbenzphetamine",
+      "Abr": [],
+      "MW": "225.33 g/mol"
+    },
+    {
+      "Title": "Benzphetamine",
+      "Abr": [],
+      "MW": "239.35 g/mol"
+    },
+    {
+      "Title": "Clobenzorex",
+      "Abr": [],
+      "MW": "259.77 g/mol"
+    },
+    {
+      "Title": "N-(2-Methoxybenzyl)-4-ethylamphetamine",
+      "Abr": [],
+      "MW": "283.4 g/mol"
+    }
+  ],
+  "Parent": "phenethylamine",
+  "Children": [
+    "n-(2-hydroxybenzyl)phenethylamine",
+    "n-(2-methoxybenzyl)phenethylamine",
+    "n-(3-methoxybenzyl)phenethylamine",
+    "n-(4-methoxybenzyl)phenethylamine",
+    "n-(2-fluorobenzyl)phenethylamine"
+  ],
+  "First": {
+    "Title": "N-Benzylphenethylamine",
+    "Abr": [],
+    "MW": "211.30 g/mol"
+  }
+}

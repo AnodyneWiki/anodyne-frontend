@@ -1,0 +1,2960 @@
+{
+  "Title": "0xea",
+  "Name": [
+    "Xea",
+    "Christie",
+    "Xander"
+  ],
+  "About": "{p}Hyia~!,{Ep}{p}I am the main developer and beloved unhinged lunatic behind AnodyneWiki.{Ep}{p}I have a morbid fascination with {roa 'intravenous'} substance-use and will mainline any compound I can get my hands on.{Ep}{p}I spend a year moderating PsychonautWiki before my contributions got anonymized(merged into User:Blackhole; for {a 'assets/end_pw.png' 'calling out'} the abusive and inproper conduct coming from several moderators and the admin).{Ep}{p}Feel free to chat me up! <3{Ep}",
+  "Birth": "2005-02",
+  "Location": "Berlin, Germany",
+  "Nationality": "German",
+  "Weight": [ "2026: 74kg" ],
+  "Links": [
+    {
+      "Name": "Email",
+      "Url": "0xea@paranoici.org"
+    },
+    {
+      "Name": "GPG",
+      "Url": "BF0168FB97184DDABD5444317374D02D90A4E1E9"
+    },
+    {
+      "Name": "Github",
+      "Url": "https://github.com/Im-0xea"
+    },
+    {
+      "Name": "Reddit",
+      "Url": "https://www.reddit.com/user/im_0xea"
+    },
+    {
+      "Name": "Wikipedia",
+      "Url": "https://en.wikipedia.org/wiki/User:0xea-mew"
+    },
+    {
+      "Name": "Telegram",
+      "Url": "@im_0xea"
+    },
+    {
+      "Name": "Discord",
+      "Url": "im_0xea"
+    },
+    {
+      "Name": "Signal",
+      "Url": "im_0xea.231"
+    },
+    {
+      "Name": "Matrix",
+      "Url": "@0xea:anodyne.wiki"
+    }
+  ],
+  "Psyche": {
+    "Interests": [
+      "{wkp 'psychopharmacology'}",
+      "synthesis",
+      "compounding",
+      "{wkp 'unix-like'} systems"
+    ],
+    "Attributes": [
+      "{wkp 'autism spectrum disorder' 'autism'} (diagnosed)",
+      "transgender (male to female; injecting {sub 'estradiol'} esters weekly)",
+      "frequent {wkp 'intrusive thought' 'intrusive thoughts'} (taunting, sexual, anxiety, self-disgust, self-harm, suicidal)",
+      "prior phases of intense fear of abandonment (mitigated via long-term stimulant and opioid use)",
+      "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'})",
+      "{roa 'intravenous' 'Intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; periods of {xeff 'wakefulness'} up to 6+ days; longest peroid of abstinence 48 days)",
+      "self-destructive behaviour (self-punshing, head-banging, cutting, injecting, overdose) and reaccuring {xeff 'suicidal ideation'} (since ~2018)",
+      "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
+    ]
+  },
+  "RoutesOfAdministration": [
+    {
+      "Name": "Intravenous",
+      "Paraphernalia": [
+        "5ml luer-lock syringe with venous catheter",
+        "1ml insulin syringe",
+        "1ml luer-lock syringe",
+        "3ml luer-lock syringe",
+        "5ml luer-lock syringe with butterfly needle",
+        "10ml luer-lock syringe with butterfly needle",
+        "5ml luer-lock syringe",
+        "0.3ml insulin syringe"
+      ],
+      "Sites": [
+        "Cephalic",
+        "Median cubital",
+        "Femoral",
+        "Dorsal metacarpal",
+        "Small saphenous",
+        "Dorsal venous arch",
+        "Great saphenous"
+      ]
+    },
+    {
+      "Name": "Inhaled",
+      "Paraphernalia": [
+        "Metered-dose Inhaler",
+        "Vaporizer",
+        "Base pipe",
+        "Foily",
+        "Straight \"Crack\" pipe",
+        "Volatile fumes",
+        "Combusted"
+      ],
+      "Sites": [
+        "Lungs"
+      ]
+    },
+    {
+      "Name": "Subcutaneous",
+      "Paraphernalia": [
+        "Injector pen",
+        "0.3ml syringe",
+        "1ml syringe"
+      ],
+      "Sites": [
+        "Stomach",
+        "Thigh",
+        "Upper arm"
+      ]
+    },
+    {
+      "Name": "Intrarectal",
+      "Paraphernalia": [
+        "1ml syringe",
+        "Suppository"
+      ],
+      "Sites": [
+        "Rectum"
+      ]
+    },
+    {
+      "Name": "Intramuscular",
+      "Paraphernalia": [
+        "1ml syringe",
+        "Injector pen"
+      ],
+      "Sites": [
+        "Deltoid",
+        "Vastus lateralis",
+        "Vastus intermedius"
+      ]
+    },
+    {
+      "Name": "Intranasal",
+      "Paraphernalia": [
+        "Plate and cutter",
+        "Syringe adapter atomizer",
+        "Nasalspray"
+      ],
+      "Sites": [
+        "Nose"
+      ]
+    },
+    {
+      "Name": "Transdermal",
+      "Paraphernalia": [
+        "Patch",
+        "Gel"
+      ],
+      "Sites": [
+        "Upper arm",
+        "Stomach"
+      ]
+    },
+    {
+      "Name": "Oral",
+      "Paraphernalia": [
+        "Capsule",
+        "Solution",
+        "Tablet",
+        "Powder"
+      ],
+      "Sites": [
+        "Mouth"
+      ]
+    }
+  ],
+  "Preferences": [
+  ],
+  "TriedSubstances": [
+    {
+      "Name": "Salbutamol",
+      "Routes": [
+        {
+          "Name": "Inhaled",
+          "Onset": "30 seconds",
+          "Comeup": "5 minutes"
+        }
+      ],
+      "Salts": [
+        "sulfate"
+      ],
+      "Sources": [
+        "Salbutamol inhaler: Ratiopharm"
+      ],
+      "Effects": [
+        "{xeff 'bronchodilation' 'bronchodilation'}",
+        "{sev 'light'} {xeff 'stimulation' 'stimulation'}",
+        "{xeff 'increased heart rate'}"
+      ]
+    },
+    {
+      "Name": "Formoterol",
+      "Routes": [
+        {
+          "Name": "Inhaled"
+        }
+      ],
+      "Salts": [
+        "sulfate"
+      ],
+      "Effects": [
+        "{xeff 'bronchodilation' 'bronchodilation'}",
+        "{sev 'light'} {xeff 'stimulation' 'stimulation'}",
+        "{xeff 'increased heart rate'}"
+      ]
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-bromophenethylamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Onset": "15-30 minutes",
+          "Duration": "3-5 hours"
+        },
+        {
+          "Name": "Insufflated",
+          "Onset": "1-5 minutes",
+          "Comeup": "15 minutes",
+          "Duration": "3 hours"
+        },
+        {
+          "Name": "Intravenous",
+          "Onset": "30-60 seconds",
+          "Duration": "2.5 hours"
+        }
+      ],
+      "Salts": [],
+      "Sources": [ "2C-B: DNM Germany" ],
+      "Effects": [
+        "{xeff 'time-distortion?s=time-dilation' 'time dilation'}",
+        "{xeff 'internal hallucinations'}",
+        "{xeff 'colour enhancement' 'color enhancement'}",
+        "{xeff 'increased pareidolia'}",
+        "{xeff 'visual acuity enhancement'}",
+        "{xeff 'tactile enhancement'}",
+        "{xeff 'double vision'}",
+        "{xeff 'teeth grinding'}",
+        "{xeff 'transformations'}",
+        "{xeff 'geometry'}",
+        "{xeff 'autonomous entity'}",
+        "{xeff 'addiction suppression'}"
+      ],
+      "Adverse": [
+        "{xeff 'brain zaps'}",
+        "{xeff 'nausea'}",
+        "vomiting"
+      ],
+      "Notes": [
+        "{sev 'intense'} experience when intravenously injected",
+        "\"this felt like ages, felt very peaceful not having to think about a <next dose> but just being in a state of wonder which stains itself as long as I want\""
+      ]
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-chloro-N-(2-methoxybenzyl)phenethylamine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Sublingual",
+          "Dosage": "0.15-0.96mg"
+        },
+        {
+          "Name": "Vaporized",
+          "Dosage": "0.06-0.96mg"
+        }
+      ],
+      "Salts": [],
+      "Sources": [ "25C-NBOMe: DNM Germany" ],
+      "Effects": [
+        "{xeff 'internal hallucinations'}",
+        "{xeff 'colour enhancement' 'color enhancement'}",
+        "{xeff 'visual acuity enhancement'}",
+        "{xeff 'double vision'}",
+        "{xeff 'tactile enhancement'}",
+        "{xeff 'muscle tension'}",
+        "{xeff 'teeth grinding'}",
+        "{xeff 'vasoconstriction'}",
+        "{xeff 'physical fatigue'}",
+        "{xeff 'delirium'}",
+        "{xeff 'analysis suppression'}",
+        "{sev 'moderate'} {xeff 'thought loops'}",
+        "{sev 'strong'} {xeff 'focus suppression'}",
+        "{sev 'strong'} {xeff 'thought disorganization'} (especially at the tail end)"
+      ],
+      "Notes": [
+        "vaporized by soaking 2.4mg of blotters in 10ml 3/1 PG/VG (experience underwhelming requiring subligual dose to push me over the edge)",
+        "\"this is a weirdly psychotic experience and I absoluely fucking love it X333\"",
+        "\"I vividly recall accidentally drawing a spider and preceding to get horrified of it \"",
+        "\"fuck; I am going to have to buy more of that shit; daemons are eating my fingers!\"",
+        "\"if god is real than god is this\""
+      ]
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-iodo-N-(2-methoxybenzyl)phenethylamine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Sublingual",
+          "Dosage": "0.75-1.125mg",
+          "Onset": "2 hours",
+          "Duration": "8 hours"
+        }
+      ],
+      "Salts": [],
+      "Sources": [ "25I-NBOMe: DNM Germany" ],
+      "Effects": [
+        "{xeff 'internal hallucinations'}",
+        "{xeff 'colour enhancement' 'color enhancement'}",
+        "{xeff 'visual acuity enhancement'}",
+        "{xeff 'tactile enhancement'}",
+        "{xeff 'muscle tension'}",
+        "{xeff 'increased music appreciation'}",
+        "{xeff 'teeth grinding'}",
+        "{xeff 'vasoconstriction'}",
+        "{xeff 'physical fatigue'}",
+        "{xeff 'thought disorganization'}"
+      ],
+      "Notes": [
+        "peaceful experience",
+        "\"dear god!, such sights! serotonin receptors huh?~\""
+      ]
+    },
+    {
+      "Name": "Amphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "10-50mg",
+          "Onset": "20-35 minutes",
+          "Duration": "4-6 hours"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "30-60mg"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "30-90mg"
+        },
+        {
+          "Name": "Subcutaneous",
+          "Onset": "25 minutes",
+          "Duration": "3-5 hours"
+        },
+        {
+          "Name": "Intramuscular",
+          "Dosage": "10-35mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "15-50mg",
+          "Onset": "1 minute",
+          "Duration": "3-4 hours"
+        },
+        {
+          "Name": "Inhaled"
+        },
+        {
+          "Name": "Vaporized",
+          "Dosage": "5mg"
+        },
+        {
+          "Name": "Sublingual",
+          "Dosage": "5mg"
+        }
+      ],
+      "Salts": [
+        "freebase",
+        "sulfate",
+        "hydrochloride"
+      ],
+      "Sources": [
+        "Amphetamine sulfate: DNM Germany",
+        "Speed paste: Goerlitzer park",
+        "Speed paste: Drug taxi",
+        "Speed: Warschauer"
+      ],
+      "Indication": [
+        "{xeff 'motivation suppression'} (executive dysfunction)",
+        "{xeff 'depression'}",
+        "{xeff 'sleepiness'}",
+        "{xeff 'cognitive dysphoria'}"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{sev 'moderate'} {xeff 'focus enhancement'}",
+        "{sev 'moderate'} {xeff 'motivation enhancement'}",
+        "{sev 'moderate'} {xeff 'compulsive redosing'}",
+        "{sev 'strong'} {xeff 'wakefulness'} (up to 5+ days)",
+        "{sev 'strong'} {xeff 'stamina enhancement'}",
+        "{sev 'strong'} {xeff 'vasoconstriction'}",
+        "{sev 'moderate'} {xeff 'depression reduction'}",
+        "{sev 'moderate'} {xeff 'appetite suppression'} and thirst suppression"
+      ],
+      "Adverse": [
+        "{sev 'strong'} {wkp 'addiction'} (+44g consumed; compulsive drug seeking on the street)",
+        "{xeff 'psychosis'}",
+        "{xeff 'delusion'} ({wkp 'delusions of reference'})",
+        "{xeff 'peripheral vision misinterpretation'} (being observed through window)",
+        "{xeff 'autonomous entity'} (being waving from another room)",
+        "{xeff 'auditory hallucinations'} (loud breathing noise forcing me to keep my eyes open; 3+ {xeff 'autonomous voice communication' 'voices'} drowning out thoughts till unconciousness)",
+        "hyperventilation",
+        "{xeff 'increased heart rate'} (160+ bpm)",
+        "{xeff 'increased blood pressure'}",
+        "face drooping and {sev 'moderate'} numbing of sensations on the right side of my body"
+      ]
+    },
+    {
+      "Name": "Dextroamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "2.5-20mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "5mg"
+        }
+      ],
+      "Salts": [
+        "sulfate"
+      ],
+      "Sources": [
+        "Dexamfetamine sulfate 5mg tablets: Tentin"
+      ],
+      "Indication": [
+        "{xeff 'motivation suppression'} (executive dysfunction)",
+        "{xeff 'depression'}",
+        "{xeff 'sleepiness'}",
+        "{xeff 'cognitive dysphoria'}"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{sev 'strong'} clean {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'focus enhancement'}",
+        "{sev 'light'} {xeff 'vasoconstriction'}",
+        "{sev 'strong'} {xeff 'compulsive redosing'}"
+      ],
+      "Adverse": [
+        "{xeff 'delusion'} (paranoid, shadow police)"
+      ]
+    },
+    {
+      "Name": "Methamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "10-50mg"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "10-20mg"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "5-20mg"
+        },
+        {
+          "Name": "Subcutaneous",
+          "Dosage": "4.2-15mg"
+        },
+        {
+          "Name": "Intramuscular",
+          "Dosage": "10-15mg",
+          "Onset": "30-60 seconds"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "10-60mg",
+          "Onset": "10-15 seconds",
+          "Duration": "1-8 hours"
+        },
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Sources": [
+        "Crystal Meth (Ephedrine): DNM Germany",
+        "Crystal Meth: Goerlitzer park"
+      ],
+      "Indication": [
+        "{xeff 'motivation suppression'} (executive dysfunction)",
+        "{xeff 'depression'}",
+        "{xeff 'sleepiness'}",
+        "{xeff 'cognitive dysphoria'}"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
+        "{sev 'intense'} {xeff 'focus enhancement'}",
+        "{sev 'strong'} {xeff 'wakefulness'} (up to 6+ days)",
+        "{sev 'strong'} {xeff 'motivation enhancement'}",
+        "{sev 'strong'} {xeff 'stamina enhancement'}",
+        "{sev 'strong'} {xeff 'dry mouth'}",
+        "{xeff 'appetite suppression'} and thirst suppression",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{xeff 'increased libido'}",
+        "without tolerance {sev 'strong'} {xeff 'depression reduction'}"
+      ],
+      "Adverse": [
+        "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
+        "{xeff 'headache'}",
+        "{xeff 'psychosis'}",
+        "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)",
+        "{xeff 'autonomous entity'} (hallucination of a man sitting in a chair next to me taunting me; pieces of dust manifesting as hallucinations of spider like creatures)",
+        "lights shine through my courtains",
+        "rain coming from the sealing",
+        "{xeff 'auditory hallucinations'} (phantom music playing as if I were wearing headphones)",
+        "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me)",
+        "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
+      ]
+    },
+    {
+      "Name": "Dextromethamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "10-50mg"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "10-20mg"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "5-20mg"
+        },
+        {
+          "Name": "Subcutaneous",
+          "Dosage": "4.2-15mg"
+        },
+        {
+          "Name": "Intramuscular",
+          "Dosage": "10-15mg",
+          "Onset": "30-60 seconds"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "15-45mg",
+          "Onset": "10-15 seconds",
+          "Duration": "1-8 hours"
+        },
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Sources": [
+        "Crystal Meth (Ephedrine): DNM Germany"
+      ],
+      "Indication": [
+        "{xeff 'motivation suppression'} (executive dysfunction)",
+        "{xeff 'depression'}",
+        "{xeff 'sleepiness'}",
+        "{xeff 'cognitive dysphoria'}"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
+        "{sev 'intense'} {xeff 'focus enhancement'}",
+        "{sev 'strong'} {xeff 'wakefulness'} (up to 6+ days)",
+        "{sev 'strong'} {xeff 'motivation enhancement'}",
+        "{sev 'strong'} {xeff 'stamina enhancement'}",
+        "{sev 'strong'} {xeff 'dry mouth'}",
+        "{sev 'intense'} {xeff 'appetite suppression'} and thirst suppression",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{xeff 'increased libido'}",
+        "without tolerance {sev 'strong'} {xeff 'depression reduction'}"
+      ],
+      "Adverse": [
+        "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
+        "{xeff 'headache'}",
+        "{xeff 'psychosis'}",
+        "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)",
+        "{xeff 'autonomous entity'} (hallucination of a man sitting in a chair next to me taunting me; pieces of dust manifesting as hallucinations of spider like creatures)",
+        "lights shine through my courtains",
+        "rain coming from the sealing",
+        "{xeff 'auditory hallucinations'} (phantom music playing as if I were wearing headphones)",
+        "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me)",
+        "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
+      ]
+    },
+    {
+      "Name": "3-Fluoroethamphetamine",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "25-75mg"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "25mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Sources": [ "3-FEA: Research-chemical-vendor Netherlands" ],
+      "Notes": [
+        "barely active even when intravenously administered"
+      ]
+    },
+    {
+      "Name": "4-Fluoromethamphetamine",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "20-100mg"
+        },
+        {
+          "Name": "Oral",
+          "Dosage": "50-125mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Notes": [
+        "barely active even when intravenously administered",
+        "softer curve"
+      ]
+    },
+    {
+      "Name": "Pseudoephedrine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "60mg"
+        },
+        {
+          "Name": "Vaporized",
+          "Dosage": "30-60mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "50mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Sources": [
+        "Rhinopront: pharmacy"
+      ],
+      "Indication": "nasal congestion",
+      "Effects": [
+        "{sev 'light'} {xeff 'stimulation'}"
+      ],
+      "Adverse": [
+        "{xeff 'anxiety'} (above 100mg)",
+        "{xeff 'panic attack'} (above 100mg)"
+      ]
+    },
+    {
+      "Name": "3,4-Methylenedioxymethamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "100mg",
+          "Onset": "1 hour",
+          "Duration": "~6 hours"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "70-165mg",
+          "Onset": "15-30 seconds",
+          "Duration": "30-60 minutes"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'intense'} {xeff 'empathy affection and sociability enhancement'}"
+      ],
+      "Adverse": [
+        "{xeff 'suicidal ideation'} (\"I just want to fucking die!\")",
+        "{xeff 'serotonin syndrome'}",
+        "clonus",
+        "{xeff 'increased bodily temperature'}",
+        "{xeff 'irritability'}"
+      ],
+      "Notes": [
+        "allowed me to reprocess some traumatic events"
+      ]
+    },
+    {
+      "Name": "Lisdexamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "30-150mg",
+          "Onset": "1.5-2 hours",
+          "Duration": "7-13 hours"
+        },
+        {
+          "Name": "Intravenous",
+          "Onset": "1 hour",
+          "Dosage": "50-150mg"
+        }
+      ],
+      "Salts": [
+        "dimesylate"
+      ],
+      "Sources": [
+        "Elvanse Lisdexamfetamine dimesylate"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'focus enhancement'}",
+        "{sev 'light'} {xeff 'vasoconstriction'}"
+      ],
+      "Indication": "executive dysfunction"
+    },
+    {
+      "Name": "Orthophedrone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "5-50mg"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "20-50mg"
+        },
+        {
+          "Name": "Subcutaneous",
+          "Dosage": "25mg"
+        },
+        {
+          "Name": "Oral",
+          "Dosage": "100-175mg"
+        },
+        {
+          "Name": "Intrarectal"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Sources": [
+        "2-MMC: DNM Germany"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'empathy affection and sociability enhancement'}",
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
+        "{sev 'intense'} {xeff 'compulsive redosing'}",
+        "{xeff 'memory suppression'}"
+      ],
+      "Adverse": [
+        "{sev 'light'} {wkp 'addiction'} (10g consumed)",
+        "disturbing {xeff 'dream potentiation' 'vivid dreams'}",
+        "{xeff 'psychosis'}",
+        "{xeff 'amnesia'}",
+        "{xeff 'perspective-hallucination'} (shift in perception as if looking at everything through a different perspective and setting)",
+        "{sev 'intense'} distress and fear of being alone, the darkness and being damaged",
+        "multi-layer {wkp 'sleep paralysis'}",
+        "{xeff 'delusion'} (of being poisoned by the friends taking care of me when suddenly a day after psychosis onset {xeff 'visual drifting'} effects kicked in)",
+        "immensely distressed by the ~100 syringes in my bed"
+      ],
+      "Notes": [
+        "more potent than expected"
+      ]
+    },
+    {
+      "Name": "Metaphedrone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "5-250mg"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "25-90mg"
+        },
+        {
+          "Name": "Subcutaneous",
+          "Dosage": "5mg"
+        },
+        {
+          "Name": "Oral",
+          "Dosage": "20-75mg"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "10-200mg"
+        },
+        {
+          "Name": "Vaporized",
+          "Dosage": "15-20mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "short-acting {sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'intense'} {wkp 'addiction'} (made me feel as if this feeling would be the purpose of the rest of my life; +60g consumed; emptied out savings)",
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{sev 'light'} {xeff 'empathy affection and sociability enhancement'}",
+        "{sev 'intense'} {xeff 'compulsive redosing'}",
+        "{xeff 'memory suppression'}",
+        "{sev 'moderate'} {xeff 'increased libido'}",
+        "{sev 'intense'} {xeff 'depression reduction'}"
+      ],
+      "Notes": [
+        "corrosive in veins and nostrils"
+      ]
+    },
+    {
+      "Name": "Brephedrone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "15mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Notes": [ 
+        "effective dosing not reached"
+      ]
+    },
+    {
+      "Name": "Flophedrone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "50-100"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "20-100mg",
+          "Duration": "1 hour"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{sev 'strong'} {xeff 'increased bodily temperature'}"
+      ],
+      "Notes": [
+        "unpleasant"
+      ]
+    },
+    {
+      "Name": "Bupropion",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "150mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "300mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "intravenously {sev 'moderate'} {xeff 'cognitive euphoria'}"
+      ],
+      "Adverse": [
+        "{xeff 'anxiety'}",
+        "{xeff 'panic attack'}"
+      ]
+    },
+    {
+      "Name": "Mephedrone",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "150-400mg"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "25-115mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "30-250mg"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "65-70mg"
+        },
+        {
+          "Name": "Vaporized",
+          "Dosage": "5-30mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "short-acting {sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'moderate'} {xeff 'empathy affection and sociability enhancement'}",
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'strong'} {xeff 'increased libido'}",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{sev 'intense'} {xeff 'depression reduction'}"
+      ],
+      "Notes": [
+        "cat-piss odor"
+      ]
+    },
+    {
+      "Name": "4-Methylbuphedrone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "30mg"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "40mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "20-50mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "more {xeff 'sedation'} than stimulation"
+      ],
+      "Notes": [
+        "barely active"
+      ]
+    },
+    {
+      "Name": "4-Methylpentedrone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "20-50mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "5-50mg",
+          "Onset": "15 seconds",
+          "Duration": "2-3 hours"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'empathy affection and sociability enhancement'}",
+        "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
+        "{sev 'intense'} {xeff 'stimulation'}",
+        "{sev 'intense'} {xeff 'motivation enhancement'}",
+        "{sev 'intense'} {xeff 'compulsive redosing'}",
+        "{sev 'intense'} {xeff 'depression reduction'}"
+      ],
+      "Adverse": [
+        "{xeff 'psychosis'}"
+      ],
+      "Notes": [
+        "quite potent"
+      ]
+    },
+    {
+      "Name": "3-Methylethcathinone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "30mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "20-35mg",
+          "Duration": "1-3 hours"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "acute gag-reflex upon intravenous injection"
+      ],
+      "Notes": "potencial {xeff 'serotonin syndrome'} risk"
+    },
+    {
+      "Name": "N-Ethyl-nor-pentedrone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "15-50mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "10-50mg",
+          "Duration": "1-3 hours"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "10mg"
+        },
+        {
+          "Name": "Oral",
+          "Dosage": "45mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'intense'} {xeff 'cognitive euphoria'}",
+        "{sev 'moderate'} {xeff 'increased libido'}",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{sev 'intense'} {xeff 'depression reduction'}"
+      ],
+      "Adverse": [
+        "{xeff 'psychosis'}",
+        "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)"
+      ],
+      "Notes": "quite tweaky; IV'ing it *feels* like being *trampeled* on the *floor* by your {sub 'dopamine'}"
+    },
+    {
+      "Name": "N-Ethyl-nor-heptedrone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "30mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "10mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'cognitive euphoria'}",
+        "{xeff 'increased bodily temperature'}"
+      ]
+    },
+    {
+      "Name": "α-Pyrrolidino-2-phenylacetophenone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "15-60mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "5-50mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{xeff 'anxiety' 'anxiety'}",
+        "dissociating {xeff 'stimulation'}"
+      ]
+    },
+    {
+      "Name": "5-Dihydrobenzofuranpyrovalerone",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{xeff 'anxiety'}"
+      ],
+      "Notes": [
+        "uncomfortable intravenously",
+        "smell of cellar or old closet"
+      ]
+    },
+    {
+      "Name": "α-Pyrrolidinopentiophenone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "5-20mg",
+          "Onset": "10 seconds",
+          "Duration": "3-4 hours"
+        },
+        {
+          "Name": "Vaporized",
+          "Dosage": "15mg"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "10mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'intense'} {xeff 'vasoconstriction'}",
+        "{sev 'intense'} {xeff 'stimulation'}",
+        "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{sev 'moderate'} {xeff 'empathy affection and sociability enhancement'}",
+        "{sev 'moderate'} {xeff 'depression reduction'}"
+      ],
+      "Adverse": [
+        "{sev 'moderate'} {xeff 'thought loops'}",
+        "{xeff 'psychosis'}",
+        "{xeff 'delusion'} (paranoid, persecutory, {wkp 'delusions of grandeur'}, time-travel)",
+        "{sev 'intense'} {xeff 'suicidal ideation'} and feelings of guilt resulting from actions"
+      ]
+    },
+    {
+      "Name": "3,4-Methylenedioxy-α-pyrrolidinoisohexanophenone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Duration": "5 hours"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{sev 'intense'} {xeff 'cognitive euphoria'} (comparable to my first time taking stimulants)",
+        "{sev 'moderate'} {xeff 'empathy affection and sociability enhancement'}",
+        "{sev 'intense'} {xeff 'depression reduction'}"
+      ],
+      "Adverse": [
+        "{xeff 'psychosis'}",
+        "{xeff 'suicidal ideation'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "3,4-Methylenedioxy-α-pyrrolidinohexiophenone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Duration": "~3-5 hours"
+        },
+        {
+          "Name": "Intravenous"
+        },
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [
+        "freebase",
+        "hydrochloride",
+        "citrate"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'light'} {xeff 'empathy affection and sociability enhancement'}"
+      ],
+      "Adverse": [
+        "{sev 'intense'} {xeff 'thought loops'}",
+        "{xeff 'psychosis'}",
+        "{xeff 'delusion'} ({wkp 'thought broadcasting'})"
+      ],
+      "Notes": "vaporized has distinctive disgusting mushroom smell"
+    },
+    {
+      "Name": "Methylphenidate",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{xeff 'anxiety'}",
+        "{sev 'strong'} {xeff 'vasoconstriction'}",
+        "{sev 'moderate'} {xeff 'depression reduction'}"
+      ],
+      "Adverse": [
+        "{xeff 'increased blood pressure'}",
+        "numbing of sensations on the right side of my body"
+      ],
+      "Indication": "executive dysfunction",
+      "Notes": "comparable to {sub 'methamphetamine'} when intravenously injected"
+    },
+    {
+      "Name": "Ethylphenidate",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'stimulation'}"
+      ],
+      "Notes": "passed out on it on both occasions"
+    },
+    {
+      "Name": "Benzocaine",
+      "Routes": [
+        {
+          "Name": "Buccal"
+        }
+      ],
+      "Salts": [
+        "freebase"
+      ],
+      "Effects": [
+        "{xeff 'mouth numbing'}"
+      ]
+    },
+    {
+      "Name": "Lidocaine",
+      "Routes": [
+        {
+          "Name": "Topical"
+        }
+      ],
+      "Salts": [
+        "freebase"
+      ],
+      "Indication": "hemorrhoid",
+      "Effects": [
+        "numbing effect on rectum"
+      ]
+    },
+    {
+      "Name": "Dimethocaine",
+      "Routes": [
+        {
+          "Name": "Intravenous"
+        },
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [
+        "freebase",
+        "citrate"
+      ],
+      "Effects": [ 
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} numbing effect both in veins and mouth"
+      ],
+      "Notes": "pleasant vaporized"
+    },
+    {
+      "Name": "Cocaine",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Onset": "15 seconds",
+          "Duration": "10-15 minutes"
+        },
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Sources": [
+        "Cocaine: Warschauer",
+        "Cocaine: Drug taxi"
+      ],
+      "Salts": [
+        "freebase",
+        "hydrochloride",
+        "citrate"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'moderate'} {xeff 'empathy affection and sociability enhancement'}",
+        "{sev 'strong'} {xeff 'vasoconstriction'}",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{sev 'moderate'} {xeff 'depression reduction'}",
+        "{xeff 'auditory distortion' 'auditory alteration'}- or {xeff 'auditory suppression' 'suppression'}",
+        "when vaporized {sev 'strong'} {xeff 'mouth numbing'}"
+      ],
+      "Notes": "occasional comfortable full body feeling; vaporized {sev 'strong'} fishy smell and numbness inside mouth"
+    },
+    {
+      "Name": "Butylscopolamine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Sources": [
+        "Buscopan Plus: pharmacy"
+      ],
+      "Salts": [
+        "hydrobromide"
+      ],
+      "Effects": [
+        "{xeff 'dry mouth'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Tyrosine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": "uncertain activity"
+    },
+    {
+      "Name": "3,4-Dihydroxyphenylalanine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "105-440mg"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "locomotor-activity increase",
+        "{xeff 'depression reduction'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Taurine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "4g"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "N-Acetyl-L-tyrosine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "500-3000mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "500mg"
+        }
+      ],
+      "Notes": [
+        "mild adrenic activity",
+        "corrosive in veins"
+      ]
+    },
+    {
+      "Name": "Ibuprofen",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Indication": [
+        "{xeff 'headache'}",
+        "{sev 'light'} pain"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'headache'} suppression"
+      ]
+    },
+    {
+      "Name": "Ketoprofen",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": "no notable effect"
+    },
+    {
+      "Name": "Acetylsalicylic acid",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [],
+      "Indication": [
+        "{xeff 'headache'}",
+        "stroke prevention"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'headache'} suppression",
+        "useful blood thinning (for stroke prevention)"
+      ]
+    },
+    {
+      "Name": "Paracetamol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": "effects not notable"
+    },
+    {
+      "Name": "Metamizole",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": "effects not notable"
+    },
+    {
+      "Name": "Amisulpride",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "50-300mg",
+          "Onset": "25-45 minutes",
+          "Duration": "~8 hours"
+        }
+      ],
+      "Salts": [],
+      "Indication": "{xeff 'psychosis'}",
+      "Effects": [
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "{xeff 'analysis suppression'}",
+        "{xeff 'cognitive fatigue'}",
+        "{xeff 'motivation suppression'}"
+      ],
+      "Notes": "quite pleasant antipsychotic"
+    },
+    {
+      "Name": "Dimethyltryptamine",
+      "Routes": [
+        {
+          "Name": "Vaporized",
+          "Dosage": "15-30mg",
+          "Onset": "15 seconds",
+          "Comeup": "30 seconds",
+          "Duration": "3 minutes"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'geometry'}",
+        "{xeff 'visual acuity enhancement'}"
+      ],
+      "Notes": [
+        "~15mg vaporized produced very {sev 'light'} effects but made me leave with newfound meaning and motivation",
+        "~20mg vaporized produced feelings of shooting through space while completely clear in my head, very clean beautiful visuals",
+        "~25mg vaporized produced feelings of being torn out of my body and lost in space"
+      ]
+    },
+    {
+      "Name": "Melatonin",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "improves quality of sleep"
+      ],
+      "Notes": "barely effective"
+    },
+    {
+      "Name": "Tryptophan",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": "uncertain activity"
+    },
+    {
+      "Name": "Oxitriptan",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "subjective improvement in wellbeing after {sub '3,4-methylenedioxymethampheamine' 'MDMA'} use"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Sumatriptan",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "5mg",
+          "Onset": "15 seconds"
+        }
+      ],
+      "Salts": [
+        "succinate"
+      ],
+      "Effects": [
+        "intravenously warm uncomfortable panick inducing rush",
+        "burning sensation in my head immediately upon intravenous injection",
+        "{xeff 'increased perspiration'}",
+        "relaxed cool and clear head feeling"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "150mcg"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'empathy affection and sociability enhancement' 'enhanced communication'}"
+      ],
+      "Notes": "made me more concious of how dissociation influences my perception of reality; broke communication down to a fluid simplified interface; vulnerable animalistic perception of organic living beings; enabled understanding repressed part of myself"
+    },
+    {
+      "Name": "Lysergic acid fluorodiethylamide",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "500mcg",
+          "Onset": "1.5 hours",
+          "Comeup": "0.5 hours",
+          "Duration": "10 hours"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'empathy affection and sociability enhancement' 'enhanced communication'}",
+        "{xeff 'novelty enhancement'}",
+        "{xeff 'thought connectivity'}",
+        "{sev 'light'} {xeff 'wakefulness'}",
+        "{xeff 'rejuvenation'}",
+        "{sev 'light'} {xeff 'anxiety suppression'}",
+        "{xeff 'mindfulness'}",
+        "{xeff 'increased pareidolia'}",
+        "{xeff 'visual acuity enhancement'}",
+        "{xeff 'colour enhancement' 'color enhancement'}",
+        "{xeff 'frame rate suppression'}",
+        "{xeff 'drifting'}",
+        "{xeff 'texture liquidation'}",
+        "{xeff 'tracers'}",
+        "{xeff 'object alteration'}",
+        "{xeff 'geometry'}",
+        "{xeff 'visual exposure to semantic concept network'}",
+        "{xeff 'emotion intensification'}",
+        "{sev 'light'} {xeff 'thought loops'}",
+        "{xeff 'transformations'}",
+        "{xeff 'symmetrical texture repetition'}",
+        "{xeff 'depression reduction'}"
+      ],
+      "Notes": "\"this was probably my best psychedelic experience so far\"; \"having a wondeful very peaceful experience\"; \"how can the breakdown of perception be this beautiful\"; seams to loose potency in storage over the span of a couple of months"
+    },
+    {
+      "Name": "Diphenhydramine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "50mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "5-25mg"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'sedation'}",
+        "{xeff 'analysis suppression'}",
+        "{sev 'light'} {xeff 'nausea suppression'}",
+        "{xeff 'irritability'}"
+      ],
+      "Indication": [
+        "{wkp 'insomnia'}",
+        "{sev 'light'} allergy"
+      ],
+      "Effects": [
+        "seams too improve allergy symptoms"
+      ]
+    },
+    {
+      "Name": "Dimenhydrinate",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Modafinil",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{sev 'light'} {xeff 'wakefulness'}"
+      ],
+      "Notes": "effects not notable"
+    },
+    {
+      "Name": "Cetirizine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "seamed too improve allergy symptoms"
+      ]
+    },
+    {
+      "Name": "Fexofenadine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "120mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Notes": "no notable effect on allergic reaction"
+    },
+    {
+      "Name": "Fluoxetine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Indication": "{xeff 'depression'}",
+      "Notes": "noted acute effects; long term no notable improvement in quality of life; {sev 'light'} potenciation of {sub 'dextroamphetamine'} through CYP2D6 inhibition"
+    },
+    {
+      "Name": "Loperamide",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Hydrocortisone",
+      "Routes": [
+        {
+          "Name": "Dermal"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Estradiol",
+      "Routes": [
+        {
+          "Name": "Transdermal"
+        }
+      ],
+      "Salts": [
+        "hemihydrate"
+      ],
+      "Indication": "Male to female transsexuality",
+      "Effects": [
+        "figure changes",
+        "breast growth",
+        "body-hair reduction",
+        "skin smoothing",
+        "{xeff 'emotion intensification'}",
+        "gender-identity related {xeff 'cognitive euphoria'}",
+        "{xeff 'depression reduction'}"
+      ],
+      "Notes": "life saving hormone"
+    },
+    {
+      "Name": "Estradiol valerate",
+      "Routes": [
+        {
+          "Name": "Subcutaneous"
+        },
+        {
+          "Name": "Intramuscular"
+        }
+      ],
+      "Salts": [],
+      "Indication": "Male to female transsexuality",
+      "Notes": "crashes when injected weekly"
+    },
+    {
+      "Name": "Estradiol cypionate",
+      "Routes": [
+        {
+          "Name": "Subcutaneous",
+          "Duration": "5-6 days"
+        }
+      ],
+      "Salts": [],
+      "Indication": "Male to female transsexuality",
+      "Notes": "crashes when injected weekly"
+    },
+    {
+      "Name": "Estradiol enantate",
+      "Routes": [
+        {
+          "Name": "Subcutaneous",
+          "Duration": "5-6 days"
+        },
+        {
+          "Name": "Intramuscular",
+          "Duration": "7 days"
+        }
+      ],
+      "Salts": [],
+      "Indication": "Male to female transsexuality",
+      "Notes": [
+        "minor crashes when injected weekly",
+        "discomfort when injected every 4 days"
+      ]
+    },
+    {
+      "Name": "Estradiol undecylate",
+      "Routes": [
+        {
+          "Name": "Subcutaneous",
+          "Duration": "~20 days"
+        },
+        {
+          "Name": "Intramuscular",
+          "Duration": "25-30 days"
+        }
+      ],
+      "Salts": [],
+      "Indication": "Male to female transsexuality",
+      "Notes": "produces stable levels with no crashes when injected monthly"
+    },
+    {
+      "Name": "Finasteride",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Indication": "hairloss",
+      "Adverse": [
+        "{xeff 'suicidal ideation'}"
+      ],
+      "Notes": "stopped treatment after a month"
+    },
+    {
+      "Name": "Dutasteride",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Indication": "hairloss",
+      "Effects": [
+        "significantly reduced hairloss combined with {sub 'minoxidil'} foam"
+      ],
+      "Notes": [
+        "no side effects",
+        "very long halflife"
+      ]
+    },
+    {
+      "Name": "Cyproterone acetate",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Effects": [
+        "helpful when {sub 'estradiol'} levels drop below monotherapy levels"
+      ],
+      "Notes": "no side effects noted"
+    },
+    {
+      "Name": "Beclometasone dipropionate",
+      "Routes": [
+        {
+          "Name": "Inhaled"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Bromazepam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "3-6mg"
+        }
+      ],
+      "Indication": [
+        "{xeff 'anxiety'}",
+        "{xeff 'panick attack'} or acute distress"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety suppression'}",
+        "{sev 'moderate'} {xeff 'sedation'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Diazepam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "5-30mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "5-10mg"
+        }
+      ],
+      "Indication": [
+        "{xeff 'anxiety'}",
+        "{xeff 'panick attack'} or acute distress"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety suppression'}",
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "cancels out {class 'stimulant' 'stimulants'}"
+      ],
+      "Notes": "practical intravenous-use (using additional solvant such as {sub 'propylene glycol' 'propylene glycol'} or {sub 'ethanol' 'ethanol'})"
+    },
+    {
+      "Name": "Lorazepam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "1.25-2.5mg"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'anxiety suppression'}",
+        "{sev 'strong'} {xeff 'memory suppression'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Alprazolam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "1-2mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "1mg"
+        }
+      ],
+      "Salts": [],
+      "Indication": [
+        "{xeff 'anxiety'}",
+        "{xeff 'panick attack'} or acute distress"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'anxiety suppression'}",
+        "{sev 'strong'} {xeff 'sedation'}",
+        "cancels out {class 'stimulant' 'stimulants'}"
+      ],
+      "Notes": "practical intravenous-use (using additional solvant such as {sub 'propylene glycol' 'propylene glycol'} or {sub 'ethanol' 'ethanol'})"
+    },
+    {
+      "Name": "Mitragynine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{sev 'light'} {xeff 'sedating'} yet helpful for working",
+        "{xeff 'increased libido'}",
+        "{sev 'light'} {xeff 'pain relief'}"
+      ],
+      "Notes": "helpful when crashing from {class 'stimulants' 'stimulants'}"
+    },
+    {
+      "Name": "Dextromethorphan",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "66mg"
+        },
+        {
+          "Name": "Insufflated"
+        },
+        {
+          "Name": "Intravenous"
+        },
+        {
+          "Name": "Vaporized",
+          "Dosage": "50mg"
+        }
+      ],
+      "Salts": [
+        "hydrobromide"
+      ],
+      "Notes": [
+        "effective dosing not reached",
+        "might have worsened previous stimulant psychosis"
+      ]
+    },
+    {
+      "Name": "Morphine",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Onset": "15 seconds",
+          "Comeup": "1-5 minutes",
+          "Duration": "3-5 hours"
+        },
+        {
+          "Name": "Insufflated"
+        },
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [
+        "sulfate",
+        "freebase"
+      ],
+      "Effects": [
+        "{xeff 'sedation'}",
+        "{xeff 'disinhibition'}",
+        "{xeff 'thought deceleration'}",
+        "{xeff 'perception of bodily heaviness'}",
+        "{xeff 'pain relief'}",
+        "{xeff 'nausea'}",
+        "{xeff 'increased bodily temperature'}",
+        "{sev 'moderate'} {xeff 'compulsive redosing'}",
+        "dream like states which feel fully concious"
+      ],
+      "Notes": "quite plesant to foil when freebased with ammonia"
+    },
+    {
+      "Name": "Oxycodone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{sev 'strong'} {xeff 'emotion suppression'}",
+        "when injected {xeff 'cognitive euphoria'}",
+        "when injected {sev 'intense'} {xeff 'increased perspiration'}",
+        "{xeff 'sedation'}",
+        "{xeff 'perception of bodily heaviness'}",
+        "{xeff 'pain relief'}",
+        "{xeff 'nausea'}",
+        "{xeff 'increased bodily temperature'}"
+      ],
+      "Adverse": [
+        "orally {xeff 'cognitive dysphoria'}"
+      ]
+    },
+    {
+      "Name": "6-Monoacetylmorphine",
+      "Routes": [
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [
+        "citrate"
+      ],
+      "Effects": [
+        "{xeff 'sedation'}",
+        "{xeff 'disinhibition'}",
+        "{xeff 'thought deceleration'}",
+        "{xeff 'perception of bodily heaviness'}",
+        "{xeff 'pain relief'}",
+        "helps deal with siginificant emotional pain",
+        "{xeff 'nausea'}",
+        "{xeff 'increased bodily temperature'}",
+        "dream like states which feel fully concious",
+        "{xeff 'increased libido'}"
+      ],
+      "Notes": "obtained by letting {sub 'diacetylmorphine'} sit in a low pH solution for several weeks; quite potent"
+    },
+    {
+      "Name": "Diacetylmorphine",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [
+        "citrate",
+        "ascorbate"
+      ],
+      "Effects": [
+        "{xeff 'sedation'}",
+        "{xeff 'disinhibition'}",
+        "{xeff 'thought deceleration'}",
+        "{xeff 'perception of bodily heaviness'}",
+        "{xeff 'pain relief'}",
+        "helps deal with siginificant emotional pain",
+        "{xeff 'nausea'}",
+        "{xeff 'increased bodily temperature'}",
+        "{sev 'moderate'} {xeff 'compulsive redosing'}",
+        "dream like states which feel fully concious",
+        "{xeff 'increased libido'}"
+      ],
+      "Notes": "quite plesant to foil"
+    },
+    {
+      "Name": "Promethazine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Indication": "{xeff 'nausea'}",
+      "Effects": [
+        "{sev 'light'} {xeff 'nausea suppression'}",
+        "ineffective in treating {xeff 'panic-attack' 'acute panic'}"
+      ],
+      "Notes": "strongly delayed onset; uncertain effects on {sub 'histamine' 'histamine'}"
+    },
+    {
+      "Name": "Mirtazapine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'sedation'} to the point of inducing sleep"
+      ],
+      "Indication": "depression and insomnia",
+      "Notes": "creates unique bodily feeling; seams to suppress {sub 'histamine'} effects; passed out on workplace-toilet for ~1 hour"
+    },
+    {
+      "Name": "Quetiapine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosages": "10-100mg",
+          "Onset": "35-45 minutes",
+          "Comeup": "1-3 hours",
+          "Duration": "6-8 hours"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosages": "40mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosages": "10-50mg",
+          "Onset": "15 seconds",
+          "Comeup": "1-5 minutes"
+        }
+      ],
+      "Salts": [ "hemifumarate" ],
+      "Indication": "{xeff 'psychosis'}",
+      "Effects": [
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "{xeff 'analysis suppression'}",
+        "{xeff 'cognitive fatigue'}",
+        "{xeff 'motivation suppression'}",
+        "{sev 'moderate'} {xeff 'dry mouth'}",
+        "seams to relieve psychosis at proper dose"
+      ],
+      "Adverse": [
+        "{xeff 'anxiety'}",
+        "{xeff 'cognitive dysphoria'}",
+        "{xeff 'abnormal heartbeat'}",
+        "{xeff 'respiratory depression'}"
+      ],
+      "Notes": "unsure about effects on allergy"
+    },
+    {
+      "Name": "Omberacetam",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{sev 'light'} {xeff 'stimulation'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Nicotine",
+      "Routes": [
+        {
+          "Name": "Vaporized",
+          "Dosages": "1-5mg",
+          "Onset": "5-10 seconds"
+        },
+        {
+          "Name": "Transdermal",
+          "Dosages": "21-42mg"
+        }
+      ],
+      "Salts": [
+        "freebase",
+        "benzoate"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'stimulation'}",
+        "{sev 'light'} {xeff 'focus enhancement'}",
+        "{sev 'light'} {xeff 'wakefulness'}",
+        "{sev 'light'} {xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'compulsive redosing'}",
+        "{sev 'light'} {xeff 'depression reduction'}",
+        "{xeff 'perception of bodily heaviness'}",
+        "{xeff 'thought acceleration'}",
+        "internal hallucinations at the edge of falling asleep"
+      ],
+      "Adverse": [
+        "{sev 'moderate'} {wkp 'addiction'} (in form of tobacoo; on and off +2 years; rebound addiction when withdrawing from more powerful {class 'stimulant'} drugs)",
+        "{xeff 'irritability'}",
+        "{xeff 'headache'}",
+        "{wkp 'nicotine poisoning'}"
+      ],
+      "Notes": "helps take the edge of other {class 'stimulant' 'stimulants'}"
+    },
+    {
+      "Name": "Minoxidil",
+      "Routes": [
+        {
+          "Name": "Transdermal"
+        },
+        {
+          "Name": "Oral",
+          "Dosage": "10-15mg"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "significantly reduced hairloss combined with {sub 'dutasteride'}",
+        "{sev 'intense'} {xeff 'vasodilation'}"
+      ],
+      "Adverse": [
+        "{sev 'intense'} {xeff 'respiratory depression'}"
+      ],
+      "Notes": "seams to promote hair-regrowth"
+    },
+    {
+      "Name": "Deschloroketamine",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{xeff 'memory suppression'}"
+      ],
+      "Notes": "similar to {sub 'ketamine'} but slighly more rough"
+    },
+    {
+      "Name": "Ketamine",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "50-100mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "10-50mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{xeff 'perspective-distortion' 'body distortion'}",
+        "{xeff 'frame rate suppression'}",
+        "{xeff 'memory suppression'}",
+        "{xeff 'time distortion'}"
+      ],
+      "Adverse": [
+        "{xeff 'psychosis'}",
+        "{xeff 'cognitive dysphoria'}",
+        "during comedown {xeff 'suicidal ideation'}"
+      ],
+      "Notes": [
+        "unnerving if injected rapidly",
+        "interesting mind manifestation with positive mindset"
+      ]
+    },
+    {
+      "Name": "Fluoroketamine",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "45mg",
+          "Duration": "~3 hours"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Notes": [
+        "similar to ketamine but more potent",
+        "mind melting dissociative effects"
+      ]
+    },
+    {
+      "Name": "Eticyclidone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "10-20mg",
+          "Duration": "~5 hours"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Durations": [
+      ],
+      "Effects": [
+        "{xeff 'mania'}",
+        "{xeff 'tinnitus'}",
+        "{xeff 'auditory enhancement'}",
+        "difficult self-asssesment",
+        "helps deal with {xeff 'sensory overload'} and social interactions",
+        "{sev 'light'} {xeff 'anxiety suppression'}",
+        "{xeff 'bodily control enhancement'}"
+      ],
+      "Notes": "smooth long acting effects"
+    },
+    {
+      "Name": "Methoxpropamine",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "15-20mg",
+          "Duration": "3-5 hours"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{xeff 'mania'}",
+        "difficult self-asssesment"
+      ],
+      "Notes": "smooth effects"
+    },
+    {
+      "Name": "Tolicyclidine",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "10mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Dosages": [
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'anxiety suppression'}",
+        "{xeff 'mania'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Sertraline",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "25mg"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Effects": [
+        "seams to improve well being after {sub '3,4-methylenedioxymethamphetamine' 'MDMA'} use",
+        "notable potenciation of {sub 'dextroamphetamine' 'dextroamphetamine'} through CYP2D6 inhibition"
+      ]
+    },
+    {
+      "Name": "Amlodipine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "5mg"
+        }
+      ],
+      "Salts": [
+        "besylate"
+      ]
+    },
+    {
+      "Name": "Rosuvastatin",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "10-20mg"
+        }
+      ],
+      "Salts": [
+        "calcium"
+      ],
+      "Indication": "genetically elevated {sub 'cholesterol'} levels",
+      "Notes": ""
+    },
+    {
+      "Name": "Aripiprazole",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "5mg",
+          "Duration": "~3 days"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'anxiety'}",
+        "{xeff 'increased heart rate'}",
+        "{xeff 'teeth grinding'}"
+      ],
+      "Notes": [
+        "overly long half-life",
+        "significant discomfort"
+      ]
+    },
+    {
+      "Name": "Domperidone",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "10-20mg"
+        }
+      ],
+      "Salts": [],
+      "Indication": "{xeff 'nausea'}",
+      "Effects": [
+        "{sev 'light'} {xeff 'nausea suppression'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Bilastine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "20mg"
+        }
+      ],
+      "Salts": [],
+      "Notes": "seamed too improve allergy symptoms"
+    },
+    {
+      "Name": "Zolpidem",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "10-20mg"
+        }
+      ],
+      "Salts": [
+        "tartrate"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "strange thoughts and dreams",
+        "visual thoughts"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Cannabidiol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Vaporized"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'analysis suppression'}"
+      ],
+      "Notes": "CYP2D6 Inhibition unconfirmed"
+    },
+    {
+      "Name": "Tetrahydrocannabinol",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'analysis suppression'}",
+        "{xeff 'language suppression'} (hinders sincerity)",
+        "{xeff 'time dilation'}",
+        "{xeff 'drifting?s=morphing' 'morphing'}",
+        "visual flickering zooming in and out"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "10-Hydroxyhexahydrocannabinol",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'analysis suppression'}",
+        "{xeff 'language suppression'} (hinders sincerity)"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "γ-Aminobutyric acid",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "1g-10g"
+        }
+      ],
+      "Salts": [],
+      "Dosages": [
+      ],
+      "Notes": "uncertain activity"
+    },
+    {
+      "Name": "Ascorbic acid",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Dosages": [],
+      "Indication": "dissolving freebase compounds",
+      "Notes": ""
+    },
+    {
+      "Name": "Pregabalin",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "150-300mg"
+        }
+      ],
+      "Salts": [],
+      "Indication": "{xeff 'anxiety'}",
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety suppression'}",
+        "doesn't prevent {xeff 'sensory overload'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Baflofen",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "200mg"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "coincided severe {xeff 'nausea'}"
+      ],
+      "Notes": "no notable anxiety suppression"
+    },
+    {
+      "Name": "Theanine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": "{sev 'light'} but pleasant effects"
+    },
+    {
+      "Name": "Acetylcysteine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "150-300mg"
+        }
+      ],
+      "Salts": [],
+      "Notes": "taste of rotten eggs that ruined my {sub 'dextromethamphetamine'} tea"
+    },
+    {
+      "Name": "Caffeine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "200-1700mg",
+          "Onset": "30-45 minutes",
+          "Duration": "6-12 hours"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "60-120mg"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [
+        "freebase",
+        "citrate"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'stimulation'}",
+        "{sev 'light'} {xeff 'focus enhancement'}",
+        "{sev 'moderate'} {xeff 'wakefulness'} (up to 2 days)"
+      ],
+      "Adverse": [
+        "convulsions",
+        "hyperventilation",
+        "{xeff 'increased heart rate'} (180+ bpm)",
+        "{xeff 'increased blood pressure'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Temgicoluril",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "500mg"
+        }
+      ],
+      "Salts": [],
+      "Indication": "{xeff 'anxiety'}, {xeff 'panick attack'} and acute distress",
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety suppression'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Hexetidine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Dermal"
+        }
+      ],
+      "Salts": [],
+      "Notes": "distinct mushroom odor"
+    },
+    {
+      "Name": "Pyridoxine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "50-120mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "40mg"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "cold shudder upon intravenous injection"
+      ],
+      "Notes": "uncertain activity"
+    },
+    {
+      "Name": "Menthol",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        },
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [],
+      "Notes": "decongestant effects; cooling sensation; reduces smoking irritation"
+    },
+    {
+      "Name": "Phenol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Dermal"
+        }
+      ],
+      "Salts": [],
+      "Notes": "accidental exposure through contamination; spill on hand causing blistering; suicide preparation"
+    },
+    {
+      "Name": "Acetone",
+      "Routes": [
+        {
+          "Name": "Inhaled"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'respiratory depression'}",
+        "{xeff 'analysis suppression'}",
+        "{xeff 'visual strobing'}"
+      ],
+      "Adverse": [
+        "{xeff 'nausea'}",
+        "{xeff 'headache'}"
+      ],
+      "Notes": "accidental exposure through fumes and residual contamination; potencial nerve damage in my left foot"
+    },
+    {
+      "Name": "Isopropanol",
+      "Routes": [
+        {
+          "Name": "Inhaled",
+          "Duration": "~24 hour"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{xeff 'analysis suppression'}"
+      ],
+      "Adverse": [
+        "{xeff 'headache'}",
+        "{xeff 'delusion'} ({wkp 'delusions of grandeur'})"
+      ],
+      "Notes": "accidental exposure through fumes"
+    },
+    {
+      "Name": "Ethanol",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "1-5g"
+        },
+        {
+          "Name": "Inhaled"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'analysis suppression'}",
+        "{xeff 'disinhibition'}",
+        "at high doses {sev 'moderate'} {xeff 'cognitive euphoria'}"
+      ],
+      "Adverse": [
+        "{xeff 'nausea'}",
+        "vomiting"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Benzylalcohol",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "500mg"
+        },
+        {
+          "Name": "Subcutaneous"
+        },
+        {
+          "Name": "Intramuscular"
+        },
+        {
+          "Name": "Dermal",
+          "Dosage": "1044mg"
+        },
+        {
+          "Name": "Intradermal"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'disinhibition'}",
+        "local anesthetic properties"
+      ],
+      "Notes": "sweet marzipan like smell turning sickly; low solubility in water; 2.5% dilution very bitter and mouth numbing; 0.25% dilution bareable dare I say nice with a bunch of sugar"
+    },
+    {
+      "Name": "Propylene glycol",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Glycerol",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Notes": "sweet taste"
+    },
+    {
+      "Name": "Butane",
+      "Routes": [
+        {
+          "Name": "Inhaled",
+          "Dosage": "~500-5000mg"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{sev 'light'} {xeff 'cognitive euphoria'}",
+        "warm headrush",
+        "{xeff 'increased perspiration'}",
+        "flickering vision"
+      ],
+      "Adverse": [
+        "{xeff 'headache'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Nitrous oxide",
+      "Routes": [
+        {
+          "Name": "Inhaled"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{sev 'intense'} {xeff 'cognitive euphoria'}",
+        "{xeff 'laughter fits'}",
+        "{sev 'strong'} remaining visual noise",
+        "overwhelming pulsing and buzzing",
+        "auditory alteration and loudening",
+        "{xeff 'tinnitus'}",
+        "{xeff 'irritability'}",
+        "feelings of inexpressable revelations"
+      ],
+      "Notes": "flavor reminicent of whipped cream"
+    },
+    {
+      "Name": "Ethylcyanoacrylate",
+      "Routes": [
+        {
+          "Name": "Dermal"
+        }
+      ],
+      "Salts": [],
+      "Indication": "closing cuts",
+      "Notes": "suboptimal for closing cuts; quite brittle"
+    },
+    {
+      "Name": "Lactose",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "acutely seams to cause acne"
+      ]
+    },
+    {
+      "Name": "Lactase",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "seams to decrease skin reaction to {sub 'lactose'}"
+      ]
+    },
+    {
+      "Name": "Bicarbonate",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [
+        "Sodium"
+      ],
+      "Indication": "{wkp 'Acidemia'}",
+      "Notes": "temporarily increases urinary pH decreasing {sub 'dextroamphetamine' 'dextroamphetamine'} excression"
+    },
+    {
+      "Name": "Octenidine",
+      "Routes": [
+        {
+          "Name": "Dermal"
+        }
+      ],
+      "Salts": [
+        "Dihydrochloride"
+      ],
+      "Indication": "antisepectic wound treatment",
+      "Notes": ""
+    },
+    {
+      "Name": "Tyrothricin",
+      "Routes": [
+        {
+          "Name": "Dermal"
+        }
+      ],
+      "Indication": "antibiotic wound treatment",
+      "Notes": ""
+    },
+    {
+      "Name": "Clindamycin",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Indication": "antibiotic wound course used for infected eyelid",
+      "Adverse": [
+        "{wkp 'anaphylaxis'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Carbon",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Indication": "oral poisoning",
+      "Notes": [
+        "in form of activated charcoal"
+      ]
+    }
+  ]
+}

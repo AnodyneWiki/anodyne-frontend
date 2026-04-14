@@ -1,0 +1,251 @@
+{
+  "Name": "phenylethanolamine",
+  "Entries": [
+    {
+      "Title": "β-Hydroxyamphetamine",
+      "Abr": "",
+      "MW": "151.21 g/mol"
+    },
+    {
+      "Title": "Ephedrine",
+      "Abr": "",
+      "MW": "165.23 g/mol"
+    },
+    {
+      "Title": "Pseudoephedrine",
+      "Abr": "",
+      "MW": "165.23 g/mol"
+    },
+    {
+      "Title": "Phenylpropanolamine",
+      "Abr": "PPA",
+      "MW": "151.21 g/mol"
+    },
+    {
+      "Title": "Cathine",
+      "Abr": "",
+      "MW": "151.21 g/mol"
+    },
+    {
+      "Title": "Norpseudoephedrine",
+      "Abr": "",
+      "MW": "151.21 g/mol"
+    },
+    {
+      "Title": "Meta-Hydroxynorephedrine",
+      "Abr": "",
+      "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Metaraminol",
+      "Abr": "Metaradrine",
+      "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Para-Hydroxynorephedrine",
+      "Abr": "",
+      "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Methylephedrine",
+      "Abr": "",
+      "MW": "179.26 g/mol"
+    },
+    {
+      "Title": "Methylpseudoephedrine",
+      "Abr": "",
+      "MW": "179.26 g/mol"
+    },
+    {
+      "Title": "4-Fluoroephedrine",
+      "Abr": "4-FEP",
+      "MW": "183.22 g/mol"
+    },
+    {
+      "Title": "Oxilofrine",
+      "Abr": "4-HEP",
+      "MW": "181.23 g/mol"
+    },
+    {
+      "Title": "Corbadrine",
+      "Abr": "",
+      "MW": "183.20 g/mol"
+    },
+    {
+      "Title": "Methoxamine",
+      "Abr": "",
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "Hexapradol",
+      "Abr": "",
+      "MW": "283.4 g/mol"
+    },
+    {
+      "Title": "Ritodrine",
+      "Abr": "",
+      "MW": "287.35 g/mol"
+    },
+    {
+      "Title": "Isoxsuprine",
+      "Abr": "",
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "Suloctidil",
+      "Abr": "",
+      "MW": "337.6 g/mol"
+    },
+    {
+      "Title": "Buphenine",
+      "Abr": "",
+      "MW": "299.4 g/mol"
+    },
+    {
+      "Title": "Trecadrine",
+      "Abr": "",
+      "MW": "383.5 g/mol"
+    },
+    {
+      "Title": "Ethylnorepinephrine",
+      "Abr": "",
+      "MW": "197.23 g/mol"
+    },
+    {
+      "Title": "Dioxifedrine",
+      "Abr": "",
+      "MW": "197.23 g/mol"
+    },
+    {
+      "Title": "Dioxethedrin",
+      "Abr": "",
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "Butaxamine",
+      "Abr": "",
+      "MW": "267.36 g/mol"
+    },
+    {
+      "Title": "Isoetarine",
+      "Abr": "",
+      "MW": "239.31 g/mol"
+    },
+    {
+      "Title": "Procaterol",
+      "Abr": "",
+      "MW": "290.36 g/mol"
+    },
+    {
+      "Title": "Oxyfedrine",
+      "Abr": "",
+      "MW": "313.4 g/mol"
+    },
+    {
+      "Title": "Alifedrine",
+      "Abr": "",
+      "MW": "289.4 g/mol"
+    },
+    {
+      "Title": "Tinofedrine",
+      "Abr": "",
+      "MW": "355.5 g/mol"
+    },
+    {
+      "Title": "Cafedrine",
+      "Abr": "",
+      "MW": "357.4 g/mol"
+    },
+    {
+      "Title": "Cinnamedrine",
+      "Abr": "",
+      "MW": "281.4 g/mol"
+    },
+    {
+      "Title": "Etafedrine",
+      "Abr": "",
+      "MW": "193.28 g/mol"
+    },
+    {
+      "Title": "Salbutamol",
+      "Abr": "",
+      "MW": "239.31 g/mol"
+    },
+    {
+      "Title": "β-Methoxy-3,4-methylenedioxyphenethylamine",
+      "Abr": "BOH",
+      "MW": "195.21 g/mol"
+    },
+    {
+      "Title": "Epinephrine",
+      "Abr": "Adrenaline",
+      "MW": "183.20 g/mol"
+    },
+    {
+      "Title": "Norepinephrine",
+      "Abr": "NE",
+      "MW": "169.18 g/mol"
+    },
+    {
+      "Title": "Isoprenaline",
+      "Abr": "",
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "Arbutamine",
+      "Abr": "",
+      "MW": "317.4 g/mol"
+    },
+    {
+      "Title": "Theodrenaline",
+      "Abr": "",
+      "MW": "375.4 g/mol"
+    },
+    {
+      "Title": "Bitolterol",
+      "Abr": "",
+      "MW": "461.5 g/mol"
+    },
+    {
+      "Title": "Colterol",
+      "Abr": "",
+      "MW": "225.28 g/mol"
+    },
+    {
+      "Title": "Octopamine",
+      "Abr": "OCT",
+      "MW": "153.18 g/mol"
+    },
+    {
+      "Title": "Phenylephrine",
+      "Abr": "",
+      "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Macromerine",
+      "Abr": "",
+      "MW": "225.28 g/mol"
+    },
+    {
+      "Title": "β-Hydroxy-4-bromo-2,5-dimethoxyphenylamine",
+      "Abr": "βOH-2C-B",
+      "MW": "276.13 g/mol"
+    },
+    {
+      "Title": "β-Hydroxymethamphetamine",
+      "Abr": "",
+      "MW": "165.23 g/mol"
+    },
+    {
+      "Title": "Synephrine",
+      "Abr": [],
+      "MW": "167.20 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "Phenylethanolamine",
+    "Abr": "",
+    "MW": "137.18 g/mol"
+  },
+  "Parent": "phenethylamine"
+}

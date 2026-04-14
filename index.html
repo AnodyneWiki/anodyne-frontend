@@ -1,0 +1,9 @@
+{{import "article.html"}}
+
+{{$pathParts := splitList "/" .OriginalReq.URL.Path}}
+{{$indexPath := snakecase (last $pathParts)}}
+{{$varsPath := printf "/index/%s.json" $indexPath}}
+{{- $ivars := (include $varsPath | splitFrontMatter).Meta}}
+
+{{$title := printf "%s Index - Anodyne" $ivars.Name}}
+{{template "article" (dict "Markdown" "index.md" "Title" $title "Vars" $ivars "Theme" (.Cookie "theme"))}}

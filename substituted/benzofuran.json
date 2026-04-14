@@ -1,0 +1,44 @@
+{
+  "Name": "benzofuran",
+  "First": {
+    "Title": "6-APB",
+    "Abr": "6-APB",
+    "MW": "175.23 g/mol"
+  },
+  "Entries": [
+    {
+      "Title": "4-APB",
+      "Abr": "4-APB",
+      "MW": "175.23 g/mol"
+    },
+    {
+      "Title": "5-APB",
+      "Abr": "5-APB",
+      "MW": "175.23 g/mol"
+    },
+    {
+      "Title": "6-APBD",
+      "Abr": "6-APBD",
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "5-Dihydrobenzofuranpyrovalerone",
+      "Abr": [
+        "5-DBFPV"
+      ],
+      "MW": "273.37 g/mol"
+    },
+    {
+      "Title": "2C-B-FLY",
+      "Abr": "2C-B-FLY",
+      "MW": "284.15 g/mol"
+    },
+    {
+      "Title": "Benzofuran",
+      "Abr": [
+        "6-APB"
+      ],
+      "MW": "205.25 g/mol"
+    }
+  ]
+}

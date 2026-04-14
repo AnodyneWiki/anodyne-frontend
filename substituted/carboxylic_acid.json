@@ -1,0 +1,135 @@
+{
+  "Name": "carboxylic acid",
+  "Entries": [
+    {
+      "Title": "Ibopamine",
+      "Abr": "",
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "Menthyl isovalerate",
+      "Abr": "Validolum",
+      "MW": "240.38 g/mol"
+    },
+    {
+      "Title": "3-[4-[2-[(4-Fluorophenyl)-phenylmethoxy]ethyl]piperazin-1-yl]propanoic acid",
+      "Abr": [
+        "S-350"
+      ],
+      "MW": "386.5 g/mol"
+    },
+    {
+      "Title": "3-(4-{2-[Bis(4-fluorophenyl)methoxy]ethyl}-1-piperazinyl)-1-phenylpropyl decanoate",
+      "Abr": [
+        "DBL-583"
+      ],
+      "MW": "620.8 g/mol"
+    },
+    {
+      "Title": "Omberacetam",
+      "Abr": [
+        "GVS-111"
+      ],
+      "MW": "318.4 g/mol"
+    },
+    {
+      "Title": "Pantothenic acid",
+      "Abr": [
+        "vitamin B5"
+      ],
+      "MW": "219.23 g/mol"
+    },
+    {
+      "Title": "Creatine",
+      "Abr": [],
+      "MW": "131.13 g/mol"
+    },
+    {
+      "Title": "γ-Butyrolactone",
+      "Abr": [
+        "GBL"
+      ],
+      "MW": "86.09 g/mol"
+    },
+    {
+      "Title": "γ-Hydroxybutyric acid",
+      "Abr": [
+        "GHB"
+      ],
+      "MW": "104.10 g/mol"
+    },
+    {
+      "Title": "Tilidine",
+      "Abr": [],
+      "MW": "273.37 g/mol"
+    },
+    {
+      "Title": "Amlodipine",
+      "Abr": [],
+      "MW": "408.9 g/mol"
+    },
+    {
+      "Title": "2,4-Dichlorophenoxyacetic acid",
+      "Abr": [
+        "2,4-D"
+      ],
+      "MW": "221.03 g/mol"
+    },
+    {
+      "Title": "2,4,5-Trichlorophenoxyacetic acid",
+      "Abr": [
+        "2,4,5-T"
+      ],
+      "MW": "255.5 g/mol"
+    },
+    {
+      "Title": "Niacin",
+      "Abr": [
+        "vitamin B3"
+      ],
+      "MW": "123.11 g/mol"
+    },
+    {
+      "Title": "Glyphosate",
+      "Abr": [],
+      "MW": "169.07 g/mol"
+    },
+    {
+      "Title": "Dimethocaine",
+      "Abr": [],
+      "MW": "278.39 g/mol"
+    },
+    {
+      "Title": "Catharanthalog",
+      "Abr": [
+        "CAG"
+      ],
+      "MW": "258.32 g/mol"
+    },
+    {
+      "Title": "Rosuvastatin",
+      "Abr": [],
+      "MW": "481.5 g/mol"
+    },
+    {
+      "Title": "Ascorbic acid",
+      "Abr": [
+        "vitamin C"
+      ],
+      "MW": "176.12 g/mol"
+    },
+    {
+      "Title": "Fexofenadine",
+      "Abr": [],
+      "MW": "501.7 g/mol"
+    },
+    {
+      "Title": "Ketoprofen",
+      "Abr": null,
+      "MW": "254.28 g/mol"
+    }
+  ],
+  "Children": [
+    "amino acid"
+  ]
+}

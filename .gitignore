@@ -1,0 +1,11 @@
+*.mde
+structure/*
+db.sql
+db.sqlite*
+acme/*
+molpic/*
+icons/*
+sitemap.xml
+certificates/
+rate_limit
+js/3Dmol*.js

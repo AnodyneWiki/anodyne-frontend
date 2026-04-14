@@ -1,0 +1,31 @@
+{
+  "Name": "cyanoacrylate",
+  "Entries": [
+    {
+      "Title": "Ethylcyanoacrylate",
+      "Abr": "ECA",
+      "MW": "125.13 g/mol"
+    },
+    {
+      "Title": "Octylcyanoacrylate",
+      "Abr": "OCA",
+      "MW": "209.28 g/mol"
+    },
+    {
+      "Title": "Butylcyanoacrylate",
+      "Abr": "BCA",
+      "MW": "153.18 g/mol"
+    },
+    {
+      "Title": "2-Octylcyanoacrylate",
+      "Abr": "Dermabond",
+      "MW": "209.28 g/mol"
+    }
+  ],
+  "Children": [],
+  "First": {
+    "Title": "Methylcyanoacrylate",
+    "Abr": "MCA",
+    "MW": "111.10 g/mol"
+  }
+}

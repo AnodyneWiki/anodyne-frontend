@@ -1,0 +1,50 @@
+{{define "UserTitle"}}<h1 contenteditable=false>{{.Title}} {{with .Name}}({{template "rcc" .}}){{end}}</h1>{{end}}
+
+{{define "UserAbout" -}}{{$v := . -}}
+<div contenteditable={{$v.Editable}} id=userabout class=UserAbout>{{$v := . -}}
+{{- with $v.About}}{{template "user" .}}{{end -}}
+{{/* if $v.Birth}}{{$cLen := toDate "2006-01" $v.Birth | ago | splitList "h" | first | add 240}}This <em>organism</em> {{if $v.Deceased}}{{$dLen := toDate "2006-01" $v.Deceased | ago | splitList "h" | first}}{{$cLen = sub $cLen $dLen}}<em>lived</em>{{else}}has been <em>living</em>{{end}} for ~{{divf (divf (div $cLen 24) 365 | mulf 10 | int) 10}} <em> years</em> / ~{{div $cLen 24 }} <em>days</em> / ~{{$cLen}} <em>hours</em>.{{end}} */}}
+</div>
+{{- end}}
+
+{{define "UserLink"}}{{if contains "://" . | not }}{{.}}{{else}}<a class=logo href='{{.}}'>{{.}}</a>{{end}}{{end}}
+
+{{define "UserRefs"}}{{$v := . -}}
+{{if $v.Links -}}
+<div class="collapser ContactList">
+<h2 contenteditable=false>Contact<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" .Collapse}}</span></h2>
+<div class=collapserContent><ul id=usercontactlist>{{range $v.Links -}}
+{{if contains "true" $v.Editable -}}
+<li contenteditable={{$v.Editable}}>&lt;b&gt;{{.Name}}&lt;b&gt;: {{.Url}}</li>{{else}}
+<li><strong contenteditable={{$v.Editable}}>{{.Name}}</strong>: <span contenteditable={{$v.Editable}}>{{template "UserLink" .Url}}</span></li>{{end -}}
+{{end -}}
+</ul></div>
+</div>
+{{end}}{{end -}}
+
+{{define "UserComplications" -}}
+{{if .Complications}}
+<div class=collapser><h2 contenteditable=false style='width: 100%; display:block;'>Complications<span class=collapseButton>&nbsp;{{template "exnd" .Collapse}}</span></h2>
+<div class=collapserContent><table><tr><th>Complication</th><th>Cause</th></tr>
+{{range $comp := .Complications}}<tr><td>{{template "user" $comp.Name}}</td><td><ul>{{range $entr := $comp.Entries}}<li>{{range $ingi, $ing := $entr.Ingestions}}{{if not (eq $ingi 0)}}{{if not (eq $ingi (sub (len $entr.Ingestions) 1))}}, {{else}} and {{end}}{{end}}{{with $ing.Dosage}}{{.}} {{end}}{{with $ing.ROA}}{{if lower . | printf "administration/%s/vars.json" | replace " " "_" | fileExists }}<a href='/administration/{{lower . | replace " " "_"}}'>{{.}}</a>{{else}}{{.}}{{end}} {{end}}{{if lower $ing.Substance | eq "contaminant"  | not}}<a href='/substance/{{lower $ing.Substance | replace " " "_"}}'>{{$ing.Substance}}</a>{{else}}{{$ing.Substance}}{{end}}{{end}}{{with $entr.Date}} on the {{toDate "2006-01-02" . | date "_2. January 2006"}}{{end}}{{with $entr.Note}} ({{template "user" .}}){{else}}{{end}}</li>{{end}}</ul></td></tr>{{end}}
+</table></div></div>{{end}}
+{{end}}
+
+{{define "UserRoa" -}}
+{{if .RoutesOfAdministration}}<div class=collapser><h2 contenteditable=false>Routes of Administration Ranklist<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" .Collapse}}</span></h2>
+<div class=collapserContent><table><tr><th>Route of Administration</th><th>Site</th><th>Paraphernalia</th></tr>
+{{range .RoutesOfAdministration}}<tr><td><em>{{if lower .Name | replace " " "_" | printf "administration/%s.json" | fileExists }}{{template "lroa" .Name}}</em></a>{{else}}{{.Name}}{{end}}</b></td><td>{{if .Sites}}<ul>{{range .Sites}}<li>{{.}}</li>{{end}}</ul>{{end}}</td><td>{{if .Paraphernalia}}<ul>{{range .Paraphernalia}}<li>{{.}}</li>{{end}}</ul>{{end}}</td></tr>{{end}}
+</table></div></div>{{end}}
+{{end}}
+
+{{define "UserClasses"}}{{$v := . -}}
+{{/*<div class=collapser>*/}}<h2 contenteditable=false>Substance Index<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">{{/*&nbsp;{{template "exnd" .Collapse}}</span>*/}}</h2>
+{{/*<div class=collapserContent>*/}}
+<div class="ranklist">
+{{/*<table><tr>
+<th>Compound</th><th>Structure</th><th>Notes</th></tr>*/}}
+{{range $sub := $v.TriedSubstances}}
+<tr>{{template "fnoterow" (dict "v" $v "utrd" (dict "trd" $sub) "External" (default false $v.External))}}</tr>
+{{end -}}
+</div>{{/*</div></div>*/}}
+{{end}}

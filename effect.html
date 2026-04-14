@@ -1,0 +1,3 @@
+{{import "article.html"}}{{/*
+	*/}}{{$name := splitList "/" .OriginalReq.URL.Path | last}}{{/*
+	*/}}{{template "article" (dict "Markdown" (lower $name | printf "/effect/%s.md") "Title" (title $name | printf "%s - Anodyne"))}}

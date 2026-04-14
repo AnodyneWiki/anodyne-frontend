@@ -1,0 +1,83 @@
+{
+  "Name": "phenidate",
+  "First": {
+    "Title": "Methylphenidate",
+    "Abr": [
+      "MPH"
+    ],
+    "MW": "233.31 g/mol"
+  },
+  "Entries": [
+    {
+      "Title": "4-Fluoroethylphenidate",
+      "Abr": "4-FEPH",
+      "MW": "265.32 g/mol"
+    },
+    {
+      "Title": "4-Fluoromethylphenidate",
+      "Abr": [
+        "4-FMPH"
+      ],
+      "MW": "251.30 g/mol"
+    },
+    {
+      "Title": "4-Methylmethylphenidate",
+      "Abr": [
+        "4-MMPH"
+      ],
+      "MW": "247.33 g/mol"
+    },
+    {
+      "Title": "Ethylnaphthidate",
+      "Abr": "HDEP-28",
+      "MW": "297.4 g/mol"
+    },
+    {
+      "Title": "Ethylphenidate",
+      "Abr": [
+        "EPH"
+      ],
+      "MW": "247.33 g/mol"
+    },
+    {
+      "Title": "Isopropylphenidate",
+      "Abr": [
+        "IPH"
+      ],
+      "MW": "261.36 g/mol"
+    },
+    {
+      "Title": "Methylnaphthidate",
+      "Abr": "HDMP-28",
+      "MW": "283.4 g/mol"
+    },
+    {
+      "Title": "Propylphenidate",
+      "Abr": "PPH",
+      "MW": "261.36 g/mol"
+    },
+    {
+      "Title": "Triprolidine",
+      "Abr": "",
+      "MW": "278.4 g/mol"
+    },
+    {
+      "Title": "Desoxypipradrol",
+      "Abr": "2-DPMP",
+      "MW": "251.4 g/mol"
+    },
+    {
+      "Title": "3,4-Dichloromethylphenidate",
+      "Abr": [
+        "3,4-DCMP"
+      ],
+      "MW": "302.2 g/mol"
+    },
+    {
+      "Title": "Pipradrol",
+      "Abr": "",
+      "MW": "267.4 g/mol"
+    }
+  ],
+  "Parent": "amphetamine"
+}

@@ -1,0 +1,25 @@
+{
+  "Name": "benzochromene",
+  "Entries": [
+    {
+      "Title": "10-Hydroxyhexahydrocannabinol",
+      "Abr": "10-OH-HHC",
+      "MW": "332.5 g/mol"
+    },
+    {
+      "Title": "Cannabidiol",
+      "Abr": "CBD",
+      "MW": "314.5 g/mol"
+    },
+    {
+      "Title": "Hexahydrocannabinol",
+      "Abr": "HHC",
+      "MW": "316.5 g/mol"
+    },
+    {
+      "Title": "Δ-9-tetrahydrocannabinol",
+      "Abr": "THC",
+      "MW": "314.5 g/mol"
+    }
+  ]
+}

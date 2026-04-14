@@ -1,0 +1,18 @@
+{
+  "Name": "cyclohexylamine",
+  "Entries": [
+  ],
+  "Parent": "cycloalkylamine",
+  "Children": [
+  ],
+  "First": {
+    "Title": "Cyclohexylamine",
+    "Abr": "",
+    "MW": "121.18 g/mol"
+  },
+  "Analogues": [
+    "aniline",
+    "alkylbenzene",
+    "phenol"
+  ]
+}

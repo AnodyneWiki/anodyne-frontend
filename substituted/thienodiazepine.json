@@ -1,0 +1,32 @@
+{
+  "Name": "thienodiazepine",
+  "Entries": [
+    {
+      "Title": "Bentazepam",
+      "Abr": "",
+      "MW": "296.4 g/mol"
+    },
+    {
+      "Title": "Clotiazepam",
+      "Abr": "",
+      "MW": "318.8 g/mol"
+    },
+    {
+      "Title": "Ro09-9212",
+      "Abr": "",
+      "MW": "311.2 g/mol"
+    },
+    {
+      "Title": "Olanzapine",
+      "Abr": [],
+      "MW": "312.4 g/mol"
+    }
+  ],
+  "Children": [
+    "thienotriazolodiazepine"
+  ],
+  "Analogues": [
+    "benzodiazepine",
+    "pyridodiazepine"
+  ]
+}

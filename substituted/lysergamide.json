@@ -1,0 +1,114 @@
+{
+  "Name": "lysergamide",
+  "Entries": [
+    {
+      "Title": "1-Butanoyl-d-lysergic acid diethylamide",
+      "Abr": [
+        "1B-LSD"
+      ],
+      "MW": "393.5 g/mol"
+    },
+    {
+      "Title": "1-Cyclopropionyl-6-allyl-6-nor-lysergic acid diethylamide",
+      "Abr": "1cP-AL-LAD",
+      "MW": "417.5 g/mol"
+    },
+    {
+      "Title": "Lysergic acid",
+      "Abr": "LSA",
+      "MW": "268.31 g/mol"
+    },
+    {
+      "Title": "Lysergic acid diethylamide",
+      "Abr": [
+        "LSD",
+        "LSD-25"
+      ],
+      "MW": "323.4 g/mol"
+    },
+    {
+      "Title": "Ergotamine",
+      "Abr": "",
+      "MW": "581.7 g/mol"
+    },
+    {
+      "Title": "Dihydroergotamine",
+      "Abr": "DHE",
+      "MW": "583.7 g/mol"
+    },
+    {
+      "Title": "Ergonovine",
+      "Abr": [],
+      "MW": "325.4 g/mol"
+    },
+    {
+      "Title": "Ergocornine",
+      "Abr": [],
+      "MW": "561.7 g/mol"
+    },
+    {
+      "Title": "2-Bromolysergic acid diethylamide",
+      "Abr": "2-Br-LSD",
+      "MW": "402.3 g/mol"
+    },
+    {
+      "Title": "Cabergoline",
+      "Abr": [],
+      "MW": "451.6 g/mol"
+    },
+    {
+      "Title": "1-Valeryl-D-lysergic acid diethylamide",
+      "Abr": [
+        "1V-LSD",
+        "Valerie"
+      ],
+      "MW": "407.5 g/mol"
+    },
+    {
+      "Title": "Lysergic acid fluorodiethylamide",
+      "Abr": [
+        "F-LSD"
+      ],
+      "MW": "341.4 g/mol"
+    },
+    {
+      "Title": "Lysergic acid dimethylamide",
+      "Abr": [
+        "DAM",
+        "DAM-57"
+      ],
+      "MW": "295.4 g/mol"
+    },
+    {
+      "Title": "Lysergic acid methylamide",
+      "Abr": [
+        "LAM",
+        "NM-LA"
+      ],
+      "MW": "281.35 g/mol"
+    },
+    {
+      "Title": "6-Allyl-6-norlysergic acid diethylamide",
+      "Abr": [
+        "AL-LAD",
+        "ALLAD"
+      ],
+      "MW": "349.5 g/mol"
+    },
+    {
+      "Title": "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide",
+      "Abr": [
+        "1cP-LSD"
+      ],
+      "MW": "391.5 g/mol"
+    },
+    {
+      "Title": "1-(3-(Trimethylsilyl)propionyl)-lysergic acid diethylamide",
+      "Abr": [
+        "1S-LSD"
+      ],
+      "MW": "451.7 g/mol"
+    }
+  ],
+  "Parent": "tryptamine"
+}

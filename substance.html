@@ -1,0 +1,21 @@
+{{$path := .OriginalReq.URL.Path}}
+{{if empty .Args | not}}{{$path = index .Args 0}}{{end}}
+{{import "missing.html"}}{{import "article.html" -}}
+{{block "substance" (dict "Path" (stripHTML $path) ) -}}
+	{{$pathParts := splitList "/" .Path -}}
+	{{$title := last $pathParts}}
+	{{$v := $title | lower | printf "/api/substance/%s" | replace " " "%20" | httpInclude | fromJson -}}
+	{{if or (not $v) (empty $v) ($v.NotFound) -}}
+		{{template "missing" (dict "Title" $title "Type" "substance") -}}
+	{{else}}
+	{{if ne (lower $v.Title) (lower $title) -}}
+		{{$_ := set $v "SubstanceRedirect" $v.Title -}}
+		{{$_ := set $v "SubstanceRedirectSource" (replace "_" " " $title) -}}
+	{{end -}}
+	{{$abr := "" -}}
+	{{if empty $v.Abbreviation | not -}}
+		{{$abr = ternary $v.Abbreviation ($v.Abbreviation | join ", ") (kindIs "string" $v.Abbreviation) -}}
+	{{end -}}
+	{{template "article" dict "Title" (printf "%s - AnodyneWiki" $v.Title) "Markdown" "substance.md"  "Vars" $v  -}}
+{{end}} 
+{{end}} 

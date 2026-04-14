@@ -1,0 +1,48 @@
+{
+  "Name": "pyridine",
+  "Entries": [
+    {
+      "Title": "Pyridine",
+      "Abr": "",
+      "MW": "79.10 g/mol"
+    },
+    {
+      "Title": "Phenatine",
+      "Abr": "",
+      "MW": "240.30 g/mol"
+    },
+    {
+      "Title": "Anpirtoline",
+      "Abr": "",
+      "MW": "228.74 g/mol"
+    },
+    {
+      "Title": "Nicotinamide mononucleotide",
+      "Abr": [
+        "NMN"
+      ],
+      "MW": "334.22 g/mol"
+    },
+    {
+      "Title": "Pyridoxine",
+      "Abr": [],
+      "MW": "169.18 g/mol"
+    },
+    {
+      "Title": "Nikethamide",
+      "Abr": [],
+      "MW": "178.23 g/mol"
+    }
+  ],
+  "Children": [
+    "pyridodiazepine",
+    "imidazopyridine"
+  ],
+  "Analogues": [
+    "pyrrolidine",
+    "piperidine",
+    "piperazine",
+    "tetrahydropyridine",
+    "morpholine"
+  ]
+}

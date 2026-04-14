@@ -1,0 +1,506 @@
+{
+  "Title": "x86pup",
+  "Name": [
+    "june",
+    "auggie",
+    "august"
+  ],
+  "About": "{p}wrufff. im auggie and i loveeeee ketamine :3 {Ep}",
+  "Birth": "2005-10",
+  "Links": [
+    {
+      "Name": "Email",
+      "Url": "june@girlboss.ceo or june@vern.cc"
+    },
+    {
+      "Name": "Website",
+      "Url": "https://f.dog | https://june.vern.cc"
+    },
+    {
+      "Name": "Fediverse",
+      "Url": "https://ak.vern.cc/june"
+    },
+    {
+      "Name": "GPG",
+      "Url": "8B77919975EAFA5E2456EE03665FE73077489DB0"
+    },
+    {
+      "Name": "Matrix",
+      "Url": "@june:woof.gay or @june:vern.cc"
+    },
+    {
+      "Name": "XMPP/Jabber",
+      "Url": "june@vern.cc"
+    },
+    {
+      "Name": "Signal",
+      "Url": "@trapacid.09"
+    },
+    {
+      "Name": "Discord",
+      "Url": "x86pup"
+    },
+    {
+      "Name": "vern Git",
+      "Url": "https://git.vern.cc/june"
+    },
+    {
+      "Name": "Codeberg",
+      "Url": "https://codeberg.org/arf"
+    },
+    {
+      "Name": "Github",
+      "Url": "https://github.com/x86pup"
+    }
+  ],
+  "Psyche": {
+    "Interests": [
+      "Siscon",
+      "Lesbianism",
+      "Unix-like systems",
+      "Anarchism"
+    ],
+    "Attributes": []
+  },
+  "Logs": {
+    "Ingestions": 1485
+  },
+  "Complications": [],
+  "RoutesOfAdministration": [],
+  "Preferences": [
+    {
+      "Name": "Dissociatives",
+      "Entries": [
+        {
+          "Substance": "Ketamine"
+        }
+      ]
+    },
+    {
+      "Name": "Opioids",
+      "Entries": [
+        {
+          "Substance": "Tramadol"
+        },
+        {
+          "Substance": "Morphine"
+        },
+        {
+          "Substance": "Tapentadol"
+        }
+      ]
+    },
+    {
+      "Name": "Sedatives",
+      "Entries": [
+        {
+          "Substance": "Alprazolam"
+        },
+        {
+          "Substance": "Ethanol"
+        }
+      ]
+    },
+    {
+      "Name": "Stimulants",
+      "Entries": [
+        {
+          "Substance": "Cocaine"
+        },
+        {
+          "Substance": "Amphetamine"
+        },
+        {
+          "Substance": "Methamphetamine"
+        }
+      ]
+    },
+    {
+      "Name": "Entactogens",
+      "Entries": [
+        {
+          "Substance": "Cocaine"
+        },
+        {
+          "Substance": "3,4-Methylenedioxymethamphetamine"
+        }
+      ]
+    },
+    {
+      "Name": "Psychedelics",
+      "Entries": [
+        {
+          "Substance": "2,5-Dimethoxy-4-bromophenethylamine"
+        }
+      ]
+    },
+    {
+      "Name": "Cannabinoids",
+      "Entries": [
+        {
+          "Substance": "Tetrahydrocannabinol"
+        }
+      ]
+    },
+    {
+      "Name": "Hormone medications",
+      "Entries": [
+        {
+          "Substance": "Estradiol"
+        },
+        {
+          "Substance": "Estradiol Valerate"
+        }
+      ]
+    },
+    {
+      "Name": "NSAIDs",
+      "Entries": [
+        {
+          "Substance": "Ibuprofen"
+        },
+        {
+          "Substance": "Paracetamol"
+        }
+      ]
+    }
+  ],
+  "TriedSubstances": [
+    {
+      "Name": "Ketamine",
+      "Routes": [
+        {
+          "Name": "Intramuscular"
+        },
+        {
+          "Name": "Insufflated"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Alprazolam",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Sublingual"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Tramadol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Estradiol",
+      "Routes": [
+        {
+          "Name": "Intramuscular"
+        },
+        {
+          "Name": "Subcutaneous"
+        },
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Transdermal"
+        }
+      ],
+      "Salts": [],
+      "Notes": "Valerate IM injections 0.2mg, started with patches and pills"
+    },
+    {
+      "Name": "Progesterone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Rectal"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Tetrahydrocannabinol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "5-Hydroxytryptophan",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Spironolactone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "3,4-Methylenedioxymethamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Sublingual"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Mescaline",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Tapentadol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-bromophenethylamine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Diethyl ether",
+      "Routes": [
+        {
+          "Name": "Inhaled"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Ethanol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Dextromethorphan",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Sublingual"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Amphetamine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Methamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Hydroxyzine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Dimethyltryptamine",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "N-Ethyl-nor-pentedrone",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Cocaine",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Î±-Pyrrolidinopentiophenone",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Morphine",
+      "Routes": [
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Hydromorphone",
+      "Routes": [
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Trazodone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "MXPCP",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Pregabalin",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Ibuprofen",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Paracetamol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    }
+  ]
+}

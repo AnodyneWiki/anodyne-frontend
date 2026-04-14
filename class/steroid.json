@@ -1,0 +1,150 @@
+{
+  "Name": "steroid",
+  "Entries": [
+    {
+      "Title": "Acetylsalicylic acid",
+      "Abr": "ASA",
+      "MW": "180.16 g/mol"
+    },
+    {
+      "Title": "Alprazolam",
+      "Abr": "Xanax",
+      "MW": "308.8 g/mol"
+    },
+    {
+      "Title": "Androstenedione",
+      "Abr": "A4",
+      "MW": "286.4 g/mol"
+    },
+    {
+      "Title": "Beclometasone dipropionate",
+      "Abr": "",
+      "MW": "521.0 g/mol"
+    },
+    {
+      "Title": "Cyproterone acetate",
+      "Abr": "CPA",
+      "MW": "416.9 g/mol"
+    },
+    {
+      "Title": "Dihydrotestosterone",
+      "Abr": "DHT",
+      "MW": "290.4 g/mol"
+    },
+    {
+      "Title": "Dutasteride",
+      "Abr": "",
+      "MW": "528.5 g/mol"
+    },
+    {
+      "Title": "Estradiol",
+      "Abr": "E2",
+      "MW": "272.4 g/mol"
+    },
+    {
+      "Title": "Estradiol cypionate",
+      "Abr": "EC",
+      "MW": "396.6 g/mol"
+    },
+    {
+      "Title": "Estradiol enantate",
+      "Abr": "EEn",
+      "MW": "384.6 g/mol"
+    },
+    {
+      "Title": "Estradiol undecylate",
+      "Abr": "EUn",
+      "MW": "440.7 g/mol"
+    },
+    {
+      "Title": "Estradiol valerate",
+      "Abr": "EV",
+      "MW": "356.5 g/mol"
+    },
+    {
+      "Title": "Estriol",
+      "Abr": "E3",
+      "MW": "288.4 g/mol"
+    },
+    {
+      "Title": "Estrone",
+      "Abr": "E1",
+      "MW": "270.4 g/mol"
+    },
+    {
+      "Title": "Finasteride",
+      "Abr": "",
+      "MW": "372.5 g/mol"
+    },
+    {
+      "Title": "Ibuprofen",
+      "Abr": "",
+      "MW": "206.28 g/mol"
+    },
+    {
+      "Title": "Medroxyprogesterone acetate",
+      "Abr": "MPA",
+      "MW": "386.5 g/mol"
+    },
+    {
+      "Title": "Methyltestosterone",
+      "Abr": "",
+      "MW": "302.5 g/mol"
+    },
+    {
+      "Title": "Nandrolone",
+      "Abr": "",
+      "MW": "274.4 g/mol"
+    },
+    {
+      "Title": "Nandrolone decanoate",
+      "Abr": "",
+      "MW": "428.6 g/mol"
+    },
+    {
+      "Title": "Nandrolone phenylpropionate",
+      "Abr": "NPP",
+      "MW": "406.6 g/mol"
+    },
+    {
+      "Title": "Oxazepam",
+      "Abr": "",
+      "MW": "286.71 g/mol"
+    },
+    {
+      "Title": "Paracetamol",
+      "Abr": "",
+      "MW": "151.16 g/mol"
+    },
+    {
+      "Title": "Progesterone",
+      "Abr": "P4",
+      "MW": "314.5 g/mol"
+    },
+    {
+      "Title": "Pyrazolam",
+      "Abr": "",
+      "MW": "354.20 g/mol"
+    },
+    {
+      "Title": "Temazepam",
+      "Abr": "",
+      "MW": "300.74 g/mol"
+    },
+    {
+      "Title": "Testosterone",
+      "Abr": "",
+      "MW": "288.4 g/mol"
+    },
+    {
+      "Title": "Testosterone propionate",
+      "Abr": "",
+      "MW": "344.5 g/mol"
+    },
+    {
+      "Title": "Testosterone undecylate",
+      "Abr": "",
+      "MW": "456.7 g/mol"
+    }
+  ]
+}

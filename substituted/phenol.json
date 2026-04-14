@@ -1,0 +1,86 @@
+{
+  "Name": "phenol",
+  "Entries": [
+    {
+      "Title": "Bisphenol A",
+      "Abr": "BPA",
+      "MW": "228.29 g/mol"
+    },
+    {
+      "Title": "Bisphenol S",
+      "Abr": "BPS",
+      "MW": "250.27 g/mol"
+    },
+    {
+      "Title": "Homovanillic acid",
+      "Abr": "",
+      "MW": "182.17 g/mol"
+    },
+    {
+      "Title": "Propofol",
+      "Abr": "",
+      "MW": "178.27 g/mol"
+    },
+    {
+      "Title": "2-Phenylphenol",
+      "Abr": "",
+      "MW": "170.21 g/mol"
+    },
+    {
+      "Title": "Bisphenol A diglycidyl ether",
+      "Abr": "BADGE",
+      "MW": "340.4 g/mol"
+    },
+    {
+      "Title": "Bisphenol AF",
+      "Abr": "BPAF",
+      "MW": "336.23 g/mol"
+    },
+    {
+      "Title": "Nonylphenol",
+      "Abr": "",
+      "MW": "220.35 g/mol"
+    },
+    {
+      "Title": "Bisphenol F diglycidyl ether",
+      "Abr": "BFDGE",
+      "MW": "312.4 g/mol"
+    },
+    {
+      "Title": "3,4-Dihydroxyphenylacetaldehyde",
+      "Abr": "DOPAL",
+      "MW": "152.15 g/mol"
+    },
+    {
+      "Title": "2,4-Dinitrophenol",
+      "Abr": "DNP",
+      "MW": "184.11 g/mol"
+    },
+    {
+      "Title": "Myristicin",
+      "Abr": "",
+      "MW": "192.21 g/mol"
+    },
+    {
+      "Title": "α-Methyl-γ-(3,4-methylenedioxyphenyl)propylamine",
+      "Abr": "Homo-MDA",
+      "MW": "193.24 g/mol"
+    },
+    {
+      "Title": "Clorgyline",
+      "Abr": "",
+      "MW": "272.17 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "Phenol",
+    "Abr": "",
+    "MW": "94.11 g/mol"
+  },
+  "Parent": "alcohol",
+  "Analogues": [
+    "alkylbenzene",
+    "aniline",
+    "cyclohexylamine"
+  ]
+}

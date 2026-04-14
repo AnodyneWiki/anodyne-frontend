@@ -1,0 +1,638 @@
+{
+    "Title": "Pilz",
+    "Name": [
+        "Marie",
+        "Pilz"
+    ],
+    "About": "Computer touching dog addicted to caffeine",
+    "Birth": "2006-11",
+    "Location": "Germany",
+    "Weight": [
+        "2025/26: ~78kg"
+    ],
+    "Links": [
+        {
+            "Name": "Signal",
+            "Url": "pilz.69"
+        }
+    ],
+    "Psyche": {
+        "Interests": [
+            "pharmacology",
+            "compounding medications",
+            "networking",
+            "declarative configuration of computers"
+        ]
+    },
+    "TriedSubstances": [
+        {
+            "Name": "Orthophedrone",
+            "Routes": [
+                {
+                    "Name": "insufflated",
+                    "Dosage": "43-55mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'compulsive-redosing'}",
+                "{xeff 'stimulation'}"
+            ],
+            "Adverse": [
+                "{xeff 'analysis-suppression'}",
+                "{xeff 'motivation-suppression'} (feeling fried)"
+            ]
+        },
+        {
+            "Name": "2,5-Dimethoxy-4-bromophenethylamine",
+            "Routes": [
+                {
+                    "Name": "insufflated",
+                    "Dosage": "9-11mg"
+                },
+                {
+                    "Name": "oral",
+                    "Dosage": "10-30mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'strong'} {xeff 'stimulation'}",
+                "{sev 'light'} {xeff 'anxiety'}",
+                "{xeff 'colour-enhancement'}",
+                "{xeff 'nausea'} that fades away after the comeup",
+                "{xeff 'drifting'}",
+                "{xeff 'geometry'}"
+            ]
+        },
+        {
+            "Name": "Metaphedrone",
+            "Routes": [
+                {
+                    "Name": "insufflated",
+                    "Dosage": "35.0mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'stimulation'}",
+                "{xeff 'compulsive-redosing'}",
+                "{xeff 'increased-libido'}"
+            ]
+        },
+        {
+            "Name": "Mephedrone",
+            "Routes": [
+                {
+                    "Name": "insufflated",
+                    "Dosage": "22-74mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'strong'} {xeff 'stimulation'}",
+                "{xeff 'empathy-affection-and-sociability-enhancement'}",
+                "{sev 'strong'} {xeff 'increased-libido'}",
+                "{xeff 'orgasm-suppression'}",
+                "{xeff 'anxiety-suppression'}",
+                "{xeff 'increased-heart-rate'}",
+                "{xeff 'stamina-enhancement'}",
+                "{xeff 'time-distortion'}",
+                "{sev 'strong'} {xeff 'compulsive-redosing'} (feels like your constantly redosing/having to redose)",
+                "{xeff 'memory-suppression'} (forgetting what you did on the day/not having detailed memories)",
+                "{xeff 'increased-bodily-temperature'}",
+                "{xeff 'teeth-grinding'} when using higher doses"
+            ],
+            "Notes": [
+                "Very good substance to have sex on",
+                "The most addictive substance i consumed"
+            ]
+        },
+        {
+            "Name": "Oxitriptan",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "100.0mg"
+                }
+            ]
+        },
+        {
+            "Name": "5-Methoxy-N,N-diisopropyltryptamine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "6-6.7mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'drifting'}",
+                "{xeff 'stimulation'}",
+                "{xeff 'colour-enhancement'}",
+                "{sev 'light'} {xeff 'increased-libido'}",
+                "{xeff 'increased-sense-of-humor'}",
+                "{sev 'light'} {xeff 'appetite-suppression'}"
+            ]
+        },
+        {
+            "Name": "Ethanol",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "1500-30000mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'sedation'}",
+                "{xeff 'anxiety-suppression'} (very helpful in social situations)",
+                "{xeff 'nausea'} when consumed in high doses",
+                "{sev 'light'} {xeff 'appetite-enhancement'}",
+                "{xeff 'motor-control-loss'}",
+                "Partial {xeff 'memory-suppression'} when consumed in high doses"
+            ],
+            "Notes": [
+                "One of my favorite substances in lower doses"
+            ]
+        },
+        {
+            "Name": "Alprazolam",
+            "Indication": "{xeff 'anxiety'}",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "0.2-0.3mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'sedation'}",
+                "{xeff 'anxiety-suppression'}",
+                "{xeff 'memory-suppression'}",
+                "{xeff 'muscle-relaxation'}"
+            ]
+        },
+        {
+            "Name": "Amphetamine",
+            "Indication": "Attention-Deficit/Hyperactivity Disorder",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "3-20mg"
+                },
+                {
+                    "Name": "insufflated",
+                    "Dosage": "8-46mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'strong'} {xeff 'stimulation'}; very helpful aginst ADHD in lower doses (15-20mg oral, 1-2x per day)",
+                "{xeff 'wakefulness'}",
+                "{xeff 'stamina-enhancement'}",
+                "{sev 'light'} {xeff 'increased-libido'} or {xeff 'decreased-libido'}",
+                "{sev 'light'} {xeff 'compulsive-redosing'}"
+            ],
+            "Notes": [
+                "Consumed close to daliy since 11-2025, helps against ADHD"
+            ]
+        },
+        {
+            "Name": "Bupropion",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "150.0mg"
+                }
+            ]
+        },
+        {
+            "Name": "Caffeine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "20-200mg"
+                },
+                {
+                    "Name": "insufflated",
+                    "Dosage": "20-60mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'stimulation'}",
+                "{xeff 'wakefulness'}",
+                "{xeff 'restless-legs'} in higher doses"
+            ],
+            "Adverse": [
+                "{sev 'strong'} {xeff 'anxiety'} at high doses"
+            ]
+        },
+        {
+            "Name": "Cocaine",
+            "Routes": [
+                {
+                    "Name": "insufflated",
+                    "Dosage": "10-30mg"
+                },
+                {
+                    "Name": "oral",
+                    "Dosage": "5-10mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'stimulation'}",
+                "{xeff 'wakefulness'}",
+                "{sev 'light'} {xeff 'increased-libido'}",
+                "{sev 'strong'} {xeff 'compulsive-redosing'}"
+            ]
+        },
+        {
+            "Name": "Codeine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "12.8-140mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'sedation'}",
+                "{sev 'strong'} {xeff 'pain-relief'}"
+            ]
+        },
+        {
+            "Name": "Estradiol enantate",
+            "Routes": [
+                {
+                    "Name": "intramuscular",
+                    "Dosage": "5-10mg"
+                },
+                {
+                    "Name": "subcutaneous",
+                    "Dosage": "5-10mg"
+                }
+            ]
+        },
+        {
+            "Name": "Estradiol",
+            "Routes": [
+                {
+                    "Name": "transdermal",
+                    "Dosage": "2-3mg"
+                },
+                {
+                    "Name": "oral",
+                    "Dosage": "1-2mg"
+                }
+            ]
+        },
+        {
+            "Name": "Ibuprofen",
+            "Indication": "{sev 'light'} pain, for example {xeff 'headache'}",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "200-800mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'light'} {xeff 'pain-relief'}"
+            ]
+        },
+        {
+            "Name": "Ketamine",
+            "Routes": [
+                {
+                    "Name": "insufflated",
+                    "Dosage": "15-100mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'auditory-distortion'}; music sounds different",
+                "{xeff 'environmental-cubism'}/{xeff 'visual-stretching'}; it felt like my door was moving with music",
+                "{xeff 'perspective-hallucination'}; allowed me to reflect on my life from a different perspective",
+                "{xeff 'tactile-suppression'} + {xeff 'pain-relief'}",
+                "{xeff 'thought-deceleration'}, {xeff 'confusion'}, {xeff 'analysis-suppression'}; sometimes feeling stupid",
+                "{xeff 'increased-sense-of-humor'}",
+                "{xeff 'anxiety-suppression'}",
+                "{xeff 'nausea'} when consumed in high doses",
+                "{sev 'light'} {xeff 'motivation-enhancement'} in the days after using ketamine"
+            ]
+        },
+        {
+            "Name": "Lisdexamphetamine",
+            "Indication": "Attention-Deficit/Hyperactivity Disorder",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "5-60mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'stimulation'}; very helpful aginst ADHD",
+                "{xeff 'wakefulness'}",
+                "{sev 'light'} {xeff 'increased-libido'} or {xeff 'decreased-libido'}"
+            ],
+            "Notes": [
+                "Best ADHD-Medication ive tried"
+            ]
+        },
+        {
+            "Name": "Loperamide",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "2.0mg"
+                }
+            ]
+        },
+        {
+            "Name": "Melatonin",
+            "Indication": "Insomnia",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "0.3-10mg"
+                }
+            ],
+            "Notes": [
+                "My favorite sleep aid, hangover is non existent and the availability is very good",
+                "Ineffective while on stimulants"
+            ]
+        },
+        {
+            "Name": "Methylphenidate",
+            "Indication": "Attention-Deficit/Hyperactivity Disorder",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "5-27mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'stimulation'}; very helpful aginst ADHD",
+                "sometimes {xeff 'sleepiness'}; caffeine while using methylphenidate helps against that",
+                "{sev 'light'} {xeff 'decreased-libido'}"
+            ],
+            "Notes": [
+                "Good ADHD-Medication",
+                "From the available preparations i would recommend concerta/kinecteen"
+            ]
+        },
+        {
+            "Name": "Mitragynine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "2000-6000mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'stimulation'}; very good for doing computer stuff",
+                "{xeff 'sedation'}",
+                "{xeff 'pain-relief'}",
+                "{xeff 'cognitive-euphoria'}",
+                "{xeff 'increased-libido'}"
+            ],
+            "Notes": [
+                "One of my favorite substances for having sex",
+                "Good substance for late night computer work"
+            ]
+        },
+        {
+            "Name": "N1-Tert-butoxycarbonyldimethyltryptamine",
+            "Routes": [
+                {
+                    "Name": "smoked",
+                    "Dosage": "mg"
+                }
+            ],
+            "Notes": [
+                "Gets converted to DMT under heat",
+                "Byproducts might cause local anaesthesia in the mouth when smoked"
+            ]
+        },
+        {
+            "Name": "Nicotine",
+            "Routes": [
+                {
+                    "Name": "smoked",
+                    "Dosage": "1-2mg"
+                },
+                {
+                    "Name": "buccal",
+                    "Dosage": "6-16mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'stimulation'}",
+                "{xeff 'compulsive-redosing'}"
+            ],
+            "Notes": [
+                "Extremly addictive but boring substance",
+                "Most fun in the form of cigarettes",
+                "Very easy to overdose"
+            ]
+        },
+        {
+            "Name": "Nitrous oxide",
+            "Routes": [
+                {
+                    "Name": "inhaled",
+                    "Dosage": "10000-30000mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'tactile-suppression'}",
+                "{xeff 'perspective-hallucination'}; allowed me to reflect on my life from a different perspective",
+                "{xeff 'increased-sense-of-humor'}",
+                "{xeff 'auditory-distortion'}",
+                "{xeff 'time-distortion'}"
+            ]
+        },
+        {
+            "Name": "Paracetamol",
+            "Indication": "{sev 'light'} pain, for example {xeff 'headache'}",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "250-500mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'light'} {xeff 'pain-relief'}"
+            ]
+        },
+        {
+            "Name": "Pregabalin",
+            "Indication": "{xeff 'anxiety'}",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "24-300mg"
+                },
+                {
+                    "Name": "insufflated",
+                    "Dosage": "100mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'anxiety-suppression'}; helps a lot in my day-to-day life",
+                "very {sev 'light'} {xeff 'sedation'}",
+                "{sev 'light'} {xeff 'motor-control-loss'} at high doses or without tolerance",
+                "{sev 'light'} {xeff 'cognitive-euphoria'} at higher doses or without tolerance",
+                "{sev 'light'} {xeff 'pain-relief'}",
+                "very {sev 'light'} {xeff 'emotion-suppression'}; might be helpful with autism or overwhelming emotions"
+            ],
+            "Notes": [
+                "Consuming ~120mg daliy since 1-2026 because of stress and {xeff 'anxiety'}",
+                "Snorting pregabalin is not worth it, but it will have a stronger peak and shorter duration",
+                "Improves sleep quality",
+                "Might cause {xeff 'memory-suppression'} when consumed regularly at higher doses"
+            ]
+        },
+        {
+            "Name": "Progesterone",
+            "Indication": "Male to female transsexuality",
+            "Routes": [
+                {
+                    "Name": "rectal",
+                    "Dosage": "100-400mg"
+                },
+                {
+                    "Name": "oral",
+                    "Dosage": "100-450mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'sedation'} when consumed orally",
+                "{xeff 'sleepiness'} when consumed orally",
+                "{xeff 'increased-libido'}"
+            ],
+            "Notes": [
+                "Consumed daliy since 08-2025",
+                "might help with breast growth"
+            ]
+        },
+        {
+            "Name": "Promethazine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "25.0mg"
+                }
+            ]
+        },
+        {
+            "Name": "Quetiapine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "10-50mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'strong'} {xeff 'sedation'} to the point of barely passing out",
+                "{xeff 'sleepiness'}"
+            ],
+            "Notes": [
+                "Helpful as a tripkiller",
+                "Very effective as a sleep aid; but has a hangover"
+            ]
+        },
+        {
+            "Name": "Sildenafil",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "22-27mg"
+                }
+            ]
+        },
+        {
+            "Name": "Tyrosine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "1000.0mg"
+                }
+            ]
+        },
+        {
+            "Name": "4-propionyloxy-N-methyl-N-ethyltryptamine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "20mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'drifting'}",
+                "{xeff 'geometry'}",
+                "{xeff 'colour-enhancement'}",
+                "{sev 'light'} {xeff 'stimulation'}",
+                "{sev 'light'} {xeff 'nausea'} that fades away after the comeup"
+            ],
+            "Notes": [
+                "Feels like 2CB but with more bodyload and longer duration"
+            ]
+        },
+        {
+            "Name": "1-(3-(Trimethylsilyl)propionyl)-lysergic acid diethylamide",
+            "Routes": [
+                {
+                    "Name": "sublingual",
+                    "Dosage": "0.01-0.02mg"
+                }
+            ]
+        },
+        {
+            "Name": "Ketoprofen",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "50mg"
+                }
+            ]
+        },
+        {
+            "Name": "Cyproterone acetate",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "5-10mg"
+                }
+            ],
+            "Notes": "Helpful when doing MTF-HRT with estradiol-gel or tablets, might also increase libido and breast size"
+        },
+        {
+            "Name": "Atomoxetine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "10mg"
+                }
+            ],
+            "Notes": "No effects noted at 10mg"
+        },
+        {
+            "Name": "Benzocaine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "10mg"
+                }
+            ]
+        },
+        {
+            "Name": "Acetylcysteine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "800mg"
+                }
+            ]
+        },
+        {
+            "Name": "Tadalafil",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "5mg"
+                }
+            ]
+        }
+    ]
+}

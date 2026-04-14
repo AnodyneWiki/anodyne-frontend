@@ -1,0 +1,99 @@
+{
+  "Name": "N-(2-methoxybenzyl)phenethylamine",
+  "Format": "{i}N{Ei}-(2-methoxybenzyl)phenethylamine",
+  "Abr": "x-NBOMe",
+  "Entries": [
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NBOMe"
+      ],
+      "MW": "335.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25H-NBOMe"
+      ],
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-nitro-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25N-NBOMe"
+      ],
+      "MW": "346.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethyl-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25E-NBOMe"
+      ],
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methyl-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25D-NBOMe"
+      ],
+      "MW": "315.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propyl-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25P-NBOMe"
+      ],
+      "MW": "343.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethylthio-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25T2-NBOMe"
+      ],
+      "MW": "361.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-isopropylthio-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25T4-NBOMe"
+      ],
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propylthio-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25T7-NBOMe"
+      ],
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25B-NBOMe"
+      ],
+      "MW": "380.3 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NBOMe"
+      ],
+      "MW": "427.3 g/mol"
+    }
+  ],
+  "Parent": "n-benzylphenethylamine",
+  "Children": [],
+  "Analogues": [
+    "n-(2-hydroxybenzyl)phenethylamine",
+    "n-(3-methoxybenzyl)phenethylamine",
+    "n-(4-methoxybenzyl)phenethylamine",
+    "n-(2-fluorobenzyl)phenethylamine"
+  ],
+  "First": {
+    "Title": "N-(2-Methoxybenzyl)phenethylamine",
+    "Abr": [
+      "NBOMe"
+    ],
+    "MW": "241.33 g/mol"
+  }
+}

@@ -1,0 +1,282 @@
+{
+  "Name": "methylenedioxyphenethylamine",
+  "Abr": "MDxx",
+  "First": {
+    "Title": "3,4-Methylenedioxyphenethylamine",
+    "Abr": "MDPEA",
+    "MW": "165.19 g/mol"
+  },
+  "Entries": [
+    {
+      "Title": "3,4-Methylenedioxyamphetamine",
+      "Abr": [
+        "MDA"
+      ],
+      "MW": "179.22 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxycathinone",
+      "Abr": "MDC",
+      "MW": "193.20 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxyethamphetamine",
+      "Abr": "MDEA",
+      "MW": "207.27 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxymethamphetamine",
+      "Abr": [
+        "MDMA"
+      ],
+      "MW": "193.24 g/mol"
+    },
+    {
+      "Title": "5,6-Methylenedioxy-2-aminoindane",
+      "Abr": "MDAI",
+      "MW": "177.20 g/mol"
+    },
+    {
+      "Title": "5,6-Methylenedioxy-N-methyl-2-aminoindane",
+      "Abr": "MDMAI",
+      "MW": "191.23 g/mol"
+    },
+    {
+      "Title": "5-Methylethylone",
+      "Abr": "5-Me-MDEC",
+      "MW": "235.28 g/mol"
+    },
+    {
+      "Title": "Beta-Methoxy-3,4-methylenedioxyphenethylamine",
+      "Abr": "BOH",
+      "MW": "195.21 g/mol"
+    },
+    {
+      "Title": "Butylone",
+      "Abr": "",
+      "MW": "221.25 g/mol"
+    },
+    {
+      "Title": "Dipentylone",
+      "Abr": "",
+      "MW": "249.30 g/mol"
+    },
+    {
+      "Title": "Ethylone",
+      "Abr": "MDEC",
+      "MW": "221.25 g/mol"
+    },
+    {
+      "Title": "Eutylone",
+      "Abr": "",
+      "MW": "235.28 g/mol"
+    },
+    {
+      "Title": "Isohexylone",
+      "Abr": "",
+      "MW": "249.30 g/mol"
+    },
+    {
+      "Title": "Methylone",
+      "Abr": "MDMC",
+      "MW": "207.23 g/mol"
+    },
+    {
+      "Title": "N-Ethyl-nor-heptylone",
+      "Abr": "",
+      "MW": "277.36 g/mol"
+    },
+    {
+      "Title": "N-Ethyl-nor-pentylone",
+      "Abr": "",
+      "MW": "249.30 g/mol"
+    },
+    {
+      "Title": "Pentylone",
+      "Abr": "",
+      "MW": "235.28 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxyphenethylamine",
+      "Abr": "MDPEA",
+      "MW": "165.19 g/mol"
+    },
+    {
+      "Title": "β-Methoxy-3,4-methylenedioxyphenethylamine",
+      "Abr": "BOH",
+      "MW": "195.21 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-α-pyrrolidinoheptaphenone",
+      "Abr": "MDPEP",
+      "MW": "303.4 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxyphenmetrazine",
+      "Abr": [
+        "MDPM",
+        "3-MDPM"
+      ],
+      "MW": "221.25 g/mol"
+    },
+    {
+      "Title": "Homarylamine",
+      "Abr": "MDMPEA",
+      "MW": "179.22 g/mol"
+    },
+    {
+      "Title": "Hydrastinine",
+      "Abr": [],
+      "MW": "207.23 g/mol"
+    },
+    {
+      "Title": "Lophophine",
+      "Abr": "",
+      "MW": "195.21 g/mol"
+    },
+    {
+      "Title": "Methylenedioxyaminorex",
+      "Abr": "MDAR",
+      "MW": "206.20 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxyaminorex",
+      "Abr": [
+        "MDAR"
+      ],
+      "MW": "206.20 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-3,4-Methylenedioxymethamphetamine",
+      "Abr": "5-MeO-MDMA",
+      "MW": "223.27 g/mol"
+    },
+    {
+      "Title": "2,3-Methylenedioxyamphetamine",
+      "Abr": "2,3-MDA",
+      "MW": "179.22 g/mol"
+    },
+    {
+      "Title": "2,3-Methylenedioxymethamphetamine",
+      "Abr": [
+        "2,3-MDMA"
+      ],
+      "MW": "193.24 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-α-pyrrolidinohexiophenone",
+      "Abr": "MDPHP",
+      "MW": "289.4 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-α-pyrrolidinoisohexanophenone",
+      "Abr": [
+        "MDPiHP"
+      ],
+      "MW": "289.4 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-3,4-Methylenedioxyamphetamine",
+      "Abr": "5-MeO-MDA",
+      "MW": "209.24 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-α-pyrrolidinopropiophenone",
+      "Abr": "MDPPP",
+      "MW": "247.29 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-α-pyrrolidinobutiophenone",
+      "Abr": "MDPBP",
+      "MW": "261.32 g/mol"
+    },
+    {
+      "Title": "Propylone",
+      "Abr": "",
+      "MW": "235.28 g/mol"
+    },
+    {
+      "Title": "3,4-Ethylenedioxyamphetamine",
+      "Abr": "EDA",
+      "MW": "229.70 g/mol"
+    },
+    {
+      "Title": "3,4-Isopropylidenedioxyamphetamine",
+      "Abr": "IDA",
+      "MW": "207.27 g/mol"
+    },
+    {
+      "Title": "3,4-Ethylidenedioxyamphetamine",
+      "Abr": "EIDA",
+      "MW": "193.24 g/mol"
+    },
+    {
+      "Title": "5,6-Methylenedioxydimethyltryptamine",
+      "Abr": "5,6-MDDMT",
+      "MW": "232.28 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "MDPV"
+      ],
+      "MW": "275.34 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxymephentermine",
+      "Abr": "MDMP",
+      "MW": "207.27 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxyphentermine",
+      "Abr": "MDPH",
+      "MW": "193.24 g/mol"
+    },
+    {
+      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
+      "Abr": [
+        "Lys-MDMA"
+      ],
+      "MW": "321.4 g/mol"
+    },
+    {
+      "Title": "N-(Tert-butylformate)-3,4-methylenedioxymethamphetamine",
+      "Abr": "N-t-Boc-MDMA",
+      "MW": "293.36 g/mol"
+    },
+    {
+      "Title": "3,4-Dichloro-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "3,4-DCPV"
+      ],
+      "MW": "275.34 g/mol"
+    },
+    {
+      "Title": "N-(MDA)-Fentanyl",
+      "Abr": [],
+      "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "MDPV",
+        "MDPK"
+      ],
+      "MW": "275.34 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxydimethylamphetamine",
+      "Abr": [
+        "MDDM",
+        "MDDMA"
+      ],
+      "MW": "207.27 g/mol"
+    },
+    {
+      "Title": "Tadalafil",
+      "Abr": null,
+      "MW": "389.4 g/mol"
+    }
+  ],
+  "Parent": "phenethylamine"
+}

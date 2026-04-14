@@ -1,0 +1,83 @@
+{
+  "Name": "alkylbenzene",
+  "Abr": "toluenes",
+  "Entries": [
+    {
+      "Title": "Toluene",
+      "Abr": [],
+      "MW": "92.14 g/mol"
+    },
+    {
+      "Title": "Ethylbenzene",
+      "Abr": [],
+      "MW": "106.16 g/mol"
+    },
+    {
+      "Title": "Pseudocumene",
+      "Abr": [],
+      "MW": "120.19 g/mol"
+    },
+    {
+      "Title": "Para-Xylene",
+      "Abr": [],
+      "MW": "106.16 g/mol"
+    },
+    {
+      "Title": "Cumene",
+      "Abr": [],
+      "MW": "120.19 g/mol"
+    },
+    {
+      "Title": "Fluvoxamine",
+      "Abr": [],
+      "MW": "318.33 g/mol"
+    },
+    {
+      "Title": "Fenadiazole",
+      "Abr": [],
+      "MW": "162.15 g/mol"
+    },
+    {
+      "Title": "Escitalopram",
+      "Abr": [],
+      "MW": "324.4 g/mol"
+    },
+    {
+      "Title": "Hexahydrocannabinol",
+      "Abr": [
+        "HHC"
+      ],
+      "MW": "316.5 g/mol"
+    },
+    {
+      "Title": "10-Hydroxyhexahydrocannabinol",
+      "Abr": [
+        "10-OH-HHC"
+      ],
+      "MW": "332.5 g/mol"
+    },
+    {
+      "Title": "Piperine",
+      "Abr": [],
+      "MW": "285.34 g/mol"
+    },
+    {
+      "Title": "Dichlorodiphenyltrichloroethane",
+      "Abr": [
+        "DDT"
+      ],
+      "MW": "354.5 g/mol"
+    },
+    {
+      "Title": "Benzyl chloride",
+      "Abr": null,
+      "MW": "126.58 g/mol"
+    }
+  ],
+  "Children": [],
+  "Analogues": [
+    "aniline",
+    "cyclohexylamine",
+    "phenol"
+  ]
+}

@@ -1,0 +1,311 @@
+{
+  "Name": "cathinone",
+  "Entries": [
+    {
+      "Title": "3,4-Methylenedioxycathinone",
+      "Abr": "MDC",
+      "MW": "193.20 g/mol"
+    },
+    {
+      "Title": "3-Methylethcathinone",
+      "Abr": [
+        "3-MEC"
+      ],
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "4-Methylbuphedrone",
+      "Abr": "4-MeMABP",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "4-Methylethcathinone",
+      "Abr": [
+        "4-MEC"
+      ],
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "4-Methylpentedrone",
+      "Abr": [
+        "4-MPD"
+      ],
+      "MW": "205.30 g/mol"
+    },
+    {
+      "Title": "5-Methylethylone",
+      "Abr": "5-Me-MDEC",
+      "MW": "235.28 g/mol"
+    },
+    {
+      "Title": "Brephedrone",
+      "Abr": "4-BMC",
+      "MW": "242.11 g/mol"
+    },
+    {
+      "Title": "Brophedrone",
+      "Abr": "3-BMC",
+      "MW": "242.11 g/mol"
+    },
+    {
+      "Title": "Buphedrone",
+      "Abr": "MABP",
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Bupropion",
+      "Abr": "",
+      "MW": "239.74 g/mol"
+    },
+    {
+      "Title": "Butylone",
+      "Abr": "",
+      "MW": "221.25 g/mol"
+    },
+    {
+      "Title": "Clephedrone",
+      "Abr": "4-CMC",
+      "MW": "197.66 g/mol"
+    },
+    {
+      "Title": "Clophedrone",
+      "Abr": [
+        "3-CMC"
+      ],
+      "MW": "197.66 g/mol"
+    },
+    {
+      "Title": "Dipentylone",
+      "Abr": "",
+      "MW": "249.30 g/mol"
+    },
+    {
+      "Title": "Ethcathinone",
+      "Abr": "",
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Ethylone",
+      "Abr": "MDEC",
+      "MW": "221.25 g/mol"
+    },
+    {
+      "Title": "Eutylone",
+      "Abr": "",
+      "MW": "235.28 g/mol"
+    },
+    {
+      "Title": "Flephedrone",
+      "Abr": "4-FMC",
+      "MW": "181.21 g/mol"
+    },
+    {
+      "Title": "Flophedrone",
+      "Abr": [
+        "3-FMC"
+      ],
+      "MW": "181.21 g/mol"
+    },
+    {
+      "Title": "Hexedrone",
+      "Abr": "",
+      "MW": "205.30 g/mol"
+    },
+    {
+      "Title": "Isohexylone",
+      "Abr": "",
+      "MW": "249.30 g/mol"
+    },
+    {
+      "Title": "Mephedrone",
+      "Abr": [
+        "4-MMC"
+      ],
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Metaphedrone",
+      "Abr": [
+        "3-MMC"
+      ],
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Methcathinone",
+      "Abr": "",
+      "MW": "163.22 g/mol"
+    },
+    {
+      "Title": "Methylone",
+      "Abr": "MDMC",
+      "MW": "207.23 g/mol"
+    },
+    {
+      "Title": "N-Ethyl-nor-heptedrone",
+      "Abr": "",
+      "MW": "233.35 g/mol"
+    },
+    {
+      "Title": "N-Ethyl-nor-heptylone",
+      "Abr": "",
+      "MW": "277.36 g/mol"
+    },
+    {
+      "Title": "N-Ethyl-nor-pentedrone",
+      "Abr": "NEP",
+      "MW": "205.30 g/mol"
+    },
+    {
+      "Title": "N-Ethyl-nor-pentylone",
+      "Abr": "",
+      "MW": "249.30 g/mol"
+    },
+    {
+      "Title": "Orthophedrone",
+      "Abr": "2-MMC",
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Pentedrone",
+      "Abr": "",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "Pentylone",
+      "Abr": "",
+      "MW": "235.28 g/mol"
+    },
+    {
+      "Title": "N-Ethyl-4-methyl-nor-pentedrone",
+      "Abr": "4-MEAP",
+      "MW": "219.32 g/mol"
+    },
+    {
+      "Title": "Methedrone",
+      "Abr": "PMMC",
+      "MW": "193.24 g/mol"
+    },
+    {
+      "Title": "Propylcathinone",
+      "Abr": "",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "Clipredrone",
+      "Abr": "4-CIC",
+      "MW": "225.71 g/mol"
+    },
+    {
+      "Title": "4-Chlorobutylcathinone",
+      "Abr": "4-CBC",
+      "MW": "239.74 g/mol"
+    },
+    {
+      "Title": "N-Ethyl-nor-hexedrone",
+      "Abr": "Hexen",
+      "MW": "219.32 g/mol"
+    },
+    {
+      "Title": "3-Deschlorobupropion",
+      "Abr": "",
+      "MW": "205.30 g/mol"
+    },
+    {
+      "Title": "4-Fluorocathinone",
+      "Abr": "4-FC",
+      "MW": "167.18 g/mol"
+    },
+    {
+      "Title": "2-Ethylmethcathinone",
+      "Abr": "2-EMC",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "3-Ethylmethcathinone",
+      "Abr": "3-EMC",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "4-Ethylmethcathinone",
+      "Abr": "4-EMC",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "Nor-Mephedrone",
+      "Abr": "4-MC",
+      "MW": "163.22 g/mol"
+    },
+    {
+      "Title": "2-Fluoromethcathinone",
+      "Abr": "2-FMC",
+      "MW": "181.21 g/mol"
+    },
+    {
+      "Title": "Hydroxybupropion",
+      "Abr": "",
+      "MW": "255.74 g/mol"
+    },
+    {
+      "Title": "SKA-121",
+      "Abr": "SKA-121",
+      "MW": "198.22 g/mol"
+    },
+    {
+      "Title": "3,4-Dihydroxymethcathinone",
+      "Abr": "HHMC",
+      "MW": "195.21 g/mol"
+    },
+    {
+      "Title": "3,4-Ethylenedioxymethcathinone",
+      "Abr": "EDMC",
+      "MW": "221.25 g/mol"
+    },
+    {
+      "Title": "Propylone",
+      "Abr": "",
+      "MW": "235.28 g/mol"
+    },
+    {
+      "Title": "3,4-Dimethylmethcathinone",
+      "Abr": "3,4-DMMC",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "3,4-Ethylenedioxycathinone",
+      "Abr": "EDC",
+      "MW": "207.23 g/mol"
+    },
+    {
+      "Title": "1-Naphthylmethcathinone",
+      "Abr": "AMAPN",
+      "MW": "213.27 g/mol"
+    },
+    {
+      "Title": "α-Methylmethcathinone",
+      "Abr": [],
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Diethylpropion",
+      "Abr": "",
+      "MW": "205.30 g/mol"
+    },
+    {
+      "Title": "N-Benzylmethcathinone",
+      "Abr": [
+        "NBMC"
+      ],
+      "MW": "253.34 g/mol"
+    }
+  ],
+  "Parent": "amphetamine",
+  "Children": [
+    "pyrrolidinophenone",
+    "piperidinophenone"
+  ],
+  "First": {
+    "Title": "Cathinone",
+    "Abr": "",
+    "MW": "149.19 g/mol"
+  }
+}

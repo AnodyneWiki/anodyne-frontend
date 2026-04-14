@@ -1,0 +1,32 @@
+{{define "UserPsyche" -}}
+{{$v := .}}
+{{with $p:= .Psyche -}}
+<div class=collapser><h2>Psyche<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
+<div class=collapserContent><ul>
+{{with $at := .Attributes -}}
+{{range .}}<li contenteditable={{$v.Editable}} class=userattribute>{{template "user" .}}</li>{{end}}</ul>{{end}}
+{{with $d := .Dissociation -}}
+<li>{{template "user" "{wkp 'Dissociative identity disorder'}"}} ({{with $d.Diagnosis}}{{.}}; {{end}}{{with $d.Alters | len}}{{.}} known alters{{end}})</li>
+{{with $d.Alters}}
+<ul>
+{{range . -}}
+<li>{{template "srca" .Name}}</li>
+<ul>
+{{with .Sexuality}}<li><strong>sexuality</strong>: {{.}}</li>{{end -}}
+{{with .Interests}}<li><strong>interests</strong>: <ul>{{range .}}<li>{{template "user" .}}</li>{{end}}</li>{{end}}
+{{with .Compounds}}<li><strong>favorite compounds</strong>:</li><ul>{{range .}}<li>{{template "user" .}}</li>{{end}}</ul>{{end}}
+{{with .Attributes}}<li><strong>attributes</strong>:</li><ul>{{range .}}<li>{{template "user" .}}</li>{{end}}</ul>{{end}}
+</ul>
+{{end -}}
+</ul>
+{{end -}}
+</li>{{end}}</ul>
+{{with .Interests}}
+<h3>Interests</h3>
+<ul id=userinterests>
+{{range .}}
+<li contenteditable={{$v.Editable}} class=userinterest>{{template "user" .}}</li>{{end}}</ul>
+{{end}}
+</div></div>
+{{end}}
+{{end}}

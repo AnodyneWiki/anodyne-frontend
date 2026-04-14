@@ -1,0 +1,22 @@
+{{$v := dict "Title" (splitList "/" .OriginalReq.URL.Path | last | default "")}}
+
+
+{{$_ := set $v "Path" (printf "/user/%s/preferences.json" $v.Title)}}
+{{if fileExists $v.Path}}
+{{$vI := include $v.Path | fromJson}}
+{{if $vI}}
+{{$v = merge $v $vI}}
+{{$_ := set $v "Exists" true}}
+{{else}}
+{{$_ := set $v "Exists" false}}
+{{end}}
+{{else}}
+{{$_ := set $v "Exists" false}}
+{{end}}
+
+{{$_ := printf "/user/%s/pfp.jpg" $v.Title | set $v "PicturePath"}}
+
+{{if fileExists $v.PicturePath}}{{$_ := printf "/user/%s/pfp.jpg" $v.Title |set $v "Picture" }}{{end -}}
+
+{{import "article.html"}}
+{{template "article" (dict "Title" (printf "%s %s - Anodyne" (ternary "Editing" "Creating" $v.Exists) (default "new" $v.Title) ) "Markdown" "form.md" "Vars" $v)}}

@@ -1,0 +1,63 @@
+{
+  "Name": "barbiturate",
+  "Entries": [
+    {
+      "Title": "Allobarbital",
+      "Abr": "",
+      "MW": "208.21 g/mol"
+    },
+    {
+      "Title": "Alphenal",
+      "Abr": "",
+      "MW": "244.25 g/mol"
+    },
+    {
+      "Title": "Amobarbital",
+      "Abr": "",
+      "MW": "226.27 g/mol"
+    },
+    {
+      "Title": "Aprobarbital",
+      "Abr": "",
+      "MW": "210.23 g/mol"
+    },
+    {
+      "Title": "Brallobarbital",
+      "Abr": "",
+      "MW": "287.11 g/mol"
+    },
+    {
+      "Title": "Pentobarbital",
+      "Abr": [],
+      "MW": "226.27 g/mol"
+    },
+    {
+      "Title": "Phenobarbital",
+      "Abr": "",
+      "MW": "232.23 g/mol"
+    },
+    {
+      "Title": "Secobarbital",
+      "Abr": "",
+      "MW": "238.28 g/mol"
+    },
+    {
+      "Title": "Primidone",
+      "Abr": "",
+      "MW": "218.25 g/mol"
+    },
+    {
+      "Title": "Talbutal",
+      "Abr": [],
+      "MW": "224.26 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "Barbital",
+    "Abr": "",
+    "MW": "184.19 g/mol"
+  },
+  "Analogues": [
+    "thiobarbiturate"
+  ]
+}

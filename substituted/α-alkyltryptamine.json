@@ -1,0 +1,92 @@
+{
+  "Name": "α-alkyltryptamine",
+  "Entries": [
+    {
+      "Title": "4-Hydroxy-α-methyltryptamine",
+      "Abr": "4-HO-αMT",
+      "MW": "190.24 g/mol"
+    },
+    {
+      "Title": "4-Methyl-α-methyltryptamine",
+      "Abr": "4-Me-αMT",
+      "MW": "188.27 g/mol"
+    },
+    {
+      "Title": "5-Ethoxy-α-methyltryptamine",
+      "Abr": "5-EtO-αMT",
+      "MW": "218.29 g/mol"
+    },
+    {
+      "Title": "5-Fluoro-α-methyltryptamine",
+      "Abr": "5-Fluoro-αMT",
+      "MW": "192.23 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-α-methyltryptamine",
+      "Abr": "5-MeO-αMT",
+      "MW": "204.27 g/mol"
+    },
+    {
+      "Title": "7-Chloro-α-methyltryptamine",
+      "Abr": "7-Chloro-αMT",
+      "MW": "208.69 g/mol"
+    },
+    {
+      "Title": "α-Ethyltryptamine",
+      "Abr": "αET",
+      "MW": "188.27 g/mol"
+    },
+    {
+      "Title": "5-Chloro-α-methyltryptamine",
+      "Abr": "5-Chloro-αMT",
+      "MW": "208.69 g/mol"
+    },
+    {
+      "Title": "5-Chloro-α-ethyltryptamine",
+      "Abr": "5-Chloro-αET",
+      "MW": "222.71 g/mol"
+    },
+    {
+      "Title": "5-Fluoro-α-ethyltryptamine",
+      "Abr": "5-Fluoro-αET",
+      "MW": "206.26 g/mol"
+    },
+    {
+      "Title": "α,N-Dimethyl-β-ketotryptamine",
+      "Abr": "βk-NM-αMT",
+      "MW": "202.25 g/mol"
+    },
+    {
+      "Title": "α,N-Dimethyltryptamine",
+      "Abr": "NM-αMT",
+      "MW": "188.27 g/mol"
+    },
+    {
+      "Title": "Indolylpropylaminopentane",
+      "Abr": "IPAP",
+      "MW": "244.37 g/mol"
+    },
+    {
+      "Title": "α,N-Dimethyl-5-fluoro-β-ketotryptamine",
+      "Abr": "βk-5F-NM-αMT",
+      "MW": "220.24 g/mol"
+    },
+    {
+      "Title": "α,N-Dimethyl-5-chloro-β-ketotryptamine",
+      "Abr": "βk-5Cl-NM-αMT",
+      "MW": "236.70 g/mol"
+    },
+    {
+      "Title": "α,N-Dimethyl-5-bromo-β-ketotryptamine",
+      "Abr": "βk-5Br-NM-αMT",
+      "MW": "281.15 g/mol"
+    }
+  ],
+  "Parent": "tryptamine",
+  "Children": [],
+  "First": {
+    "Title": "α-Methyltryptamine",
+    "Abr": "αMT",
+    "MW": "174.24 g/mol"
+  }
+}

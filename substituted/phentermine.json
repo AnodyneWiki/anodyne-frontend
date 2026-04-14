@@ -1,0 +1,61 @@
+{
+  "Name": "phentermine",
+  "Entries": [
+    {
+      "Title": "α-Methylmethcathinone",
+      "Abr": [],
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Phentermine",
+      "Abr": [],
+      "MW": "149.23 g/mol"
+    },
+    {
+      "Title": "Mephentermine",
+      "Abr": [],
+      "MW": "163.26 g/mol"
+    },
+    {
+      "Title": "Chlorphentermine",
+      "Abr": "",
+      "MW": "183.68 g/mol"
+    },
+    {
+      "Title": "Pentorex",
+      "Abr": [],
+      "MW": "163.26 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxymephentermine",
+      "Abr": "MDMP",
+      "MW": "207.27 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxyphentermine",
+      "Abr": "MDPH",
+      "MW": "193.24 g/mol"
+    },
+    {
+      "Title": "Cericlamine",
+      "Abr": "",
+      "MW": "262.17 g/mol"
+    },
+    {
+      "Title": "Cloforex",
+      "Abr": "",
+      "MW": "255.74 g/mol"
+    },
+    {
+      "Title": "Clortermine",
+      "Abr": "",
+      "MW": "183.68 g/mol"
+    },
+    {
+      "Title": "Etolorex",
+      "Abr": "",
+      "MW": "227.73 g/mol"
+    }
+  ],
+  "Parent": "amphetamine"
+}

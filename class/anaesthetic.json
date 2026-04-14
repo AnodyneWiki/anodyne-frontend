@@ -1,0 +1,105 @@
+{
+  "Name": "anaesthetic",
+  "Entries": [
+    {
+      "Title": "4-hydroxybutanoic acid",
+      "Abr": "GHB",
+      "MW": "104.10 g/mol"
+    },
+    {
+      "Title": "Arketamine",
+      "Abr": "",
+      "MW": "237.72 g/mol"
+    },
+    {
+      "Title": "Benzocaine",
+      "Abr": "",
+      "MW": "165.19 g/mol"
+    },
+    {
+      "Title": "Carfentanyl",
+      "Abr": "",
+      "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "Chloroform",
+      "Abr": "",
+      "MW": "119.37 g/mol"
+    },
+    {
+      "Title": "Cocaine",
+      "Abr": "",
+      "MW": "303.35 g/mol"
+    },
+    {
+      "Title": "Diethyl ether",
+      "Abr": "",
+      "MW": "74.12 g/mol"
+    },
+    {
+      "Title": "Diphenhydramine",
+      "Abr": "DPH",
+      "MW": "255.35 g/mol"
+    },
+    {
+      "Title": "Esketamine",
+      "Abr": "",
+      "MW": "237.72 g/mol"
+    },
+    {
+      "Title": "Fentanyl",
+      "Abr": "",
+      "MW": "336.5 g/mol"
+    },
+    {
+      "Title": "Ketamine",
+      "Abr": "K",
+      "MW": "237.72 g/mol"
+    },
+    {
+      "Title": "Lidocaine",
+      "Abr": "",
+      "MW": "234.34 g/mol"
+    },
+    {
+      "Title": "Midazolam",
+      "Abr": "",
+      "MW": "325.8 g/mol"
+    },
+    {
+      "Title": "Morphine",
+      "Abr": "",
+      "MW": "285.34 g/mol"
+    },
+    {
+      "Title": "Nitrous oxide",
+      "Abr": "",
+      "MW": "44.013 g/mol"
+    },
+    {
+      "Title": "Phencyclidine",
+      "Abr": "PCP",
+      "MW": "243.4 g/mol"
+    },
+    {
+      "Title": "Promethazine",
+      "Abr": "",
+      "MW": "284.4 g/mol"
+    },
+    {
+      "Title": "Propofol",
+      "Abr": "",
+      "MW": "178.27 g/mol"
+    },
+    {
+      "Title": "Rolicyclidine",
+      "Abr": "PCPy",
+      "MW": "229.36 g/mol"
+    },
+    {
+      "Title": "Sufentanyl",
+      "Abr": "",
+      "MW": "386.6 g/mol"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "Name": "tetrahydroisoquinoline",
+  "Entries": [
+    {
+      "Title": "Pellotine",
+      "Abr": [
+        "Peyotline"
+      ],
+      "MW": "237.29 g/mol"
+    },
+    {
+      "Title": "Anhalamine",
+      "Abr": [],
+      "MW": "209.24 g/mol"
+    },
+    {
+      "Title": "Hydrastinine",
+      "Abr": [],
+      "MW": "207.23 g/mol"
+    },
+    {
+      "Title": "Anhalidine",
+      "Abr": [],
+      "MW": "223.27 g/mol"
+    },
+    {
+      "Title": "Anhalinine",
+      "Abr": [],
+      "MW": "223.27 g/mol"
+    },
+    {
+      "Title": "Anhalonidine",
+      "Abr": [],
+      "MW": "223.27 g/mol"
+    },
+    {
+      "Title": "Gigantine",
+      "Abr": [],
+      "MW": "237.29 g/mol"
+    }
+  ],
+  "Parent": "phenethylamine",
+  "Children": [],
+  "First": {
+    "Title": "Tetrahydroisoquinoline",
+    "Abr": [
+      "TIQ",
+      "THIQ",
+      "AMPH-CR"
+    ],
+    "MW": "133.19 g/mol"
+  },
+  "Analogues": [
+    "aminoindane"
+  ]
+}

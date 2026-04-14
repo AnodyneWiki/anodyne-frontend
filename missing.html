@@ -1,0 +1,2 @@
+{{define "missing"}}{{import "article.html"}}
+{{template "article" (dict  "Title" (printf "%s - Anodyne" .Title) "Markdown" "missing.md" "Vars" (dict "Type" (default "none" .Type)))}}{{end}}

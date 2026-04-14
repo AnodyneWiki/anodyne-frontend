@@ -1,0 +1,63 @@
+{
+  "Name": "phenylpiperazine",
+  "Entries": [
+    {
+      "Title": "Phenylpiperazine",
+      "Abr": "PP",
+      "MW": "162.23 g/mol"
+    },
+    {
+      "Title": "4-Methylphenylpiperazine",
+      "Abr": "4-MPP",
+      "MW": "176.26 g/mol"
+    },
+    {
+      "Title": "4-Chlorophenylpiperazine",
+      "Abr": "4-CPP",
+      "MW": "196.67 g/mol"
+    },
+    {
+      "Title": "3-Chlorophenylpiperazine",
+      "Abr": [
+        "3-CPP"
+      ],
+      "MW": "196.67 g/mol"
+    },
+    {
+      "Title": "4-Fluorophenylpiperazine",
+      "Abr": "4-FPP",
+      "MW": "180.22 g/mol"
+    },
+    {
+      "Title": "2-Methylphenylpiperazine",
+      "Abr": "oMPP",
+      "MW": "176.26 g/mol"
+    },
+    {
+      "Title": "4-Methoxyphenylpiperazine",
+      "Abr": "pMeOPP",
+      "MW": "192.26 g/mol"
+    },
+    {
+      "Title": "4-Nitrophenylpiperazine",
+      "Abr": "pNPP",
+      "MW": "207.23 g/mol"
+    },
+    {
+      "Title": "2,3-Dimethylphenylpiperazine",
+      "Abr": "2,3-DMPP",
+      "MW": "190.28 g/mol"
+    },
+    {
+      "Title": "Dimethylphenylpiperazinium",
+      "Abr": [
+        "DMPP"
+      ],
+      "MW": "191.29 g/mol"
+    }
+  ],
+  "Parents": [
+    "aniline",
+    "piperazine"
+  ]
+}

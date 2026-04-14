@@ -1,0 +1,14 @@
+{{import "article.html"}}
+
+{{$pathParts := splitList "/" .OriginalReq.URL.Path}}
+{{$indexPath := snakecase (last $pathParts)}}
+{{$varsPath := printf "/index/%s.json" $indexPath}}
+{{$ivars := (include $varsPath | splitFrontMatter).Meta}}
+{{$entryIndex := int (sub (len $ivars.Entries) 1) | randInt 0}}
+{{$vars := add1 $entryIndex | slice $ivars.Entries $entryIndex | first}}
+{{$abr := ""}}{{if empty $ivars.Abbreviation | not | and $ivars.Abbreviation -}}
+	{{$abr = ternary $ivars.Abbreviation ($ivars.Abbreviation | join ", ") (kindIs "string" $vars.Abbreviation) -}}
+{{end}}
+{{$title := ternary (printf "%s - Anodyne" $vars.Title) (printf "%s (%s) - Anodyne" $vars.Title $abr) (empty $abr)}}
+
+{{include "substance.html" $vars.Title}}

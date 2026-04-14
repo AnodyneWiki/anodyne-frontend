@@ -1,0 +1,40 @@
+{
+  "Name": "antipsychotic",
+  "Entries": [
+    {
+      "Title": "Amisulpride",
+      "Abr": "",
+      "MW": "369.5 g/mol"
+    },
+    {
+      "Title": "Aripiprazole",
+      "Abr": "",
+      "MW": "448.4 g/mol"
+    },
+    {
+      "Title": "Etizolam",
+      "Abr": "",
+      "MW": "342.8 g/mol"
+    },
+    {
+      "Title": "Flunitrazolam",
+      "Abr": "",
+      "MW": "337.31 g/mol"
+    },
+    {
+      "Title": "Oxiracetam",
+      "Abr": "",
+      "MW": "158.16 g/mol"
+    },
+    {
+      "Title": "Phenethylamine",
+      "Abr": "PEA",
+      "MW": "121.18 g/mol"
+    },
+    {
+      "Title": "Quetiapine",
+      "Abr": "",
+      "MW": "383.5 g/mol"
+    }
+  ]
+}

@@ -1,0 +1,48 @@
+{
+  "Name": "thiobarbiturate",
+  "Entries": [
+    {
+      "Title": "Thiopental",
+      "Abr": "",
+      "MW": "242.34 g/mol"
+    },
+    {
+      "Title": "Thialbarbital",
+      "Abr": "",
+      "MW": "264.35 g/mol"
+    },
+    {
+      "Title": "Thiamylal",
+      "Abr": "",
+      "MW": "254.35 g/mol"
+    },
+    {
+      "Title": "Buthalital",
+      "Abr": "",
+      "MW": "240.32 g/mol"
+    },
+    {
+      "Title": "Methitural",
+      "Abr": "",
+      "MW": "288.4 g/mol"
+    },
+    {
+      "Title": "Thiobutabarbital",
+      "Abr": "",
+      "MW": "228.31 g/mol"
+    },
+    {
+      "Title": "Thiotetrabarbital",
+      "Abr": "",
+      "MW": "256.37 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "Thiobarbital",
+    "Abr": "",
+    "MW": "200.26 g/mol"
+  },
+  "Analogues": [
+    "barbiturate"
+  ]
+}

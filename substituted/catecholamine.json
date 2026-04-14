@@ -1,0 +1,161 @@
+{
+  "Name": "catecholamine",
+  "Entries": [
+    {
+      "Title": "Epinephrine",
+      "Abr": "Adrenaline",
+      "MW": "183.20 g/mol"
+    },
+    {
+      "Title": "Norepinephrine",
+      "Abr": "NE",
+      "MW": "169.18 g/mol"
+    },
+    {
+      "Title": "Isoprenaline",
+      "Abr": "",
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "Arbutamine",
+      "Abr": "",
+      "MW": "317.4 g/mol"
+    },
+    {
+      "Title": "Corbadrine",
+      "Abr": "",
+      "MW": "183.20 g/mol"
+    },
+    {
+      "Title": "Dioxifedrine",
+      "Abr": "",
+      "MW": "197.23 g/mol"
+    },
+    {
+      "Title": "Ethylnorepinephrine",
+      "Abr": "",
+      "MW": "197.23 g/mol"
+    },
+    {
+      "Title": "Dioxethedrin",
+      "Abr": "",
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "Isoetarine",
+      "Abr": "",
+      "MW": "239.31 g/mol"
+    },
+    {
+      "Title": "Carbidopa",
+      "Abr": "",
+      "MW": "226.23 g/mol"
+    },
+    {
+      "Title": "Theodrenaline",
+      "Abr": "",
+      "MW": "375.4 g/mol"
+    },
+    {
+      "Title": "Adrenalone",
+      "Abr": "",
+      "MW": "181.19 g/mol"
+    },
+    {
+      "Title": "3-Methoxytyramine",
+      "Abr": "3-MT",
+      "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Bitolterol",
+      "Abr": "",
+      "MW": "461.5 g/mol"
+    },
+    {
+      "Title": "Colterol",
+      "Abr": "",
+      "MW": "225.28 g/mol"
+    },
+    {
+      "Title": "Macromerine",
+      "Abr": "",
+      "MW": "225.28 g/mol"
+    },
+    {
+      "Title": "Oxidopamine",
+      "Abr": "6-OHDA",
+      "MW": "169.18 g/mol"
+    },
+    {
+      "Title": "3,4-Dihydroxymethcathinone",
+      "Abr": "HHMC",
+      "MW": "195.21 g/mol"
+    },
+    {
+      "Title": "3,4-Ethylenedioxycathinone",
+      "Abr": "EDC",
+      "MW": "207.23 g/mol"
+    },
+    {
+      "Title": "3,4-Dimethoxyphenethylamine",
+      "Abr": "DMPEA",
+      "MW": "181.23 g/mol"
+    },
+    {
+      "Title": "3,5-Dimethoxy-4-ethoxyphenethylamine",
+      "Abr": "3C-E",
+      "MW": "225.28 g/mol"
+    },
+    {
+      "Title": "3,5-Dimethoxy-4-trideuteromethoxyphenethylamine",
+      "Abr": "4-D",
+      "MW": "214.28 g/mol"
+    },
+    {
+      "Title": "Mescaline",
+      "Abr": "TMPEA",
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "Ibopamine",
+      "Abr": "",
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "Allylescaline",
+      "Abr": [
+        "AL"
+      ],
+      "MW": "237.29 g/mol"
+    },
+    {
+      "Title": "Benzscaline",
+      "Abr": [
+        "4-BzlO-3,5-DMPEA",
+        "BZ"
+      ],
+      "MW": "287.35 g/mol"
+    },
+    {
+      "Title": "L-3,4-Dihydroxyphenylalanine",
+      "Abr": [
+        "L-DOPA"
+      ],
+      "MW": "197.19 g/mol"
+    },
+    {
+      "Title": "3,4-Dihydroxyphenylalanine",
+      "Abr": [
+        "DOPA",
+        "L-DOPA"
+      ],
+      "MW": "197.19 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "Dopamine",
+    "Abr": "DA",
+    "MW": "153.18 g/mol"
+  },
+  "Parent": "phenethylamine"
+}

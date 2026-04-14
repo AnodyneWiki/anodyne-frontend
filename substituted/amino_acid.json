@@ -1,0 +1,250 @@
+{
+  "Name": "amino acid",
+  "Entries": [
+    {
+      "Title": "Benzylpenicillin",
+      "Abr": "",
+      "MW": "334.4 g/mol"
+    },
+    {
+      "Title": "Carbidopa",
+      "Abr": "",
+      "MW": "226.23 g/mol"
+    },
+    {
+      "Title": "Etilevodopa",
+      "Abr": "",
+      "MW": "225.24 g/mol"
+    },
+    {
+      "Title": "Foslevodopa",
+      "Abr": "",
+      "MW": "277.17 g/mol"
+    },
+    {
+      "Title": "3,4-Dihydroxyphenylalanine",
+      "Abr": [
+        "DOPA",
+        "L-DOPA"
+      ],
+      "MW": "197.19 g/mol"
+    },
+    {
+      "Title": "Leu-enkephalin",
+      "Abr": "",
+      "MW": "555.6 g/mol"
+    },
+    {
+      "Title": "Melevodopa",
+      "Abr": "",
+      "MW": "211.21 g/mol"
+    },
+    {
+      "Title": "Met-enkephalin",
+      "Abr": "",
+      "MW": "573.7 g/mol"
+    },
+    {
+      "Title": "Methyldopa",
+      "Abr": "",
+      "MW": "211.21 g/mol"
+    },
+    {
+      "Title": "N-Acetyl-L-tyrosine",
+      "Abr": "NALT",
+      "MW": "223.22 g/mol"
+    },
+    {
+      "Title": "Phenylalanine",
+      "Abr": "Phe",
+      "MW": "165.19 g/mol"
+    },
+    {
+      "Title": "Tyrosine",
+      "Abr": "Tyr",
+      "MW": "181.19 g/mol"
+    },
+    {
+      "Title": "Citrulline",
+      "Abr": "",
+      "MW": "175.19 g/mol"
+    },
+    {
+      "Title": "Arginine",
+      "Abr": "",
+      "MW": "174.20 g/mol"
+    },
+    {
+      "Title": "Histidine",
+      "Abr": "His",
+      "MW": "155.15 g/mol"
+    },
+    {
+      "Title": "Lysine",
+      "Abr": "Lys",
+      "MW": "146.19 g/mol"
+    },
+    {
+      "Title": "Aspartic acid",
+      "Abr": "Asp",
+      "MW": "133.10 g/mol"
+    },
+    {
+      "Title": "Glutamic acid",
+      "Abr": "Glu",
+      "MW": "147.13 g/mol"
+    },
+    {
+      "Title": "Amoxicillin",
+      "Abr": "",
+      "MW": "365.4 g/mol"
+    },
+    {
+      "Title": "Valine",
+      "Abr": "Val",
+      "MW": "117.15 g/mol"
+    },
+    {
+      "Title": "Isoleucine",
+      "Abr": "Ile",
+      "MW": "131.17 g/mol"
+    },
+    {
+      "Title": "Leucine",
+      "Abr": "Leu",
+      "MW": "131.17 g/mol"
+    },
+    {
+      "Title": "Methionine",
+      "Abr": [
+        "Met"
+      ],
+      "MW": "149.21 g/mol"
+    },
+    {
+      "Title": "Cysteine",
+      "Abr": "Cys",
+      "MW": "121.16 g/mol"
+    },
+    {
+      "Title": "Proline",
+      "Abr": "Pro",
+      "MW": "115.13 g/mol"
+    },
+    {
+      "Title": "Selenocysteine",
+      "Abr": "Sec",
+      "MW": "167.06 g/mol"
+    },
+    {
+      "Title": "Serine",
+      "Abr": "Ser",
+      "MW": "105.09 g/mol"
+    },
+    {
+      "Title": "Threonine",
+      "Abr": "Thr",
+      "MW": "119.12 g/mol"
+    },
+    {
+      "Title": "Asparagine",
+      "Abr": "Asn",
+      "MW": "132.12 g/mol"
+    },
+    {
+      "Title": "Glutamine",
+      "Abr": "Gln",
+      "MW": "146.14 g/mol"
+    },
+    {
+      "Title": "Acetylcysteine",
+      "Abr": [
+        "NAC"
+      ],
+      "MW": "163.20 g/mol"
+    },
+    {
+      "Title": "α-Endorphin",
+      "Abr": "",
+      "MW": "1745.9 g/mol"
+    },
+    {
+      "Title": "β-Endorphin",
+      "Abr": "",
+      "MW": "3465.0 g/mol"
+    },
+    {
+      "Title": "γ-Endorphin",
+      "Abr": "",
+      "MW": "1859.1 g/mol"
+    },
+    {
+      "Title": "Thyroxine",
+      "Abr": "T4",
+      "MW": "776.87 g/mol"
+    },
+    {
+      "Title": "Caramboxin",
+      "Abr": "",
+      "MW": "255.22 g/mol"
+    },
+    {
+      "Title": "Domoic acid",
+      "Abr": "",
+      "MW": "311.33 g/mol"
+    },
+    {
+      "Title": "Saxitoxin",
+      "Abr": "",
+      "MW": "299.29 g/mol"
+    },
+    {
+      "Title": "Neosaxitoxin",
+      "Abr": "",
+      "MW": "315.29 g/mol"
+    },
+    {
+      "Title": "Theanine",
+      "Abr": "",
+      "MW": "174.20 g/mol"
+    },
+    {
+      "Title": "Ubenimex",
+      "Abr": "",
+      "MW": "308.37 g/mol"
+    },
+    {
+      "Title": "Bestatin",
+      "Abr": "Ubenimex",
+      "MW": "308.37 g/mol"
+    },
+    {
+      "Title": "Amastatin",
+      "Abr": "",
+      "MW": "474.5 g/mol"
+    },
+    {
+      "Title": "Fenclonine",
+      "Abr": "PCPA",
+      "MW": "199.63 g/mol"
+    },
+    {
+      "Title": "Ergocornine",
+      "Abr": [],
+      "MW": "561.7 g/mol"
+    },
+    {
+      "Title": "L-3,4-Dihydroxyphenylalanine",
+      "Abr": [
+        "L-DOPA"
+      ],
+      "MW": "197.19 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "Alanine",
+    "Abr": "Ala",
+    "MW": "89.09 g/mol"
+  },
+  "Parent": "carboxylic acid"
+}

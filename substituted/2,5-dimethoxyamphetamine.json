@@ -1,0 +1,184 @@
+{
+  "Name": "2,5-dimethoxyamphetamine",
+  "Abr": "DOx",
+  "Position": "4",
+  "First": {
+    "Title": "2,5-Dimethoxyamphetamine",
+    "Abr": "2,5-DMA",
+    "MW": "195.26 g/mol"
+  },
+  "Entries": [
+    {
+      "Title": "2,5-Dimethoxy-4-methylamphetamine",
+      "Abr": [
+        "DOM"
+      ],
+      "MW": "209.28 g/mol"
+    },
+    {
+      "Title": "2,4,5-Triethoxyamphetamine",
+      "Abr": "EEE",
+      "MW": "267.36 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromoamphetamine",
+      "Abr": "DOB",
+      "MW": "274.15 g/mol"
+    },
+    {
+      "Title": "Bromo-dragonfly",
+      "Abr": "Bromo-dragonfly",
+      "MW": "294.14 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodoamphetamine",
+      "Abr": "DOI",
+      "MW": "321.15 g/mol"
+    },
+    {
+      "Title": "2,4,5-Trimethoxyamphetamine",
+      "Abr": [
+        "TMA-2"
+      ],
+      "MW": "225.28 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloroamphetamine",
+      "Abr": "DOC",
+      "MW": "229.70 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-fluoroamphetamine",
+      "Abr": "DOF",
+      "MW": "213.25 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propylamphetamine",
+      "Abr": "DOPR",
+      "MW": "237.34 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-isopropylamphetamine",
+      "Abr": "DOIP",
+      "MW": "237.34 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethylamphetamine",
+      "Abr": "DOET",
+      "MW": "223.31 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-butylamphetamine",
+      "Abr": "DOBU",
+      "MW": "251.36 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-amylamphetamine",
+      "Abr": "DOAM",
+      "MW": "265.39 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-(2-fluoroethyl)amphetamine",
+      "Abr": "DOEF",
+      "MW": "241.30 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-trifluoromethylamphetamine",
+      "Abr": "DOTFM",
+      "MW": "263.26 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-nitroamphetamine",
+      "Abr": "DON",
+      "MW": "240.26 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylthioamphetamine",
+      "Abr": "Aleph-1",
+      "MW": "241.35 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethylthioamphetamine",
+      "Abr": "Aleph-2",
+      "MW": "255.38 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-isopropylthioamphetamine",
+      "Abr": "Aleph-4",
+      "MW": "269.40 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-phenylthioamphetamine",
+      "Abr": "Aleph-6",
+      "MW": "303.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propylthioamphetamine",
+      "Abr": "Aleph-7",
+      "MW": "269.40 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-α-ethylphenethylamine",
+      "Abr": "4C-B",
+      "MW": "288.18 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methyl-α-ethylphenethylamine",
+      "Abr": "4C-D",
+      "MW": "223.31 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethylthio-α-ethylphenethylamine",
+      "Abr": "4C-T-2",
+      "MW": "269.40 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-acetylamphetamine",
+      "Abr": "DOAc",
+      "MW": "237.29 g/mol"
+    },
+    {
+      "Title": "Pentamethoxyamphetamine",
+      "Abr": "PeMA",
+      "MW": "285.34 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylphenylcyclopropylamine",
+      "Abr": "DMCPA",
+      "MW": "207.27 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylsulfonylamphetamine",
+      "Abr": [
+        "DOMS"
+      ],
+      "MW": "273.35 g/mol"
+    },
+    {
+      "Title": "Butaxamine",
+      "Abr": "",
+      "MW": "267.36 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethoxyamphetamine",
+      "Abr": [
+        "MEM"
+      ],
+      "MW": "239.31 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylmethamphetamine",
+      "Abr": [
+        "Beatrice",
+        "N-methyl-DOM",
+        "MDO-D",
+        "MDOM"
+      ],
+      "MW": "223.31 g/mol"
+    }
+  ],
+  "Parent": "2,5-dimethoxyphenethylamine",
+  "Analogues": [
+    "3,5-dimethoxyamphetamine"
+  ]
+}

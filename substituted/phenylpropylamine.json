@@ -1,0 +1,88 @@
+{
+  "Name": "phenylpropylamine",
+  "Entries": [
+    {
+      "Title": "3,4-Methylenedioxy-3-methylaminobutane",
+      "Abr": "Homo-MDMA",
+      "MW": "207.27 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxyphenylaminobutane",
+      "Abr": "Homo-MDA",
+      "MW": "193.24 g/mol"
+    },
+    {
+      "Title": "Norfluoxetine",
+      "Abr": "",
+      "MW": "295.30 g/mol"
+    },
+    {
+      "Title": "7-Amino-6,7,8,9-tetrahydro-5H-benzocycloheptene",
+      "Abr": [
+        "7-AB"
+      ],
+      "MW": "161.24 g/mol"
+    },
+    {
+      "Title": "1-(2-Benzhydryloxyethyl)-4-(3-phenylpropyl)piperazine",
+      "Abr": [
+        "GBR-12935"
+      ],
+      "MW": "414.6 g/mol"
+    },
+    {
+      "Title": "Fluoxetine",
+      "Abr": [],
+      "MW": "309.33 g/mol"
+    },
+    {
+      "Title": "Methiodone",
+      "Abr": [
+        "IC-26",
+        "WIN 1161-3"
+      ],
+      "MW": "345.5 g/mol"
+    },
+    {
+      "Title": "Sumatriptan",
+      "Abr": [],
+      "MW": "295.40 g/mol"
+    },
+    {
+      "Title": "Methylethyltryptamine",
+      "Abr": [
+        "MET"
+      ],
+      "MW": "202.30 g/mol"
+    },
+    {
+      "Title": "Tapentadol",
+      "Abr": [],
+      "MW": "221.34 g/mol"
+    },
+    {
+      "Title": "Aripiprazole",
+      "Abr": null,
+      "MW": "448.4 g/mol"
+    },
+    {
+      "Title": "Atomoxetine",
+      "Abr": null,
+      "MW": "255.35 g/mol"
+    },
+    {
+      "Title": "Desmetramadol",
+      "Abr": [
+        "Desmetramadol",
+        "O-DSMT"
+      ],
+      "MW": "249.35 g/mol"
+    }
+  ],
+  "Parent": "arylalkylamine",
+  "First": {
+    "Title": "Phenylpropylamine",
+    "Abr": "",
+    "MW": "135.21 g/mol"
+  }
+}

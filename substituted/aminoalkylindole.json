@@ -1,0 +1,35 @@
+{
+  "Name": "aminoalkylindole",
+  "Entries": [
+    {
+      "Title": "JWH-193",
+      "Abr": "JWH-193",
+      "MW": "398.5 g/mol"
+    },
+    {
+      "Title": "JWH-198",
+      "Abr": "JWH-198",
+      "MW": "414.5 g/mol"
+    },
+    {
+      "Title": "JWH-200",
+      "Abr": "JWH-200",
+      "MW": "384.5 g/mol"
+    },
+    {
+      "Title": "MN-25",
+      "Abr": "UR-12",
+      "MW": "439.6 g/mol"
+    },
+    {
+      "Title": "Pravadoline",
+      "Abr": "WIN 48,098",
+      "MW": "378.5 g/mol"
+    },
+    {
+      "Title": "6-Bromopravadoline",
+      "Abr": "WIN 54,461",
+      "MW": "457.4 g/mol"
+    }
+  ]
+}

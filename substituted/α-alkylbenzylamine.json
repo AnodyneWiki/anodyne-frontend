@@ -1,0 +1,24 @@
+{
+  "Name": "α-alkylbenzylamine",
+  "Entries": [
+    {
+      "Title": "Sertraline",
+      "Abr": [],
+      "MW": "306.2 g/mol"
+    },
+    {
+      "Title": "Hydroxyzine",
+      "Abr": [],
+      "MW": "374.9 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "α-Methylbenzylamine",
+    "Abr": [
+      "α-PEA"
+    ],
+    "MW": "121.18 g/mol"
+  },
+  "Parent": "benzylamine",
+  "Children": []
+}

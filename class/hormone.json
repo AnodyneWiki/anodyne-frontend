@@ -1,0 +1,110 @@
+{
+  "Name": "hormone",
+  "Entries": [
+    {
+      "Title": "Beclometasone dipropionate",
+      "Abr": "",
+      "MW": "521.0 g/mol"
+    },
+    {
+      "Title": "Buprenorphine",
+      "Abr": "",
+      "MW": "467.6 g/mol"
+    },
+    {
+      "Title": "Codeine",
+      "Abr": "",
+      "MW": "299.4 g/mol"
+    },
+    {
+      "Title": "Cyproterone acetate",
+      "Abr": "CPA",
+      "MW": "416.9 g/mol"
+    },
+    {
+      "Title": "Estradiol",
+      "Abr": "E2",
+      "MW": "272.4 g/mol"
+    },
+    {
+      "Title": "Estradiol cypionate",
+      "Abr": "EC",
+      "MW": "396.6 g/mol"
+    },
+    {
+      "Title": "Estradiol valerate",
+      "Abr": "EV",
+      "MW": "356.5 g/mol"
+    },
+    {
+      "Title": "Estriol",
+      "Abr": "E3",
+      "MW": "288.4 g/mol"
+    },
+    {
+      "Title": "Estrone",
+      "Abr": "E1",
+      "MW": "270.4 g/mol"
+    },
+    {
+      "Title": "Hydromorphone",
+      "Abr": "",
+      "MW": "285.34 g/mol"
+    },
+    {
+      "Title": "L-Tyrosine",
+      "Abr": "Tyr",
+      "MW": "181.19 g/mol"
+    },
+    {
+      "Title": "Medroxyprogesterone acetate",
+      "Abr": "MPA",
+      "MW": "386.5 g/mol"
+    },
+    {
+      "Title": "Melatonin",
+      "Abr": "",
+      "MW": "232.28 g/mol"
+    },
+    {
+      "Title": "Methadone",
+      "Abr": "",
+      "MW": "309.4 g/mol"
+    },
+    {
+      "Title": "Methyltestosterone",
+      "Abr": "",
+      "MW": "302.5 g/mol"
+    },
+    {
+      "Title": "Morphine",
+      "Abr": "",
+      "MW": "285.34 g/mol"
+    },
+    {
+      "Title": "Progesterone",
+      "Abr": "P4",
+      "MW": "314.5 g/mol"
+    },
+    {
+      "Title": "Testosterone",
+      "Abr": "",
+      "MW": "288.4 g/mol"
+    },
+    {
+      "Title": "Testosterone enantate",
+      "Abr": "",
+      "MW": "400.6 g/mol"
+    },
+    {
+      "Title": "Testosterone undecylate",
+      "Abr": "",
+      "MW": "456.7 g/mol"
+    },
+    {
+      "Title": "Tramadol",
+      "Abr": "",
+      "MW": "263.37 g/mol"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+{{import "article.html"}}
+{{$ivars := splitList "/" .OriginalReq.URL.Path | last | replace " " "_" | printf "/class/%s.json" | include | fromJson}}
+{{template "article" (dict "Title" (printf "%s - Anodyne" (lower $ivars.Name)) "Markdown" "class.md" "Vars" $ivars)}}

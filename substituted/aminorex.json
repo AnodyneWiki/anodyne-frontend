@@ -1,0 +1,87 @@
+{
+  "Name": "aminorex",
+  "Entries": [
+    {
+      "Title": "4-Methylaminorex",
+      "Abr": [
+        "4-MAR"
+      ],
+      "MW": "176.21 g/mol"
+    },
+    {
+      "Title": "Cyclazodone",
+      "Abr": "",
+      "MW": "216.24 g/mol"
+    },
+    {
+      "Title": "Fenozolone",
+      "Abr": "",
+      "MW": "204.22 g/mol"
+    },
+    {
+      "Title": "N-Methylcyclazodone",
+      "Abr": "",
+      "MW": "230.26 g/mol"
+    },
+    {
+      "Title": "Pemoline",
+      "Abr": "",
+      "MW": "176.17 g/mol"
+    },
+    {
+      "Title": "Thozalinone",
+      "Abr": "",
+      "MW": "204.22 g/mol"
+    },
+    {
+      "Title": "Fluminorex",
+      "Abr": "",
+      "MW": "230.19 g/mol"
+    },
+    {
+      "Title": "Clominorex",
+      "Abr": "",
+      "MW": "196.63 g/mol"
+    },
+    {
+      "Title": "4-Ethylaminorex",
+      "Abr": "4-EAR",
+      "MW": "190.24 g/mol"
+    },
+    {
+      "Title": "Ditazole",
+      "Abr": "",
+      "MW": "324.4 g/mol"
+    },
+    {
+      "Title": "2-Amino-4,5-diphenyloxazole",
+      "Abr": "",
+      "MW": "236.27 g/mol"
+    },
+    {
+      "Title": "4,4'-Dimethylaminorex",
+      "Abr": "4,4'-DMAR",
+      "MW": "190.24 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxyaminorex",
+      "Abr": [
+        "MDAR"
+      ],
+      "MW": "206.20 g/mol"
+    },
+    {
+      "Title": "SKA-121",
+      "Abr": "SKA-121",
+      "MW": "198.22 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "Aminorex",
+    "Abr": [
+      "AR"
+    ],
+    "MW": "162.19 g/mol"
+  },
+  "Parent": "phenethylamine"
+}

@@ -1,0 +1,20 @@
+{
+  "Name": "morpholine",
+  "Entries": [
+    {
+      "Title": "Morpholine",
+      "Abr": "",
+      "MW": "87.12 g/mol"
+    }
+  ],
+  "Children": [
+    "phenylmorpholine"
+  ],
+  "Analogues": [
+    "pyrrolidine",
+    "pyridine",
+    "piperidine",
+    "piperazine",
+    "tetrahydropyridine"
+  ]
+}

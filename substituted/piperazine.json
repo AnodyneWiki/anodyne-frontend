@@ -1,0 +1,28 @@
+{
+  "Name": "piperazine",
+  "Entries": [
+    {
+      "Title": "Piperazine",
+      "Abr": null,
+      "MW": "86.14 g/mol"
+    },
+    {
+      "Title": "Bucinnazine",
+      "Abr": [
+        "AP-237"
+      ],
+      "MW": "272.4 g/mol"
+    }
+  ],
+  "Children": [
+    "phenylpiperazine",
+    "benzylpiperazine"
+  ],
+  "Analogues": [
+    "pyrrolidine",
+    "pyridine",
+    "piperidine",
+    "tetrahydropyridine",
+    "morpholine"
+  ]
+}

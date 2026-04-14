@@ -1,0 +1,14 @@
+{{define "UserPics" -}}
+{{$picsdir := printf "/user/%s/pics/" .Title -}}
+{{$pics := list -}}
+{{if fileExists $picsdir -}}
+{{range $pic := listFiles $picsdir -}}
+{{$pics = append $pics (base $pic) -}}
+{{end -}}
+{{$pics = sortAlpha $pics -}}
+<div class=Infobox>{{range $pic := $pics -}}
+{{$nt := trimSuffix ".jpg" $pic | trimSuffix ".png" -}}
+{{template "rimgbox" (dict "src" (printf "%s%s" $picsdir $pic) "desc" (substr 1 (len $nt) (replace "_" " " $nt)) "padding" "0px" "background" "black" "width" "350px") -}}
+{{end -}}
+</div>{{end -}}
+{{end}}

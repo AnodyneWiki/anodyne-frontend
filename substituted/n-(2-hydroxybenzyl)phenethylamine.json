@@ -1,0 +1,85 @@
+{
+  "Name": "N-(2-hydroxybenzyl)phenethylamine",
+  "Format": "{i}N{Ei}-(2-hydroxybenzyl)phenethylamine",
+  "Abr": "x-NBOH",
+  "Entries": [
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25B-NBOH"
+      ],
+      "MW": "366.2 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25H-NBOH"
+      ],
+      "MW": "287.35 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NBOH"
+      ],
+      "MW": "321.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethyl-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25E-NBOH"
+      ],
+      "MW": "315.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NBOH"
+      ],
+      "MW": "413.25 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methyl-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25D-NBOH"
+      ],
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propyl-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25P-NBOH"
+      ],
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-isopropylthio-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25T4-NBOH"
+      ],
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "N-(2-Hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "NBOH"
+      ],
+      "MW": "227.30 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propylthio-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25T7-NBOH"
+      ],
+      "MW": "375.5 g/mol"
+    }
+  ],
+  "Parent": "n-benzylphenethylamine",
+  "Children": [],
+  "Analogues": [
+    "n-(2-methoxybenzyl)phenethylamine",
+    "n-(3-methoxybenzyl)phenethylamine",
+    "n-(4-methoxybenzyl)phenethylamine",
+    "n-(2-fluorobenzyl)phenethylamine"
+  ]
+}

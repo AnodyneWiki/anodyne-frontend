@@ -1,0 +1,35 @@
+{
+  "Name": "dissociative",
+  "Substances": [
+    "Deschloroketamine",
+    "Ketamine",
+    "Phencyclidine"
+  ],
+  "Entries": [
+    {
+      "Title": "Esketamine",
+      "Abr": "",
+      "MW": "237.72 g/mol"
+    },
+    {
+      "Title": "Eticyclidone",
+      "Abr": "O-PCE",
+      "MW": "217.31 g/mol"
+    },
+    {
+      "Title": "Ketamine",
+      "Abr": "K",
+      "MW": "237.72 g/mol"
+    },
+    {
+      "Title": "Methoxetamine",
+      "Abr": "MXE",
+      "MW": "247.33 g/mol"
+    },
+    {
+      "Title": "Rolicyclidine",
+      "Abr": "PCPy",
+      "MW": "229.36 g/mol"
+    }
+  ]
+}

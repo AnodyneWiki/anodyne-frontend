@@ -1,0 +1,1 @@
+{{define "cookies"}}{{$c := .}}{{range $n := list "Theme" "Collapse" "Conformer" "Hint"}}{{$_ := set $c $n (lower $n | printf "http.request.cookie.%s" | ph | stripHTML)}}{{end}}{{end}}

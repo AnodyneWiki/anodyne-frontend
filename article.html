@@ -1,0 +1,32 @@
+{{define "article" -}}{{range list  "cookies.html" "util.html" "css.html" "header.html" "footer.html"}}{{import .}}{{end -}}
+{{template "cookies" (.) -}}
+{{$v := default (dict) .Vars -}}
+	{{- $_ := set $v "Theme" (default "dark" .Theme) -}}
+	{{- $_ := set $v "Collapse" (default "none" .Collapse) -}}
+	{{- $_ := set $v "Conformer" (default "none" .Conformer) -}}
+	{{- $_ := set $v "Hint" (default "none" .Hint) -}}
+	{{- $_ := set $v "Editable" (default "false" .Editable) -}}
+
+<!DOCTYPE html>
+<html lang=en dir=ltr translate=no data-theme='{{$v.Theme}}'>
+	<head>
+		<title>{{.Title}}</title>
+
+		{{template "css" $v}}
+	</head>
+
+	<body>
+		<header>
+			{{template "header" $v}}
+		</header>
+
+		<article contenteditable=false class="{{.Class}}" >
+			{{include .Markdown $v | markdown | indent 12 | replace "    " "	" | trim}}
+		</article>
+
+		<footer id="footer" class="mw-footer" role="contentinfo">
+			{{template "footer" $v}}
+		</footer>
+	</body>
+</html>
+{{- end}}{{/* end "article" */}}

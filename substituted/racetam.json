@@ -1,0 +1,55 @@
+{
+  "Name": "racetam",
+  "Entries": [
+    {
+      "Title": "Aniracetam",
+      "Abr": "",
+      "MW": "219.24 g/mol"
+    },
+    {
+      "Title": "Coluracetam",
+      "Abr": "",
+      "MW": "341.4 g/mol"
+    },
+    {
+      "Title": "Fasoracetam",
+      "Abr": "",
+      "MW": "196.25 g/mol"
+    },
+    {
+      "Title": "Nefiracetam",
+      "Abr": "",
+      "MW": "246.30 g/mol"
+    },
+    {
+      "Title": "Oxiracetam",
+      "Abr": "",
+      "MW": "158.16 g/mol"
+    },
+    {
+      "Title": "Phenylpiracetam",
+      "Abr": "",
+      "MW": "218.25 g/mol"
+    },
+    {
+      "Title": "Piracetam",
+      "Abr": "",
+      "MW": "142.16 g/mol"
+    },
+    {
+      "Title": "Pramiracetam",
+      "Abr": "",
+      "MW": "269.38 g/mol"
+    },
+    {
+      "Title": "Zopiclone",
+      "Abr": [],
+      "MW": "388.8 g/mol"
+    },
+    {
+      "Title": "Pagoclone",
+      "Abr": [],
+      "MW": "407.9 g/mol"
+    }
+  ]
+}

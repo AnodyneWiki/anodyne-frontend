@@ -1,0 +1,37 @@
+{
+  "Name": "piperidine",
+  "Entries": [
+    {
+      "Title": "Piperidine",
+      "Abr": [],
+      "MW": "85.15 g/mol"
+    },
+    {
+      "Title": "Anabasine",
+      "Abr": "",
+      "MW": "162.23 g/mol"
+    },
+    {
+      "Title": "N-Methylanabasine",
+      "Abr": "",
+      "MW": "176.26 g/mol"
+    },
+    {
+      "Title": "Anatalline",
+      "Abr": "",
+      "MW": "239.32 g/mol"
+    },
+    {
+      "Title": "Minoxidil",
+      "Abr": [],
+      "MW": "209.25 g/mol"
+    }
+  ],
+  "Analogues": [
+    "pyrrolidine",
+    "pyridine",
+    "piperazine",
+    "tetrahydropyridine",
+    "morpholine"
+  ]
+}

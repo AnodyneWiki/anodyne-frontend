@@ -1,0 +1,35 @@
+{
+  "Name": "monoamine oxidase inhibitor",
+  "Entries": [
+    {
+      "Title": "1-Naphthylaminopropane",
+      "Abr": "1-NAP",
+      "MW": "185.26 g/mol"
+    },
+    {
+      "Title": "3,4-Dimethoxyphenethylamine",
+      "Abr": "DMPEA",
+      "MW": "181.23 g/mol"
+    },
+    {
+      "Title": "Benzylamine",
+      "Abr": "",
+      "MW": "107.15 g/mol"
+    },
+    {
+      "Title": "Harmine",
+      "Abr": "",
+      "MW": "212.25 g/mol"
+    },
+    {
+      "Title": "Phenelzine",
+      "Abr": "",
+      "MW": "136.19 g/mol"
+    },
+    {
+      "Title": "Selegiline",
+      "Abr": "",
+      "MW": "187.28 g/mol"
+    }
+  ]
+}

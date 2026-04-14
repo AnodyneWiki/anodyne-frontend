@@ -1,0 +1,37 @@
+{
+  "Name": "pyrrolidine",
+  "Entries": [
+    {
+      "Title": "Pyrrolidine",
+      "Abr": "",
+      "MW": "71.12 g/mol"
+    },
+    {
+      "Title": "Nicotine",
+      "Abr": "",
+      "MW": "162.23 g/mol"
+    },
+    {
+      "Title": "Nornicotine",
+      "Abr": "",
+      "MW": "148.20 g/mol"
+    },
+    {
+      "Title": "6-Chloronicotine",
+      "Abr": "",
+      "MW": "196.67 g/mol"
+    },
+    {
+      "Title": "Clindamycin",
+      "Abr": [],
+      "MW": "425.0 g/mol"
+    }
+  ],
+  "Analogues": [
+    "piperidine",
+    "pyridine",
+    "piperazine",
+    "tetrahydropyridine",
+    "morpholine"
+  ]
+}

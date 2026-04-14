@@ -1,0 +1,50 @@
+{
+  "Name": "N-(3-methoxybenzyl)phenethylamine",
+  "Format": "{i}N{Ei}-(3-methoxybenzyl)phenethylamine",
+  "Abr": "x-NB3OMe",
+  "Entries": [
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NB3OMe"
+      ],
+      "MW": "335.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NB3OMe"
+      ],
+      "MW": "427.3 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25B-NB3OMe"
+      ],
+      "MW": "380.3 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25H-NB3OMe"
+      ],
+      "MW": "301.4 g/mol"
+    }
+  ],
+  "Parent": "n-benzylphenethylamine",
+  "Children": [],
+  "Analogues": [
+    "n-(2-hydroxybenzyl)phenethylamine",
+    "n-(2-methoxybenzyl)phenethylamine",
+    "n-(4-methoxybenzyl)phenethylamine",
+    "n-(2-fluorobenzyl)phenethylamine"
+  ],
+  "First": {
+    "Title": "N-(3-Methoxybenzyl)phenethylamine",
+    "Abr": [
+      "NB3OMe"
+    ],
+    "MW": "241.33 g/mol"
+  }
+}

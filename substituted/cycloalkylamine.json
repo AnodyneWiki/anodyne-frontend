@@ -1,0 +1,54 @@
+{
+  "Name": "cycloalkylamine",
+  "Entries": [
+    {
+      "Title": "Propylhexedrine",
+      "Abr": "",
+      "MW": "155.28 g/mol"
+    },
+    {
+      "Title": "Cyclopentamine",
+      "Abr": "",
+      "MW": "141.25 g/mol"
+    },
+    {
+      "Title": "Isocyclamine",
+      "Abr": "",
+      "MW": "127.23 g/mol"
+    },
+    {
+      "Title": "Muscarine",
+      "Abr": "",
+      "MW": "174.26 g/mol"
+    },
+    {
+      "Title": "Temgicoluril",
+      "Abr": [],
+      "MW": "198.22 g/mol"
+    },
+    {
+      "Title": "5-Chloro-β-keto-methiopropamine",
+      "Abr": "",
+      "MW": "203.69 g/mol"
+    },
+    {
+      "Title": "Norpropylhexedrine",
+      "Abr": "",
+      "MW": "141.25 g/mol"
+    }
+  ],
+  "Parent": "arylalkylamine",
+  "Children": [
+    "cyclohexylamine"
+  ],
+  "First": {
+    "Title": "Cyclohexylethylamine",
+    "Abr": "",
+    "MW": "127.23 g/mol"
+  },
+  "Analogues": [
+    "arylalkylamine",
+    "annulenylalkylamine",
+    "cyclohexylamine"
+  ]
+}

@@ -1,0 +1,3 @@
+{{range list "article.html"}}{{import .}}{{end}}
+{{$title := .OriginalReq.URL.Path | splitList "/" | last | stripHTML}}
+{{template "article" (dict "Markdown" "send.md" "Title" (printf "%s - Anodyne" $title) "Vars" (dict "Title" $title))}}

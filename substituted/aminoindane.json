@@ -1,0 +1,71 @@
+{
+  "Name": "aminoindane",
+  "First": {
+    "Title": "1-Aminoindane",
+    "Abr": [
+      "1-AI"
+    ],
+    "MW": "133.19 g/mol"
+  },
+  "Entries": [
+    {
+      "Title": "1-Aminomethyl-5-methoxyindane",
+      "Abr": "",
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "2-Aminoindane",
+      "Abr": "2-AI",
+      "MW": "133.19 g/mol"
+    },
+    {
+      "Title": "5,6-Benzofuranyl-2-aminoindane",
+      "Abr": "BFAI",
+      "MW": "173.21 g/mol"
+    },
+    {
+      "Title": "5,6-Methylenedioxy-2-aminoindane",
+      "Abr": "MDAI",
+      "MW": "177.20 g/mol"
+    },
+    {
+      "Title": "5,6-Methylenedioxy-N-methyl-2-aminoindane",
+      "Abr": "MDMAI",
+      "MW": "191.23 g/mol"
+    },
+    {
+      "Title": "5-Iodo-2-aminoindane",
+      "Abr": "5-IAI",
+      "MW": "259.09 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-2-aminoindane",
+      "Abr": "",
+      "MW": "163.22 g/mol"
+    },
+    {
+      "Title": "5-Trifluoromethyl-2-aminoindane",
+      "Abr": "TAI",
+      "MW": "201.19 g/mol"
+    },
+    {
+      "Title": "N-Ethyl-5-trifluoromethyl-2-aminoindane",
+      "Abr": "ETAI",
+      "MW": "229.24 g/mol"
+    },
+    {
+      "Title": "N-Methyl-2-aminoindane",
+      "Abr": "NM-2-AI",
+      "MW": "147.22 g/mol"
+    },
+    {
+      "Title": "Rasagiline",
+      "Abr": [],
+      "MW": "171.24 g/mol"
+    }
+  ],
+  "Parent": "amphetamine",
+  "Analogues": [
+    "tetrahydroisoquinoline"
+  ]
+}

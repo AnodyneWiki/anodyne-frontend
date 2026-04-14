@@ -1,0 +1,6 @@
+{
+"Name": "Protein",
+"Entries": [
+	{ "Title": "Dopamine transporter", "Abr": [ "DAT", "SLC6A3" ], "PDB": "8Y2C" }
+]
+}

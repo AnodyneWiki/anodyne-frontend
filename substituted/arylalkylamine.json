@@ -1,0 +1,68 @@
+{
+  "Name": "arylalkylamine",
+  "Entries": [
+    {
+      "Title": "2-Furylethylamine",
+      "Abr": "2-FEA",
+      "MW": "111.14 g/mol"
+    },
+    {
+      "Title": "2-Pyrrolylethylamine",
+      "Abr": "2-NEA",
+      "MW": "110.16 g/mol"
+    },
+    {
+      "Title": "Histamine",
+      "Abr": "",
+      "MW": "111.15 g/mol"
+    },
+    {
+      "Title": "2,4-Dinitrophenol",
+      "Abr": "DNP",
+      "MW": "184.11 g/mol"
+    },
+    {
+      "Title": "Nicotinamide mononucleotide",
+      "Abr": "NMN",
+      "MW": "334.22 g/mol"
+    },
+    {
+      "Title": "Nornicotine",
+      "Abr": "",
+      "MW": "148.20 g/mol"
+    },
+    {
+      "Title": "Anatabine",
+      "Abr": "",
+      "MW": "160.22 g/mol"
+    },
+    {
+      "Title": "Anabaseine",
+      "Abr": "",
+      "MW": "160.22 g/mol"
+    },
+    {
+      "Title": "Myosmine",
+      "Abr": "",
+      "MW": "146.19 g/mol"
+    },
+    {
+      "Title": "Octenidine",
+      "Abr": [],
+      "MW": "550.9 g/mol"
+    }
+  ],
+  "Children": [
+    "aniline",
+    "benzylamine",
+    "phenethylamine",
+    "phenylpropylamine",
+    "thiopropamine",
+    "tryptamine"
+  ],
+  "Analogues": [
+    "annulenylalkylamine",
+    "cycloalkylamine"
+  ],
+  "First": {}
+}

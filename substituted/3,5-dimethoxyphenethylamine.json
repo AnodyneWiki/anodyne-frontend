@@ -1,0 +1,36 @@
+{
+  "Name": "3,5-dimethoxyphenethylamine",
+  "Abr": "scalines",
+  "Position": "4",
+  "Entries": [
+    {
+      "Title": "Mescaline",
+      "Abr": [
+        "TMPEA"
+      ],
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "Benzscaline",
+      "Abr": [
+        "4-BzlO-3,5-DMPEA",
+        "BZ"
+      ],
+      "MW": "287.35 g/mol"
+    },
+    {
+      "Title": "Allylescaline",
+      "Abr": [
+        "AL"
+      ],
+      "MW": "237.29 g/mol"
+    }
+  ],
+  "Parent": "phenethylamine",
+  "Analogues": [
+    "2,5-dimethoxyphenethylamine"
+  ],
+  "Children": [
+    "3,5-dimethoxyamphetamine"
+  ]
+}

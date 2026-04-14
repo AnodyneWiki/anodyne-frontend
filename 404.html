@@ -1,0 +1,3 @@
+{{if .OriginalReq.URL.Path}}{{import "missing.html"}}{{$pathParts := splitList "/" .OriginalReq.URL.Path}}
+{{template "missing" (dict "Title" ( $pathParts | last) }}
+{{end}}

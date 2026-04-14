@@ -1,0 +1,108 @@
+{
+  "Name": "phenylmorpholine",
+  "Entries": [
+    {
+      "Title": "2-Phenyl-3,5-dimethylmorpholine",
+      "Abr": "3,5-DMPM",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "2-Phenyl-3,6-dimethylmorpholine",
+      "Abr": "3,6-DMPM",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "Fenbutrazate",
+      "Abr": "",
+      "MW": "367.5 g/mol"
+    },
+    {
+      "Title": "Fenmetramide",
+      "Abr": "",
+      "MW": "191.23 g/mol"
+    },
+    {
+      "Title": "Phendimetrazine",
+      "Abr": "",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "Phenetrazine",
+      "Abr": "",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "Phenmetetrazine",
+      "Abr": null,
+      "MW": "205.30 g/mol"
+    },
+    {
+      "Title": "Radafaxine",
+      "Abr": "",
+      "MW": "255.74 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxyphenmetrazine",
+      "Abr": [
+        "MDPM",
+        "3-MDPM"
+      ],
+      "MW": "221.25 g/mol"
+    },
+    {
+      "Title": "2-(4-Bromo-2,5-dimethoxyphenyl)morpholine",
+      "Abr": "2C-B-morpholine",
+      "MW": "302.16 g/mol"
+    },
+    {
+      "Title": "3-Chlorophenmetrazine",
+      "Abr": [
+        "3-CPM"
+      ],
+      "MW": "211.69 g/mol"
+    },
+    {
+      "Title": "4-Methylphenmetrazine",
+      "Abr": "4-MPM",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "Naphthylmetrazine",
+      "Abr": "PAL-704",
+      "MW": "227.30 g/mol"
+    },
+    {
+      "Title": "Pseudophenmetrazine",
+      "Abr": "",
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Naphthylmorpholine",
+      "Abr": "PAL-678",
+      "MW": "213.27 g/mol"
+    },
+    {
+      "Title": "3-Fluorophenmetrazine",
+      "Abr": [
+        "3-FPM"
+      ],
+      "MW": "195.23 g/mol"
+    },
+    {
+      "Title": "3-Methylphenmetrazine",
+      "Abr": [
+        "3-MPM"
+      ],
+      "MW": "191.27 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "Phenmetrazine",
+    "Abr": [],
+    "MW": "177.24 g/mol"
+  },
+  "Parents": [
+    "amphetamine",
+    "morpholine"
+  ]
+}

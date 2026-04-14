@@ -1,0 +1,104 @@
+{
+  "Name": "morphinan",
+  "Entries": [
+    {
+      "Title": "6-Monoacetylmorphine",
+      "Abr": [
+        "6-MAM"
+      ],
+      "MW": "327.4 g/mol"
+    },
+    {
+      "Title": "Buprenorphine",
+      "Abr": "",
+      "MW": "467.6 g/mol"
+    },
+    {
+      "Title": "Codeine",
+      "Abr": "",
+      "MW": "299.4 g/mol"
+    },
+    {
+      "Title": "Desomorphine",
+      "Abr": "",
+      "MW": "271.35 g/mol"
+    },
+    {
+      "Title": "Dextromethorphan",
+      "Abr": "DXM",
+      "MW": "271.4 g/mol"
+    },
+    {
+      "Title": "Diacetylmorphine",
+      "Abr": [
+        "Heroin"
+      ],
+      "MW": "369.4 g/mol"
+    },
+    {
+      "Title": "Dihydrocodeine",
+      "Abr": "",
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "Ethylmorphine",
+      "Abr": "",
+      "MW": "313.4 g/mol"
+    },
+    {
+      "Title": "Hydrocodone",
+      "Abr": "",
+      "MW": "299.4 g/mol"
+    },
+    {
+      "Title": "Hydromorphone",
+      "Abr": "",
+      "MW": "285.34 g/mol"
+    },
+    {
+      "Title": "Morphine",
+      "Abr": "",
+      "MW": "285.34 g/mol"
+    },
+    {
+      "Title": "Oxycodone",
+      "Abr": "",
+      "MW": "315.4 g/mol"
+    },
+    {
+      "Title": "Thebaine",
+      "Abr": "",
+      "MW": "311.4 g/mol"
+    },
+    {
+      "Title": "Naloxone",
+      "Abr": "",
+      "MW": "327.4 g/mol"
+    },
+    {
+      "Title": "Levomethorphan",
+      "Abr": "LVM",
+      "MW": "271.4 g/mol"
+    },
+    {
+      "Title": "Codeinone",
+      "Abr": "",
+      "MW": "297.3 g/mol"
+    },
+    {
+      "Title": "Levallorphan",
+      "Abr": "",
+      "MW": "283.4 g/mol"
+    },
+    {
+      "Title": "Norcodeine",
+      "Abr": "",
+      "MW": "285.34 g/mol"
+    },
+    {
+      "Title": "Codeine-6-glucuronide",
+      "Abr": "",
+      "MW": "475.5 g/mol"
+    }
+  ]
+}

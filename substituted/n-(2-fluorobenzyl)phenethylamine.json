@@ -1,0 +1,71 @@
+{
+  "Name": "N-(2-fluorobenzyl)phenethylamine",
+  "Format": "{i}N{Ei}-(2-fluorobenzyl)phenethylamine",
+  "Abr": "x-NBF",
+  "Entries": [
+    {
+      "Title": "2,5-Dimethoxy-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25H-NBF"
+      ],
+      "MW": "289.34 g/mol"
+    },
+    {
+      "Title": "N-(2-Fluorobenzyl)phenethylamine",
+      "Abr": [
+        "NBF"
+      ],
+      "MW": "229.29 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25B-NBF"
+      ],
+      "MW": "368.2 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25C-NBF"
+      ],
+      "MW": "323.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25I-NBF"
+      ],
+      "MW": "415.24 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methyl-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25D-NBF"
+      ],
+      "MW": "303.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethyl-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25E-NBF"
+      ],
+      "MW": "317.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propyl-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25P-NBF"
+      ],
+      "MW": "331.4 g/mol"
+    }
+  ],
+  "Parent": "n-benzylphenethylamine",
+  "Children": [],
+  "Analogues": [
+    "n-(2-methoxybenzyl)phenethylamine",
+    "n-(3-methoxybenzyl)phenethylamine",
+    "n-(4-methoxybenzyl)phenethylamine",
+    "n-(2-hydroxybenzyl)phenethylamine"
+  ]
+}

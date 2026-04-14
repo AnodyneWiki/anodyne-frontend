@@ -1,0 +1,39 @@
+{
+  "Name": "thiopropamine",
+  "Entries": [
+    {
+      "Title": "Mephedrene",
+      "Abr": "",
+      "MW": "169.29 g/mol"
+    },
+    {
+      "Title": "Methiopropamine",
+      "Abr": "",
+      "MW": "155.26 g/mol"
+    },
+    {
+      "Title": "Thiothinone",
+      "Abr": "",
+      "MW": "169.25 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinopentiothiophenone",
+      "Abr": "",
+      "MW": "237.36 g/mol"
+    },
+    {
+      "Title": "5-Chloro-β-keto-methiopropamine",
+      "Abr": "",
+      "MW": "203.69 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "Thiopropamine",
+    "Abr": "",
+    "MW": "141.24 g/mol"
+  },
+  "Parent": "arylalkylamine",
+  "Analogues": [
+    "amphetamine"
+  ]
+}

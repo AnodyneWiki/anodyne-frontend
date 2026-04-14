@@ -1,0 +1,31 @@
+{
+  "Name": "imidazobenzodiazepine",
+  "Entries": [
+    {
+      "Title": "Midazolam",
+      "Abr": "",
+      "MW": "325.8 g/mol"
+    },
+    {
+      "Title": "Climazolam",
+      "Abr": "Ro21-3982",
+      "MW": "342.2 g/mol"
+    },
+    {
+      "Title": "Imidazenil",
+      "Abr": "",
+      "MW": "399.2 g/mol"
+    },
+    {
+      "Title": "KRM-II-81",
+      "Abr": "",
+      "MW": "351.4 g/mol"
+    },
+    {
+      "Title": "Bretazenil",
+      "Abr": [],
+      "MW": "418.3 g/mol"
+    }
+  ],
+  "Parent": "benzodiazepine"
+}

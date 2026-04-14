@@ -1,0 +1,79 @@
+{
+  "Name": "thienotriazolodiazepine",
+  "Entries": [
+    {
+      "Title": "Etizolam",
+      "Abr": "",
+      "MW": "342.8 g/mol"
+    },
+    {
+      "Title": "Deschloroetizolam",
+      "Abr": "",
+      "MW": "308.4 g/mol"
+    },
+    {
+      "Title": "Deschloroclotizolam",
+      "Abr": "",
+      "MW": "314.8 g/mol"
+    },
+    {
+      "Title": "Fluetizolam",
+      "Abr": "",
+      "MW": "326.4 g/mol"
+    },
+    {
+      "Title": "Metizolam",
+      "Abr": "",
+      "MW": "328.8 g/mol"
+    },
+    {
+      "Title": "Fluclotizolam",
+      "Abr": "",
+      "MW": "332.8 g/mol"
+    },
+    {
+      "Title": "Flubrotizolam",
+      "Abr": "",
+      "MW": "377.2 g/mol"
+    },
+    {
+      "Title": "Brotizolam",
+      "Abr": "",
+      "MW": "393.7 g/mol"
+    },
+    {
+      "Title": "Apafant",
+      "Abr": "",
+      "MW": "456.0 g/mol"
+    },
+    {
+      "Title": "Ciclotizolam",
+      "Abr": "",
+      "MW": "461.8 g/mol"
+    },
+    {
+      "Title": "Clotizolam",
+      "Abr": "",
+      "MW": "349.2 g/mol"
+    },
+    {
+      "Title": "α-Hydroxyetizolam",
+      "Abr": "",
+      "MW": "358.8 g/mol"
+    },
+    {
+      "Title": "Israpafant",
+      "Abr": "",
+      "MW": "489.1 g/mol"
+    },
+    {
+      "Title": "JQ1",
+      "Abr": "",
+      "MW": "457.0 g/mol"
+    }
+  ],
+  "Parent": "thienodiazepine",
+  "Analogues": [
+    "triazolobenzodiazepine"
+  ]
+}

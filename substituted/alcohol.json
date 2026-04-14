@@ -1,0 +1,48 @@
+{
+  "Name": "alcohol",
+  "Entries": [
+    {
+      "Title": "Ethanol",
+      "Abr": "Alcohol",
+      "MW": "46.07 g/mol"
+    },
+    {
+      "Title": "Isopropanol",
+      "Abr": "IPA",
+      "MW": "60.10 g/mol"
+    },
+    {
+      "Title": "Propylene glycol",
+      "Abr": "PG",
+      "MW": "76.09 g/mol"
+    },
+    {
+      "Title": "Benzylalcohol",
+      "Abr": "α-Cresol",
+      "MW": "108.14 g/mol"
+    },
+    {
+      "Title": "1,4-Butanediol",
+      "Abr": "BDO",
+      "MW": "90.12 g/mol"
+    },
+    {
+      "Title": "Chloral hydrate",
+      "Abr": "",
+      "MW": "165.40 g/mol"
+    },
+    {
+      "Title": "Morpholine",
+      "Abr": "",
+      "MW": "87.12 g/mol"
+    }
+  ],
+  "Children": [
+    "phenol"
+  ],
+  "First": {
+    "Title": "Methanol",
+    "Abr": "",
+    "MW": "32.042 g/mol"
+  }
+}

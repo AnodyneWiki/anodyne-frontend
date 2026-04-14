@@ -1,0 +1,174 @@
+{
+  "Name": "benzodiazepine",
+  "Abr": "benzos",
+  "Entries": [
+    {
+      "Title": "3-Hydroxyphenazepam",
+      "Abr": "",
+      "MW": "365.61 g/mol"
+    },
+    {
+      "Title": "Chlordiazepoxide",
+      "Abr": "",
+      "MW": "299.75 g/mol"
+    },
+    {
+      "Title": "Cinazepam",
+      "Abr": "",
+      "MW": "465.7 g/mol"
+    },
+    {
+      "Title": "Cinolazepam",
+      "Abr": "",
+      "MW": "357.8 g/mol"
+    },
+    {
+      "Title": "Clorazepate",
+      "Abr": "",
+      "MW": "314.72 g/mol"
+    },
+    {
+      "Title": "Desmethylflunitrazepam",
+      "Abr": "",
+      "MW": "299.26 g/mol"
+    },
+    {
+      "Title": "Diazepam",
+      "MW": "284.74 g/mol",
+      "Abr": "Valium"
+    },
+    {
+      "Title": "Diclazepam",
+      "Abr": "",
+      "MW": "319.2 g/mol"
+    },
+    {
+      "Title": "Difludiazepam",
+      "Abr": "",
+      "MW": "320.72 g/mol"
+    },
+    {
+      "Title": "Flubromazepam",
+      "Abr": "",
+      "MW": "333.15 g/mol"
+    },
+    {
+      "Title": "Flunitrazepam",
+      "Abr": "",
+      "MW": "313.28 g/mol"
+    },
+    {
+      "Title": "Flurazepam",
+      "Abr": "",
+      "MW": "387.9 g/mol"
+    },
+    {
+      "Title": "Gidazepam",
+      "Abr": "",
+      "MW": "387.2 g/mol"
+    },
+    {
+      "Title": "Loprazolam",
+      "Abr": "",
+      "MW": "464.9 g/mol"
+    },
+    {
+      "Title": "Lorazepam",
+      "MW": "335.2 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Lormetazepam",
+      "Abr": "",
+      "MW": "335.2 g/mol"
+    },
+    {
+      "Title": "Meclonazepam",
+      "Abr": "",
+      "MW": "329.74 g/mol"
+    },
+    {
+      "Title": "Midazolam",
+      "Abr": "",
+      "MW": "325.8 g/mol"
+    },
+    {
+      "Title": "Nifoxipam",
+      "Abr": "",
+      "MW": "315.26 g/mol"
+    },
+    {
+      "Title": "Nordazepam",
+      "Abr": "",
+      "MW": "270.71 g/mol"
+    },
+    {
+      "Title": "Norflurazepam",
+      "Abr": "",
+      "MW": "288.70 g/mol"
+    },
+    {
+      "Title": "Oxazepam",
+      "Abr": "",
+      "MW": "286.71 g/mol"
+    },
+    {
+      "Title": "Phenazepam",
+      "Abr": "",
+      "MW": "349.61 g/mol"
+    },
+    {
+      "Title": "Quazepam",
+      "Abr": "",
+      "MW": "386.8 g/mol"
+    },
+    {
+      "Title": "Temazepam",
+      "Abr": "",
+      "MW": "300.74 g/mol"
+    },
+    {
+      "Title": "Tetrazepam",
+      "Abr": "",
+      "MW": "288.77 g/mol"
+    },
+    {
+      "Title": "Flumazenil",
+      "Abr": "",
+      "MW": "303.29 g/mol"
+    },
+    {
+      "Title": "Rilmazolam",
+      "Abr": "",
+      "MW": "400.3 g/mol"
+    },
+    {
+      "Title": "4'-Chlorodiazepam",
+      "Abr": "Ro5-4864",
+      "MW": "319.2 g/mol"
+    },
+    {
+      "Title": "Nitrazepam",
+      "Abr": "",
+      "MW": "281.27 g/mol"
+    },
+    {
+      "Title": "Pinazepam",
+      "Abr": "",
+      "MW": "308.8 g/mol"
+    },
+    {
+      "Title": "Clonazepam",
+      "Abr": [],
+      "MW": "315.71 g/mol"
+    }
+  ],
+  "Children": [
+    "triazolobenzodiazepine",
+    "imidazobenzodiazepine"
+  ],
+  "Analogues": [
+    "thienodiazepine",
+    "pyridodiazepine"
+  ]
+}

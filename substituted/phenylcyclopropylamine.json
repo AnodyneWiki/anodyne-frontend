@@ -1,0 +1,27 @@
+{
+  "Name": "phenylcyclopropylamine",
+  "Entries": [
+    {
+      "Title": "Tranylcypromine",
+      "Abr": [],
+      "MW": "133.19 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylphenylcyclopropylamine",
+      "Abr": [
+        "DMCPA"
+      ],
+      "MW": "207.27 g/mol"
+    },
+    {
+      "Title": "3,4,5-Trimethoxytranylcypromine",
+      "Abr": [
+        "TMT",
+        "MCPA"
+      ],
+      "MW": "223.27 g/mol"
+    }
+  ],
+  "Parent": "amphetamine",
+  "First": {}
+}

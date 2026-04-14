@@ -1,0 +1,37 @@
+{
+  "Name": "3,5-dimethoxyamphetamine",
+  "Abr": "3C-x",
+  "Position": "4",
+  "Entries": [
+    {
+      "Title": "3,4,5-Trimethoxyamphetamine",
+      "Abr": [
+        "TMA",
+        "TMA-1",
+        "3,4,5-TMA"
+      ],
+      "MW": "225.28 g/mol"
+    },
+    {
+      "Title": "3,4,5-Trimethoxymethamphetamine",
+      "Abr": [
+        "Methyl-TMA",
+        "N-methyl-TMA",
+        "TMMA"
+      ],
+      "MW": "239.31 g/mol"
+    },
+    {
+      "Title": "3,5-Dimethoxy-4-allyloxyamphetamine",
+      "Abr": [
+        "3C-AL",
+        "3C-allylescaline"
+      ],
+      "MW": "251.32 g/mol"
+    }
+  ],
+  "Parent": "3,5-dimethoxyphenethylamine",
+  "Analogues": [
+    "2,5-dimethoxyamphetamine"
+  ]
+}

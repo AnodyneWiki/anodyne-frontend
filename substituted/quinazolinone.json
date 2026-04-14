@@ -1,0 +1,51 @@
+{
+  "Name": "quinazolinone",
+  "Entries": [
+    {
+      "Title": "Methaqualone",
+      "Abr": "Quaalude",
+      "MW": "250.29 g/mol"
+    },
+    {
+      "Title": "Nitromethaqualone",
+      "Abr": "",
+      "MW": "311.29 g/mol"
+    },
+    {
+      "Title": "Mecloqualone",
+      "Abr": "",
+      "MW": "270.71 g/mol"
+    },
+    {
+      "Title": "Mebroqualone",
+      "Abr": "",
+      "MW": "315.16 g/mol"
+    },
+    {
+      "Title": "Methylmethaqualone",
+      "Abr": "MMQ",
+      "MW": "264.32 g/mol"
+    },
+    {
+      "Title": "Afloqualone",
+      "Abr": "",
+      "MW": "283.30 g/mol"
+    },
+    {
+      "Title": "Etaqualone",
+      "Abr": "",
+      "MW": "264.32 g/mol"
+    },
+    {
+      "Title": "Cloroqualone",
+      "Abr": "",
+      "MW": "319.2 g/mol"
+    },
+    {
+      "Title": "Diproqualone",
+      "Abr": "",
+      "MW": "234.25 g/mol"
+    }
+  ],
+  "Parent": "benzamide"
+}

@@ -1,0 +1,72 @@
+{
+  "Name": "gabapentinoid",
+  "Entries": [
+    {
+      "Title": "Baclofen",
+      "Abr": [],
+      "MW": "213.66 g/mol"
+    },
+    {
+      "Title": "Baflofen",
+      "Abr": [],
+      "MW": "197.21 g/mol"
+    },
+    {
+      "Title": "Gabapentin",
+      "Abr": "",
+      "MW": "171.24 g/mol"
+    },
+    {
+      "Title": "Phenibut",
+      "Abr": "",
+      "MW": "179.22 g/mol"
+    },
+    {
+      "Title": "Pregabalin",
+      "Abr": "",
+      "MW": "159.23 g/mol"
+    },
+    {
+      "Title": "Diclofenac",
+      "Abr": "",
+      "MW": "296.1 g/mol"
+    },
+    {
+      "Title": "Gababutin",
+      "Abr": "",
+      "MW": "157.21 g/mol"
+    },
+    {
+      "Title": "Mirogabalin",
+      "Abr": "",
+      "MW": "209.28 g/mol"
+    },
+    {
+      "Title": "Atagabalin",
+      "Abr": "",
+      "MW": "185.26 g/mol"
+    },
+    {
+      "Title": "Pepstatin",
+      "Abr": "",
+      "MW": "685.9 g/mol"
+    },
+    {
+      "Title": "Statine",
+      "Abr": "Sta",
+      "MW": "175.23 g/mol"
+    },
+    {
+      "Title": "Tyrothricin",
+      "Abr": [],
+      "MW": "1228.4 g/mol"
+    }
+  ],
+  "First": {
+    "Title": "γ-Aminobutyric acid",
+    "Abr": [
+      "GABA"
+    ],
+    "MW": "103.12 g/mol"
+  }
+}

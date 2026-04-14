@@ -1,0 +1,12 @@
+{{import "missing.html"}}
+{{import "substance.html"}}
+{{$pathParts := splitList "/" .OriginalReq.URL.Path}}
+{{$markdownFilename := default "index" (slice $pathParts 1 | join "/")}}
+{{$subPath := printf "/substance/%s/vars.json" (replace " " "_" (lower $markdownFilename))}}
+{{$userPath := printf "/user/%s/preferences.json" (replace " " "_" (lower $markdownFilename))}}
+{{if fileExists $subPath}}
+{{template "substance" (dict "Path" (last $pathParts))}}
+{{else if fileExists $userPath}}
+{{else}}
+{{template "missing" (dict "Title" (last $pathParts))}}
+{{end}}

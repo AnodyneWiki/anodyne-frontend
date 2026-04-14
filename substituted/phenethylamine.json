@@ -1,0 +1,185 @@
+{
+  "Name": "phenethylamine",
+  "Entries": [
+    {
+      "Title": "3,5-Dimethoxy-4-ethoxyphenethylamine",
+      "Abr": "3C-E",
+      "MW": "225.28 g/mol"
+    },
+    {
+      "Title": "3,5-Dimethoxy-4-trideuteromethoxyphenethylamine",
+      "Abr": "4-D",
+      "MW": "214.28 g/mol"
+    },
+    {
+      "Title": "Mescaline",
+      "Abr": "TMPEA",
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxyphenethylamine",
+      "Abr": "MDPEA",
+      "MW": "165.19 g/mol"
+    },
+    {
+      "Title": "Omberacetam",
+      "Abr": "",
+      "MW": "318.4 g/mol"
+    },
+    {
+      "Title": "Tyramine",
+      "Abr": "",
+      "MW": "137.18 g/mol"
+    },
+    {
+      "Title": "Venlafaxine",
+      "Abr": "",
+      "MW": "277.4 g/mol"
+    },
+    {
+      "Title": "Ondansetron",
+      "Abr": "",
+      "MW": "293.4 g/mol"
+    },
+    {
+      "Title": "N-Methylphenethylamine",
+      "Abr": "NMPEA",
+      "MW": "135.21 g/mol"
+    },
+    {
+      "Title": "Trichocereine",
+      "Abr": "",
+      "MW": "239.31 g/mol"
+    },
+    {
+      "Title": "Phenacylamine",
+      "Abr": "",
+      "MW": "135.16 g/mol"
+    },
+    {
+      "Title": "Thiadiazolylmethamphetamine",
+      "Abr": "TDMA",
+      "MW": "207.30 g/mol"
+    },
+    {
+      "Title": "Diarylpropionitrile",
+      "Abr": "DPN",
+      "MW": "239.27 g/mol"
+    },
+    {
+      "Title": "Homarylamine",
+      "Abr": "MDMPEA",
+      "MW": "179.22 g/mol"
+    },
+    {
+      "Title": "Lophophine",
+      "Abr": "",
+      "MW": "195.21 g/mol"
+    },
+    {
+      "Title": "Methylphenethylamine",
+      "Abr": "NMPEA",
+      "MW": "135.21 g/mol"
+    },
+    {
+      "Title": "1-Naphthylaminopropane",
+      "Abr": "1-NAP",
+      "MW": "185.26 g/mol"
+    },
+    {
+      "Title": "Phenelzine",
+      "Abr": "",
+      "MW": "136.19 g/mol"
+    },
+    {
+      "Title": "N,N-Dimethylphenethylamine",
+      "Abr": [
+        "N,N-DMPEA"
+      ],
+      "MW": "149.23 g/mol"
+    },
+    {
+      "Title": "β,N,N-Trimethylphenethylamine",
+      "Abr": "DMPPA",
+      "MW": "163.26 g/mol"
+    },
+    {
+      "Title": "Phenpromethamine",
+      "Abr": "BMMPEA",
+      "MW": "149.23 g/mol"
+    },
+    {
+      "Title": "Epinine",
+      "Abr": "",
+      "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Mirtazapine",
+      "Abr": [],
+      "MW": "265.35 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxyphenethylamine",
+      "Abr": [
+        "2C-H"
+      ],
+      "MW": "181.23 g/mol"
+    },
+    {
+      "Title": "3,5-Dimethoxyphenethylamine",
+      "Abr": [
+        "3,5-DMPEA",
+        "DMPEA-6"
+      ],
+      "MW": "181.23 g/mol"
+    },
+    {
+      "Title": "2,4,5-Trimethoxyphenethylamine",
+      "Abr": [
+        "2C-O"
+      ],
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "Dopamine",
+      "Abr": [
+        "DA"
+      ],
+      "MW": "153.18 g/mol"
+    },
+    {
+      "Title": "Chlorphenamine",
+      "Abr": [
+        "CP",
+        "CPM"
+      ],
+      "MW": "274.79 g/mol"
+    },
+    {
+      "Title": "1-(3-Chlorophenyl)-4-(2-phenylethyl)piperazine",
+      "Abr": [
+        "3C-PEP"
+      ],
+      "MW": "300.8 g/mol"
+    }
+  ],
+  "Parent": "arylalkylamine",
+  "Children": [
+    "amphetamine",
+    "aminorex",
+    "methylenedioxyphenethylamine",
+    "2,5-dimethoxyphenethylamine",
+    "3,5-dimethoxyphenethylamine",
+    "n-benzylphenethylamine",
+    "phenylethanolamine",
+    "β-alkylphenethylamine",
+    "catecholamine",
+    "tetrahydroisoquinoline"
+  ],
+  "First": {
+    "Title": "Phenethylamine",
+    "Abr": "PEA",
+    "MW": "121.18 g/mol"
+  },
+  "Analogues": []
+}

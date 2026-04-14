@@ -1,0 +1,11 @@
+{{$title := splitList "/" .OriginalReq.URL.Path | last | stripHTML}}
+{{$prefsPath := replace " " "_" $title | lower | printf "/user/%s/preferences.json"}}
+
+{{import "article.html"}}
+{{if fileExists $prefsPath | not -}}
+{{import "missing.html" -}}
+{{template "missing" (dict "Type" "user" "Title" $title) -}}
+{{else -}}
+{{$v := include $prefsPath | fromJson | merge (dict "Type" "user") -}}
+{{template "article" (dict "Title" (printf "%s - AnodyneWiki" $title) "Editable" "false" "Class" "fuserarticle" "Markdown" "user.md" "Vars" $v ) -}}
+{{end}}

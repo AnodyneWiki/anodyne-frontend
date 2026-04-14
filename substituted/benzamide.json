@@ -1,0 +1,39 @@
+{
+  "Name": "benzamide",
+  "Entries": [
+    {
+      "Title": "Amisulpride",
+      "Abr": "",
+      "MW": "369.5 g/mol"
+    },
+    {
+      "Title": "U-47700",
+      "Abr": "",
+      "MW": "329.3 g/mol"
+    },
+    {
+      "Title": "U-49900",
+      "Abr": "",
+      "MW": "357.3 g/mol"
+    },
+    {
+      "Title": "Tetrodotoxin",
+      "Abr": "",
+      "MW": "319.27 g/mol"
+    },
+    {
+      "Title": "Benzydamine",
+      "Abr": "",
+      "MW": "309.4 g/mol"
+    },
+    {
+      "Title": "Metoclopramide",
+      "Abr": "",
+      "MW": "299.79 g/mol"
+    }
+  ],
+  "Parent": "benzylamine",
+  "Children": [
+    "quinazolinone"
+  ]
+}

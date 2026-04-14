@@ -1,0 +1,184 @@
+{
+  "Name": "2,5-dimethoxyphenethylamine",
+  "Abr": "2C-x",
+  "Position": "4",
+  "First": {
+    "Title": "2,5-Dimethoxyphenethylamine",
+    "Abr": [
+      "2C-H"
+    ],
+    "MW": "181.23 g/mol"
+  },
+  "Entries": [
+    {
+      "Title": "2,5-Dimethoxy-3,4-Dimethylphenethylamine",
+      "Abr": "2C-G",
+      "MW": "209.28 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromophenethylamine",
+      "Abr": [
+        "2C-B"
+      ],
+      "MW": "260.13 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chlorophenethylamine",
+      "Abr": "2C-C",
+      "MW": "215.67 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethylphenethylamine",
+      "Abr": "2C-E",
+      "MW": "209.28 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-fluorophenethylamine",
+      "Abr": "2C-F",
+      "MW": "199.22 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodophenethylamine",
+      "Abr": "2C-I",
+      "MW": "307.13 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylphenethylamine",
+      "Abr": "2C-D",
+      "MW": "195.26 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-Methylthiophenethylamine",
+      "Abr": "2C-T",
+      "MW": "227.33 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-nitrophenethylamine",
+      "Abr": "2C-N",
+      "MW": "226.23 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propylphenethylamine",
+      "Abr": "2C-P",
+      "MW": "223.31 g/mol"
+    },
+    {
+      "Title": "TCB-2",
+      "Abr": "TCB-2",
+      "MW": "272.14 g/mol"
+    },
+    {
+      "Title": "2,4,5-Trimethoxyphenethylamine",
+      "Abr": [
+        "2C-O"
+      ],
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "25B-NBOMe",
+      "Abr": "25B-NBOMe",
+      "MW": "380.3 g/mol"
+    },
+    {
+      "Title": "25C-NBOMe",
+      "Abr": "25C-NBOMe",
+      "MW": "335.8 g/mol"
+    },
+    {
+      "Title": "25D-NBOMe",
+      "Abr": "25D-NBOMe",
+      "MW": "315.4 g/mol"
+    },
+    {
+      "Title": "25E-NBOMe",
+      "Abr": "25E-NBOMe",
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "25H-NBOMe",
+      "Abr": "25H-NBOMe",
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "25I-NBOMe",
+      "Abr": "25I-NBOMe",
+      "MW": "427.3 g/mol"
+    },
+    {
+      "Title": "25N-NBOMe",
+      "Abr": "25N-NBOMe",
+      "MW": "346.4 g/mol"
+    },
+    {
+      "Title": "25P-NBOMe",
+      "Abr": "25P-NBOMe",
+      "MW": "343.5 g/mol"
+    },
+    {
+      "Title": "25T2-NBOMe",
+      "Abr": "25T2-NBOMe",
+      "MW": "361.5 g/mol"
+    },
+    {
+      "Title": "25T4-NBOMe",
+      "Abr": "25T4-NBOMe",
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "25T7-NBOMe",
+      "Abr": "25T7-NBOMe",
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2C-B-FLY",
+      "Abr": "2C-B-FLY",
+      "MW": "284.15 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-trifluoromethylphenethylamine",
+      "Abr": "2C-TFM",
+      "MW": "249.23 g/mol"
+    },
+    {
+      "Title": "2-(4-Bromo-2,5-dimethoxyphenyl)morpholine",
+      "Abr": "2C-B-morpholine",
+      "MW": "302.16 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethylthiophenethylamine",
+      "Abr": "2C-T-2",
+      "MW": "241.35 g/mol"
+    },
+    {
+      "Title": "2C-G-5",
+      "Abr": "2C-G-5",
+      "MW": "247.33 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylsulfonylamphetamine",
+      "Abr": "DOMS",
+      "MW": "249.23 g/mol"
+    },
+    {
+      "Title": "Pentamethoxyphenethylamine",
+      "Abr": [
+        "PeMPEA"
+      ],
+      "MW": "271.31 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylselenophenethylamine",
+      "Abr": [
+        "2C-Se"
+      ],
+      "MW": "274.23 g/mol"
+    }
+  ],
+  "Parent": "phenethylamine",
+  "Children": [
+    "2,5-dimethoxyamphetamine"
+  ],
+  "Analogues": [
+    "3,5-dimethoxyphenethylamine"
+  ]
+}

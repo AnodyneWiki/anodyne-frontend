@@ -1,0 +1,1275 @@
+{
+  "Title": "magnus",
+  "Name": [
+    "Magnus"
+  ],
+  "About": "{p}Hiii, I‘m Magnus, chill and helpful guy, always looking forward to new experiences.{Ep}{p}If you have any questions feel free to ask for anything, I like giving advice, if your question is in my power to answer, or just chat if you want to :){Ep}",
+  "Birth": "2003-08",
+  "Deceased": "2025-09",
+  "Location": "Germany",
+  "Links": [
+    {
+      "Name": "Discord",
+      "Url": "25magnus_v5"
+    },
+    {
+      "Name": "Reddit",
+      "Url": "https://www.reddit.com/user/hashnagel"
+    }
+  ],
+  "Psyche": {
+    "Interests": [
+      "Chemistry",
+      "Drugs",
+      "The Universe",
+      "History and geopolitics"
+    ],
+    "Attributes": [
+      "Depressive mood disorder (diagnosed)",
+      "General social anxiety",
+      "Polytoxicomania (self diagnosed)",
+      "Opioid addiction"
+    ]
+  },
+  "Complications": [],
+  "RoutesOfAdministration": [],
+  "Preferences": [
+    {
+      "Name": "Opioids",
+      "Entries": [
+        {
+          "Substance": "Tilidine"
+        },
+        {
+          "Substance": "Tramadol"
+        },
+        {
+          "Substance": "Mitragynine"
+        },
+        {
+          "Substance": "Codeine"
+        },
+        {
+          "Substance": "Oxycodone"
+        },
+        {
+          "Substance": "Hydromorphone"
+        },
+        {
+          "Substance": "Methiodone"
+        },
+        {
+          "Substance": "7-Hydroxymitragynine"
+        }
+      ]
+    },
+    {
+      "Name": "Psychedelics",
+      "Entries": [
+        {
+          "Substance": "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide"
+        },
+        {
+          "Substance": "1-Valeryl-D-lysergic acid diethylamide"
+        },
+        {
+          "Substance": "Lysergic acid diethylamide"
+        },
+        {
+          "Substance": "Psilocybin"
+        },
+        {
+          "Substance": "N1-Tert-butoxycarbonyldimethyltryptamine"
+        },
+        {
+          "Substance": "Dimethyltryptamine"
+        },
+        {
+          "Substance": "2,5-Dimethoxy-4-bromophenethylamine"
+        },
+        {
+          "Substance": "5-Methoxy-N-methyl-N-isopropyltryptamine"
+        }
+      ]
+    },
+    {
+      "Name": "Benzodiazepines",
+      "Entries": [
+        {
+          "Substance": "Lorazepam"
+        },
+        {
+          "Substance": "Alprazolam"
+        },
+        {
+          "Substance": "Diazepam"
+        },
+        {
+          "Substance": "Avizafone"
+        },
+        {
+          "Substance": "Rilmazafone"
+        },
+        {
+          "Substance": "Bretazenil"
+        },
+        {
+          "Substance": "Clonazafone"
+        },
+        {
+          "Substance": "Clonazafone desglycyl"
+        }
+      ]
+    },
+    {
+      "Name": "Sedatives",
+      "Entries": [
+        {
+          "Substance": "Ethanol"
+        },
+        {
+          "Substance": "Nitromethaqualone"
+        },
+        {
+          "Substance": "Mephenaquolone"
+        },
+        {
+          "Substance": "1,4-Butanediol"
+        },
+        {
+          "Substance": "2-Methyl-2-butanol"
+        },
+        {
+          "Substance": "γ-Butyrolactone"
+        },
+        {
+          "Substance": "γ-Hydroxybutyric acid"
+        },
+        {
+          "Substance": "Fenadiazole"
+        },
+        {
+          "Substance": "Pregabalin"
+        },
+        {
+          "Substance": "Phenibut"
+        },
+        {
+          "Substance": "Baflofen"
+        }
+      ]
+    },
+    {
+      "Name": "Z-Drugs",
+      "Entries": [
+        {
+          "Substance": "Zolpidem"
+        },
+        {
+          "Substance": "Zopiclone"
+        }
+      ]
+    },
+    {
+      "Name": "Dissociatives",
+      "Entries": [
+        {
+          "Substance": "Nitrous oxide"
+        },
+        {
+          "Substance": "2-Fluorodeschloroketamine"
+        },
+        {
+          "Substance": "Ketamine"
+        },
+        {
+          "Substance": "Dextromethorphan"
+        },
+        {
+          "Substance": "Fluorexetamine"
+        },
+        {
+          "Substance": "Deschloroketamine"
+        },
+        {
+          "Substance": "Aptiganel"
+        },
+        {
+          "Substance": "Toluene"
+        }
+      ]
+    },
+    {
+      "Name": "Stimulants",
+      "Entries": [
+        {
+          "Substance": "Caffeine"
+        },
+        {
+          "Substance": "Nicotine"
+        },
+        {
+          "Substance": "Methylphenidate"
+        },
+        {
+          "Substance": "3-Fluorophenmetrazine"
+        },
+        {
+          "Substance": "4-Fluoromethylphenidate"
+        },
+        {
+          "Substance": "Lisdexamphetamine"
+        },
+        {
+          "Substance": "Amphetamine"
+        },
+        {
+          "Substance": "Troparil"
+        },
+        {
+          "Substance": "3,4-Methylenedioxyphenmetrazine"
+        },
+        {
+          "Substance": "Cocaine"
+        },
+        {
+          "Substance": "Isopropylphenidate"
+        },
+        {
+          "Substance": "2-Fluoromethamphetamine"
+        },
+        {
+          "Substance": "4-Methylmethylphenidate"
+        }
+      ]
+    },
+    {
+      "Name": "Entactogen",
+      "Entries": [
+        {
+          "Substance": "3,4-Methylenedioxymethamphetamine"
+        },
+        {
+          "Substance": "6-(2-Aminopropyl)benzofuran"
+        },
+        {
+          "Substance": "5-(N-methyl-2-aminopropyl)benzofuran"
+        }
+      ]
+    }
+  ],
+  "TriedSubstances": [
+    {
+      "Name": "Nicotine",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        },
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "freebase",
+        "benzoate"
+      ],
+      "Effects": [
+        "{xeff 'wakefulness'}",
+        "{sev 'light'} {xeff 'stimulation'}"
+      ],
+      "Notes": "smoked, vaped, snus"
+    },
+    {
+      "Name": "Caffeine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "400mg"
+        }
+      ],
+      "Salts": [
+        "freebase"
+      ],
+      "Effects": [
+        "{xeff 'wakefulness'}",
+        "{sev 'light'} {xeff 'stimulation'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Omberacetam",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Amphetamine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Insufflation"
+        }
+      ],
+      "Salts": [
+        "sulfate"
+      ],
+      "Effects": [
+        "{xeff 'focus enhancement'}",
+        "{xeff 'increased music appreciation'}",
+        "{xeff 'wakefulness'} and insomnia",
+        "{xeff 'pupil dilation'}",
+        "{sev 'light'} {xeff 'cognitive euphoria'}",
+        "{xeff 'appetite suppression'} and thirst suppression"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Lisdexamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "70mg"
+        }
+      ],
+      "Salts": [
+        "dimesylate"
+      ],
+      "Effects": [
+        "very good {xeff 'focus enhancement'}",
+        "{xeff 'increased music appreciation'}",
+        "{xeff 'wakefulness'} and insomnia",
+        "{xeff 'pupil dilation'}",
+        "clean {sev 'light'} {sub 'cognitive euphoria'}",
+        "{xeff 'appitite suppression'} and thirst supression"
+      ],
+      "Notes": "calmer experience than racemic {sub 'amphetamine' 'amphetamine'}"
+    },
+    {
+      "Name": "2-Fluoromethamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Notes": "very close to {sub 'dextroamphetamine'}"
+    },
+    {
+      "Name": "3,4-Methylenedioxymethamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'empathy, affection, and sociability enhancement'} and strong feeling of love",
+        "{xeff 'wakefulness'}",
+        "{xeff 'colour enhancement' 'color enhancement'}",
+        "{xeff 'teeth grinding'}",
+        "{xeff 'increased perspiration'}",
+        "restlessness",
+        "{xeff 'increased music appreciation'} with the urge to dance",
+        "sharp visuals",
+        "rolling/vibrating eyes"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "6-(2-Aminopropyl)benzofuran",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [
+        "succinate"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{xeff 'empathy, affection, and sociability enhancement'}",
+        "{xeff 'wakefulness'}",
+        "{xeff 'increased perspiration'}",
+        "{xeff 'increased music appreciation'}",
+        "{xeff 'colour enhancement' 'color enhancement'}",
+        "{sev 'light'} {xeff 'stomach cramp'} (not unpleasant)",
+        "sharp visuals",
+        "rolling/vibrating eyes"
+      ],
+      "Notes": "the first half of the experience is more mdma like, after a few hours the experience becomes more psychedelic"
+    },
+    {
+      "Name": "5-(N-methyl-2-aminopropyl)benzofuran",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "150-220mg"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'wakefulness'}",
+        "{xeff 'increased music appreciation'}",
+        "slight visuals",
+        "strong feeling of love",
+        "less {xeff 'irritability' 'agitation'}/calmer experience than {sub '3,4-methylenedioxymethamphetamine' 'MDMA'}",
+        "rolling/vibrating eyes"
+      ],
+      "Notes": "much better suited than {sub '3,4-methylenedioxymethamphetamine' 'MDMA'} for rolling at home"
+    },
+    {
+      "Name": "3-Fluorophenmetrazine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'empathy, affection, and sociability enhancement'}",
+        "{xeff 'focus enhancement'}",
+        "{xeff 'irritability'}",
+        "{xeff 'wakefulness'}",
+        "{xeff 'appetite suppression'} and thirst suppression",
+        "{xeff 'increased perspiration'}",
+        "{sev 'light'} {xeff 'ego inflation'}"
+      ],
+      "Notes": "pretty similar to {sub 'amphetamine'}; slight serotonergic effects; burns quite a bit in the nose when insufflated due to being quite caustic; good functional stimulant but has better sociability than regular {sub 'amphetamine'}"
+    },
+    {
+      "Name": "3,4-Methylenedioxyphenmetrazine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'focus enhancement'}"
+      ],
+      "Notes": "over all a rather weak stim, underwhelming"
+    },
+    {
+      "Name": "Methylphenidate",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Effects": [
+        "{xeff 'focus enhancement'}",
+        "{xeff 'irritability'}",
+        "{xeff 'appetite suppression'}"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Isopropylphenidate",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'focus enhancement'}"
+      ],
+      "Notes": "disappointing; {sub 'caffeine' 'caffeine'}+"
+    },
+    {
+      "Name": "4-Methylmethylphenidate",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Notes": "effects close to {sub 'methylphenidate' 'methylphenidat'} with lower potency and less clean, underwhelming"
+    },
+    {
+      "Name": "4-Fluoromethylphenidate",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Notes": "{sub 'methylphenidate' 'methylphenidate'}'s big brother; very similar pharmacological effects longer duration, higher potency more recreational; batches from spring 2023 were clean white crystals; later batches 2024 changed the source/synthesis route changing the distribution of stereoisomers resulting in an off-white clumpy texture and drastically reduced potency"
+    },
+    {
+      "Name": "Cocaine",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Effects": [
+        "{xeff 'cognitive euphoria'}",
+        "{xeff 'empathy, affection, and sociability enhancement'}",
+        "{xeff 'compulsive redosing'}",
+        "{xeff 'increased music appreciation'}",
+        "{xeff 'pupil dilation'}",
+        "{xeff 'ego inflation'}"
+      ],
+      "Notes": "recreational"
+    },
+    {
+      "Name": "Troparil",
+      "Routes": [
+        {
+          "Name": "Insufflation"
+        }
+      ],
+      "Salts": [
+        "freebase"
+      ],
+      "Notes": "very clean experience; one of the best functional stimulants I've encountered; mostly dopaminergic"
+    },
+    {
+      "Name": "Diphenhydramine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Dimenhydrinate",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Zolpidem",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [
+        "tartrate"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Zopiclone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Pagoclone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Fenadiazole",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'sedation'}",
+        "{xeff 'anxiety suppression' 'anxiety suppression'}"
+      ],
+      "Notes": "not much to note"
+    },
+    {
+      "Name": "γ-Hydroxybutyric acid",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'cognitive euphoria'}",
+        "{xeff 'empathy, affection, and sociability enhancement'}",
+        "in smaller doses {xeff 'wakefulness'}",
+        "{xeff 'increased music appreciation'}",
+        "{xeff 'anxiety suppression'}",
+        "in high doses {sev 'strong'} {xeff 'sedation'}"
+      ],
+      "Notes": "identical effects but shorter onset than {sub '1,4-Butanediol' '1,4-butanediol'}, "
+    },
+    {
+      "Name": "γ-Butyrolactone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'cognitive euphoria'}",
+        "{xeff 'empathy, affection, and sociability enhancement'}",
+        "in smaller doses {xeff 'wakefulness'}",
+        "{xeff 'increased music appreciation'}",
+        "{xeff 'anxiety suppression'}",
+        "in high doses {sev 'strong'} {xeff 'sedation'}"
+      ],
+      "Notes": "identical effects but shorter onset than {sub '1,4-Butanediol' '1,4-butanediol'}"
+    },
+    {
+      "Name": "1,4-Butanediol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'cognitive euphoria'}",
+        "{xeff 'empathy, affection, and sociability enhancement'}",
+        "in smaller doses {xeff 'wakefulness'}",
+        "{xeff 'increased music appreciation'}",
+        "{xeff 'anxiety suppression'}",
+        "in high doses {sev 'strong'} {xeff 'sedation'}"
+      ],
+      "Notes": "you don’t even notice sleeping, it’s the closest thing I‘ve experienced to a time skip, it’s what {sub 'ethanol' 'alcohol'} wants to be as a drug"
+    },
+    {
+      "Name": "Nitromethaqualone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": "~60mg; slight {xeff 'sedation' 'sedation'}; only taken once because a friend who ingested a larger dose of ~100mg developed a tremor in his hands which lasted for a few days"
+    },
+    {
+      "Name": "Mephaqualone",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "20mg"
+        }
+      ],
+      "Salts": [],
+      "Notes": "sedation; slight {xeff 'cognitive euphoria' 'euphoria'}; {xeff 'anxiety suppresion' 'anxiety suppression'}; pairs excellently with a {sub '6-(2-Aminopropyl)benzofuran' '6-APB'} comedown; great variability in effects noted by friends; some responded with really minor doses; some not at all"
+    },
+    {
+      "Name": "Pregabalin",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "300mg"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{sev 'light'} {xeff 'anxiety suppression'}"
+      ],
+      "Notes": "little effect"
+    },
+    {
+      "Name": "Phenibut",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "2-10g"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{sev 'light'} {xeff 'sedation'} (helps with sleep)",
+        "{xeff 'empathy, affection, and sociability enhancement'}",
+        "{sev 'light'} {xeff 'stimulation'}",
+        "{sev 'light'} {xeff 'wakefulness'}",
+        "{xeff 'anxiety suppression'}",
+        "{xeff 'cognitive euphoria'}",
+        "{xeff 'appetite enhancement'}"
+      ],
+      "Notes": "extremely bitter taste"
+    },
+    {
+      "Name": "Baflofen",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Intrarectal"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'sedation'}",
+        "{xeff 'muscle relaxation'}",
+        "{sev 'light'} {xeff 'anxiety suppression'}"
+      ],
+      "Notes": "no euphoria"
+    },
+    {
+      "Name": "Quetiapine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Mirtazapine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Escitalopram",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Alprazolam",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Diazepam",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Avizafone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Rilmazafone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Clonazafone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Clonazafone desglycyl",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Bretazenil",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Lorazepam",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Bromazolam",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Pyrazolam",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Clonazepam",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Temazepam",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Oxycodone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Codeine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Hydromorphone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Methiodone",
+      "Routes": [],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Tilidine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Tramadol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Desmetramadol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Adverse": [
+        "{xeff 'respiratory depression'} (cause of death; 1312 nanogramm/ml concentration determined by toxicologists)"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Mitragynine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "7-Hydroxymitragynine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Dextromethorphan",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Deschloroketamine",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Ketamine",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "2-Fluorodeschloroketamine",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Fluorexetamine",
+      "Routes": [
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Notes": ""
+    },
+    {
+      "Name": "Aptiganel",
+      "Routes": [],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Cannabidiol",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Tetrahydrocannabinol",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Hexahydrocannabinol",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-bromophenethylamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "22-44mg"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "22mg"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "11-66mg"
+        }
+      ],
+      "Notes": "lovechild of {sub 'lysergic acid diethylamide' 'lsd'} and {sub '3,4-methylenedioxymethamphetamine' 'mdma'}; {xeff 'irritability' 'agitation'}; {xeff 'cognitive euphoria' 'euphoria'}; prettiest visuals I‘ve ever had on 66mg boofed in combination with 4mg of Clonazepam; slight {xeff 'nausea' 'nausea'} when boofed"
+    },
+    {
+      "Name": "Dimethyltryptamine",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Notes": "smoked off foil; visuals present; breakthrough when combined with lsd and {sub 'ketamine'} (although I don’t remember anything much)"
+    },
+    {
+      "Name": "N1-Tert-butoxycarbonyldimethyltryptamine",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Notes": "smoked off foil; no effect notable"
+    },
+    {
+      "Name": "5-Methoxy-N-methyl-N-isopropyltryptamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "2mg"
+        }
+      ],
+      "Notes": "only used in combination pink star pellets with 70mg of {sub '5-(N-methyl-2-aminopropyl)benzofuran' '5-MAPB'} and 20mg of {sub '2-fluoromethamphetamine' '2fma'}"
+    },
+    {
+      "Name": "Psilocybin",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Notes": "via magic mushrooms and magic truffels; slightly more calm headspace than {sub 'lysergic acid diethylamide' 'LSD'} and its analogues; brighter visuals which have a more futuristic feel to them like {sub '2,5-dimethoxy-4-bromophenethylamine' '2C-B'}; less agitation than {sub 'lysergic acid diethylamide' 'LSD'}; heightened {xeff 'anxiety' 'anxiety'}"
+    },
+    {
+      "Name": "Lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "1-Valeryl-D-lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "60-225mcg"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'cognitive euphoria'}",
+        "{xeff 'anxiety'}",
+        "{xeff 'muscle tension'}",
+        "{xeff 'appetite suppression'} and thirst",
+        "{xeff 'wakefulness'}",
+        "nice visuals"
+      ],
+      "Adverse": [
+        "{xeff 'sensory overload'}",
+        "{xeff 'anxiety' 'anxiety'} (mixed with {sub 'tetrahydrocannabinol' 'THC'})"
+      ],
+      "Notes": "classic psychedelic headspace"
+    },
+    {
+      "Name": "Nitrous oxide",
+      "Routes": [
+        {
+          "Name": "Inhaled"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Hydroxylamine",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Ethanol",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "180g"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'sedation'}",
+        "{xeff 'nausea'}",
+        "{xeff 'anxiety suppression'}",
+        "{xeff 'empathy, affection, and sociability enhancement'}",
+        "{xeff 'disinhibition'}",
+        "{xeff 'appetite enhancement'}",
+        "dehydration"
+      ],
+      "Notes": "largest known oral dose of 230ml pure ethanol; consumed by drinking approximately 2L of white wine in about 10h"
+    },
+    {
+      "Name": "2-Methyl-2-butanol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'sedation'} (more sedation than alcohol)",
+        "{xeff 'anxiety suppression'}",
+        "{xeff 'muscle relaxation'}",
+        "{sev 'light'} {xeff 'empathy, affection, and sociability enhancement'}"
+      ],
+      "Notes": [
+        "ouch; smells like gasoline, rubber with a hint of mint",
+        "disgusting burps",
+        "for more in depth information see reddit post"
+      ]
+    },
+    {
+      "Name": "Toluene",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    }
+  ],
+  "SubstanceMatrixMaxCols": "16",
+  "SubstanceMatrixCellW": "60px",
+  "SubstanceMatrixCellH": "60px"
+}

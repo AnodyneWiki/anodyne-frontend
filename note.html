@@ -1,0 +1,4 @@
+{{$title := splitList "/" .OriginalReq.URL.Path | last | stripHTML -}}
+
+{{- import "article.html"}}
+{{template "article" (dict "Title" (title $title | printf "%s - Anodyne") "Markdown" (lower $title | printf "/note/%s.md") )}}

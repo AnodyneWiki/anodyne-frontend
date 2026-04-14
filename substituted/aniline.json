@@ -1,0 +1,81 @@
+{
+  "Name": "aniline",
+  "Entries": [
+    {
+      "Title": "Aniline",
+      "Abr": [],
+      "MW": "93.13 g/mol"
+    },
+    {
+      "Title": "Paracetamol",
+      "Abr": "",
+      "MW": "151.16 g/mol"
+    },
+    {
+      "Title": "Acetanilide",
+      "Abr": "",
+      "MW": "135.16 g/mol"
+    },
+    {
+      "Title": "Bromantane",
+      "Abr": "",
+      "MW": "306.24 g/mol"
+    },
+    {
+      "Title": "1-Pentyl-3-(1-naphthoyl)indole",
+      "Abr": [
+        "JWH-018"
+      ],
+      "MW": "341.4 g/mol"
+    },
+    {
+      "Title": "Metamizole",
+      "Abr": [],
+      "MW": "311.36 g/mol"
+    },
+    {
+      "Title": "Avizafone",
+      "Abr": [],
+      "MW": "430.9 g/mol"
+    },
+    {
+      "Title": "Rilmazafone",
+      "Abr": [],
+      "MW": "475.3 g/mol"
+    },
+    {
+      "Title": "Clonazafone Desglycyl",
+      "Abr": [],
+      "MW": "333.72 g/mol"
+    },
+    {
+      "Title": "Metacetamol",
+      "Abr": [],
+      "MW": "151.16 g/mol"
+    },
+    {
+      "Title": "Ampyrone",
+      "Abr": [],
+      "MW": "203.24 g/mol"
+    },
+    {
+      "Title": "Doxycycline",
+      "Abr": [],
+      "MW": "444.4 g/mol"
+    },
+    {
+      "Title": "Lidocaine",
+      "Abr": [],
+      "MW": "234.34 g/mol"
+    }
+  ],
+  "Parent": "arylalkylamine",
+  "Children": [
+    "phenylpiperazine"
+  ],
+  "Analogues": [
+    "alkylbenzene",
+    "cyclohexylamine",
+    "phenol"
+  ]
+}

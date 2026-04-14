@@ -1,0 +1,69 @@
+{
+  "Name": "triazolobenzodiazepine",
+  "Entries": [
+    {
+      "Title": "Alprazolam",
+      "Abr": "Xanax",
+      "MW": "308.8 g/mol"
+    },
+    {
+      "Title": "Estazolam",
+      "Abr": "",
+      "MW": "294.74 g/mol"
+    },
+    {
+      "Title": "Nitrazolam",
+      "Abr": "",
+      "MW": "319.32 g/mol"
+    },
+    {
+      "Title": "Flualprazolam",
+      "Abr": "",
+      "MW": "326.8 g/mol"
+    },
+    {
+      "Title": "Flunitrazolam",
+      "Abr": "",
+      "MW": "337.31 g/mol"
+    },
+    {
+      "Title": "Triazolam",
+      "Abr": "",
+      "MW": "343.2 g/mol"
+    },
+    {
+      "Title": "Bromazolam",
+      "Abr": "",
+      "MW": "353.2 g/mol"
+    },
+    {
+      "Title": "Clonazolam",
+      "Abr": "",
+      "MW": "353.8 g/mol"
+    },
+    {
+      "Title": "Pyrazolam",
+      "Abr": "",
+      "MW": "354.20 g/mol"
+    },
+    {
+      "Title": "Flubromazolam",
+      "Abr": "",
+      "MW": "371.2 g/mol"
+    },
+    {
+      "Title": "Adinazolam",
+      "Abr": "",
+      "MW": "351.8 g/mol"
+    },
+    {
+      "Title": "4'-Chlorodeschloroalprazolam",
+      "Abr": "",
+      "MW": "308.8 g/mol"
+    }
+  ],
+  "Parent": "benzodiazepine",
+  "Analogues": [
+    "thienotriazolodiazepine"
+  ]
+}

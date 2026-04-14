@@ -1,0 +1,56 @@
+{
+  "Name": "hexahydroazepinoindole",
+  "Abr": "ibogaloges",
+  "Entries": [
+    {
+      "Title": "Noribogaminalog",
+      "Abr": [],
+      "MW": "186.25 g/mol"
+    },
+    {
+      "Title": "Ibogaminalog",
+      "Abr": [],
+      "MW": "200.28 g/mol"
+    },
+    {
+      "Title": "Ibogainalog",
+      "Abr": [
+        "IBG"
+      ],
+      "MW": "230.31 g/mol"
+    },
+    {
+      "Title": "Tabernanthalog",
+      "Abr": [
+        "TBG"
+      ],
+      "MW": "230.31 g/mol"
+    },
+    {
+      "Title": "Noribogainalog",
+      "Abr": [
+        "nor-IBG"
+      ],
+      "MW": "216.28 g/mol"
+    },
+    {
+      "Title": "Catharanthalog",
+      "Abr": [
+        "CAG"
+      ],
+      "MW": "258.32 g/mol"
+    },
+    {
+      "Title": "6-Methylhexahydroazepinoindoles",
+      "Abr": [
+        "PNU-22394",
+        "PNU-22394A"
+      ],
+      "MW": "200.28 g/mol"
+    }
+  ],
+  "Parent": "tryptamine",
+  "Analogues": [
+    "β-carboline"
+  ]
+}

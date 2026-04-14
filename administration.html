@@ -1,0 +1,24 @@
+{{import "missing.html"}}
+{{import "article.html"}}
+
+{{if .OriginalReq.URL.Path}}
+	{{$name := last ( splitList "/" .OriginalReq.URL.Path)}}
+	{{$title := printf "%s - Anodyne" (title $name)}}
+	{{$md := printf "/administration/%s.md" $name}}
+	{{$varsFilePath := printf "/administration/%s.json" $name}}
+	{{if not (fileExists $varsFilePath)}}{{httpError 404}}{{end}}
+	{{$varsFile := include $varsFilePath}}
+	{{$vars := fromJson $varsFile}}
+	{{$theme := (.Cookie "theme")}}
+	{{$collapse := .Cookie "collapse"}}
+	{{$themequery := ph "http.vars.theme"}}
+	{{$collapsequery := ph "http.vars.collapse"}}
+	{{if $themequery}}{{$theme = $themequery}}{{end}}
+	{{if $collapsequery}}{{$collapse = $collapsequery}}{{end}}
+	{{if or (not $vars) $vars.NotFound (not $vars.Title)}}
+		{{template "missing" (dict "Title" (stripHTML (title $name)) "Theme" (stripHTML $theme) "Collapse" (stripHTML $collapse))}}
+		{{httpError 404}}
+	{{else}}
+		{{template "article" (dict "Markdown" $md "Title" $title "Vars" $vars "Theme" $theme "Collapse" $collapse)}}
+	{{end}}
+{{end}}

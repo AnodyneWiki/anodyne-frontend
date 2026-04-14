@@ -1,0 +1,210 @@
+{
+"Title": "Sech1p",
+"Name": [
+	"Eliza"
+],
+"About": "<p>Haii!, I'm <b>Eliza</b>!.</p>",
+"References": [
+	{ "Name": "Email", "Url": "sech1p@icloud.com" },
+	{ "Name": "GPG", "Url": "C549283FEFC5771ED39AC158A3473DD5368D3953" },
+	{ "Name": "Github", "Url": "https://github.com/sech1p" },
+	{ "Name": "Discord", "Url": "sech1p" },
+	{ "Name": "Reddit", "Url": "https://www.reddit.com/user/sech1p" }
+],
+"Interests": [
+	"Chemistry",
+	"Music producing/dj'ing",
+	"Programming",
+	"Art"
+],
+"Psyche": [
+	"Autism spectrum disorder",
+	"Attention deficit hyperactivity disorder",
+	"Depression",
+	"Transgender (Male to Female)",
+	"<a class=logo href=/effect/paranoia>Paranoia</a>",
+	"General <a class=logo href=/effect/anxiety>Anxiety</a>",
+	"<a href=/class/stimulant>Stimulant</a> addiction (15 months)",
+	"<a href=/substance/ethanol>Alcohol</a> addiction (10 months)",
+	"Self-destructive Behaviour (drug overdose, stimulant psychosis)",
+	"(former) <a href='/administration/intravenous'>Intravenous</a> user"
+],
+"Complications": [
+	{
+		"Name": "Serotonin syndrome",
+		"Entries": [
+			{ "Ingestions": [
+				{ "Substance": "α-Pyrrolidinopentiophenone", "ROA": "Insufflated", "Dosage": "~1700mg" }
+			], "Date": "2024-05-27", "Note": "This marathon tooks 4 days." }
+		]
+	},
+	{
+		"Name": "Stimulant psychosis",
+		"Entries": [
+			{ "Ingestions": [
+				{ "Substance": "Clophedrone", "ROA": "Insufflated", "Dosage": "~6000mg" }
+			], "Date": "2025-03-00", "Note": "First psychosis which I experienced in my life. Paranoia, hallucinations, numb-like perception, and psychotic episode. Part of my 3 day marathon." },
+			{ "Ingestions": [
+				{ "Substance": "α-Pyrrolidinopentiophenone", "ROA": "Insufflated", "Dosage": "~1700mg" }
+			], "Date": "2025-05-27", "Note": "Night psychosis during tooking substance (+ serotonine syndromes described above). I was overstimulated, on hyperfocus and hypermania like too got hallucinations. I saw different shapes, animals, etc. blinking into my eyes." },
+			{ "Ingestions": [
+				{ "Substance": "Mephedrone", "ROA": "Insufflated", "Dosage": "~3000mg" },
+				{ "Substance": "Clophedrone", "ROA": "Insufflated", "Dosage": "~3000mg" }
+			], "Date": "2025-06-19", "Note": "Early morning psychosis - paranoia, numb-like, overstimulated and VERY HIGH libido." }
+		]
+	}
+],
+"RoutesOfAdministration": [
+	{
+		"Name": "Inhaled",
+		"Paraphernalia": [
+			"Simple pipe"
+		],
+		"Sites": [
+			"Mouth"
+		]
+	},
+	{
+		"Name": "Intranasal",
+		"Paraphernalia": [
+			"A simple roll of paper",
+			"Nasalspray"
+		],
+		"Sites": [
+			"Nose"
+		]
+	},
+	{
+		"Name": "Oral",
+		"Paraphernalia": [
+			"Capsule",
+			"Tablet",
+			"Powder"
+		],
+		"Sites": [
+			"Mouth"
+		]
+	}
+],
+"Classes": [
+	{
+		"Name": "Stimulants",
+		"Entries": [
+			{ "Substance": "Amphetamine" },
+			{ "Substance": "Mephedrone" },
+			{ "Substance": "3-Methylethcathinone" },
+			{ "Substance": "Clephedrone" },
+			{ "Substance": "2-Methylmethcathinone" },
+			{ "Substance": "Brephedrone" },
+			{ "Substance": "Methylphenidate" },
+			{ "Substance": "α-Pyrrolidinopentiophenone" },
+			{ "Substance": "Tusi" },
+			{ "Substance": "Caffeine" },
+			{ "Substance": "Nicotine" },
+			{ "Substance": "Bupropion" }
+		]
+	},
+	{
+		"Name": "Entactogens",
+		"Entries": [
+			{ "Substance": "3,4-Methylenedioxymethamphetamine" },
+			{ "Substance": "Mephedrone" }
+		]
+	},
+	{
+		"Name": "Dissociatives",
+		"Entries": [
+			{ "Substance": "Ketamine" },
+			{ "Substance": "Dextromethorphan" }
+		]
+	},
+	{
+		"Name": "Psychedelics",
+		"Entries": [
+			{ "Substance": "2,5-Dimethoxy-4-bromophenethylamine" }
+		]
+	},
+	{
+		"Name": "Hormone medications",
+		"Entries": [
+			{ "Substance": "Estradiol enantate" }
+		]
+	},
+	{
+		"Name": "Opioids",
+		"Entries": [
+			{ "Substance": "Codeine" },
+			{ "Substance": "Tramadol" },
+			{ "Substance": "Morphine" },
+			{ "Substance": "Poppy" },
+			{ "Substance": "Naloxone/Narcan" },
+			{ "Substance": "Oxycodone" }
+		]
+	},
+	{
+		"Name": "Antipsychotics",
+		"Entries": [
+			{ "Substance": "Aripiprazole" }
+		]
+	},
+	{
+		"Name": "Sedatives",
+		"Entries": [
+			{ "Substance": "Lorazepam" },
+			{ "Substance": "Alprazolam" },
+			{ "Substance": "Diazepam" },
+			{ "Substance": "Clonazepam" },
+			{ "Substance": "Pregabalin" },
+			{ "Substance": "Ethanol" },
+			{ "Substance": "1,4-Butanediol" }
+		]
+	},
+	{
+		"Name": "Cannabinoids",
+		"Entries": [
+			{ "Substance": "Naphthoylindoles" },
+			{ "Substance": "Tetrahydrocannabinol" },
+			{ "Substance": "Hexahydrocannabinol" },
+			{ "Substance": "Cannabidiol" }
+		]
+	},
+	{
+		"Name": "Antihistamines",
+		"Entries": [
+			{ "Substance": "Hydroxyzine" }
+		]
+	},
+	{
+		"Name": "Deliriants",
+		"Entries": [
+			{ "Substance": "Dimenhydrinate" }
+		]
+	},
+	{
+		"Name": "Antidepressants",
+		"Entries": [
+			{ "Substance": "Fluoxetine" },
+			{ "Substance": "Sertraline" },
+			{ "Substance": "Duloxetine" }
+		]
+	},
+	{
+		"Name": "Antihypertensives",
+		"Entries": [
+			{ "Substance": "Pregabalin" }
+		]
+	},
+	{
+		"Name": "NSAIDs",
+		"Entries": [
+			{ "Substance": "Ibuprofen" },
+			{ "Substance": "Paracetamol" }
+		]
+	}
+],
+"TriedSubstances": [
+],
+"SubstanceMatrixCols": 10,
+"SubstanceMatrixCellW": "55px",
+"SubstanceMatrixCellH": "55px"
+}

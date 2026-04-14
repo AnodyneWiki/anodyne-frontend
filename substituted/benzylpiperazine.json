@@ -1,0 +1,94 @@
+{
+  "Name": "benzylpiperazine",
+  "Entries": [
+    {
+      "Title": "Benzylpiperazine",
+      "Abr": [
+        "BZP"
+      ],
+      "MW": "176.26 g/mol"
+    },
+    {
+      "Title": "4-Methylbenzylpiperazine",
+      "Abr": "4-MBZP",
+      "MW": "190.28 g/mol"
+    },
+    {
+      "Title": "3-Methylbenzylpiperazine",
+      "Abr": "3-MBZP",
+      "MW": "190.28 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxybenzylpiperazine",
+      "Abr": "MDBZP",
+      "MW": "220.27 g/mol"
+    },
+    {
+      "Title": "Piberaline",
+      "Abr": "EGYT-475",
+      "MW": "281.35 g/mol"
+    },
+    {
+      "Title": "Amoxapine",
+      "Abr": [],
+      "MW": "313.8 g/mol"
+    },
+    {
+      "Title": "Methylbenzylpiperazine",
+      "Abr": [
+        "MBZP"
+      ],
+      "MW": "190.28 g/mol"
+    },
+    {
+      "Title": "Dibenzylpiperazine",
+      "Abr": [
+        "DBZP"
+      ],
+      "MW": "266.4 g/mol"
+    },
+    {
+      "Title": "3-Hydroxybenzylpiperazine",
+      "Abr": null,
+      "MW": "192.26 g/mol"
+    },
+    {
+      "Title": "4-Hydroxybenzylpiperazine",
+      "Abr": null,
+      "MW": "192.26 g/mol"
+    },
+    {
+      "Title": "Benzoylpiperazine",
+      "Abr": [
+        "BZOP"
+      ],
+      "MW": "190.24 g/mol"
+    },
+    {
+      "Title": "Methylbenzoylpiperazine",
+      "Abr": [
+        "MBZOP"
+      ],
+      "MW": "204.27 g/mol"
+    },
+    {
+      "Title": "Methoxypiperamide",
+      "Abr": [
+        "MeOP",
+        "MEXP"
+      ],
+      "MW": "234.29 g/mol"
+    },
+    {
+      "Title": "Sunifiram",
+      "Abr": [
+        "DM-235"
+      ],
+      "MW": "246.30 g/mol"
+    }
+  ],
+  "Parents": [
+    "benzylamine",
+    "piperazine"
+  ]
+}

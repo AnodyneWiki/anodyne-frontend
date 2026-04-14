@@ -1,0 +1,20 @@
+{
+  "Name": "cannabinoid",
+  "Entries": [
+    {
+      "Title": "Cannabidiol",
+      "Abr": "CBD",
+      "MW": "314.5 g/mol"
+    },
+    {
+      "Title": "Delta-9-tetrahydrocannabinol",
+      "Abr": "THC",
+      "MW": "314.5 g/mol"
+    },
+    {
+      "Title": "Ibuprofen",
+      "Abr": "",
+      "MW": "206.28 g/mol"
+    }
+  ]
+}

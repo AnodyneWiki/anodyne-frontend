@@ -1,0 +1,161 @@
+{
+  "Name": "pyrrolidinophenone",
+  "Abr": "pyros",
+  "First": {
+    "Title": "α-Pyrrolidinopropiophenone",
+    "Abr": "α-PPP",
+    "MW": "203.28 g/mol"
+  },
+  "Entries": [
+    {
+      "Title": "3-Methyl-4-Fluoro-α-Pyrrolidinovalerophenone",
+      "Abr": "MFPVP",
+      "MW": "263.35 g/mol"
+    },
+    {
+      "Title": "5-Dihydrobenzofuranpyrovalerone",
+      "Abr": [
+        "5-DBFPV"
+      ],
+      "MW": "273.37 g/mol"
+    },
+    {
+      "Title": "Naphyrone",
+      "Abr": "",
+      "MW": "281.4 g/mol"
+    },
+    {
+      "Title": "Pyrovalerone",
+      "Abr": "",
+      "MW": "245.36 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinobutiophenone",
+      "Abr": "α-PBP",
+      "MW": "217.31 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinohexiophenone",
+      "Abr": [
+        "α-PHP"
+      ],
+      "MW": "245.36 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinoisohexanophenone",
+      "Abr": [
+        "α-PiHP"
+      ],
+      "MW": "245.36 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinopentiophenone",
+      "Abr": [
+        "α-PVP",
+        "O-2387"
+      ],
+      "MW": "231.33 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-α-pyrrolidinoheptaphenone",
+      "Abr": "MDPEP",
+      "MW": "303.4 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-α-pyrrolidinohexiophenone",
+      "Abr": "MDPHP",
+      "MW": "289.4 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-α-pyrrolidinoisohexanophenone",
+      "Abr": [
+        "MDPiHP"
+      ],
+      "MW": "289.4 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-α-pyrrolidinopropiophenone",
+      "Abr": "MDPPP",
+      "MW": "247.29 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-α-pyrrolidinobutiophenone",
+      "Abr": "MDPBP",
+      "MW": "261.32 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinoheptaphenone",
+      "Abr": "α-PEP",
+      "MW": "259.4 g/mol"
+    },
+    {
+      "Title": "4-Fluoro-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "FPVP",
+        "O-2370"
+      ],
+      "MW": "249.32 g/mol"
+    },
+    {
+      "Title": "3',4'-Dimethoxy-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "DMPV",
+        "3,4-DMPV",
+        "DMPVP",
+        "O-2512"
+      ],
+      "MW": "291.4 g/mol"
+    },
+    {
+      "Title": "3',4'-Tetramethylene-α-pyrrolidinovalerophenone",
+      "Abr": [
+        "TH-PVP",
+        "THPV"
+      ],
+      "MW": "285.4 g/mol"
+    },
+    {
+      "Title": "4'-Methoxy-α-pyrrolidinopropiophenone",
+      "Abr": [
+        "4-MeO-α-PPP",
+        "MOPPP"
+      ],
+      "MW": "233.31 g/mol"
+    },
+    {
+      "Title": "3'-Methyl-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "3-Me-PVP",
+        "3-Me-α-PVP",
+        "O-2480"
+      ],
+      "MW": "245.36 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "MDPV",
+        "MDPK"
+      ],
+      "MW": "275.34 g/mol"
+    },
+    {
+      "Title": "3',4'-Dichloro-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "3,4-DCPV",
+        "DCPVP",
+        "O-2390"
+      ],
+      "MW": "300.2 g/mol"
+    },
+    {
+      "Title": "3',4'-Ethylene-α-pyrrolidinopentiophenone",
+      "Abr": [],
+      "MW": "257.37 g/mol"
+    }
+  ],
+  "Analogues": [
+    "piperidinophenone"
+  ],
+  "Parent": "cathinone"
+}

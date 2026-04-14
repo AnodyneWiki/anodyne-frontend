@@ -1,0 +1,6 @@
+	{{if fileExists $modsPath -}}
+		{{$mods := include $modsPath | fromJson -}}{{$vars = mergeOverwrite $vars $mods -}}
+		{{range $vars.Brands -}}
+			{{$_ := set $vars "Aliases" (without $vars.Aliases .) -}}
+		{{end -}}
+	{{end -}}
