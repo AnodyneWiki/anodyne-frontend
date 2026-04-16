@@ -1,7 +1,16 @@
 {{define "pharma"}}{{$v := . -}}
 {{$inters := list -}}
-{{with get $v "KEGG Entries"}}{{range .}}{{range .Interactions}}{{$inters = printf "%s %s" .Target .Action | append $inters}}{{end}}{{end}}{{end -}}
-{{$inters := uniq $inters -}}
+{{$alset := false}}
+{{with get $v "KEGG Entries"}}{{range . -}}
+{{range $int := .Interactions -}}
+{{$alset = false}}
+{{range $sint := $inters -}}
+{{if eq $int.Target $sint.Target}}{{$_ := $int.Action | append $sint.Actions | uniq | sortAlpha | set $sint "Actions"}}
+{{$alset = true}}
+{{end -}}
+{{end -}}
+{{if eq $alset false}}{{$inters = (dict "Target" $int.Target "Actions" (list $int.Action)) | append $inters}}{{end -}}
+{{end}}{{end}}{{end -}}
 
 {{if any $v.Actives $v.SwissTargetPredictions $inters (get $v "ATC Code") (get $v "MeSH Pharmacological Classification") -}}
 <h2>Pharmacology</h2>
@@ -66,8 +75,8 @@ In the <a class=logo href={{trunc 1 $pre | upper | printf "https://en.wikipedia.
 {{end}}
 
 {{if $inters}}
-<div class=collapser><h3>Interactions<span class="collapse-button">&nbsp;{{template "exnd" .collapse}}</span></h3>
-<div class=collapserContent><ul>{{range $inters}}<li>{{.}}</li>{{end}}</ul>
-</div></div>
+<div class=collapser><h3>Interactions<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;" class="collapse-button">&nbsp;{{template "exnd" .collapse}}</span></h3>
+<div class=collapserContent><table>{{range $int := $inters}}<tr style="line-height: 1.2;"><th>{{$int.Target}}</th><td>{{range $i, $act:= $int.Actions}}<span style='{{if eq $act "inhibition"}}border-bottom: 1px solid red;{{else if eq $act "induction"}}border-bottom: 1px solid blue;{{end}}'>{{.}}</span>{{if eq (add1 $i) (len $int.Actions) | not}} / {{end}}{{end}}</td></tr>{{end}}
+</table></div></div>
 {{end}}
 {{end}}{{end}}
