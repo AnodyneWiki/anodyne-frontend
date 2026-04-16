@@ -61,7 +61,7 @@
       "frequent {wkp 'intrusive thought' 'intrusive thoughts'} (taunting, sexual, anxiety, self-disgust, self-harm, suicidal)",
       "prior phases of intense fear of abandonment (mitigated via long-term stimulant and opioid use)",
       "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'})",
-      "{roa 'intravenous' 'Intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; periods of {xeff 'wakefulness'} up to 6+ days; longest peroid of abstinence 48 days)",
+      "{roa 'intravenous' 'Intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; periods of {xeff 'wakefulness'} up to 6+ days; longest peroid of abstinence 50 days)",
       "self-destructive behaviour (self-punshing, head-banging, cutting, injecting, overdose) and reaccuring {xeff 'suicidal ideation'} (since ~2018)",
       "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
     ]
@@ -1425,7 +1425,9 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'headache'} suppression"
+      ],
       "Notes": "no notable effect"
     },
     {
@@ -1706,7 +1708,10 @@
         "Hydrochloride"
       ],
       "Indication": "{xeff 'depression'}",
-      "Notes": "noted acute effects; long term no notable improvement in quality of life; {sev 'light'} potenciation of {sub 'dextroamphetamine'} through CYP2D6 inhibition"
+      "Effects": [
+        "{sev 'light'} {xeff 'depression reduction'} (acute effects; long term no notable improvement in quality of life)",
+        "{sev 'light'} potenciation of {sub 'dextroamphetamine'} through CYP2D6 inhibition"
+      ]
     },
     {
       "Name": "Loperamide",
@@ -2007,11 +2012,13 @@
       ],
       "Effects": [
         "{xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{xeff 'disinhibition'}",
         "{xeff 'thought deceleration'}",
         "{xeff 'perception of bodily heaviness'}",
         "{xeff 'pain relief'}",
         "{xeff 'nausea'}",
+        "{sev 'moderate'} {xeff 'tinnitus'}",
         "{xeff 'increased bodily temperature'}",
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
         "dream like states which feel fully concious"
@@ -2031,7 +2038,7 @@
       "Salts": [],
       "Effects": [
         "{sev 'strong'} {xeff 'emotion suppression'}",
-        "when injected {xeff 'cognitive euphoria'}",
+        "when injected {sev 'light'} {xeff 'cognitive euphoria'}",
         "when injected {sev 'intense'} {xeff 'increased perspiration'}",
         "{xeff 'sedation'}",
         "{xeff 'perception of bodily heaviness'}",
@@ -2055,6 +2062,7 @@
       ],
       "Effects": [
         "{xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{xeff 'disinhibition'}",
         "{xeff 'thought deceleration'}",
         "{xeff 'perception of bodily heaviness'}",
@@ -2078,17 +2086,23 @@
         }
       ],
       "Salts": [
+        "freebase",
         "citrate",
-        "ascorbate"
+        "ascorbate",
+        "tartrate"
       ],
       "Effects": [
         "{xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{xeff 'disinhibition'}",
         "{xeff 'thought deceleration'}",
         "{xeff 'perception of bodily heaviness'}",
         "{xeff 'pain relief'}",
         "helps deal with siginificant emotional pain",
         "{xeff 'nausea'}",
+        "{xeff 'motor control loss'}",
+        "{sev 'moderate'} {xeff 'analysis suppression'}",
+        "{sev 'moderate'} {xeff 'tinnitus'}",
         "{xeff 'increased bodily temperature'}",
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
         "dream like states which feel fully concious",
@@ -2118,11 +2132,16 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [],
+      "Salts": [
+        "hemihydrate"
+      ],
       "Effects": [
         "{xeff 'sedation'} to the point of inducing sleep"
       ],
-      "Indication": "depression and insomnia",
+      "Indication": [
+        "depression",
+        "insomnia"
+      ],
       "Notes": "creates unique bodily feeling; seams to suppress {sub 'histamine'} effects; passed out on workplace-toilet for ~1 hour"
     },
     {
@@ -2762,6 +2781,7 @@
       "Effects": [
         "{xeff 'analysis suppression'}",
         "{xeff 'disinhibition'}",
+        "{xeff 'motor control loss'}",
         "at high doses {sev 'moderate'} {xeff 'cognitive euphoria'}"
       ],
       "Adverse": [
