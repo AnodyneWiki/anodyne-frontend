@@ -16,6 +16,7 @@
 	{{if empty $v.Abbreviation | not -}}
 		{{$abr = ternary $v.Abbreviation ($v.Abbreviation | join ", ") (kindIs "string" $v.Abbreviation) -}}
 	{{end -}}
-	{{template "article" dict "Title" (printf "%s - AnodyneWiki" $v.Title) "Markdown" "substance.md"  "Vars" $v  -}}
+	{{$title := ternary (printf "%s" $v.Title) (printf "%s (%s)" $v.Title $abr) (empty $abr)}}
+	{{template "article" dict "Title" $title "Markdown" "substance.md"  "Vars" $v  -}}
 {{end}} 
 {{end}} 

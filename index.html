@@ -5,5 +5,5 @@
 {{$varsPath := printf "/index/%s.json" $indexPath}}
 {{- $ivars := (include $varsPath | splitFrontMatter).Meta}}
 
-{{$title := printf "%s Index - Anodyne" $ivars.Name}}
+{{$title := printf "%s Index" $ivars.Name}}
 {{template "article" (dict "Markdown" "index.md" "Title" $title "Vars" $ivars "Theme" (.Cookie "theme"))}}

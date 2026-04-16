@@ -7,5 +7,5 @@
 	{{- template "missing" (dict "Type" "user" "Title" $title)}}
 {{else}}
 	{{- $v := include $prefsPath | fromJson | merge | default (dict)}}
-{{template "article" (dict "Title" (printf "%s - Anodyne" $title) "Editable" "true" "Class" "fuserarticle" "Markdown" "user.md" "Vars" $v ) }}
+{{template "article" (dict "Title" (printf "%s" $title) "Editable" "true" "Class" "fuserarticle" "Markdown" "user.md" "Vars" $v ) }}
 {{end}}

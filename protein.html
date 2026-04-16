@@ -18,6 +18,6 @@
 	{{if and $vars.Abbreviation (not (empty $vars.Abbreviation)) -}}
 		{{$abr = ternary $vars.Abbreviation ($vars.Abbreviation | join ", ") (kindIs "string" $vars.Abbreviation) -}}
 	{{end -}}
-	{{$title := ternary (printf "%s - Anodyne" $vars.Title) (printf "%s (%s) - Anodyne" $vars.Title $abr) (empty $abr) -}}
+	{{$title := ternary (printf "%s" $vars.Title) (printf "%s (%s) - Anodyne" $vars.Title $abr) (empty $abr) -}}
 	{{template "article" (dict "Markdown" "protein.md" "Title" $title "Vars" $vars) -}}
 {{end -}} 

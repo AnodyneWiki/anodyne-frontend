@@ -4,7 +4,7 @@
 				<div class="dropdown" style="display: flex; flex-direction: column; white-space: nowrap; align-self: flex-end; margin-bottom: 0.5em;">
 				<div style="display: flex; gap: 8px; justify-content: flex-end;">
 					{{/*<div><a class=headerLink href='{{placeholder "http.request.orig_uri.path"}}?hint={{if eq .Hint "none"}}wiki{{else}}none{{end}}'>{{if eq .Hint "none"}}Enable Hints{{else}}Disable Hints{{end}}</a></div>*/}}
-					<div><a class=headerLink href='{{placeholder "http.request.orig_uri.path"}}?conformer={{if eq .Conformer "3dmoljs"}}none{{else}}{{if eq .Conformer "jsmol"}}3dmoljs{{else}}jsmol{{end}}{{end}}'>{{if eq .Conformer "3dmoljs"}}Disable conformers{{else}}{{if eq .Conformer "jsmol"}}Enable 3Dmol.js{{else}}Enable jsmol{{end}}{{end}}</a></div>
+					<div><a class=headerLink href='{{placeholder "http.request.orig_uri.path"}}?conformer={{if eq .Conformer "3dmoljs"}}none{{else}}{{if eq .Conformer "jsmol"}}3dmoljs{{else}}3dmoljs{{end}}{{end}}'>{{if eq .Conformer "3dmoljs"}}Disable conformers{{else}}{{if eq .Conformer "jsmol"}}Enable 3Dmol.js{{else}}Enable 3Dmol.js{{end}}{{end}}</a></div>
 					<div><a class=headerLink href='{{placeholder "http.request.orig_uri.path"}}?collapse={{if eq .Collapse "all"}}none{{else}}all{{end}}'>{{if eq .Collapse "all"}}Expand all{{else}}Collapse all{{end}}</a></div>
 					<div><a class=headerLink href='{{placeholder "http.request.orig_uri.path"}}?theme={{if eq .Theme "dark"}}light{{else}}dark{{end}}'>{{if eq .Theme "dark"}}Light{{else}}Dark{{end}} theme</a></div>
 				</div>

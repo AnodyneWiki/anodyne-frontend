@@ -10,7 +10,7 @@
 <!DOCTYPE html>
 <html lang=en dir=ltr translate=no data-theme='{{$v.Theme}}'>
 	<head>
-		<title>{{.Title}}</title>
+		<title>{{.Title}}{{if hasSuffix " - AnodyneWiki" .Title | not}} - AnodyneWiki{{end}}</title>
 
 		{{template "css" $v}}
 	</head>

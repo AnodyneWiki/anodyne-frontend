@@ -18,7 +18,7 @@
 </table>
 <table><tr>
 <th contenteditable=false class=InfoboxLabel colspan=2>Demographic</th></tr>
-{{- if $v.Birth}}{{$cLen := toDate "2006-01" $v.Birth | ago | splitList "h" | first | add 240}}<tr><th contenteditable=false class="InfoboxLabel">Age</th>{{if $v.Deceased}}{{$dLen := toDate "2006-01" $v.Deceased | ago | splitList "h" | first}}{{$cLen = sub $cLen $dLen}}{{end}}<td id=userage contenteditable={{$v.Editable}} class=InfoboxData>~{{divf (divf (div $cLen 24) 365 | mulf 10 | int) 10}} <em> years</em>{{if $v.Deceased}} (time of death){{end}}{{/* / ~{{div $cLen 24 }} <em>days</em> / ~{{$cLen}} <em>hours</em>*/}}</td></tr>{{end}}
+{{- if $v.Birth}}{{$cLen := toDate "2006-01" $v.Birth | ago | splitList "h" | first | add 240}}<tr><th contenteditable=false class="InfoboxLabel">Age</th>{{if $v.Deceased}}{{$dLen := toDate "2006-01" $v.Deceased | ago | splitList "h" | first}}{{$cLen = sub $cLen $dLen}}{{end}}<td id=userage contenteditable={{$v.Editable}} class=InfoboxData>~{{divf (divf (div $cLen 24) 365 | mulf 10 | int) 10}} years{{if $v.Deceased}} (time of death){{end}}{{/* / ~{{div $cLen 24 }} <em>days</em> / ~{{$cLen}} <em>hours</em>*/}}</td></tr>{{end}}
 {{- with $v.Location}}<tr><th contenteditable=false class="InfoboxLabel">Location</th><td id=userlocation contenteditable={{$v.Editable}} class=InfoboxData>{{.}}</td></tr>{{end}}
 {{- with $v.Nationality}}<tr><th contenteditable=false class="InfoboxLabel">Nationality</th><td id=userlocation contenteditable={{$v.Editable}} class=InfoboxData>{{.}}</td></tr>{{end}}
 </table></div>

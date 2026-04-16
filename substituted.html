@@ -8,4 +8,4 @@
 {{with $v.Abr}}{{$ftitle = printf "%s (%s)" $ftitle $v.Abr}}{{end -}}
 
 {{import "article.html" -}}
-{{template "article" (dict "Title" (printf "%s - Anodyne" $ftitle) "Markdown" "substituted.md" "Vars" $v)}}
+{{template "article" (dict "Title" (printf "%s" $ftitle) "Markdown" "substituted.md" "Vars" $v)}}

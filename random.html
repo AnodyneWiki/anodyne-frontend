@@ -9,6 +9,6 @@
 {{$abr := ""}}{{if empty $ivars.Abbreviation | not | and $ivars.Abbreviation -}}
 	{{$abr = ternary $ivars.Abbreviation ($ivars.Abbreviation | join ", ") (kindIs "string" $vars.Abbreviation) -}}
 {{end}}
-{{$title := ternary (printf "%s - Anodyne" $vars.Title) (printf "%s (%s) - Anodyne" $vars.Title $abr) (empty $abr)}}
+{{$title := ternary (printf "%s" $vars.Title) (printf "%s (%s)" $vars.Title $abr) (empty $abr)}}
 
 {{include "substance.html" $vars.Title}}

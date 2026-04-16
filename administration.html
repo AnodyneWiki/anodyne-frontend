@@ -3,7 +3,6 @@
 
 {{if .OriginalReq.URL.Path}}
 	{{$name := last ( splitList "/" .OriginalReq.URL.Path)}}
-	{{$title := printf "%s - Anodyne" (title $name)}}
 	{{$md := printf "/administration/%s.md" $name}}
 	{{$varsFilePath := printf "/administration/%s.json" $name}}
 	{{if not (fileExists $varsFilePath)}}{{httpError 404}}{{end}}
@@ -19,6 +18,6 @@
 		{{template "missing" (dict "Title" (stripHTML (title $name)) "Theme" (stripHTML $theme) "Collapse" (stripHTML $collapse))}}
 		{{httpError 404}}
 	{{else}}
-		{{template "article" (dict "Markdown" $md "Title" $title "Vars" $vars "Theme" $theme "Collapse" $collapse)}}
+		{{template "article" (dict "Markdown" $md "Title" (title $name) "Vars" $vars "Theme" $theme "Collapse" $collapse)}}
 	{{end}}
 {{end}}
