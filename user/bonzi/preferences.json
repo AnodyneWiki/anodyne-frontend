@@ -1,0 +1,309 @@
+{
+  "Title": "bonzi",
+  "Name": [
+    "Bonzi Buddy"
+  ],
+  "About": "{p}Hi, im bonzi, the malware that steals your {sub 'diacetylmorphine' 'heroin'} and {sub 'α-Pyrrolidinopentiophenone' 'α-PVP'} 🫠{Ep}",
+  "Psyche": {
+    "Interests": [
+      "API {wkp 'reverse engineering'}",
+      "{wkp 'web scraping'}",
+      "{wkp 'drugs'} and {wkp 'psychopharmacology'}",
+      "{wkp 'organic chemistry'}"
+    ],
+    "Attributes": [
+      "{wkp 'opioid use disorder'} (diagnosed)",
+      "possibly {wkp 'high-functioning autism'} (according to psychiatrist)",
+      "{wkp 'impulse-control disorder'} (diagnosed)"
+    ],
+    "Complications": [
+      "triple {wkp 'cardiac arrest'} because of polysubstance overdose",
+      "{wkp 'akathisia'} induced by antipsychotics (extreme feeling of restlessness)",
+      "{wkp 'coma'}",
+      "{wkp 'stimulant psychosis'} from cathinone abuse",
+      "{xeff 'delirium'} (acute confusional state)"
+    ]
+  },
+  "TriedSubstances": [
+    {
+      "Name": "Diazepam"
+    },
+    {
+      "Name": "Lormetazepam"
+    },
+    {
+      "Name": "Lorazepam"
+    },
+    {
+      "Name": "Alprazolam"
+    },
+    {
+      "Name": "Clonazepam"
+    },
+    {
+      "Name": "Clonazolam"
+    },
+    {
+      "Name": "Etizolam"
+    },
+    {
+      "Name": "Bromazepam"
+    },
+    {
+      "Name": "Deschloroetizolam"
+    },
+    {
+      "Name": "Metizolam"
+    },
+    {
+      "Name": "Norflurazepam"
+    },
+    {
+      "Name": "Triazolam"
+    },
+    {
+      "Name": "Brotizolam"
+    },
+    {
+      "Name": "Flubrotizolam"
+    },
+    {
+      "Name": "Flunitrazolam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.1-0.5mg"
+        }
+      ],
+      "Sources": [
+        "Flunitrazolam 0.5mg blotter"
+      ],
+      "Adverse": [
+        "High blackout risk"
+      ],
+      "Notes": [
+        "It's a very {sev 'strong'} benzo"
+      ]
+    },
+    {
+      "Name": "Pyrazolam"
+    },
+    {
+      "Name": "Bromazolam"
+    },
+    {
+      "Name": "Clorazepate"
+    },
+    {
+      "Name": "Tramadol"
+    },
+    {
+      "Name": "Dihydrocodeine"
+    },
+    {
+      "Name": "Diacetylmorphine"
+    },
+    {
+      "Name": "Opium"
+    },
+    {
+      "Name": "Morphine",
+      "Adverse": [
+        "{wkp 'opioid overdose'}"
+      ]
+    },
+    {
+      "Name": "Tilidine"
+    },
+    {
+      "Name": "Desmetramadol"
+    },
+    {
+      "Name": "Oxycodone"
+    },
+    {
+      "Name": "Tapentadol"
+    },
+    {
+      "Name": "Protonitazepyne"
+    },
+    {
+      "Name": "Metonitazepyne"
+    },
+    {
+      "Name": "Kratom"
+    },
+    {
+      "Name": "Fentanyl"
+    },
+    {
+      "Name": "Remifentanil"
+    },
+    {
+      "Name": "Methiodone"
+    },
+    {
+      "Name": "N-Ethyl-nor-pentedrone"
+    },
+    {
+      "Name": "N-Ethyl-nor-hexedrone"
+    },
+    {
+      "Name": "α-Pyrrolidinopentiophenone"
+    },
+    {
+      "Name": "2-Fluoromethamphetamine"
+    },
+    {
+      "Name": "4-Fluoromethamphetamine"
+    },
+    {
+      "Name": "2-Methylmethcathinone"
+    },
+    {
+      "Name": "4-Methylmethcathinone"
+    },
+    {
+      "Name": "3,4-Methylenedioxymethamphetamine"
+    },
+    {
+      "Name": "Dextroamphetamine"
+    },
+    {
+      "Name": "Amphetamine"
+    },
+    {
+      "Name": "Methamphetamine"
+    },
+    {
+      "Name": "Lisdexamphetamine"
+    },
+    {
+      "Name": "Modafinil"
+    },
+    {
+      "Name": "Armodafinil"
+    },
+    {
+      "Name": "4-Fluoromethylphenidate"
+    },
+    {
+      "Name": "Methylphenidate"
+    },
+    {
+      "Name": "3-Fluoroamphetamine"
+    },
+    {
+      "Name": "3-Fluorophenmetrazine"
+    },
+    {
+      "Name": "Pregabalin"
+    },
+    {
+      "Name": "Quetiapine"
+    },
+    {
+      "Name": "Olanzapine"
+    },
+    {
+      "Name": "Haloperidol"
+    },
+    {
+      "Name": "Propranolol"
+    },
+    {
+      "Name": "THC"
+    },
+    {
+      "Name": "Cannabidiol"
+    },
+    {
+      "Name": "Ketamine"
+    },
+    {
+      "Name": "Eticyclidone"
+    },
+    {
+      "Name": "Lysergic acid diethylamide"
+    },
+    {
+      "Name": "Zolpidem"
+    },
+    {
+      "Name": "Carisoprodol"
+    },
+    {
+      "Name": "γ-Hydroxybutyric acid"
+    },
+    {
+      "Name": "Ethanol"
+    },
+    {
+      "Name": "Nicotine"
+    },
+    {
+      "Name": "Caffeine"
+    },
+    {
+      "Name": "Propofol"
+    },
+    {
+      "Name": "Dexmedetomidine"
+    },
+    {
+      "Name": "Promethazine"
+    },
+    {
+      "Name": "Trazodone"
+    },
+    {
+      "Name": "Fluoxetine"
+    },
+    {
+      "Name": "Phenobarbital"
+    },
+    {
+      "Name": "Butabarbital"
+    },
+    {
+      "Name": "Pentobarbital",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "50-150mg"
+        }
+      ],
+      "Salts": [
+        "calcium"
+      ],
+      "Effects": [
+        "short-acting {sev 'strong'} {xeff 'cognitive euphoria'}"
+      ],
+      "Notes": [
+        "Dangerous barbiturate, benzodiazepines are superior in almost all aspects but euphoria."
+      ]
+    },
+    {
+      "Name": "Orthophedrone",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "120.0mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "50-100mg"
+        }
+      ]
+    },
+    {
+      "Name": "Omberacetam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10-20mg"
+        }
+      ]
+    }
+  ]
+}
