@@ -21,9 +21,94 @@
             "pharmacology",
             "compounding medications",
             "networking",
+            "trains",
             "declarative configuration of computers"
+        ],
+        "Attributes": [
+            "F84.5G",
+            "F64.0G",
+            "F90.0F",
+            "F41.2F"
         ]
     },
+    "RoutesOfAdministration": [
+        {
+            "Name": "Inhaled",
+            "Paraphernalia": [
+                "Vaporizer",
+                "Cigarette",
+                "Ballon",
+                "Aluminium foil"
+            ],
+            "Sites": [
+                "Lungs"
+            ]
+        },
+        {
+            "Name": "Subcutaneous",
+            "Paraphernalia": [
+                "Insulin pen",
+                "1ml syringe"
+            ],
+            "Sites": [
+                "Stomach",
+                "Lower loins"
+            ]
+        },
+        {
+            "Name": "Intrarectal",
+            "Paraphernalia": [
+                "soft capsule",
+                "Suppository"
+            ],
+            "Sites": [
+                "Rectum"
+            ]
+        },
+        {
+            "Name": "Intramuscular",
+            "Paraphernalia": [
+                "1ml syringe"
+            ],
+            "Sites": [
+                "Vastus lateralis"
+            ]
+        },
+        {
+            "Name": "Intranasal",
+            "Paraphernalia": [
+                "Bahncard 100, Macbook and Paper",
+                "{wkp 'Trans_woman'}s {wkp 'Breast'}s",
+                "Nasalspray"
+            ],
+            "Sites": [
+                "Nose"
+            ]
+        },
+        {
+            "Name": "Transdermal",
+            "Paraphernalia": [
+                "Gel"
+            ],
+            "Sites": [
+                "Lower arm"
+            ]
+        },
+        {
+            "Name": "Oral",
+            "Paraphernalia": [
+                "Capsule",
+                "Solution",
+                "Suppository",
+                "1ml syringe",
+                "Tablet",
+                "Powder"
+            ],
+            "Sites": [
+                "Mouth"
+            ]
+        }
+    ],
     "TriedSubstances": [
         {
             "Name": "Orthophedrone",
@@ -44,6 +129,10 @@
         },
         {
             "Name": "2,5-Dimethoxy-4-bromophenethylamine",
+            "Salts": [
+                "hydrochloride",
+                "Bromchlorid"
+            ],
             "Routes": [
                 {
                     "Name": "insufflated",
@@ -56,11 +145,14 @@
             ],
             "Effects": [
                 "{sev 'strong'} {xeff 'stimulation'}",
+                "{xeff 'motivation-enhancement'} in lower doses",
                 "{sev 'light'} {xeff 'anxiety'}",
-                "{xeff 'colour-enhancement'}",
                 "{xeff 'nausea'} that fades away after the comeup",
-                "{xeff 'drifting'}",
-                "{xeff 'geometry'}"
+                "Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'tracers'} {xeff 'environmental-patterning'} {xeff 'drifting'} {xeff 'colour-enhancement'}",
+                "{xeff 'time-distortion}"
+            ],
+            "Notes": [
+                "My favorite psychedelic"
             ]
         },
         {
@@ -92,7 +184,7 @@
                 "{xeff 'orgasm-suppression'}",
                 "{xeff 'anxiety-suppression'}",
                 "{xeff 'increased-heart-rate'}",
-                "{xeff 'stamina-enhancement'}",
+                "{sev 'strong'} {xeff 'stamina-enhancement'}",
                 "{xeff 'time-distortion'}",
                 "{sev 'strong'} {xeff 'compulsive-redosing'} (feels like your constantly redosing/having to redose)",
                 "{xeff 'memory-suppression'} (forgetting what you did on the day/not having detailed memories)",
@@ -179,6 +271,9 @@
                     "Dosage": "8-46mg"
                 }
             ],
+            "Salts": [
+                "sulfate"
+            ],
             "Effects": [
                 "{sev 'strong'} {xeff 'stimulation'}; very helpful aginst ADHD in lower doses (15-20mg oral, 1-2x per day)",
                 "{xeff 'wakefulness'}",
@@ -249,7 +344,8 @@
             ],
             "Effects": [
                 "{xeff 'sedation'}",
-                "{sev 'strong'} {xeff 'pain-relief'}"
+                "{sev 'strong'} {xeff 'pain-relief'}",
+                "{sev 'light'} {xeff 'thought-deceleration'} in high doses (140mg+)"
             ]
         },
         {
@@ -267,6 +363,10 @@
         },
         {
             "Name": "Estradiol",
+            "Indication": "Male to female {wkp 'Transsexual'}",
+            "Salts": [
+                "hemihydrate"
+            ],
             "Routes": [
                 {
                     "Name": "transdermal",
@@ -314,6 +414,9 @@
         {
             "Name": "Lisdexamphetamine",
             "Indication": "Attention-Deficit/Hyperactivity Disorder",
+            "Salts": [
+                "dimesilat"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
@@ -323,7 +426,7 @@
             "Effects": [
                 "{xeff 'stimulation'}; very helpful aginst ADHD",
                 "{xeff 'wakefulness'}",
-                "{sev 'light'} {xeff 'increased-libido'} or {xeff 'decreased-libido'}"
+                "{sev 'light'} {xeff 'increased-libido'} or {sev 'light'} {xeff 'decreased-libido'}"
             ],
             "Notes": [
                 "Best ADHD-Medication ive tried"
@@ -347,8 +450,14 @@
                     "Dosage": "0.3-10mg"
                 }
             ],
+            "Effects": [
+                "{xeff 'sleepiness'}",
+                "{sev 'light'} {xeff 'sedation'}",
+                "{sev 'light'} {xeff 'decreased-libido'}"
+            ],
             "Notes": [
                 "My favorite sleep aid, hangover is non existent and the availability is very good",
+                "Doses over 0.5mg make no sense",
                 "Ineffective while on stimulants"
             ]
         },
@@ -368,25 +477,26 @@
             ],
             "Notes": [
                 "Good ADHD-Medication",
-                "From the available preparations i would recommend concerta/kinecteen"
+                "From the available preparations i would recommend concerta/kinecteen",
+                "Social interactions can feel difficult"
             ]
         },
         {
             "Name": "Mitragynine",
             "Routes": [
                 {
-                    "Name": "oral",
-                    "Dosage": "2000-6000mg"
+                    "Name": "oral"
                 }
             ],
             "Effects": [
-                "{xeff 'stimulation'}; very good for doing computer stuff",
+                "{sev 'light'} {xeff 'stimulation'}; very good for doing computer stuff",
                 "{xeff 'sedation'}",
                 "{xeff 'pain-relief'}",
                 "{xeff 'cognitive-euphoria'}",
-                "{xeff 'increased-libido'}"
+                "{sev 'light'} {xeff 'increased-libido'}"
             ],
             "Notes": [
+                "In form of Kratom powder",
                 "One of my favorite substances for having sex",
                 "Good substance for late night computer work"
             ]
