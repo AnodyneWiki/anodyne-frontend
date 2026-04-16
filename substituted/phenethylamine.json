@@ -161,6 +161,11 @@
         "3C-PEP"
       ],
       "MW": "300.8 g/mol"
+    },
+    {
+      "Title": "Dexmedetomidine",
+      "Abr": null,
+      "MW": "200.28 g/mol"
     }
   ],
   "Parent": "arylalkylamine",

@@ -229,6 +229,13 @@
 	{ "Title": "Hydrastinine" },
 	{ "Title": "Lophophine" },
 
+	{ "Title": "Clonidine" },
+	{ "Title": "Dexmedetomidine" },
+
+	{ "Title": "Propranolol" },
+
+	{ "Title": "Carisoprodol" },
+
 	{ "Title": "Salbutamol", "Classes": [ "Sympathomimetic" ] },
 	{ "Title": "Colterol", "Classes": [ "Sympathomimetic" ] },
 	{ "Title": "Bitolterol", "Classes": [ "Sympathomimetic" ] },
@@ -794,7 +801,7 @@
 	{ "Title": "4-Methylpentedrone", "Abr": "4-MPD" },
 	{ "Title": "N-Ethyl-4-methyl-nor-pentedrone", "Abr": "4-MEAP", "Search": "CID205601" },
 	{ "Title": "Hexedrone", "Classes": [ "Stimulant" ] },
-	{ "Title": "N-Ethyl-nor-hexedrone", "Abr": "Hexen", "Search": "N-Ethylhexedrone" },
+	{ "Title": "N-Ethyl-nor-hexedrone", "Abr": "Hexen", "Search": "N-Ethylhexedrone", "Search": "CID134822125" },
 	{ "Title": "N-Ethyl-nor-heptedrone", "Search": "N-Ethylheptedrone" },
 
 	{ "Title": "Prolintane" },
@@ -1076,6 +1083,7 @@
 	{ "Title": "N-(2C-B-FLY)-Fentanyl", "System": "3',4'-methylenedioxy alpha-methyl Fentanyl", "UNII": "9QS8BB23RH", "Classes": [ "Opioid" ] },
 	{ "Title": "Carfentanyl", "Classes": [ "Opioid" ] },
 	{ "Title": "Sufentanyl", "Classes": [ "Opioid" ] },
+	{ "Title": "Remifentanil", "Classes": [ "Opioid" ] },
 	{ "Title": "Acetylfentanyl", "Classes": [ "Opioid" ] },
 	{ "Title": "Beta-Hydroxy-3-methylfentanyl", "Classes": [ "Opioid" ] },
 
@@ -1085,10 +1093,14 @@
 	{ "Title": "Clonitazene", "Classes": [ "Opioid" ] },
 	{ "Title": "Isotonitazene", "Classes": [ "Opioid" ] },
 	{ "Title": "Etonitazene", "Classes": [ "Opioid" ] },
-	{ "Title": "Etonitazepyne", "Classes": [ "Opioid" ] },
 	{ "Title": "Metonitazene", "Classes": [ "Opioid" ] },
 	{ "Title": "Protonitazene", "Classes": [ "Opioid" ] },
 	{ "Title": "Secbutonitazene", "Search": "CID168322285", "Classes": [ "Opioid" ] },
+
+	{ "Title": "Protonitazepyne", "Search": "CID168322728", "Classes": [ "Opioid" ] },
+	{ "Title": "Etonitazepyne", "Classes": [ "Opioid" ] },
+	{ "Title": "Metonitazepyne", "Classes": [ "Opioid" ] },
+
 	{ "Title": "U-47700", "Classes": [ "Opioid" ] },
 	{ "Title": "U-48800", "Classes": [ "Opioid" ] },
 	{ "Title": "U-49900", "Classes": [ "Opioid" ] },
@@ -1213,6 +1225,7 @@
 	{ "Title": "Phenobarbital" },
 	{ "Title": "Primidone" },
 	{ "Title": "Secobarbital" },
+	{ "Title": "Butabarbital" },
 
 	{ "Title": "Thiobarbital" },
 	{ "Title": "Thialbarbital" },
@@ -1293,6 +1306,7 @@
 	{ "Title": "Promethazine" },
 	{ "Title": "Quetiapine" },
 	{ "Title": "Aripiprazole" },
+	{ "Title": "Trazodone", "Abr": [ "AF-1161" ] },
 	{ "Title": "Haloperidol" },
 
 	{ "Title": "Trazodone", "Classes": [ "Serotonin reuptake inhibitor", "Serotonin agonist" ] },

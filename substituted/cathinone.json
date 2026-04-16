@@ -202,7 +202,9 @@
     },
     {
       "Title": "N-Ethyl-nor-hexedrone",
-      "Abr": "Hexen",
+      "Abr": [
+        "Hexen"
+      ],
       "MW": "219.32 g/mol"
     },
     {

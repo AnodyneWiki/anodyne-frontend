@@ -67,6 +67,11 @@
       "Title": "Lidocaine",
       "Abr": [],
       "MW": "234.34 g/mol"
+    },
+    {
+      "Title": "Clonidine",
+      "Abr": null,
+      "MW": "230.09 g/mol"
     }
   ],
   "Parent": "arylalkylamine",
