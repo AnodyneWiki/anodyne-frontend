@@ -1950,7 +1950,7 @@
       "Notes": "practical intravenous-use (using additional solvant such as {sub 'propylene glycol' 'propylene glycol'} or {sub 'ethanol' 'ethanol'})"
     },
     {
-      "Name": "Mitragynine",
+      "Name": "Kratom",
       "Routes": [
         {
           "Name": "Oral"
@@ -2103,6 +2103,7 @@
         "{xeff 'motor control loss'}",
         "{sev 'moderate'} {xeff 'analysis suppression'}",
         "{sev 'moderate'} {xeff 'tinnitus'}",
+        "{xeff 'auditory suppression'}",
         "{xeff 'increased bodily temperature'}",
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
         "dream like states which feel fully concious",
