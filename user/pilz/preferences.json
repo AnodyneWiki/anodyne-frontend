@@ -131,7 +131,7 @@
             "Name": "2,5-Dimethoxy-4-bromophenethylamine",
             "Salts": [
                 "hydrochloride",
-                "Bromchlorid"
+                "hydrobromide"
             ],
             "Routes": [
                 {
@@ -149,7 +149,7 @@
                 "{sev 'light'} {xeff 'anxiety'}",
                 "{xeff 'nausea'} that fades away after the comeup",
                 "Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'tracers'} {xeff 'environmental-patterning'} {xeff 'drifting'} {xeff 'colour-enhancement'}",
-                "{xeff 'time-distortion}"
+                "{xeff 'time-distortion'}"
             ],
             "Notes": [
                 "My favorite psychedelic"
