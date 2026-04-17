@@ -58,20 +58,20 @@ If you enjoy this project and have the means, consider <a href='/donate'>donatin
 </div>
 <h3>Users</h3>
 <ul>
-            <div class=collapser>
-                <li><a href='/index/user'>User Index:</a><span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" $v.Collapse}}</span></li>
-                <ul style="margin-left: 1.0em;">
-                    <div class=collapserContent>
-                        <li><a href=/user/0xea>0xea</a> (developer)</li>{{/* [sech1p](/user/sech1p)*/}}
-                        <li><a href=/user/magnus>magnus</a> †</li>
-                        <li><a href=/user/pilz>pilz</a></li>
-                        <li><a href=/user/bonzi>bonzi</a></li>
-                        <li><a href=/user/x86pup>x86pup</a></li>
-                        <li><a href=/user/alina>alina</a></li>
-                        <li>(your page could be here)</li>
-                    </div>
-                </ul>
-            </div>
+<div class=collapser>
+    <li><a href='/index/user'>User Index:</a><span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" $v.Collapse}}</span></li>
+    <ul style="margin-left: 1.0em;">
+        <div class=collapserContent>
+            <li><a href=/user/0xea>0xea</a> (developer)</li>{{/* [sech1p](/user/sech1p)*/}}
+            <li><a href=/user/magnus>magnus</a> †</li>
+            <li><a href=/user/pilz>pilz</a></li>
+            <li><a href=/user/bonzi>bonzi</a></li>
+            <li><a href=/user/x86pup>x86pup</a></li>
+            <li><a href=/user/alina>alina</a></li>
+            <li>(your page could be here)</li>
+        </div>
+    </ul>
+</div>
 </ul>
 <div class=collapser>
 <h3>Effects{{template "pexnd" $v.Collapse}}</h3>

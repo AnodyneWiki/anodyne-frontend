@@ -1069,6 +1069,7 @@
 	{ "Title": "Buprenorphine", "Classes": [ "Opioid" ] },
 	{ "Title": "Mitragynine", "Classes": [ "Opioid" ] },
 	{ "Title": "7-Hydroxymitragynine", "Classes": [ "Opioid" ] },
+	{ "Title": "Speciociliatine", "Classes": [ "Opioid" ] },
 	{ "Title": "Loperamide", "Classes": [ "Opioid" ] },
 	{ "Title": "Disopyramide", "Classes": [ "Sodium channel blocker" ] },
 	{ "Title": "Tilidine", "Classes": [ "Opioid" ] },
