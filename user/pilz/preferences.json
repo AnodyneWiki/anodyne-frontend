@@ -743,6 +743,16 @@
                     "Dosage": "5mg"
                 }
             ]
+        },
+        {
+            "Name": "Metamizole",
+            "Indication": "{sev 'strong'} pain, for example after surgeries",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "500mg"
+                }
+            ]
         }
     ]
 }
