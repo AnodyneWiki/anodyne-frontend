@@ -644,6 +644,7 @@
         },
         {
             "Name": "Sildenafil",
+            "Indication": "{wkp 'Erectile_dysfunction'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -737,6 +738,7 @@
         },
         {
             "Name": "Tadalafil",
+            "Indication": "{wkp 'Erectile_dysfunction'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -746,12 +748,22 @@
         },
         {
             "Name": "Metamizole",
+            "Salts": [
+                "sodium monohydrate"
+            ],
             "Indication": "{sev 'strong'} pain, for example after surgeries",
             "Routes": [
                 {
                     "Name": "oral",
                     "Dosage": "500mg"
                 }
+            ],
+            "Effects": [
+                "{xeff 'pain-relief'}, stronger than {sub 'Ibuprofen'}, but weaker than 150mg of {sub 'codeine'}"
+            ],
+            "Notes": [
+                "Helped with pain caused by {wkp 'Self-harm'}",
+                "Might help with stress induced muscle twitching"
             ]
         }
     ]
