@@ -59,8 +59,8 @@
 		{{- $out = ($out | replace (printf "{%s}" .) (printf "<%s>" .) | replace (printf "{E%s}" .) (printf "</%s>" .))}}
 	{{- end}}
 	{{- $out = (regexReplaceAll `\*([^*]+)\*` $out `<em>${1}</em>`) }}
-	{{- range $org := regexFindAll `\{xeff\s+&#39;[^&#]+&#39;\}` $out -1 -}}
-		{{$src := regexReplaceAll `\{xeff\s+&#39;([^&#]+)&#39;\}` $org `${1}` -}}
+	{{- range $org := regexFindAll `\{xeff\s+&#39;[^&]+&#39;\}` $out -1 -}}
+		{{$src := regexReplaceAll `\{xeff\s+&#39;([^&]+)&#39;\}` $org `${1}` -}}
 		{{$new := printf `<a class=logo href='https://www.effectindex.com/effects/%s'>%s</a>` ($src | replace " " "-") ($src | replace "-" " ") -}}
 		{{$out = $out | replace $org $new -}}
 	{{end -}}
@@ -69,8 +69,8 @@
 		{{if len . | eq 4 -}}
 			{{$class = last . | printf "class=%s " -}}
 		{{end -}}
-		{{$out = (printf `<%s %shref='%s${1}'>${2}</%s>` (rest . | first) $class (rest . | rest | first) (rest . | first) ) | regexReplaceAll (first . | printf `\{%s\s+&#39;([^&#]+)&#39;\s+&#39;([^&#]+)&#39;\}`) $out -}}
-		{{$out = (printf `<%s %shref='%s${1}'>${1}</%s>` (rest . | first) $class (rest . | rest | first) (rest . | first) ) | regexReplaceAll (first . | printf `\{%s\s+&#39;([^&#]+)&#39;\}`) $out -}}
+		{{$out = (printf `<%s %shref='%s${1}'>${2}</%s>` (rest . | first) $class (rest . | rest | first) (rest . | first) ) | regexReplaceAll (first . | printf `\{%s\s+&#39;([^&]+)&#39;\s+&#39;([^&]+)&#39;\}`) $out -}}
+		{{$out = (printf `<%s %shref='%s${1}'>${1}</%s>` (rest . | first) $class (rest . | rest | first) (rest . | first) ) | regexReplaceAll (first . | printf `\{%s\s+&#39;([^&]+)&#39;\}`) $out -}}
 	{{end -}}
 	{{range list "gt" "lt" "apos" -}}
 	  {{- $out = (replace (printf "{%s}" .) (printf "&%s;" .) $out) -}}
@@ -118,7 +118,7 @@
 <table{{if contains "user" $v.Prefix | not}} style="width: calc(100vw - 400px);"{{end}}><tr><th colspan=2 class=InfoboxLabel>{{if contains "user" $v.Prefix | not}}{{if $utrd.External}}(External) {{end -}}
 <a contenteditable={{$v.Editable}} href='/user/{{$utrd.User}}'>{{$utrd.User}}</a> / {{end}}{{if contains "substance" $v.Prefix}}<strong>{{$utrd.trd.Name}}</strong>{{else -}}
 <a contenteditable={{$v.Editable}} href='/substance/{{$utrd.trd.Name}}'>{{$utrd.trd.Name}}</a>{{end}}{{template "rexnd" $v.Collapse -}}
-</th></tr><tr>{{if contains "user" $v.Prefix}}<td class=svg><img src='/structure/{{lower $utrd.trd.Name | replace " " "_"}}.svg' /></td>{{end}}<td style="vertical-align: top">
+</th></tr><tr>{{if contains "user" $v.Prefix}}{{if printf "/structure/%s.svg" (lower $utrd.trd.Name | replace " " "_") | fileExists -}}<td class=svg><img src='/structure/{{lower $utrd.trd.Name | replace " " "_"}}.svg' />{{else if printf "/composite/%s.jpg" (lower $utrd.trd.Name | replace " " "_") | fileExists -}}<td><img src='/composite/{{lower $utrd.trd.Name | replace " " "_"}}.jpg' />{{end}}</td>{{end}}<td style="vertical-align: top">
 {{- if empty $utrd.trd.Routes | not}}{{with $utrd.trd.Routes}}<strong>Routes:</strong><ul>{{range . -}}
 <li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{template "froa" .}}</span></li>{{end}}</ul>{{end}}{{end -}}
 {{with $utrd.trd.Dosages -}}
@@ -129,8 +129,8 @@
 {{with $utrd.trd.Sources}}<strong>Source:</strong><ul>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{.}}</span></li>{{end}}</ul>{{end -}}
 {{with $utrd.trd.Indication}}<strong>Indication:</strong><ul>{{if kindIs "string" .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{else}}{{range .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}{{end}}</ul>{{end -}}
 {{with $utrd.trd.Effects}}<strong>Active Effects:</strong><ul>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}</ul>{{end -}}
-{{with $utrd.trd.After}}<strong>After Effects:</strong><ul>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}</ul>{{end -}}
 {{with $utrd.trd.Adverse}}<strong>Side Effects:</strong><ul>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}</ul>{{end -}}
+{{with $utrd.trd.After}}<strong>After Effects:</strong><ul>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}</ul>{{end -}}
 {{with $utrd.trd.Notes}}<strong>Notes:</strong><ul>{{if kindIs "string" .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{else}}{{range .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}{{end}}</ul>{{end -}}
 </td></tr></table>{{end -}}
 {{end}}
