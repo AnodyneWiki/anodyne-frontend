@@ -3,7 +3,7 @@
   "Name": [
     "Bonzi Buddy"
   ],
-  "About": "{p}Hi, im bonzi, the malware that steals your {sub 'diacetylmorphine' 'heroin'} and {sub 'α-Pyrrolidinopentiophenone' 'α-PVP'} 🫠{Ep}",
+  "About": "{p}Hi, im bonzi, the cat that steals your {sub 'diacetylmorphine' 'heroin'} and {sub 'α-Pyrrolidinopentiophenone' 'α-PVP'} 🫠{Ep}",
   "Psyche": {
     "Interests": [
       "API {wkp 'reverse engineering'}",
@@ -26,34 +26,88 @@
   },
   "TriedSubstances": [
     {
-      "Name": "Diazepam"
+      "Name": "Diazepam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "2.5-25mg"
+        }
+      ]
     },
     {
-      "Name": "Lormetazepam"
+      "Name": "Lormetazepam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "1-2mg"
+        }
+      ]
     },
     {
-      "Name": "Lorazepam"
+      "Name": "Lorazepam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.5-2.5mg"
+        }
+      ]
     },
     {
-      "Name": "Alprazolam"
+      "Name": "Alprazolam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.25-2mg"
+        }
+      ]
     },
     {
-      "Name": "Clonazepam"
+      "Name": "Clonazepam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.5-2mg"
+        }
+      ]
     },
     {
-      "Name": "Clonazolam"
+      "Name": "Clonazolam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "100-300µg"
+        }
+      ]
     },
     {
-      "Name": "Etizolam"
+      "Name": "Etizolam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.5-1.25mg"
+        }
+      ]
     },
     {
-      "Name": "Bromazepam"
+      "Name": "Bromazepam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "1.5-3mg"
+        }
+      ]
     },
     {
       "Name": "Deschloroetizolam"
     },
     {
-      "Name": "Metizolam"
+      "Name": "Metizolam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "1-3mg"
+        }
+      ]
     },
     {
       "Name": "Norflurazepam"
@@ -89,40 +143,138 @@
       "Name": "Pyrazolam"
     },
     {
-      "Name": "Bromazolam"
+      "Name": "Bromazolam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.5-2mg"
+        }
+      ]
     },
     {
       "Name": "Clorazepate"
     },
     {
-      "Name": "Tramadol"
+      "Name": "Tramadol",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "100-400mg"
+        }
+      ]
     },
     {
-      "Name": "Dihydrocodeine"
+      "Name": "Dihydrocodeine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "120mg"
+        }
+      ]
     },
     {
-      "Name": "Diacetylmorphine"
+      "Name": "Diacetylmorphine",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "5-30mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "5-25mg"
+        },
+        {
+          "Name": "Vaporized",
+          "Dosage": "20-40mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Sources": [
+        "Heroin #4 (hcl) from Thailand"
+      ]
     },
     {
-      "Name": "Opium"
+      "Name": "Opium",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "40-230mg"
+        }
+      ]
     },
     {
       "Name": "Morphine",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "10-30mg"
+        },
+        {
+          "Name": "Oral",
+          "Dosage": "120mg"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "25-75mg"
+        }
+      ],
       "Adverse": [
         "{wkp 'opioid overdose'}"
       ]
     },
     {
-      "Name": "Tilidine"
+      "Name": "Tilidine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "50-300mg"
+        }
+      ]
     },
     {
-      "Name": "Desmetramadol"
+      "Name": "Desmetramadol",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "20-90mg"
+        },
+        {
+          "Name": "Sublingual",
+          "Dosage": "30mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "50-220mg"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "20mg"
+        }
+      ]
     },
     {
-      "Name": "Oxycodone"
+      "Name": "Oxycodone",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "20-80mg"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "10-40mg"
+        }
+      ]
     },
     {
-      "Name": "Tapentadol"
+      "Name": "Tapentadol",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "50mg"
+        }
+      ]
     },
     {
       "Name": "Protonitazepyne"
@@ -146,19 +298,100 @@
       "Name": "N-Ethyl-nor-pentedrone"
     },
     {
-      "Name": "N-Ethyl-nor-hexedrone"
+      "Name": "N-Ethyl-nor-hexedrone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "15-50mg"
+        }
+      ],
+      "Salts": [
+        "hydrochloride"
+      ],
+      "Sources": [
+        "very fluffy hex-en white powder (post-ban)"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'wakefulness'}",
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
+        "{sev 'moderate'} {xeff 'increased music appreciation'}",
+        "short-acting {sev 'moderate'} {xeff 'empathy affection and sociability enhancement'}",
+        "{sev 'moderate'} {xeff 'perception of bodily lightness'} and {xeff 'depression reduction'}",
+        "{xeff 'anticipatory response'} {xeff 'stimulation'} after dosing (probably because I know it's a potent {class 'stimulant'})",
+        "{sev 'intense'} {xeff 'focus enhancement'}, then {xeff 'focus suppression'} after redosing a lot"
+      ],
+      "Adverse": [
+        "{sev 'light'} {xeff 'headache'} on {sev 'strong'} doses",
+        "long-lasting nose numbing ({xeff 'tactile suppression'}), short-acting nose pain and {xeff 'runny-nose' 'nasal congestion'} when snorted",
+        "{xeff 'increased heart rate'} (+100 bpm)",
+        "{sev 'intense'} {xeff 'compulsive redosing'} ({wkp 'comedown_(drugs)' 'comedown'} prominent)",
+        "{xeff 'delusion'} (very paranoid and persecutory) during most of the experience (overvalued belief that people are following me despite having no clear evidence)",
+        "{xeff 'psychosis'} that caused some {xeff 'auditory-hallucination?s=external' 'partially defined embedded hallucinations'}, {xeff 'auditory misinterpretation'} (hearing voices from people around saying that i'm high but they are just talking and people calling my name) that produced {xeff 'thought loops'}",
+        "{xeff 'pupil dilation'}",
+        "very {sev 'intense'} {xeff 'dry mouth'}, sipping water every 5 min ({xeff 'dehydration'}) and {wkp 'chapped lips'} that hurt for some days",
+        "{sev 'intense'} {xeff 'muscle tension'} and {sev 'moderate'} {xeff 'muscle twitching'} all over my body ({wkp 'comedown_(drugs)' 'comedown'} prominent)",
+        "{sev 'intense'} {xeff 'teeth chattering'} (this produced some jaw pain the following days) and {xeff 'teeth grinding'}",
+        "{sev 'strong'} and long-lasting {xeff 'shakiness'} that produced severe {xeff 'motor-control-loss' 'hand tremors'} (i try to avoid grabbing things in front of people because it makes it so obvious that i'm {xeff 'sensory-overload' 'tweaking'}",
+        "{sev 'intense'} {xeff 'appetite suppression'} and {xeff 'dehydration'} (lost 2-3kg in less than a week of daily use)",
+        "{sev 'light'} {xeff 'nausea'} when coming down ({wkp 'comedown_(drugs)' 'comedown'})",
+        "{xeff 'temporary erectile dysfunction'}",
+        "{xeff 'vasoconstriction'}",
+        "{sev 'intense'} {xeff 'bronchodilation'}, increased breathing rate ({wkp 'hyperventilation'}) and uncomfortable feeling of not being able to breathe well enough ({wkp 'dyspnea'})",
+        "{sev 'light'} {xeff 'memory suppression'} (i forget things easier than usual)",
+        "{sev 'moderate'} {xeff 'cognitive fatigue'} (sometimes I feel retarded when someone ask me something and I find it difficult to obey orders more than sober)",
+        "decreased {xeff 'physical autonomy'} (mechanical and robotic movements) and {wkp 'alogia' 'feeling of being muted despite wanting to talk'} (like when you want to talk but don't have anything to say) during the {wkp 'comedown_(drugs)' 'comedown'}",
+        "{sev 'light'} {xeff 'difficulty urinating'}",
+        "{xeff 'increased-perspiration' 'excessive sweating'}, very {sev 'intense'} on hands ({wkp 'focal hyperhidrosis'}) during all the experience",
+        "{xeff 'increased-bodily-temperature' 'feeling of heat'} in the head during the comeup, probably because of nasal cavity numbing",
+        "{sev 'intense'} {xeff 'anxiety'} and {xeff 'irritability'} on {wkp 'comedown_(drugs)' 'comedown'}",
+        "long-lasting residual {xeff 'stimulation'} and {xeff 'cognitive-fatigue' 'mental exhaustion'}",
+        "ocasional {xeff 'spontaneous-physical-movements' 'random spasms'}",
+        "{sev 'light'} {xeff 'language suppression'} when talking because of {sev 'intense'} {xeff 'thought acceleration'} and {sev 'light'} {xeff 'thought disorganization'} (speaking so fast that people sometimes don't understand what i'm saying)",
+        "{wkp 'dry eyes'} due to infrequent blinking, {xeff 'vibrating-vision' 'rapid eye movements'} and eyes wide open (eyelid retraction)"
+      ],
+      "Notes": [
+        "the main effects of this experience like {xeff 'cognitive euphoria'}, {xeff 'stimulation'}, {xeff 'motivation-enhancement' 'motivation'} and {xeff 'empathy-affection-and-sociability-enhancement' 'sociability'} are {wkp 'drug interaction' 'dulled'} because of my {wkp 'psychiatric medication' 'medication'} ({class 'antidepressant' 'antidepressants'} and {class 'antipsychotic' 'antipsychotics'})",
+        "every time I use this substance ({sev 'strong'} doses) I get some {xeff 'paranoia'} and sometimes {xeff 'auditory-hallucinations' 'hear voices'} of people talking that i'm high ({xeff 'delusion' 'distrust of everyone, even those closest to me'}). This increases {xeff 'anxiety'} a lot",
+        "this substance has a very awful and long-acting {wkp 'comedown_(drugs)' 'comedown'}, especially if you {xeff 'compulsive-redosing' 'binge'} it with {xeff 'wakefulness' 'no sleep'} and {xeff 'appetite-suppression' 'no eating'}",
+        "when I use {sev 'strong'} doses, it's very hard to go unnoticed when you are under the influence. side effects like {xeff 'paranoid'} {xeff 'delusion' 'delusions'}, eyes wide open (eyelid retraction), {sev 'strong'} {xeff 'shakiness'} and {xeff 'anxiety'}, will increase noticeabe side effects even more ({wkp 'vicious circle'}). people will know you are {xeff 'sensory-overload' 'tweaking hard'}, trust me",
+        "I expected worse {wkp 'comedown_(drugs)' 'comedown'}, it wasn't that bad in my opinion (probably also {wkp 'drug interaction' 'dulled'} because of my {wkp 'psychiatric medication' 'medication'})",
+        "I tried {wkp 'polysubstance use' 'combining'} it with other potent {class 'stimulant' 'stimulants'} like {sub 'α-Pyrrolidinopentiophenone' 'α-PVP'} and it {wkp 'drug synergy' 'increased both desired and adverse effects'} like {xeff 'auditory-hallucination' 'auditory hallucinations'} and {xeff 'delusion' 'delusions'}",
+        "this substance tested {wkp 'negative diagnostic test' 'negative'} for everything in fast {wkp 'urine drug screen' '6-panel urine drug test'}"
+      ]
     },
     {
-      "Name": "α-Pyrrolidinopentiophenone"
+      "Name": "α-Pyrrolidinopentiophenone",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        },
+        {
+          "Name": "Insufflated"
+        },
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}"
+      ]
     },
     {
-      "Name": "2-Fluoromethamphetamine"
+      "Name": "2-Fluoromethamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "15-40mg"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "25mg"
+        }
+      ]
     },
     {
       "Name": "4-Fluoromethamphetamine"
-    },
-    {
-      "Name": "2-Methylmethcathinone"
     },
     {
       "Name": "4-Methylmethcathinone"
@@ -167,37 +400,89 @@
       "Name": "3,4-Methylenedioxymethamphetamine"
     },
     {
-      "Name": "Dextroamphetamine"
+      "Name": "Dextroamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "2.5-30mg"
+        }
+      ]
     },
     {
       "Name": "Amphetamine"
     },
     {
-      "Name": "Methamphetamine"
+      "Name": "Methamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "25mg"
+        }
+      ]
     },
     {
-      "Name": "Lisdexamphetamine"
+      "Name": "Lisdexamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "20-70mg"
+        }
+      ]
     },
     {
-      "Name": "Modafinil"
+      "Name": "Modafinil",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "100-200mg"
+        }
+      ]
     },
     {
       "Name": "Armodafinil"
     },
     {
-      "Name": "4-Fluoromethylphenidate"
+      "Name": "4-Fluoromethylphenidate",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "10-30mg"
+        }
+      ]
     },
     {
-      "Name": "Methylphenidate"
+      "Name": "Methylphenidate",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "5-10mg"
+        },
+        {
+          "Name": "Insufflated",
+          "Dosage": "5mg"
+        }
+      ]
     },
     {
       "Name": "3-Fluoroamphetamine"
     },
     {
-      "Name": "3-Fluorophenmetrazine"
+      "Name": "3-Fluorophenmetrazine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "40mg"
+        }
+      ]
     },
     {
-      "Name": "Pregabalin"
+      "Name": "Pregabalin",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "50-300mg"
+        }
+      ]
     },
     {
       "Name": "Quetiapine"
@@ -218,7 +503,13 @@
       "Name": "Cannabidiol"
     },
     {
-      "Name": "Ketamine"
+      "Name": "Ketamine",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "20-150mg"
+        }
+      ]
     },
     {
       "Name": "Eticyclidone"
@@ -227,13 +518,25 @@
       "Name": "Lysergic acid diethylamide"
     },
     {
-      "Name": "Zolpidem"
+      "Name": "Zolpidem",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "5-15mg"
+        }
+      ]
     },
     {
       "Name": "Carisoprodol"
     },
     {
-      "Name": "γ-Hydroxybutyric acid"
+      "Name": "γ-Hydroxybutyric acid",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.5-1.5g"
+        }
+      ]
     },
     {
       "Name": "Ethanol"
@@ -242,7 +545,13 @@
       "Name": "Nicotine"
     },
     {
-      "Name": "Caffeine"
+      "Name": "Caffeine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "60-400mg"
+        }
+      ]
     },
     {
       "Name": "Propofol"
@@ -251,7 +560,13 @@
       "Name": "Dexmedetomidine"
     },
     {
-      "Name": "Promethazine"
+      "Name": "Promethazine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "25mg"
+        }
+      ]
     },
     {
       "Name": "Trazodone"
@@ -260,7 +575,13 @@
       "Name": "Fluoxetine"
     },
     {
-      "Name": "Phenobarbital"
+      "Name": "Phenobarbital",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "100mg"
+        }
+      ]
     },
     {
       "Name": "Butabarbital"
@@ -277,7 +598,7 @@
         "calcium"
       ],
       "Effects": [
-        "short-acting {sev 'strong'} {xeff 'cognitive euphoria'}"
+        "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}"
       ],
       "Notes": [
         "Dangerous barbiturate, benzodiazepines are superior in almost all aspects but euphoria."
@@ -287,11 +608,11 @@
       "Name": "Orthophedrone",
       "Routes": [
         {
-          "Name": "oral",
-          "Dosage": "120.0mg"
+          "Name": "Oral",
+          "Dosage": "120mg"
         },
         {
-          "Name": "insufflated",
+          "Name": "Insufflated",
           "Dosage": "50-100mg"
         }
       ]
@@ -300,7 +621,7 @@
       "Name": "Omberacetam",
       "Routes": [
         {
-          "Name": "oral",
+          "Name": "Oral",
           "Dosage": "10-20mg"
         }
       ]

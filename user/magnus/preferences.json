@@ -982,12 +982,12 @@
       ],
       "Salts": [],
       "Adverse": [
-        "{xeff 'respiratory depression'} (cause of death; 1312 nanogramm/ml concentration determined by toxicologists)"
+        "{wkp 'opioid overdose'} (cause of death: 1312 nanogramm/ml according to toxicology)"
       ],
       "Notes": ""
     },
     {
-      "Name": "Mitragynine",
+      "Name": "Kratom",
       "Routes": [
         {
           "Name": "Oral"

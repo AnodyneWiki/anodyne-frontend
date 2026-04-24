@@ -5,7 +5,7 @@
     "Christie",
     "Xander"
   ],
-  "About": "{p}Hyia~!,{Ep}{p}I am the main developer and beloved unhinged lunatic behind AnodyneWiki.{Ep}{p}I have a morbid fascination with {roa 'intravenous'} substance-use and will mainline any compound I can get my hands on.{Ep}{p}I spend a year moderating PsychonautWiki before my contributions got anonymized(merged into User:Blackhole; for {a 'assets/end_pw.png' 'calling out'} the abusive and inproper conduct coming from several moderators and the admin).{Ep}{p}Feel free to chat me up! <3{Ep}",
+  "About": "{p}Hyia~!,{Ep}{p}I am the main developer behind AnodyneWiki.{Ep}{p}I have a morbid fascination with {roa 'intravenous'} substance-use and will mainline any compound I can get my hands on.{Ep}{p}I spend a year moderating PsychonautWiki before my contributions got anonymized (merged into User:Blackhole; for {a 'assets/end_pw.png' 'calling out'} the abusive and inproper conduct coming from several moderators and the admin).{Ep}{p}Feel free to chat me up! <3{Ep}",
   "Birth": "2005-02",
   "Location": "Berlin, Germany",
   "Nationality": "German",
@@ -57,12 +57,12 @@
     ],
     "Attributes": [
       "{wkp 'autism spectrum disorder' 'autism'} (diagnosed)",
-      "transgender (male to female; injecting {sub 'estradiol'} esters weekly)",
+      "{wkp 'transgender'} (male to female; injecting {sub 'estradiol'} esters weekly)",
       "frequent {wkp 'intrusive thought' 'intrusive thoughts'} (taunting, sexual, anxiety, self-disgust, self-harm, suicidal)",
-      "prior phases of intense fear of abandonment (mitigated via long-term stimulant and opioid use)",
+      "prior phases of intense fear of {wkp 'abandonment (emotional)' 'abandonment'} (mitigated via long-term {class 'stimulant'} and {class 'opioid'} use)",
       "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'})",
       "{roa 'intravenous' 'Intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; periods of {xeff 'wakefulness'} up to 6+ days; longest peroid of abstinence 50 days)",
-      "self-destructive behaviour (self-punshing, head-banging, cutting, injecting, overdose) and reaccuring {xeff 'suicidal ideation'} (since ~2018)",
+      "{wkp 'self-destructive behaviour'} (self-punshing, head-banging, cutting, injecting, overdose) and reaccuring {xeff 'suicidal ideation'} (since ~2018)",
       "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
     ]
   },
@@ -142,7 +142,7 @@
     {
       "Name": "Intranasal",
       "Paraphernalia": [
-        "Plate and cutter",
+        "Mirror-plate, razor-blade/credit-card and tube",
         "Syringe adapter atomizer",
         "Nasalspray"
       ],
@@ -238,7 +238,7 @@
       "Sources": [ "2C-B: DNM Germany" ],
       "Effects": [
         "{xeff 'time-distortion?s=time-dilation' 'time dilation'}",
-        "{xeff 'internal hallucinations'}",
+        "{xeff 'internal hallucination'}",
         "{xeff 'colour enhancement' 'color enhancement'}",
         "{xeff 'increased pareidolia'}",
         "{xeff 'visual acuity enhancement'}",
@@ -253,7 +253,7 @@
       "Adverse": [
         "{xeff 'brain zaps'}",
         "{xeff 'nausea'}",
-        "vomiting"
+        "{xeff 'nausea?s=vomiting' 'vomiting'}"
       ],
       "Notes": [
         "{sev 'intense'} experience when intravenously injected",
@@ -281,7 +281,7 @@
       "Salts": [],
       "Sources": [ "25C-NBOMe: DNM Germany" ],
       "Effects": [
-        "{xeff 'internal hallucinations'}",
+        "{xeff 'internal hallucination'}",
         "{xeff 'colour enhancement' 'color enhancement'}",
         "{xeff 'visual acuity enhancement'}",
         "{xeff 'double vision'}",
@@ -290,17 +290,19 @@
         "{xeff 'teeth grinding'}",
         "{xeff 'vasoconstriction'}",
         "{xeff 'physical fatigue'}",
-        "{xeff 'delirium'}",
         "{xeff 'analysis suppression'}",
         "{sev 'moderate'} {xeff 'thought loops'}",
         "{sev 'strong'} {xeff 'focus suppression'}",
         "{sev 'strong'} {xeff 'thought disorganization'} (especially at the tail end)"
       ],
+      "Adverse": [
+        "{xeff 'delirium'}",
+        "{xeff 'confusion'}"
+      ],
       "Notes": [
         "vaporized by soaking 2.4mg of blotters in 10ml 3/1 PG/VG (experience underwhelming requiring subligual dose to push me over the edge)",
-        "\"this is a weirdly psychotic experience and I absoluely fucking love it X333\"",
+        "\"this is a weirdly psychotic experience and I absoluely love it X333\"",
         "\"I vividly recall accidentally drawing a spider and preceding to get horrified of it \"",
-        "\"fuck; I am going to have to buy more of that shit; daemons are eating my fingers!\"",
         "\"if god is real than god is this\""
       ]
     },
@@ -320,7 +322,7 @@
       "Salts": [],
       "Sources": [ "25I-NBOMe: DNM Germany" ],
       "Effects": [
-        "{xeff 'internal hallucinations'}",
+        "{xeff 'internal hallucination'}",
         "{xeff 'colour enhancement' 'color enhancement'}",
         "{xeff 'visual acuity enhancement'}",
         "{xeff 'tactile enhancement'}",
@@ -407,19 +409,20 @@
         "{sev 'strong'} {xeff 'stamina enhancement'}",
         "{sev 'strong'} {xeff 'vasoconstriction'}",
         "{sev 'moderate'} {xeff 'depression reduction'}",
-        "{sev 'moderate'} {xeff 'appetite suppression'} and thirst suppression"
+        "{sev 'moderate'} {xeff 'appetite suppression'} and thirst suppression",
+        "acute relief of {xeff 'constipation'}"
       ],
       "Adverse": [
         "{sev 'strong'} {wkp 'addiction'} (+44g consumed; compulsive drug seeking on the street)",
         "{xeff 'psychosis'}",
         "{xeff 'delusion'} ({wkp 'delusions of reference'})",
-        "{xeff 'peripheral vision misinterpretation'} (being observed through window)",
+        "{xeff 'peripheral information misinterpretation'} (being observed through window)",
         "{xeff 'autonomous entity'} (being waving from another room)",
-        "{xeff 'auditory hallucinations'} (loud breathing noise forcing me to keep my eyes open; 3+ {xeff 'autonomous voice communication' 'voices'} drowning out thoughts till unconciousness)",
-        "hyperventilation",
+        "{xeff 'auditory hallucination'} (loud breathing noise forcing me to keep my eyes open; 3+ {xeff 'autonomous-voice-communication' 'voices'} drowning out thoughts till {wkp 'unconsciousness'})",
+        "{wkp 'hyperventilation'}",
         "{xeff 'increased heart rate'} (160+ bpm)",
         "{xeff 'increased blood pressure'}",
-        "face drooping and {sev 'moderate'} numbing of sensations on the right side of my body"
+        "{wkp 'bells palsy' 'face dropping'} and {sev 'moderate'} numbing of sensations on the right side of my body"
       ]
     },
     {
@@ -515,7 +518,8 @@
         "{xeff 'appetite suppression'} and thirst suppression",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{xeff 'increased libido'}",
-        "without tolerance {sev 'strong'} {xeff 'depression reduction'}"
+        "without tolerance {sev 'strong'} {xeff 'depression reduction'}",
+        "acute relief of constipation"
       ],
       "Adverse": [
         "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
@@ -525,7 +529,7 @@
         "{xeff 'autonomous entity'} (hallucination of a man sitting in a chair next to me taunting me; pieces of dust manifesting as hallucinations of spider like creatures)",
         "lights shine through my courtains",
         "rain coming from the sealing",
-        "{xeff 'auditory hallucinations'} (phantom music playing as if I were wearing headphones)",
+        "{xeff 'auditory hallucination'} (phantom music playing as if I were wearing headphones)",
         "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me)",
         "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
       ]
@@ -587,7 +591,8 @@
         "{sev 'intense'} {xeff 'appetite suppression'} and thirst suppression",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{xeff 'increased libido'}",
-        "without tolerance {sev 'strong'} {xeff 'depression reduction'}"
+        "without tolerance {sev 'strong'} {xeff 'depression reduction'}",
+        "acute relief of constipation"
       ],
       "Adverse": [
         "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
@@ -597,7 +602,7 @@
         "{xeff 'autonomous entity'} (hallucination of a man sitting in a chair next to me taunting me; pieces of dust manifesting as hallucinations of spider like creatures)",
         "lights shine through my courtains",
         "rain coming from the sealing",
-        "{xeff 'auditory hallucinations'} (phantom music playing as if I were wearing headphones)",
+        "{xeff 'auditory hallucination'} (phantom music playing as if I were wearing headphones)",
         "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me)",
         "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
       ]
@@ -773,13 +778,13 @@
       ],
       "Adverse": [
         "{sev 'light'} {wkp 'addiction'} (10g consumed)",
-        "disturbing {xeff 'dream potentiation' 'vivid dreams'}",
+        " {xeff 'dream potentiation'} (disturbing vivid dreams)",
         "{xeff 'psychosis'}",
         "{xeff 'amnesia'}",
-        "{xeff 'perspective-hallucination'} (shift in perception as if looking at everything through a different perspective and setting)",
+        "{xeff 'perspective hallucination'} (shift in perception as if looking at everything through a different perspective and setting)",
         "{sev 'intense'} distress and fear of being alone, the darkness and being damaged",
         "multi-layer {wkp 'sleep paralysis'}",
-        "{xeff 'delusion'} (of being poisoned by the friends taking care of me when suddenly a day after psychosis onset {xeff 'visual drifting'} effects kicked in)",
+        "{xeff 'delusion'} (of being poisoned by the friends taking care of me when suddenly a day after psychosis onset {xeff 'drifting'} effects kicked in)",
         "immensely distressed by the ~100 syringes in my bed"
       ],
       "Notes": [
@@ -1011,7 +1016,7 @@
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
-        "acute gag-reflex upon intravenous injection"
+        "acute {wkp 'gag reflex' 'gag-reflex'} upon intravenous injection"
       ],
       "Notes": "potencial {xeff 'serotonin syndrome'} risk"
     },
@@ -1326,7 +1331,7 @@
         "{sev 'strong'} {xeff 'vasoconstriction'}",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{sev 'moderate'} {xeff 'depression reduction'}",
-        "{xeff 'auditory distortion' 'auditory alteration'}- or {xeff 'auditory suppression' 'suppression'}",
+        "{xeff 'auditory-distortion' 'auditory alteration'} or {xeff 'auditory-suppression' 'suppression'}",
         "when vaporized {sev 'strong'} {xeff 'mouth numbing'}"
       ],
       "Notes": "occasional comfortable full body feeling; vaporized {sev 'strong'} fishy smell and numbness inside mouth"
@@ -1398,7 +1403,7 @@
         }
       ],
       "Notes": [
-        "mild adrenic activity",
+        "mild adrenergic activity",
         "corrosive in veins"
       ]
     },
@@ -1486,6 +1491,7 @@
         "{sev 'moderate'} {xeff 'sedation'}",
         "{xeff 'analysis suppression'}",
         "{xeff 'cognitive fatigue'}",
+        "{xeff 'appetite enhancement'}",
         "{xeff 'motivation suppression'}"
       ],
       "Notes": "quite pleasant antipsychotic"
@@ -1578,7 +1584,7 @@
       ],
       "Salts": [],
       "Effects": [
-        "{xeff 'empathy affection and sociability enhancement' 'enhanced communication'}"
+        "{xeff 'empathy-affection-and-sociability-enhancement' 'enhanced communication'}"
       ],
       "Notes": "made me more concious of how dissociation influences my perception of reality; broke communication down to a fluid simplified interface; vulnerable animalistic perception of organic living beings; enabled understanding repressed part of myself"
     },
@@ -1604,7 +1610,7 @@
         "{xeff 'mindfulness'}",
         "{xeff 'increased pareidolia'}",
         "{xeff 'visual acuity enhancement'}",
-        "{xeff 'colour enhancement' 'color enhancement'}",
+        "{xeff 'colour-enhancement' 'color enhancement'}",
         "{xeff 'frame rate suppression'}",
         "{xeff 'drifting'}",
         "{xeff 'texture liquidation'}",
@@ -1878,7 +1884,7 @@
       ],
       "Indication": [
         "{xeff 'anxiety'}",
-        "{xeff 'panick attack'} or acute distress"
+        "{xeff 'panic attack'} or acute distress"
       ],
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
@@ -1900,7 +1906,7 @@
       ],
       "Indication": [
         "{xeff 'anxiety'}",
-        "{xeff 'panick attack'} or acute distress"
+        "{xeff 'panic attack'} or acute distress"
       ],
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
@@ -1940,7 +1946,7 @@
       "Salts": [],
       "Indication": [
         "{xeff 'anxiety'}",
-        "{xeff 'panick attack'} or acute distress"
+        "{xeff 'panic attack'} or acute distress"
       ],
       "Effects": [
         "{sev 'strong'} {xeff 'anxiety suppression'}",
@@ -1948,21 +1954,6 @@
         "cancels out {class 'stimulant' 'stimulants'}"
       ],
       "Notes": "practical intravenous-use (using additional solvant such as {sub 'propylene glycol' 'propylene glycol'} or {sub 'ethanol' 'ethanol'})"
-    },
-    {
-      "Name": "Kratom",
-      "Routes": [
-        {
-          "Name": "Oral"
-        }
-      ],
-      "Salts": [],
-      "Effects": [
-        "{sev 'light'} {xeff 'sedating'} yet helpful for working",
-        "{xeff 'increased libido'}",
-        "{sev 'light'} {xeff 'pain relief'}"
-      ],
-      "Notes": "helpful when crashing from {class 'stimulants' 'stimulants'}"
     },
     {
       "Name": "Dextromethorphan",
@@ -2010,20 +2001,45 @@
         "sulfate",
         "freebase"
       ],
+      "Indication": [
+        "pain",
+        "{xeff 'anxiety'}",
+        "{xeff 'panic attack'}",
+        "fear of abandonment"
+      ],
       "Effects": [
+        "{sev 'strong'} {xeff 'anxiety suppression'}",
         "{xeff 'sedation'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{xeff 'disinhibition'}",
         "{xeff 'thought deceleration'}",
         "{xeff 'perception of bodily heaviness'}",
         "{xeff 'pain relief'}",
-        "{xeff 'nausea'}",
+        "{sev 'moderate'} {xeff 'thought deceleration'}",
+        "{xeff 'double vision'}",
         "{sev 'moderate'} {xeff 'tinnitus'}",
         "{xeff 'increased bodily temperature'}",
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
-        "dream like states which feel fully concious"
+        "dream like states which feel fully concious/lucid",
+        "{xeff 'muscle relaxation'}",
+        "{xeff 'pupil constriction'}"
       ],
-      "Notes": "quite plesant to foil when freebased with ammonia"
+      "Adverse": [
+        "{xeff 'irritability'}",
+        "{xeff 'constipation'}",
+        "{xeff 'nausea'}",
+        "{xeff 'nausea?s=vomiting' 'vomiting'}",
+        "{wkp 'opioid withdrawal'}"
+      ],
+      "After": [
+        "{xeff 'constipation'}"
+      ],
+      "Notes": [
+        "generally has a negative impact on productivity and long-term wellbeing but can be helpful in change of perspective and acute coping",
+        "quite plesant to foil when freebased with ammonia",
+        "intravenous injection of unsanitary and overacidified solution repeatedly lead to the development of soars all around my body(unrelated to venipuncture)",
+        "intravenously sharper rush than {sub 'diacetylmorphine'}"
+      ]
     },
     {
       "Name": "Oxycodone",
@@ -2036,17 +2052,24 @@
         }
       ],
       "Salts": [],
+      "Indication": [
+        "pain",
+        "{xeff 'anxiety'}",
+        "{xeff 'panic attack'}",
+        "fear of abandonment"
+      ],
       "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety suppression'}",
         "{sev 'strong'} {xeff 'emotion suppression'}",
         "when injected {sev 'light'} {xeff 'cognitive euphoria'}",
         "when injected {sev 'intense'} {xeff 'increased perspiration'}",
         "{xeff 'sedation'}",
         "{xeff 'perception of bodily heaviness'}",
         "{xeff 'pain relief'}",
-        "{xeff 'nausea'}",
         "{xeff 'increased bodily temperature'}"
       ],
       "Adverse": [
+        "{xeff 'nausea'}",
         "orally {xeff 'cognitive dysphoria'}"
       ]
     },
@@ -2062,6 +2085,7 @@
       ],
       "Effects": [
         "{xeff 'sedation'}",
+        "{sev 'strong'} {xeff 'anxiety suppression'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{xeff 'disinhibition'}",
         "{xeff 'thought deceleration'}",
@@ -2070,7 +2094,7 @@
         "helps deal with siginificant emotional pain",
         "{xeff 'nausea'}",
         "{xeff 'increased bodily temperature'}",
-        "dream like states which feel fully concious",
+        "dream like states which feel fully concious/lucid",
         "{xeff 'increased libido'}"
       ],
       "Notes": "obtained by letting {sub 'diacetylmorphine'} sit in a low pH solution for several weeks; quite potent"
@@ -2079,37 +2103,74 @@
       "Name": "Diacetylmorphine",
       "Routes": [
         {
-          "Name": "Vaporized"
+          "Name": "Vaporized",
+          "Onset": "5-15 seconds",
+          "Comeup": "1-5 minutes",
+          "Duration": "3-5 hours",
+          "Dosage": "10-70mg"
         },
         {
-          "Name": "Intravenous"
+          "Name": "Intravenous",
+          "Onset": "10-20 seconds",
+          "Comeup": "1-5 minutes",
+          "Duration": "3-5 hours",
+          "Dosage": "10-40mg"
         }
       ],
       "Salts": [
         "freebase",
         "citrate",
         "ascorbate",
-        "tartrate"
+        "d-tartrate"
+      ],
+      "Indication": [
+        "pain",
+        "{xeff 'anxiety'}",
+        "{xeff 'panic attack'}",
+        "fear of abandonment"
       ],
       "Effects": [
-        "{xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "{sev 'strong'} {xeff 'anxiety suppression'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{xeff 'disinhibition'}",
         "{xeff 'thought deceleration'}",
         "{xeff 'perception of bodily heaviness'}",
         "{xeff 'pain relief'}",
         "helps deal with siginificant emotional pain",
-        "{xeff 'nausea'}",
+        "{xeff 'double vision'}",
         "{xeff 'motor control loss'}",
-        "{sev 'moderate'} {xeff 'analysis suppression'}",
+        "{sev 'moderate'} {xeff 'thought deceleration'}",
         "{sev 'moderate'} {xeff 'tinnitus'}",
         "{xeff 'auditory suppression'}",
         "{xeff 'increased bodily temperature'}",
+        "{xeff 'increased perspiration'}",
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
-        "dream like states which feel fully concious",
-        "{xeff 'increased libido'}"
+        "dream like states which feel fully concious/lucid",
+        "{xeff 'increased libido'}",
+        "{xeff 'muscle relaxation'}",
+        "{xeff 'pupil constriction'}",
+        "{sev 'light'} {xeff 'appetite enhancement'}"
       ],
-      "Notes": "quite plesant to foil"
+      "Adverse": [
+        "{xeff 'irritability'}",
+        "{xeff 'constipation'}",
+        "{xeff 'nausea'}",
+        "{xeff 'dizziness'}",
+        "{xeff 'nausea?s=vomiting' 'vomiting'}"
+      ],
+      "After": [
+        "{xeff 'constipation'}",
+        "pain sensitization",
+        "{xeff 'back pain'}",
+        "{xeff 'depression'}",
+        "{wkp 'opioid withdrawal'}"
+      ],
+      "Notes": [
+        "generally has a negative impact on productivity and long-term wellbeing but can be helpful in change of perspective and acute coping",
+        "plesant to foil",
+        "intravenously smoother/weaker rush than {sub 'morphine'}"
+      ]
     },
     {
       "Name": "Promethazine",
@@ -2118,7 +2179,9 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [],
+      "Salts": [
+        "hydrochloride"
+      ],
       "Indication": "{xeff 'nausea'}",
       "Effects": [
         "{sev 'light'} {xeff 'nausea suppression'}",
@@ -2173,6 +2236,7 @@
         "{xeff 'analysis suppression'}",
         "{xeff 'cognitive fatigue'}",
         "{xeff 'motivation suppression'}",
+        "{xeff 'appetite enhancement'}",
         "{sev 'moderate'} {xeff 'dry mouth'}",
         "seams to relieve psychosis at proper dose"
       ],
@@ -2223,7 +2287,7 @@
         "{sev 'light'} {xeff 'depression reduction'}",
         "{xeff 'perception of bodily heaviness'}",
         "{xeff 'thought acceleration'}",
-        "internal hallucinations at the edge of falling asleep"
+        "{xeff 'internal hallucination'} at the edge of falling asleep"
       ],
       "Adverse": [
         "{sev 'moderate'} {wkp 'addiction'} (in form of tobacoo; on and off +2 years; rebound addiction when withdrawing from more powerful {class 'stimulant'} drugs)",
@@ -2287,10 +2351,11 @@
       "Effects": [
         "{xeff 'perspective-distortion' 'body distortion'}",
         "{xeff 'frame rate suppression'}",
-        "{xeff 'memory suppression'}",
         "{xeff 'time distortion'}"
       ],
       "Adverse": [
+        "{xeff 'memory suppression'} (forgot who I was and what was happening upon 30mg IV infusion)",
+        "{xeff 'confusion'}",
         "{xeff 'psychosis'}",
         "{xeff 'cognitive dysphoria'}",
         "during comedown {xeff 'suicidal ideation'}"
@@ -2313,7 +2378,7 @@
         "hydrochloride"
       ],
       "Notes": [
-        "similar to ketamine but more potent",
+        "similar to {sub 'ketamine'} but more potent",
         "mind melting dissociative effects"
       ]
     },
@@ -2323,20 +2388,23 @@
         {
           "Name": "Insufflated",
           "Dosage": "10-20mg",
+          "Onset": "30-45 seconds",
+          "Comeup": "1-5 minutes",
           "Duration": "~5 hours"
         }
       ],
       "Salts": [
         "hydrochloride"
       ],
-      "Durations": [
+      "Indication": [
+        "{xeff 'sensory overload'} suppresion"
       ],
       "Effects": [
         "{xeff 'mania'}",
         "{xeff 'tinnitus'}",
         "{xeff 'auditory enhancement'}",
         "difficult self-asssesment",
-        "helps deal with {xeff 'sensory overload'} and social interactions",
+        "helps deal with {xeff 'sensory overload'} and {xeff 'empathy-affection-and-sociability-enhancement' 'social interactions'}",
         "{sev 'light'} {xeff 'anxiety suppression'}",
         "{xeff 'bodily control enhancement'}"
       ],
@@ -2514,15 +2582,13 @@
           "Name": "Intravenous"
         }
       ],
-      "Salts": [],
       "Effects": [
         "{xeff 'analysis suppression'}",
         "{xeff 'language suppression'} (hinders sincerity)",
-        "{xeff 'time dilation'}",
+        "{xeff 'time-distortion?s=time-dilation' 'time dilation'}",
         "{xeff 'drifting?s=morphing' 'morphing'}",
         "visual flickering zooming in and out"
-      ],
-      "Notes": ""
+      ]
     },
     {
       "Name": "10-Hydroxyhexahydrocannabinol",
@@ -2594,7 +2660,7 @@
       "Effects": [
         "coincided severe {xeff 'nausea'}"
       ],
-      "Notes": "no notable anxiety suppression"
+      "Notes": "no notable {xeff 'anxiety suppression'}"
     },
     {
       "Name": "Theanine",
@@ -2644,7 +2710,7 @@
         "{sev 'moderate'} {xeff 'wakefulness'} (up to 2 days)"
       ],
       "Adverse": [
-        "convulsions",
+        "{wkp 'convulsions'}",
         "hyperventilation",
         "{xeff 'increased heart rate'} (180+ bpm)",
         "{xeff 'increased blood pressure'}"
@@ -2660,7 +2726,10 @@
         }
       ],
       "Salts": [],
-      "Indication": "{xeff 'anxiety'}, {xeff 'panick attack'} and acute distress",
+      "Indication": [
+        "{xeff 'anxiety'}, {xeff 'panick attack'}",
+        "{wkp 'acute stress reaction' 'acute distress'}"
+      ],
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}"
       ],
@@ -2693,7 +2762,7 @@
       ],
       "Salts": [],
       "Effects": [
-        "cold shudder upon intravenous injection"
+        "intravenously {wkp 'cold chill'} "
       ],
       "Notes": "uncertain activity"
     },
@@ -2707,8 +2776,11 @@
           "Name": "Vaporized"
         }
       ],
-      "Salts": [],
-      "Notes": "decongestant effects; cooling sensation; reduces smoking irritation"
+      "Effects": [
+        "{wkp 'decongestant'} effects",
+        "cooling sensation",
+        "reduces smoking irritation"
+      ]
     },
     {
       "Name": "Phenol",
@@ -2787,7 +2859,7 @@
       ],
       "Adverse": [
         "{xeff 'nausea'}",
-        "vomiting"
+        "{xeff 'nausea?s=vomiting' 'vomiting'}"
       ],
       "Notes": ""
     },
@@ -2815,9 +2887,10 @@
       "Salts": [],
       "Effects": [
         "{xeff 'disinhibition'}",
-        "local anesthetic properties"
+        "{wkp 'local anesthetic'} properties",
+        "{xeff 'mouth numbing'}"
       ],
-      "Notes": "sweet marzipan like smell turning sickly; low solubility in water; 2.5% dilution very bitter and mouth numbing; 0.25% dilution bareable dare I say nice with a bunch of sugar"
+      "Notes": "sweet marzipan like smell turning sickly; low solubility in water; 2.5% dilution very bitter and {xeff 'mouth numbing'}; 0.25% dilution bareable dare I say nice with a bunch of sugar"
     },
     {
       "Name": "Propylene glycol",
@@ -2871,7 +2944,6 @@
           "Name": "Inhaled"
         }
       ],
-      "Salts": [],
       "Effects": [
         "{sev 'intense'} {xeff 'cognitive euphoria'}",
         "{xeff 'laughter fits'}",
@@ -2978,6 +3050,129 @@
       "Indication": "oral poisoning",
       "Notes": [
         "in form of activated charcoal"
+      ]
+    },
+    {
+      "Name": "Water",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "1-1000g"
+        },
+        {
+          "Name": "Inhaled",
+          "Dosage": "1g"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "1-19.98g"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "1-19.98g"
+        },
+        {
+          "Name": "Subcutaneous",
+          "Dosage": "1-3g"
+        }
+      ],
+      "Sources": [
+        "Pharmacy: saline",
+        "tap water",
+        "rain water",
+        "snow",
+        "distilled water"
+      ],
+      "Indication": [
+        "existance",
+        "{xeff 'dehydration'}"
+      ],
+      "Adverse": [
+        "{wkp 'substance dependence'} (my entire life)"
+      ],
+      "Notes": [
+        "tastes good"
+      ]
+    },
+    {
+      "Name": "Kratom",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'sedation'}",
+        "{xeff 'increased libido'}",
+        "{sev 'light'} {xeff 'pain relief'}"
+      ],
+      "Notes": "helpful when crashing from {class 'stimulant' 'stimulants'}"
+    },
+    {
+      "Name": "Tobacco",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        },
+        {
+          "Name": "Insufflated"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'stimulation'}",
+        "{sev 'light'} {xeff 'focus enhancement'}",
+        "{sev 'light'} {xeff 'wakefulness'}",
+        "{sev 'light'} {xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'compulsive redosing'}",
+        "{sev 'light'} {xeff 'depression reduction'}",
+        "{xeff 'perception of bodily heaviness'}",
+        "{xeff 'thought acceleration'}",
+        "{xeff 'internal hallucination'} at the edge of falling asleep"
+      ]
+    },
+    {
+      "Name": "Damiana",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        }
+      ],
+      "Salts": []
+    },
+    {
+      "Name": "Cannabis",
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        },
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [],
+      "Effects": [
+        "{xeff 'analysis suppression'}",
+        "{xeff 'language suppression'} (hinders sincerity)",
+        "{xeff 'time dilation'}",
+        "{xeff 'drifting?s=morphing' 'morphing'}",
+        "visual flickering zooming in and out"
+      ],
+      "Notes": [
+        "acute visual alteration upon intravenous injection of cannabinoid extract"
+      ]
+    },
+    {
+      "Name": "Coffea",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'stimulation'}",
+        "{sev 'light'} {xeff 'motivation enhancement'}",
+        "{sev 'light'} {xeff 'focus enhancement'}",
+        "{sev 'light'} {xeff 'wakefulness'}"
       ]
     }
   ]
