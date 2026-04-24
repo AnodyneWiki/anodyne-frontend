@@ -53,8 +53,7 @@
         "1ml syringe"
       ],
       "Sites": [
-        "Stomach",
-        "Lower loins"
+        "Stomach"
       ]
     },
     {
@@ -79,8 +78,8 @@
     {
       "Name": "Intranasal",
       "Paraphernalia": [
-        "Bahncard 100, Macbook and Paper",
-        "{wkp 'Trans_woman'}s {wkp 'Breast'}s",
+        "KuCoin Credit Card, Macbook and Paper",
+        "{wkp 'Trans_woman' 'Trans womans'} {wkp 'Breast' 'Breasts'}",
         "Nasalspray"
       ],
       "Sites": [
@@ -123,6 +122,28 @@
           "Name": "insufflated",
           "Dosage": "3-16mg"
         }
+      ],
+      "Effects": [
+        "{xeff 'internal hallucination'}",
+        "{xeff 'colour enhancement' 'color enhancement'}",
+        "{xeff 'increased pareidolia'}",
+        "{xeff 'visual acuity enhancement'}",
+        "{xeff 'tactile enhancement'}",
+        "{xeff 'double vision'}",
+        "{xeff 'teeth grinding'}",
+        "{xeff 'transformations'}",
+        "{xeff 'geometry'}",
+        "{xeff 'pupil dilation'}"
+      ],
+      "Adverse": [
+        "{xeff 'muscle tension'} (stronger with oral administration)",
+        "{xeff 'back pain'}",
+        "{xeff 'teeth grindin'}",
+        "{xeff 'increased heart rate'}"
+      ],
+      "Notes": [
+        "complete loss of touch with reality at 32mg insufflated",
+        "slightly psychotic at that dose but manageable"
       ]
     },
     {
@@ -168,6 +189,11 @@
           "Name": "oral",
           "Dosage": "150-300μg"
         }
+      ],
+      "Notes": [
+        "very peaceful experience",
+        "beautiful visuals while {wkp 'k-hole' 'k-holing'}",
+        "clear headspace"
       ]
     },
     {
@@ -327,6 +353,15 @@
         {
           "Name": "oral",
           "Dosage": "500-3000mg"
+        }
+      ]
+    },
+    {
+      "Name": "Methylphenidate",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10-50mg"
         }
       ]
     },
@@ -643,6 +678,24 @@
       ]
     },
     {
+      "Name": "Phenoxymethylpenicillin",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "250mg"
+        }
+      ]
+    },
+    {
+      "Name": "Amoxicillin",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "300mg"
+        }
+      ]
+    },
+    {
       "Name": "Acetylcysteine",
       "Routes": [
         {
@@ -657,6 +710,14 @@
         {
           "Name": "oral",
           "Dosage": "2-6.7g"
+        }
+      ]
+    },
+    {
+      "Name": "Tobacco",
+      "Routes": [
+        {
+          "Name": "vaporized"
         }
       ]
     }
