@@ -10,6 +10,7 @@
 	{ "Title": "Lactase", "NoBuild": true },
 
 	{ "Title": "Glucose", "DTitle": "Dextrose", "LTitle": "Levo-glucose" },
+	{ "Title": "Water" },
 
 	{ "Title": "Vasopressin", "NoBuild": true },
 	{ "Title": "Botulinum toxin", "NoBuild": true },
@@ -33,6 +34,7 @@
 	{ "Title": "1-Valeryl-D-lysergic acid diethylamide", "Abr": [ "1V-LSD", "Valerie" ], "Actives": [ "Lysergic acid diethylamide" ], "Classes": [ "Prodrug", "Psychedelic" ], "Search": "CID162368540" },
 	{ "Title": "2-Bromolysergic acid diethylamide", "Abr": "2-Br-LSD" },
 	{ "Title": "1-Butanoyl-d-lysergic acid diethylamide", "Abr": "1B-LSD", "Search": "1b-Lsd", "Classes": [ "Psychedelic" ] },
+	{ "Title": "1-Propanoyl-lysergic acid diethylamide", "Abr": "1P-LSD", "Search": "CID119025985", "Classes": [ "Psychedelic" ] },
 	{ "Title": "1-(3-(Trimethylsilyl)propionyl)-lysergic acid diethylamide", "Abr": "1S-LSD", "Search": "CID172875719", "Classes": [ "Psychedelic" ] },
 	{ "Title": "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide", "Abr": "1cP-LSD", "Search": "CID155884675", "Classes": [ "Psychedelic" ] },
 	{ "Title": "1-Cyclopropionyl-6-allyl-6-nor-lysergic acid diethylamide", "Abr": "1cP-AL-LAD", "Search": "1cP-AL-LAD", "Classes": [ "Psychedelic" ] },
@@ -651,6 +653,8 @@
 
 	{ "Title": "Nornicotine" },
 	{ "Title": "Nicotine" },
+	{ "Title": "Cotinine" },
+	{ "Title": "2,3'-Bipyridine", "Search": "CID11389" },
 	{ "Title": "6-Chloronicotine" },
 	{ "Title": "Anabasine" },
 	{ "Title": "Anatabine" },
@@ -1050,7 +1054,11 @@
 	{ "Title": "Pentazocine", "Classes": [ "Opioid" ] },
 	{ "Title": "Levallorphan", "Classes": [ "Opioid", "Opioid antagonist" ] },
 	{ "Title": "Desomorphine", "Classes": [ "Opioid" ] },
+
 	{ "Title": "Thebaine", "Classes": [ "Opioid" ] },
+	{ "Title": "Papaverine" },
+	{ "Title": "Noscapine" },
+
 	{ "Title": "Neopinone" },
 	{ "Title": "Codeinone", "Classes": [ "Opioid" ] },
 	{ "Title": "Codeine", "Actives": [ "Morphine", "Codeine-6-glucuronide" ], "Classes": [ "Prodrug", "Opioid" ] },
@@ -1105,6 +1113,9 @@
 	{ "Title": "U-47700", "Classes": [ "Opioid" ] },
 	{ "Title": "U-48800", "Classes": [ "Opioid" ] },
 	{ "Title": "U-49900", "Classes": [ "Opioid" ] },
+	{ "Title": "Bromadoline", "Abr": "U-47931E", "Classes": [ "Opioid" ] },
+
+	{ "Title": "AH-7921", "Classes": [ "Opioid" ] },
 
 	{ "Title": "Naltrexone", "Classes": [ "Opioid antagonist" ] },
 	{ "Title": "Naloxone", "Classes": [ "Opioid antagonist" ] },
@@ -1259,6 +1270,7 @@
 	{ "Title": "Flumazenil" },
 	{ "Title": "Olanzapine" },
 	{ "Title": "Zolazepam" },
+	{ "Title": "Trimipramine" },
 
 	{ "Title": "Amlodipine" },
 	{ "Title": "Warfarin" },
@@ -1475,6 +1487,9 @@
 
 	{ "Title": "Sildenafil", "Abr": "Viagra" },
 	{ "Title": "Tadalafil" },
+
+	{ "Title": "Yohimbine" },
+	{ "Title": "Ajmalicine" },
 
 	{ "Title": "Acetone" },
 	{ "Title": "Dimethyl sulfoxide", "Abr": "DMSO" },
