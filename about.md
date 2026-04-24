@@ -24,6 +24,8 @@
 
 A meta-wiki for chemicals affecting biological life-forms, their use, administration, effects and interactions.
 
+Its a meta-wiki because of its primary functions as an aggregator for a wide array of sources while only allowing user-contributions through the concept of user-pages. In that regard it is somewhat similar to the concept of a meta-analysis only applied to a wide range of chemicals and primarily through automation and templating.
+
 This tool is actively being developed. Join our [discord](https://discord.gg/DKfYmNrz6Z) community to follow development updates, learn how you can contribute and banter.
 
 If you enjoy this project and have the means, consider <a href='/donate'>donating</a> to keep us afloat.
