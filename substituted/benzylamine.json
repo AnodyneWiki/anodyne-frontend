@@ -73,6 +73,18 @@
       "Title": "N-Benzylethylenediamine",
       "Abr": null,
       "MW": "150.22 g/mol"
+    },
+    {
+      "Title": "AH-7921",
+      "Abr": null,
+      "MW": "329.3 g/mol"
+    },
+    {
+      "Title": "Bromadoline",
+      "Abr": [
+        "U-47931E"
+      ],
+      "MW": "325.24 g/mol"
     }
   ],
   "First": {

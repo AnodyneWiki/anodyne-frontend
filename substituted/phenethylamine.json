@@ -166,6 +166,11 @@
       "Title": "Dexmedetomidine",
       "Abr": null,
       "MW": "200.28 g/mol"
+    },
+    {
+      "Title": "Fentanyl",
+      "Abr": null,
+      "MW": "336.5 g/mol"
     }
   ],
   "Parent": "arylalkylamine",

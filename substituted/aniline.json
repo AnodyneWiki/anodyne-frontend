@@ -72,6 +72,11 @@
       "Title": "Clonidine",
       "Abr": null,
       "MW": "230.09 g/mol"
+    },
+    {
+      "Title": "Trimipramine",
+      "Abr": null,
+      "MW": "294.4 g/mol"
     }
   ],
   "Parent": "arylalkylamine",

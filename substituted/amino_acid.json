@@ -244,6 +244,11 @@
       "Title": "Remifentanil",
       "Abr": null,
       "MW": "376.4 g/mol"
+    },
+    {
+      "Title": "Carfentanyl",
+      "Abr": null,
+      "MW": "394.5 g/mol"
     }
   ],
   "First": {

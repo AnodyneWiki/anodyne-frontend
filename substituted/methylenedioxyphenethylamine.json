@@ -276,6 +276,11 @@
       "Title": "Tadalafil",
       "Abr": null,
       "MW": "389.4 g/mol"
+    },
+    {
+      "Title": "Noscapine",
+      "Abr": null,
+      "MW": "413.4 g/mol"
     }
   ],
   "Parent": "phenethylamine"
