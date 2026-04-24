@@ -1,0 +1,664 @@
+{
+  "Title": "emily",
+  "Name": [
+    "emily",
+    "mira"
+  ],
+  "About": "I hate computers",
+  "Birth": "2002-07",
+  "Location": "Germany",
+  "Weight": [
+    "2025/26: ~73kg"
+  ],
+  "Links": [
+    {
+      "Name": "Signal",
+      "Url": "emi.69"
+    }
+  ],
+  "Psyche": {
+    "Interests": [
+      "system administration",
+      "networking",
+      "pharmacology",
+      "nixos",
+      "video encoding/filtering",
+      "build systems (not by choice)"
+    ],
+    "Attributes": [
+      "F84.5G",
+      "F64.0G",
+      "F90.0G",
+      "F41.1G",
+      "F32.2G"
+    ]
+  },
+  "RoutesOfAdministration": [
+    {
+      "Name": "Inhaled",
+      "Paraphernalia": [
+        "Vaporizer",
+        "Cigarette",
+        "Ballon",
+        "Aluminium foil"
+      ],
+      "Sites": [
+        "Lungs"
+      ]
+    },
+    {
+      "Name": "Subcutaneous",
+      "Paraphernalia": [
+        "Insulin pen",
+        "1ml syringe"
+      ],
+      "Sites": [
+        "Stomach",
+        "Lower loins"
+      ]
+    },
+    {
+      "Name": "Intrarectal",
+      "Paraphernalia": [
+        "soft capsule",
+        "Suppository"
+      ],
+      "Sites": [
+        "Rectum"
+      ]
+    },
+    {
+      "Name": "Intramuscular",
+      "Paraphernalia": [
+        "1ml syringe"
+      ],
+      "Sites": [
+        "Vastus lateralis"
+      ]
+    },
+    {
+      "Name": "Intranasal",
+      "Paraphernalia": [
+        "Bahncard 100, Macbook and Paper",
+        "{wkp 'Trans_woman'}s {wkp 'Breast'}s",
+        "Nasalspray"
+      ],
+      "Sites": [
+        "Nose"
+      ]
+    },
+    {
+      "Name": "Transdermal",
+      "Paraphernalia": [
+        "Gel"
+      ],
+      "Sites": [
+        "Lower arm"
+      ]
+    },
+    {
+      "Name": "Oral",
+      "Paraphernalia": [
+        "Capsule",
+        "Solution",
+        "Suppository",
+        "1ml syringe",
+        "Tablet",
+        "Powder"
+      ],
+      "Sites": [
+        "Mouth"
+      ]
+    }
+  ],
+  "TriedSubstances": [
+    {
+      "Name": "2,5-Dimethoxy-4-bromophenethylamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "18-38mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "3-16mg"
+        }
+      ]
+    },
+    {
+      "Name": "2C-B-FLY",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20mg"
+        }
+      ]
+    },
+    {
+      "Name": "Lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "75-300μg"
+        }
+      ]
+    },
+    {
+      "Name": "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "150μg"
+        }
+      ]
+    },
+    {
+      "Name": "1-Propanoyl-lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "75-150μg"
+        }
+      ]
+    },
+    {
+      "Name": "6-Allyl-6-norlysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "150-300μg"
+        }
+      ]
+    },
+    {
+      "Name": "Psilocybin",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "6-12mg"
+        }
+      ]
+    },
+    {
+      "Name": "5-Methoxy-N,N-diallyltryptamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "7-14mg"
+        }
+      ]
+    },
+    {
+      "Name": "5-Methoxy-N,N-diisopropyltryptamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "6-7mg"
+        }
+      ]
+    },
+    {
+      "Name": "4-Propionyloxy-N-methyl-N-ethyltryptamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20mg"
+        }
+      ]
+    },
+    {
+      "Name": "N1-Tert-butoxycarbonyldimethyltryptamine",
+      "Routes": [
+        {
+          "Name": "smoked",
+          "Dosage": "25-100mg"
+        }
+      ]
+    },
+    {
+      "Name": "Melatonin",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.5-10mg"
+        }
+      ]
+    },
+    {
+      "Name": "Oxitriptan",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "100-200mg"
+        }
+      ]
+    },
+    {
+      "Name": "Tryptophan",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "500-1000mg"
+        }
+      ]
+    },
+    {
+      "Name": "Mephedrone",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "25-105mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "80-200mg"
+        }
+      ]
+    },
+    {
+      "Name": "Metaphedrone",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "30-167mg"
+        }
+      ]
+    },
+    {
+      "Name": "Orthophedrone",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "15-78mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "115mg"
+        }
+      ]
+    },
+    {
+      "Name": "Bupropion",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "150-300mg"
+        }
+      ]
+    },
+    {
+      "Name": "Amphetamine",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "9-51mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "10-20mg"
+        }
+      ]
+    },
+    {
+      "Name": "Lisdexamphetamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10-80mg"
+        }
+      ]
+    },
+    {
+      "Name": "3,4-Methylenedioxymethamphetamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "40-91mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "22mg"
+        }
+      ]
+    },
+    {
+      "Name": "Tyrosine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "500-3000mg"
+        }
+      ]
+    },
+    {
+      "Name": "Cocaine",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "40mg"
+        }
+      ]
+    },
+    {
+      "Name": "3-Fluorophenmetrazine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "15-45mg"
+        }
+      ]
+    },
+    {
+      "Name": "Caffeine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20-171mg"
+        }
+      ]
+    },
+    {
+      "Name": "Codeine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "12.8-140mg"
+        }
+      ]
+    },
+    {
+      "Name": "Morphine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10-25mg"
+        }
+      ]
+    },
+    {
+      "Name": "Apomorphine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "8-20mg"
+        }
+      ]
+    },
+    {
+      "Name": "Tilidine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50-100mg"
+        }
+      ]
+    },
+    {
+      "Name": "Oxycodone",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "5-11mg"
+        }
+      ]
+    },
+    {
+      "Name": "Desmetramadol",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "40mg"
+        }
+      ]
+    },
+    {
+      "Name": "Clonazepam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.3-1.5mg"
+        }
+      ]
+    },
+    {
+      "Name": "Alprazolam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.25-2mg"
+        }
+      ]
+    },
+    {
+      "Name": "Bromazepam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "3mg"
+        }
+      ]
+    },
+    {
+      "Name": "Ethanol",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "3-32g"
+        }
+      ]
+    },
+    {
+      "Name": "Tetrahydrocannabinol",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "8-150mg"
+        },
+        {
+          "Name": "smoked",
+          "Dosage": "2-27mg"
+        }
+      ]
+    },
+    {
+      "Name": "Ketamine",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "30-156mg"
+        }
+      ]
+    },
+    {
+      "Name": "Nitrous oxide",
+      "Routes": [
+        {
+          "Name": "inhaled",
+          "Dosage": "15-47g"
+        }
+      ]
+    },
+    {
+      "Name": "Nicotine",
+      "Routes": [
+        {
+          "Name": "inhaled",
+          "Dosage": "unkown"
+        },
+        {
+          "Name": "buccal",
+          "Dosage": "11-40mg"
+        },
+        {
+          "Name": "smoked",
+          "Dosage": "0.8-0.9mg"
+        }
+      ]
+    },
+    {
+      "Name": "Pregabalin",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "18-400mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "107mg"
+        }
+      ]
+    },
+    {
+      "Name": "Estradiol",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "1-8mg"
+        },
+        {
+          "Name": "transdermal",
+          "Dosage": "2-3mg"
+        }
+      ]
+    },
+    {
+      "Name": "Estradiol enantate",
+      "Routes": [
+        {
+          "Name": "subcutaneous",
+          "Dosage": "4-11mg"
+        }
+      ]
+    },
+    {
+      "Name": "Estradiol undecylate",
+      "Routes": [
+        {
+          "Name": "subcutaneous",
+          "Dosage": "12-14mg"
+        }
+      ]
+    },
+    {
+      "Name": "Progesterone",
+      "Routes": [
+        {
+          "Name": "rectal",
+          "Dosage": "200-400mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "83-714mg"
+        }
+      ]
+    },
+    {
+      "Name": "Prednisolone",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50mg"
+        }
+      ]
+    },
+    {
+      "Name": "Ketoprofen",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50mg"
+        }
+      ]
+    },
+    {
+      "Name": "Ibuprofen",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "200-600mg"
+        }
+      ]
+    },
+    {
+      "Name": "Metamizole",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "500mg"
+        }
+      ]
+    },
+    {
+      "Name": "Paracetamol",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "325mg"
+        }
+      ]
+    },
+    {
+      "Name": "Mirtazapine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "15-30mg"
+        }
+      ]
+    },
+    {
+      "Name": "Trimipramine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "25-30mg"
+        }
+      ]
+    },
+    {
+      "Name": "Fluoxetine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20mg"
+        }
+      ]
+    },
+    {
+      "Name": "Sildenafil",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "63-80mg"
+        }
+      ]
+    },
+    {
+      "Name": "Tadalafil",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "13-20mg"
+        }
+      ]
+    },
+    {
+      "Name": "Acetylcysteine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "800mg"
+        }
+      ]
+    },
+    {
+      "Name": "Kratom",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "2-6.7g"
+        }
+      ]
+    }
+  ]
+}

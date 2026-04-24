@@ -65,6 +65,7 @@ If you enjoy this project and have the means, consider <a href='/donate'>donatin
             <li><a href=/user/0xea>0xea</a> (developer)</li>{{/* [sech1p](/user/sech1p)*/}}
             <li><a href=/user/magnus>magnus</a> †</li>
             <li><a href=/user/pilz>pilz</a></li>
+            <li><a href=/user/emily>emily</a></li>
             <li><a href=/user/bonzi>bonzi</a></li>
             <li><a href=/user/x86pup>x86pup</a></li>
             <li><a href=/user/alina>alina</a></li>
