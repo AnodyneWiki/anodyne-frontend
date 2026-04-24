@@ -1,5 +1,349 @@
 {
   "Name": "Class",
   "Entries": [
+    {
+      "Title": "Anaesthetic",
+      "Abr": ""
+    },
+    {
+      "Title": "Antidepressant",
+      "Abr": ""
+    },
+    {
+      "Title": "Antipsychotic",
+      "Abr": ""
+    },
+    {
+      "Title": "Calcium-channel-blocker",
+      "Abr": ""
+    },
+    {
+      "Title": "Cannabinoid",
+      "Abr": ""
+    },
+    {
+      "Title": "Deliriant",
+      "Abr": ""
+    },
+    {
+      "Title": "Depressant",
+      "Abr": ""
+    },
+    {
+      "Title": "Dissociative",
+      "Abr": ""
+    },
+    {
+      "Title": "Entactogen",
+      "Abr": ""
+    },
+    {
+      "Title": "Hallucinogens",
+      "Abr": ""
+    },
+    {
+      "Title": "Hormone",
+      "Abr": ""
+    },
+    {
+      "Title": "Monoamine-oxidase-inhibitor",
+      "Abr": ""
+    },
+    {
+      "Title": "Nootropic",
+      "Abr": ""
+    },
+    {
+      "Title": "Opioid",
+      "Abr": ""
+    },
+    {
+      "Title": "Psychedelic",
+      "Abr": ""
+    },
+    {
+      "Title": "Steroid",
+      "Abr": ""
+    },
+    {
+      "Title": "Stimulant",
+      "Abr": ""
+    },
+    {
+      "Title": "Absorbant",
+      "Abr": ""
+    },
+    {
+      "Title": "Analgesic",
+      "Abr": ""
+    },
+    {
+      "Title": "Androgen",
+      "Abr": ""
+    },
+    {
+      "Title": "Antiandrogen",
+      "Abr": ""
+    },
+    {
+      "Title": "Antibiotic",
+      "Abr": ""
+    },
+    {
+      "Title": "Anticholinergic",
+      "Abr": ""
+    },
+    {
+      "Title": "Anticoagulant",
+      "Abr": ""
+    },
+    {
+      "Title": "Antiemetic",
+      "Abr": ""
+    },
+    {
+      "Title": "Antiemetics",
+      "Abr": ""
+    },
+    {
+      "Title": "Antiestrogen",
+      "Abr": ""
+    },
+    {
+      "Title": "Antimineralocorticoid",
+      "Abr": ""
+    },
+    {
+      "Title": "Antinicotinic",
+      "Abr": ""
+    },
+    {
+      "Title": "Antipyretics",
+      "Abr": ""
+    },
+    {
+      "Title": "Antiretroviral",
+      "Abr": ""
+    },
+    {
+      "Title": "Antiseptic",
+      "Abr": ""
+    },
+    {
+      "Title": "Beta agonist",
+      "Abr": ""
+    },
+    {
+      "Title": "Beta blocker",
+      "Abr": ""
+    },
+    {
+      "Title": "Bronchodilator",
+      "Abr": ""
+    },
+    {
+      "Title": "Byproduct",
+      "Abr": ""
+    },
+    {
+      "Title": "CYP2D6 inhibitors",
+      "Abr": ""
+    },
+    {
+      "Title": "CYP3A4 inducer",
+      "Abr": ""
+    },
+    {
+      "Title": "Carcinogen",
+      "Abr": ""
+    },
+    {
+      "Title": "Codrug",
+      "Abr": ""
+    },
+    {
+      "Title": "Cytotoxin",
+      "Abr": ""
+    },
+    {
+      "Title": "Disinfectant",
+      "Abr": ""
+    },
+    {
+      "Title": "Endocannabinoid",
+      "Abr": ""
+    },
+    {
+      "Title": "Estrogen",
+      "Abr": ""
+    },
+    {
+      "Title": "Eugeroic",
+      "Abr": ""
+    },
+    {
+      "Title": "Genotoxin",
+      "Abr": ""
+    },
+    {
+      "Title": "Hallucinogen",
+      "Abr": ""
+    },
+    {
+      "Title": "Hepatotoxin",
+      "Abr": ""
+    },
+    {
+      "Title": "Herbicide",
+      "Abr": ""
+    },
+    {
+      "Title": "Lachrymator",
+      "Abr": ""
+    },
+    {
+      "Title": "Local anesthetic",
+      "Abr": ""
+    },
+    {
+      "Title": "Mineralocorticoid",
+      "Abr": ""
+    },
+    {
+      "Title": "Monoamine reuptake inhibitor",
+      "Abr": ""
+    },
+    {
+      "Title": "N-Methyl-D-aspartic acid receptor antagonist",
+      "Abr": ""
+    },
+    {
+      "Title": "Nerve agent",
+      "Abr": ""
+    },
+    {
+      "Title": "Neuropeptide",
+      "Abr": ""
+    },
+    {
+      "Title": "Neurotoxin",
+      "Abr": ""
+    },
+    {
+      "Title": "Neurotransmitter",
+      "Abr": ""
+    },
+    {
+      "Title": "Neurotransmitter metabolite",
+      "Abr": ""
+    },
+    {
+      "Title": "Neurotransmitter precursor",
+      "Abr": ""
+    },
+    {
+      "Title": "Neurotransmitters",
+      "Abr": ""
+    },
+    {
+      "Title": "Nicotinic antagonist",
+      "Abr": ""
+    },
+    {
+      "Title": "Nonsteroidal anti-inflammatory drug",
+      "Abr": ""
+    },
+    {
+      "Title": "Nutrient",
+      "Abr": ""
+    },
+    {
+      "Title": "Opioid antagonist",
+      "Abr": ""
+    },
+    {
+      "Title": "Pesticide",
+      "Abr": ""
+    },
+    {
+      "Title": "Phytoestrogen",
+      "Abr": ""
+    },
+    {
+      "Title": "Prodrug",
+      "Abr": ""
+    },
+    {
+      "Title": "Protease inhibitor",
+      "Abr": ""
+    },
+    {
+      "Title": "Provitamin",
+      "Abr": ""
+    },
+    {
+      "Title": "Sedative",
+      "Abr": ""
+    },
+    {
+      "Title": "Serotonergic antidepressant",
+      "Abr": ""
+    },
+    {
+      "Title": "Serotonin agonist",
+      "Abr": ""
+    },
+    {
+      "Title": "Serotonin reuptake inhibitor",
+      "Abr": ""
+    },
+    {
+      "Title": "Serotonin-norepinephrine reuptake inhibitor",
+      "Abr": ""
+    },
+    {
+      "Title": "Sodium channel blocker",
+      "Abr": ""
+    },
+    {
+      "Title": "Sodium channel opener",
+      "Abr": ""
+    },
+    {
+      "Title": "Steroid sulfatase inhibitor",
+      "Abr": ""
+    },
+    {
+      "Title": "Sympathomimetic",
+      "Abr": ""
+    },
+    {
+      "Title": "Tocolytic",
+      "Abr": ""
+    },
+    {
+      "Title": "Toxin",
+      "Abr": ""
+    },
+    {
+      "Title": "Trace amine-associated receptor 1 agonist",
+      "Abr": ""
+    },
+    {
+      "Title": "Tryptophan hydroxylase inhibitor",
+      "Abr": ""
+    },
+    {
+      "Title": "Tyrosine hydroxylase inhibitor",
+      "Abr": ""
+    },
+    {
+      "Title": "Vitamin",
+      "Abr": ""
+    },
+    {
+      "Title": "Κ-opioid agonist",
+      "Abr": ""
+    }
   ]
 }

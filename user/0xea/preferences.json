@@ -685,12 +685,14 @@
           "Name": "Oral",
           "Dosage": "100mg",
           "Onset": "1 hour",
+          "Comeup": "~30 minutes",
           "Duration": "~6 hours"
         },
         {
           "Name": "Intravenous",
           "Dosage": "70-165mg",
           "Onset": "15-30 seconds",
+          "Comeup": "1-5 minutes",
           "Duration": "30-60 minutes"
         }
       ],
@@ -2858,10 +2860,11 @@
         "at high doses {sev 'moderate'} {xeff 'cognitive euphoria'}"
       ],
       "Adverse": [
+        "{xeff 'perspective hallucination'} (one time)",
         "{xeff 'nausea'}",
         "{xeff 'nausea?s=vomiting' 'vomiting'}"
       ],
-      "Notes": ""
+      "Notes": "may be used as solvant for intravenous use of certain {subst 'benzodiazepine' 'benzodiazepines'}"
     },
     {
       "Name": "Benzylalcohol",
@@ -2976,7 +2979,7 @@
       ],
       "Salts": [],
       "Effects": [
-        "acutely seams to cause acne"
+        "acutely causes acne"
       ]
     },
     {
