@@ -96,7 +96,7 @@
     },
     {
       "Title": "Amoxicillin",
-      "Abr": "",
+      "Abr": null,
       "MW": "365.4 g/mol"
     },
     {
@@ -249,6 +249,11 @@
       "Title": "Carfentanyl",
       "Abr": null,
       "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "Phenoxymethylpenicillin",
+      "Abr": null,
+      "MW": "350.4 g/mol"
     }
   ],
   "First": {
