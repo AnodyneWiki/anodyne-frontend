@@ -1578,6 +1578,7 @@
 	{ "Title": "Doxycycline", "Classes": [ "Antibiotic" ] },
 	{ "Title": "Benzylpenicillin", "Classes": [ "Antibiotic" ] },
 	{ "Title": "Amoxicillin", "Classes": [ "Antibiotic" ] },
+	{ "Title": "Phenoxymethylpenicillin", "Classes": [ "Antibiotic" ] },
 
 	{ "Title": "Perfluorooctanoic acid", "Abr": "PFOA" },
 

@@ -61,7 +61,7 @@
       "frequent {wkp 'intrusive thought' 'intrusive thoughts'} (taunting, sexual, anxiety, self-disgust, self-harm, suicidal)",
       "prior phases of intense fear of {wkp 'abandonment (emotional)' 'abandonment'} (mitigated via long-term {class 'stimulant'} and {class 'opioid'} use)",
       "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'})",
-      "{roa 'intravenous' 'Intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; periods of {xeff 'wakefulness'} up to 6+ days; longest peroid of abstinence 50 days)",
+      "{roa 'intravenous' 'Intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; periods of {xeff 'wakefulness'} up to 6+ days; longest peroid of abstinence 60 days)",
       "{wkp 'self-destructive behaviour'} (self-punshing, head-banging, cutting, injecting, overdose) and reaccuring {xeff 'suicidal ideation'} (since ~2018)",
       "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
     ]
@@ -93,6 +93,7 @@
       "Name": "Inhaled",
       "Paraphernalia": [
         "Metered-dose Inhaler",
+        "Balloon",
         "Vaporizer",
         "Base pipe",
         "Foily",
@@ -176,6 +177,18 @@
   ],
   "Preferences": [
   ],
+  "Synergy": [
+    {
+      "Substances": [
+        "Amphetamine",
+        "Bicarbonate"
+      ],
+      "Effects": [
+        "longer duration especially of amphetamines adrenic effects"
+      ],
+      "Note": "bicarbonate raising urinary pH decreases amphetamine excretion"
+    }
+  ],
   "TriedSubstances": [
     {
       "Name": "Salbutamol",
@@ -239,7 +252,7 @@
       "Effects": [
         "{xeff 'time-distortion?s=time-dilation' 'time dilation'}",
         "{xeff 'internal hallucination'}",
-        "{xeff 'colour enhancement' 'color enhancement'}",
+        "{xeff 'colour-enhancement' 'color enhancement'}",
         "{xeff 'increased pareidolia'}",
         "{xeff 'visual acuity enhancement'}",
         "{xeff 'tactile enhancement'}",
@@ -282,7 +295,7 @@
       "Sources": [ "25C-NBOMe: DNM Germany" ],
       "Effects": [
         "{xeff 'internal hallucination'}",
-        "{xeff 'colour enhancement' 'color enhancement'}",
+        "{xeff 'colour-enhancement' 'color enhancement'}",
         "{xeff 'visual acuity enhancement'}",
         "{xeff 'double vision'}",
         "{xeff 'tactile enhancement'}",
@@ -323,7 +336,7 @@
       "Sources": [ "25I-NBOMe: DNM Germany" ],
       "Effects": [
         "{xeff 'internal hallucination'}",
-        "{xeff 'colour enhancement' 'color enhancement'}",
+        "{xeff 'colour-enhancement' 'color enhancement'}",
         "{xeff 'visual acuity enhancement'}",
         "{xeff 'tactile enhancement'}",
         "{xeff 'muscle tension'}",
@@ -416,7 +429,8 @@
         "{sev 'strong'} {wkp 'addiction'} (+44g consumed; compulsive drug seeking on the street)",
         "{xeff 'psychosis'}",
         "{xeff 'delusion'} ({wkp 'delusions of reference'})",
-        "{xeff 'peripheral information misinterpretation'} (being observed through window)",
+        "{xeff 'personal meaning enhancement'}",
+        "{xeff 'peripheral information misinterpretation'} (being observed through window; sudden movements)",
         "{xeff 'autonomous entity'} (being waving from another room)",
         "{xeff 'auditory hallucination'} (loud breathing noise forcing me to keep my eyes open; 3+ {xeff 'autonomous-voice-communication' 'voices'} drowning out thoughts till {wkp 'unconsciousness'})",
         "{wkp 'hyperventilation'}",
@@ -652,7 +666,8 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "60mg"
+          "Dosage": "60mg",
+          "Duration": "~6 hours"
         },
         {
           "Name": "Vaporized",
@@ -705,7 +720,7 @@
       "Adverse": [
         "{xeff 'suicidal ideation'} (\"I just want to fucking die!\")",
         "{xeff 'serotonin syndrome'}",
-        "clonus",
+        "{wkp 'clonus'}",
         "{xeff 'increased bodily temperature'}",
         "{xeff 'irritability'}"
       ],
@@ -1146,13 +1161,14 @@
         "{sev 'intense'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
-        "{sev 'moderate'} {xeff 'empathy affection and sociability enhancement'}",
+        "{sev 'light'} {xeff 'empathy affection and sociability enhancement'}",
         "{sev 'moderate'} {xeff 'depression reduction'}"
       ],
       "Adverse": [
         "{sev 'moderate'} {xeff 'thought loops'}",
         "{xeff 'psychosis'}",
         "{xeff 'delusion'} (paranoid, persecutory, {wkp 'delusions of grandeur'}, time-travel)",
+        "{xeff 'personal meaning enhancement'}",
         "{sev 'intense'} {xeff 'suicidal ideation'} and feelings of guilt resulting from actions"
       ]
     },
@@ -1179,8 +1195,7 @@
       "Adverse": [
         "{xeff 'psychosis'}",
         "{xeff 'suicidal ideation'}"
-      ],
-      "Notes": ""
+      ]
     },
     {
       "Name": "3,4-Methylenedioxy-α-pyrrolidinohexiophenone",
@@ -1211,7 +1226,7 @@
         "{xeff 'psychosis'}",
         "{xeff 'delusion'} ({wkp 'thought broadcasting'})"
       ],
-      "Notes": "vaporized has distinctive disgusting mushroom smell"
+      "Notes": "vaporized freebase has distinctive disgusting mushroom smell"
     },
     {
       "Name": "Methylphenidate",
@@ -1353,8 +1368,7 @@
       ],
       "Effects": [
         "{xeff 'dry mouth'}"
-      ],
-      "Notes": ""
+      ]
     },
     {
       "Name": "Tyrosine",
@@ -1378,8 +1392,7 @@
       "Effects": [
         "locomotor-activity increase",
         "{xeff 'depression reduction'}"
-      ],
-      "Notes": ""
+      ]
     },
     {
       "Name": "Taurine",
@@ -1389,8 +1402,7 @@
           "Dosage": "4g"
         }
       ],
-      "Salts": [],
-      "Notes": ""
+      "Salts": []
     },
     {
       "Name": "N-Acetyl-L-tyrosine",
@@ -1433,9 +1445,8 @@
         }
       ],
       "Effects": [
-        "{sev 'moderate'} {xeff 'headache'} suppression"
-      ],
-      "Notes": "no notable effect"
+        "{sev 'light'} {xeff 'headache'} suppression"
+      ]
     },
     {
       "Name": "Acetylsalicylic acid",
@@ -1487,7 +1498,6 @@
           "Duration": "~8 hours"
         }
       ],
-      "Salts": [],
       "Indication": "{xeff 'psychosis'}",
       "Effects": [
         "{sev 'moderate'} {xeff 'sedation'}",
@@ -1624,9 +1634,14 @@
         "{sev 'light'} {xeff 'thought loops'}",
         "{xeff 'transformations'}",
         "{xeff 'symmetrical texture repetition'}",
-        "{xeff 'depression reduction'}"
+        "{sev 'moderate'} {xeff 'depression reduction'}"
       ],
-      "Notes": "\"this was probably my best psychedelic experience so far\"; \"having a wondeful very peaceful experience\"; \"how can the breakdown of perception be this beautiful\"; seams to loose potency in storage over the span of a couple of months"
+      "Notes": [
+        "\"this was probably my best psychedelic experience so far\"",
+        "\"having a wondeful very peaceful experience\"",
+        "\"how can the breakdown of perception be this beautiful\"",
+        "seams to loose potency in storage over the span of a couple of months"
+      ]
     },
     {
       "Name": "Diphenhydramine",
@@ -1773,8 +1788,16 @@
           "Name": "Intramuscular"
         }
       ],
-      "Salts": [],
       "Indication": "Male to female transsexuality",
+      "Effects": [
+        "figure changes",
+        "breast growth",
+        "body-hair reduction",
+        "skin smoothing",
+        "{xeff 'emotion intensification'}",
+        "gender-identity related {xeff 'cognitive euphoria'}",
+        "{xeff 'depression reduction'}"
+      ],
       "Notes": "crashes when injected weekly"
     },
     {
@@ -1785,8 +1808,16 @@
           "Duration": "5-6 days"
         }
       ],
-      "Salts": [],
       "Indication": "Male to female transsexuality",
+      "Effects": [
+        "figure changes",
+        "breast growth",
+        "body-hair reduction",
+        "skin smoothing",
+        "{xeff 'emotion intensification'}",
+        "gender-identity related {xeff 'cognitive euphoria'}",
+        "{xeff 'depression reduction'}"
+      ],
       "Notes": "crashes when injected weekly"
     },
     {
@@ -1801,8 +1832,16 @@
           "Duration": "7 days"
         }
       ],
-      "Salts": [],
       "Indication": "Male to female transsexuality",
+      "Effects": [
+        "figure changes",
+        "breast growth",
+        "body-hair reduction",
+        "skin smoothing",
+        "{xeff 'emotion intensification'}",
+        "gender-identity related {xeff 'cognitive euphoria'}",
+        "{xeff 'depression reduction'}"
+      ],
       "Notes": [
         "minor crashes when injected weekly",
         "discomfort when injected every 4 days"
@@ -1820,8 +1859,16 @@
           "Duration": "25-30 days"
         }
       ],
-      "Salts": [],
       "Indication": "Male to female transsexuality",
+      "Effects": [
+        "figure changes",
+        "breast growth",
+        "body-hair reduction",
+        "skin smoothing",
+        "{xeff 'emotion intensification'}",
+        "gender-identity related {xeff 'cognitive euphoria'}",
+        "{xeff 'depression reduction'}"
+      ],
       "Notes": "produces stable levels with no crashes when injected monthly"
     },
     {
@@ -1831,7 +1878,6 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [],
       "Indication": "hairloss",
       "Adverse": [
         "{xeff 'suicidal ideation'}"
@@ -1886,7 +1932,8 @@
       ],
       "Indication": [
         "{xeff 'anxiety'}",
-        "{xeff 'panic attack'} or acute distress"
+        "{xeff 'panic attack'}",
+        "acute distress"
       ],
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
@@ -1908,7 +1955,8 @@
       ],
       "Indication": [
         "{xeff 'anxiety'}",
-        "{xeff 'panic attack'} or acute distress"
+        "{xeff 'panic attack'}",
+        "acute distress"
       ],
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
@@ -1948,7 +1996,8 @@
       "Salts": [],
       "Indication": [
         "{xeff 'anxiety'}",
-        "{xeff 'panic attack'} or acute distress"
+        "{xeff 'panic attack'}",
+        "acute distress"
       ],
       "Effects": [
         "{sev 'strong'} {xeff 'anxiety suppression'}",
@@ -2202,13 +2251,16 @@
         "hemihydrate"
       ],
       "Effects": [
-        "{xeff 'sedation'} to the point of inducing sleep"
+        "{xeff 'sedation'} (to the point of inducing sleep; passed out on workplace-toilet for ~1 hour)",
+        "{xeff 'dream potentiation'}",
+        "{xeff 'lucid dreaming'}",
+        "{sev 'light'} {xeff 'dry mouth'}"
       ],
       "Indication": [
         "depression",
         "insomnia"
       ],
-      "Notes": "creates unique bodily feeling; seams to suppress {sub 'histamine'} effects; passed out on workplace-toilet for ~1 hour"
+      "Notes": "creates unique bodily feeling; seams to suppress {sub 'histamine'} effects"
     },
     {
       "Name": "Quetiapine",
@@ -2660,9 +2712,11 @@
       ],
       "Salts": [],
       "Effects": [
-        "coincided severe {xeff 'nausea'}"
+        "no notable {xeff 'anxiety suppression'}"
       ],
-      "Notes": "no notable {xeff 'anxiety suppression'}"
+      "Adverse": [
+        "coincided {sev 'strong'} {xeff 'nausea'}"
+      ]
     },
     {
       "Name": "Theanine",

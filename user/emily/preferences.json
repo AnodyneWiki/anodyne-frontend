@@ -130,7 +130,6 @@
         "{xeff 'visual acuity enhancement'}",
         "{xeff 'tactile enhancement'}",
         "{xeff 'double vision'}",
-        "{xeff 'teeth grinding'}",
         "{xeff 'transformations'}",
         "{xeff 'geometry'}",
         "{xeff 'pupil dilation'}"
@@ -138,7 +137,7 @@
       "Adverse": [
         "{xeff 'muscle tension'} (stronger with oral administration)",
         "{xeff 'back pain'}",
-        "{xeff 'teeth grindin'}",
+        "{xeff 'teeth grinding'}",
         "{xeff 'increased heart rate'}"
       ],
       "Notes": [

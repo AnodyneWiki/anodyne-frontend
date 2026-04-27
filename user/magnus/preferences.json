@@ -1116,7 +1116,15 @@
           "Dosage": "11-66mg"
         }
       ],
-      "Notes": "lovechild of {sub 'lysergic acid diethylamide' 'lsd'} and {sub '3,4-methylenedioxymethamphetamine' 'mdma'}; {xeff 'irritability' 'agitation'}; {xeff 'cognitive euphoria' 'euphoria'}; prettiest visuals I‘ve ever had on 66mg boofed in combination with 4mg of Clonazepam; slight {xeff 'nausea' 'nausea'} when boofed"
+      "Effects": [
+        "{xeff 'cognitive euphoria'}",
+        "prettiest visuals I‘ve ever had on 66mg boofed in combination with 4mg of Clonazepam"
+      ],
+      "Adverse": [
+        "{xeff 'irritability'}",
+        "{sev 'light'} {xeff 'nausea'} when boofed"
+      ],
+      "Notes": "lovechild of {sub 'lysergic acid diethylamide' 'lsd'} and {sub '3,4-methylenedioxymethamphetamine' 'MDMA'}"
     },
     {
       "Name": "Dimethyltryptamine",
