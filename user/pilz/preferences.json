@@ -4,7 +4,7 @@
         "Marie",
         "Pilz"
     ],
-    "About": "Computer touching dog addicted to caffeine",
+    "About": "Computer touching dog addicted to caffeine. Talk with me about [ “{wkp 'Pharmacology'}, “toxicology, “IT-Security”, “Networking”, “declarative infrastructure” ]",
     "Birth": "2006-11",
     "Location": "Germany",
     "Weight": [
@@ -18,7 +18,7 @@
     ],
     "Psyche": {
         "Interests": [
-            "pharmacology",
+            "{wkp 'Pharmacology'}",
             "compounding medications",
             "networking",
             "trains",
@@ -33,15 +33,28 @@
     },
     "RoutesOfAdministration": [
         {
-            "Name": "Inhaled",
+            "Name": "Intranasal",
             "Paraphernalia": [
-                "Vaporizer",
-                "Cigarette",
-                "Ballon",
-                "Aluminium foil"
+                "Bahncard 100, Macbook and Paper",
+                "{wkp 'Trans_woman'}s {wkp 'Breast'}s",
+                "Nasalspray"
             ],
             "Sites": [
-                "Lungs"
+                "Nose"
+            ]
+        },
+        {
+            "Name": "Oral",
+            "Paraphernalia": [
+                "Capsule",
+                "Solution",
+                "Suppository",
+                "1ml syringe",
+                "Tablet",
+                "Powder"
+            ],
+            "Sites": [
+                "Mouth"
             ]
         },
         {
@@ -66,23 +79,15 @@
             ]
         },
         {
-            "Name": "Intramuscular",
+            "Name": "Inhaled",
             "Paraphernalia": [
-                "1ml syringe"
+                "Vaporizer",
+                "Cigarette",
+                "Ballon",
+                "Aluminium foil"
             ],
             "Sites": [
-                "Vastus lateralis"
-            ]
-        },
-        {
-            "Name": "Intranasal",
-            "Paraphernalia": [
-                "Bahncard 100, Macbook and Paper",
-                "{wkp 'Trans_woman'}s {wkp 'Breast'}s",
-                "Nasalspray"
-            ],
-            "Sites": [
-                "Nose"
+                "Lungs"
             ]
         },
         {
@@ -95,17 +100,12 @@
             ]
         },
         {
-            "Name": "Oral",
+            "Name": "Intramuscular",
             "Paraphernalia": [
-                "Capsule",
-                "Solution",
-                "Suppository",
-                "1ml syringe",
-                "Tablet",
-                "Powder"
+                "1ml syringe"
             ],
             "Sites": [
-                "Mouth"
+                "Vastus lateralis"
             ]
         }
     ],
@@ -146,10 +146,12 @@
             "Effects": [
                 "{sev 'strong'} {xeff 'stimulation'}",
                 "{xeff 'motivation-enhancement'} in lower doses",
-                "{sev 'light'} {xeff 'anxiety'}",
-                "{xeff 'nausea'} that fades away after the comeup",
                 "Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'tracers'} {xeff 'environmental-patterning'} {xeff 'drifting'} {xeff 'colour-enhancement'}",
                 "{xeff 'time-distortion'}"
+            ],
+            "Adverse": [
+                "{sev 'light'} {xeff 'anxiety'}",
+                "{xeff 'nausea'} that fades away after the comeup"
             ],
             "Notes": [
                 "My favorite psychedelic"
@@ -165,8 +167,11 @@
             ],
             "Effects": [
                 "{xeff 'stimulation'}",
-                "{xeff 'compulsive-redosing'}",
                 "{xeff 'increased-libido'}"
+            ],
+            "Adverse": [
+                "{xeff 'compulsive-redosing'}",
+                "{xeff 'motivation-suppression'} (feeling fried)"
             ]
         },
         {
@@ -181,14 +186,16 @@
                 "{sev 'strong'} {xeff 'stimulation'}",
                 "{xeff 'empathy-affection-and-sociability-enhancement'}",
                 "{sev 'strong'} {xeff 'increased-libido'}",
-                "{xeff 'orgasm-suppression'}",
                 "{xeff 'anxiety-suppression'}",
                 "{xeff 'increased-heart-rate'}",
                 "{sev 'strong'} {xeff 'stamina-enhancement'}",
                 "{xeff 'time-distortion'}",
-                "{sev 'strong'} {xeff 'compulsive-redosing'} (feels like your constantly redosing/having to redose)",
+                "{xeff 'increased-bodily-temperature'}"
+            ],
+            "Adverse": [
                 "{xeff 'memory-suppression'} (forgetting what you did on the day/not having detailed memories)",
-                "{xeff 'increased-bodily-temperature'}",
+                "{xeff 'orgasm-suppression'}",
+                "{sev 'strong'} {xeff 'compulsive-redosing'} (feels like your constantly redosing/having to redose)",
                 "{xeff 'teeth-grinding'} when using higher doses"
             ],
             "Notes": [
@@ -227,15 +234,17 @@
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "1500-30000mg"
+                    "Dosage": "1.5-30g"
                 }
             ],
             "Effects": [
                 "{xeff 'sedation'}",
                 "{xeff 'anxiety-suppression'} (very helpful in social situations)",
-                "{xeff 'nausea'} when consumed in high doses",
                 "{sev 'light'} {xeff 'appetite-enhancement'}",
-                "{xeff 'motor-control-loss'}",
+                "{xeff 'motor-control-loss'}"
+            ],
+            "Adverse":[
+                "{xeff 'nausea'} when consumed in high doses",
                 "Partial {xeff 'memory-suppression'} when consumed in high doses"
             ],
             "Notes": [
@@ -244,7 +253,7 @@
         },
         {
             "Name": "Alprazolam",
-            "Indication": "{xeff 'anxiety'}",
+            "Indication": "{xeff 'anxiety'}/{wkp 'Anxiety_disorder'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -260,7 +269,7 @@
         },
         {
             "Name": "Amphetamine",
-            "Indication": "Attention-Deficit/Hyperactivity Disorder",
+            "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -278,6 +287,7 @@
                 "{sev 'strong'} {xeff 'stimulation'}; very helpful aginst ADHD in lower doses (15-20mg oral, 1-2x per day)",
                 "{xeff 'wakefulness'}",
                 "{xeff 'stamina-enhancement'}",
+                "{xeff 'motivation-enhancement'}",
                 "{sev 'light'} {xeff 'increased-libido'} or {xeff 'decreased-libido'}",
                 "{sev 'light'} {xeff 'compulsive-redosing'}"
             ],
@@ -330,8 +340,16 @@
             "Effects": [
                 "{xeff 'stimulation'}",
                 "{xeff 'wakefulness'}",
+                "{xeff 'motivation-enhancement'}",
                 "{sev 'light'} {xeff 'increased-libido'}",
+                "{xeff 'mouth-numbing'}"
+            ],
+            "Adverse":[
                 "{sev 'strong'} {xeff 'compulsive-redosing'}"
+            ],
+            "Notes":[
+                "comedown is a bit annoying",
+                "not worth the high cost in europe; try {xeff 'Amphetamine'} or {xeff 'mephedrone'} instead"
             ]
         },
         {
@@ -350,6 +368,7 @@
         },
         {
             "Name": "Estradiol enantate",
+            "Indication": "Male to female {wkp 'Transsexual'}",
             "Routes": [
                 {
                     "Name": "intramuscular",
@@ -407,8 +426,10 @@
                 "{xeff 'thought-deceleration'}, {xeff 'confusion'}, {xeff 'analysis-suppression'}; sometimes feeling stupid",
                 "{xeff 'increased-sense-of-humor'}",
                 "{xeff 'anxiety-suppression'}",
-                "{xeff 'nausea'} when consumed in high doses",
                 "{sev 'light'} {xeff 'motivation-enhancement'} in the days after using ketamine"
+            ],
+            "Adverse": [
+                "{xeff 'nausea'} when consumed in high doses"
             ]
         },
         {
@@ -426,6 +447,7 @@
             "Effects": [
                 "{xeff 'stimulation'}; very helpful aginst ADHD",
                 "{xeff 'wakefulness'}",
+                "{xeff 'motivation-enhancement'}",
                 "{sev 'light'} {xeff 'increased-libido'} or {sev 'light'} {xeff 'decreased-libido'}"
             ],
             "Notes": [
@@ -439,6 +461,9 @@
                     "Name": "oral",
                     "Dosage": "2.0mg"
                 }
+            ],
+            "Notes":[
+                "Might help with {xeff 'diarrhea'} when doing psychedelics"
             ]
         },
         {
@@ -472,6 +497,7 @@
             ],
             "Effects": [
                 "{xeff 'stimulation'}; very helpful aginst ADHD",
+                "{xeff 'motivation-enhancement'}",
                 "sometimes {xeff 'sleepiness'}; caffeine while using methylphenidate helps against that",
                 "{sev 'light'} {xeff 'decreased-libido'}"
             ],
@@ -506,11 +532,15 @@
             "Routes": [
                 {
                     "Name": "smoked",
-                    "Dosage": "mg"
+                    "Dosage": "20mg"
                 }
             ],
+            "Effects":[
+                "Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'drifting'} {xeff 'colour-enhancement'}",
+                "{xeff 'mouth-numbing'}"
+            ],
             "Notes": [
-                "Gets converted to DMT under heat",
+                "Gets converted to {sub 'dimethyltryptamine'} under heat",
                 "Byproducts might cause local anaesthesia in the mouth when smoked"
             ]
         },
@@ -595,7 +625,7 @@
         },
         {
             "Name": "Progesterone",
-            "Indication": "Male to female transsexuality",
+            "Indication": "Male to female {wkp 'Transsexual'}",
             "Routes": [
                 {
                     "Name": "rectal",
@@ -691,11 +721,18 @@
         },
         {
             "Name": "Ketoprofen",
+            "Indication": "{wkp 'Pain'} or {xeff 'headache'}",
             "Routes": [
                 {
                     "Name": "oral",
                     "Dosage": "50mg"
                 }
+            ],
+            "Effects": [
+                "{xeff 'pain-relief'}"
+            ],
+            "Notes": [
+                "Might help with pain better than {sub 'Ibuprofen'}"
             ]
         },
         {
@@ -706,7 +743,10 @@
                     "Dosage": "5-10mg"
                 }
             ],
-            "Notes": "Helpful when doing MTF-HRT with estradiol-gel or tablets, might also increase libido and breast size"
+            "Notes": [
+                "Helpful when doing MTF-HRT with {sub 'Estradiol'}-gel or tablets",
+                "Might also increase libido and breast size like {sub 'Progesterone'}"
+            ]
         },
         {
             "Name": "Atomoxetine",
@@ -720,11 +760,40 @@
         },
         {
             "Name": "Benzocaine",
+            "Salts":[
+                "Freebase"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
                     "Dosage": "10mg"
+                },
+                {
+                    "Name": "sublingual",
+                    "Dosage": "10mg"
                 }
+            ],
+            "Effects":[
+                "{xeff 'mouth-numbing'}; helpful when having a sore throat"
+            ],
+            "Notes": [
+                "Consumed as Dolo-Dobendan Lozenges with {sub 'Cetylpyridinium chloride'}"
+            ]
+        },
+        {
+            "Name": "Cetylpyridinium chloride",
+            "Routes":[
+                {
+                    "Name": "oral",
+                    "Dosage": "1.4mg"
+                },
+                {
+                    "Name": "sublingual",
+                    "Dosage": "1.4mg"
+                }
+            ],
+            "Notes": [
+                "Consumed as Dolo-Dobendan Lozenges with {sub 'Benzocaine'}"
             ]
         },
         {
