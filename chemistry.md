@@ -17,7 +17,7 @@
 </p>{{if $vars.StereoisomerData}}<div style="max-width: calc(100vw - 400px);"><table style='table-layout: fixed; text-align: left; border-collapse: collapse;'>
 <tr><th>{{template "user" "{wkp 'Stereoisomers' 'Stereoisomerism'}"}}</th></tr>
 <tr style='background-color: #ffffff; color: #555555;'><td><div class=image-grid>
-{{range $ster := $vars.StereoisomerData}}<div class=image-item><div class=svg id='{{$ster.Title}}'><a href='#{{$ster.Title}}'>{{$ster.Title}}</a>{{$ster.Structure}}</div></div>{{end}}</div></td></tr>
+{{range $ster := $vars.StereoisomerData}}<div class=image-item><div class=svg id='{{$ster.Title}}'><a style='line-height: 1.0;' href='/substance/{{$ster.Title}}'>{{$ster.Title}}</a>{{$ster.Structure}}</div></div>{{end}}</div></td></tr>
 <tr><td class=InfoboxData>Stereoisomer enumberation with <a href='https://www.rdkit.org'>rdkit</a></td></tr></table></div></div></div></div>
 {{end}}
 {{if $vars.Reagents}}<div class=collapser><h3>Reagent results</h3><div class=collapserContent><table><tr><th>Reagent</th><th>Color change</th></tr>
