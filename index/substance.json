@@ -246,6 +246,8 @@
 	{ "Title": "Pentylenetetrazol", "Classes": [ "Stimulant", "Sympathomimetic" ] },
 
 	{ "Title": "Amphetamine", "Abr": "Speed", "Ltitle": "Levoamphetamine", "Dtitle": "Dextroamphetamine", "Classes": [ "Stimulant" ] },
+	{ "Title": "Dextroamphetamine", "Classes": [ "Stimulant" ] },
+	{ "Title": "Levoamphetamine", "Classes": [ "Stimulant" ] },
 	{ "Title": "N,N-Dimethylphenethylamine", "Abr": "N,N-DMPEA", "Classes": [ "Stimulant" ] },
 	{ "Title": "3-Hydroxy-N,N-dimethylphenethylamine", "Classes": [ "Serotonergic antidepressant" ] },
 	{ "Title": "Pholedrine", "Classes": [ "Sympathomimetic" ] },
@@ -385,6 +387,8 @@
 	{ "Title": "Omberacetam", "System": "N-Phenylacetyl-l-prolylglycine ethyl ester", "Abr": [ "GVS-111" ]},
 
 	{ "Title": "Methamphetamine", "Ltitle": "Levomethamphetamine", "Dtitle": "Dextromethamphetamine", "Abr": "MA", "Classes": [ "Stimulant" ], "Search": "CID1206" },
+	{ "Title": "Dextromethamphetamine", "Classes": [ "Stimulant" ], "Search": "CID10836" },
+	{ "Title": "Levomethamphetamine", "Classes": [ "Stimulant" ], "Search": "CID36604" },
 
 	{ "Title": "2-Methoxyamphetamine", "Abr": "OMA", "Classes": [ "Bronchodilator" ] },
 	{ "Title": "Methoxyphenamine", "Abr": "OMMA", "Classes": [ "Bronchodilator" ] },
@@ -634,6 +638,7 @@
 	{ "Title": "2,5-Dimethoxy-4-bromophenylpiperazine", "Abr": "2C-B-PP", "Search": "CID4738744", "Classes": [ "Stimulant" ] },
 
 	{ "Title": "Benzylpiperazine", "Abr": "BZP", "Classes": [ "Stimulant" ] },
+	{ "Title": "2-Benzylpiperazine", "Abr": "2-BZP", "Classes": [ "Stimulant" ] },
 	{ "Title": "Dibenzylpiperazine", "Abr": "DBZP", "Classes": [ "Byproduct" ] },
 	{ "Title": "Methylbenzylpiperazine", "Abr": "MBZP", "Classes": [ "Stimulant" ], "Search": "CID763557" },
 	{ "Title": "3-Hydroxybenzylpiperazine", "Classes": [ ], "Search": "CID23023151" },
@@ -823,7 +828,7 @@
 	{ "Title": "α-Pyrrolidinohexiophenone", "Abr": "α-PHP", "Classes": [ "Stimulant" ] },
 	{ "Title": "α-Pyrrolidinoheptaphenone", "Abr": "α-PEP" },
 	{ "Title": "α-Pyrrolidinoisohexanophenone", "Abr": "α-PiHP", "Classes": [ "Stimulant" ] },
-	{ "Title": "3',4'-Methylenedioxy-α-pyrrolidinopentiophenone", "Abr": ["MDPV", "MDPK"], "Search": "Methylenedioxypyrovalerone", "Classes": [ "Stimulant" ] },
+	{ "Title": "3',4'-Methylenedioxy-α-pyrrolidinopentiophenone", "Abr": ["MDPV", "MDPK"], "Search": "CID20111961", "Classes": [ "Stimulant" ] },
 	{ "Title": "3,4-Ethylenemethcathinone", "Search": "", "Classes": [ "Stimulant" ] },
 	{ "Title": "3',4'-Ethylene-α-pyrrolidinopentiophenone", "Search": "CID172871868", "Classes": [ "Stimulant" ] },
 	{ "Title": "3',4'-Dichloro-α-pyrrolidinopentiophenone", "Abr": ["3,4-DCPV", "DCPVP", "O-2390"], "Search": "CID11150726", "Classes": [ "Stimulant" ] },
