@@ -12,11 +12,11 @@ Psychosis through schizophrenia has long been associated with excessive {{templa
 <div style="overflow: hidden; background-color: var(--background-color-interactive-subtle);">See also: {{template "wkp" "Dopamine hypothesis of schizophrenia"}} / {{template "wkp" "Glutamate hypothesis of schizophrenia"}}</div>
 
 <h2>Subjective effects</h2>
-{{template "subjective" (dict
+{{template "subjective" (dict "Subjective Effects" (dict
     "Physical Effects" (list "Physical disconnection" "Physical autonomy" "Spatial disorientation")
     "Cognitive Effects" (list "Time distortion" "Delirium" "Paranoia" "Confusion" "Delusion" "Irritability" "Thought disorganization" "Thought connectivity" "Creativity enhancement" "Cognitive disconnection" "Anxiety" "Memory suppression" "Amnesia" "Personal meaning enhancement" "Wakefulness" "Thought loops" "Autonomous voice communication")
     "Visual Effects" (list "Autonomous entity" "External hallucination" "Internal hallucination" "Perspective hallucination" "Object activation" "Transformations" "Unspeakable horrors" "Settings, sceneries, and landscapes" "Drifting" "Visual agnosia" "Analysis suppression")
-    "Auditory Effects" (list "Auditory hallucination" "Auditory distortion" "Auditory misinterpretation")) -}}
+    "Auditory Effects" (list "Auditory hallucination" "Auditory distortion" "Auditory misinterpretation"))) -}}
 
 {{/*<h3>Delusions</h3>
 #### {{template "wkp" "Ideas of reference"}}
