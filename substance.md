@@ -28,7 +28,7 @@
 {{if or (empty $usernotes | not) (get $v "Subjective Effects") -}}
 <div class=collapser><h2>Subjective effects<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.2 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
 <div class=collapserContent>
-{{with get $v "Subjective Effects"}}{{template "subjective" .}}{{end -}}
+{{if get $v "Subjective Effects"}}{{template "subjective" $v}}{{end -}}
 
 {{if and (empty $usernotes.local) (empty $usernotes.extern) | not -}}<div class=effects style="padding-top: 0.25em;"><div>
 {{/*<table><tr><th style="text-align: left;" colspan=2>Usernotes{{template "rexnd" $v.Collapse}}</th></tr>*/}}

@@ -17,6 +17,7 @@
 		{{$abr = ternary $v.Abbreviation ($v.Abbreviation | join ", ") (kindIs "string" $v.Abbreviation) -}}
 	{{end -}}
 	{{$title := ternary (printf "%s" $v.Title) (printf "%s (%s)" $v.Title $abr) (empty $abr)}}
+	{{$_ := set $v "Type" "substance" -}}
 	{{template "article" dict "Title" $title "Markdown" "substance.md"  "Vars" $v  -}}
 {{end}} 
 {{end}} 
