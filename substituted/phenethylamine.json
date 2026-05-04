@@ -100,7 +100,9 @@
     },
     {
       "Title": "β,N,N-Trimethylphenethylamine",
-      "Abr": "DMPPA",
+      "Abr": [
+        "DMPPA"
+      ],
       "MW": "163.26 g/mol"
     },
     {

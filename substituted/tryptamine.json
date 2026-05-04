@@ -22,11 +22,6 @@
       "MW": "206.26 g/mol"
     },
     {
-      "Title": "5-Methoxy-N,N-dimethyltryptamine",
-      "Abr": "5-MeO-DMT",
-      "MW": "218.29 g/mol"
-    },
-    {
       "Title": "5-Nitro-N,N-dimethyltryptamine",
       "Abr": "5-Nitro-DMT",
       "MW": "233.27 g/mol"
@@ -133,7 +128,9 @@
     },
     {
       "Title": "Ethylpropyltryptamine",
-      "Abr": "EPT",
+      "Abr": [
+        "EPT"
+      ],
       "MW": "230.35 g/mol"
     },
     {
@@ -195,7 +192,9 @@
     },
     {
       "Title": "Mebufotenin",
-      "Abr": "5-MeO-DMT",
+      "Abr": [
+        "5-MeO-DMT"
+      ],
       "MW": "218.29 g/mol"
     },
     {
@@ -217,7 +216,9 @@
     },
     {
       "Title": "Baeocystin",
-      "Abr": "4-PO-NMT",
+      "Abr": [
+        "4-PO-NMT"
+      ],
       "MW": "270.22 g/mol"
     },
     {
@@ -339,7 +340,9 @@
     },
     {
       "Title": "5-Ethoxy-α-methyltryptamine",
-      "Abr": "5-EtO-αMT",
+      "Abr": [
+        "5-EtO-αMT"
+      ],
       "MW": "218.29 g/mol"
     },
     {

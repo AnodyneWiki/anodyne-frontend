@@ -95,6 +95,7 @@
   "Parent": "arylalkylamine",
   "Children": [
     "α-alkylbenzylamine",
+    "arylcyclohexylamine",
     "benzamide",
     "benzylpiperazine"
   ]

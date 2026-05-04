@@ -35,7 +35,9 @@
     {
       "Title": "Diazepam",
       "MW": "284.74 g/mol",
-      "Abr": "Valium"
+      "Abr": [
+        "Valium"
+      ]
     },
     {
       "Title": "Diclazepam",

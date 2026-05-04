@@ -382,11 +382,6 @@
       "MW": "191.31 g/mol"
     },
     {
-      "Title": "β,N,N-Trimethylphenethylamine",
-      "Abr": "DMPPA",
-      "MW": "163.26 g/mol"
-    },
-    {
       "Title": "Phenatine",
       "Abr": "",
       "MW": "240.30 g/mol"
@@ -729,6 +724,28 @@
         "4-HMA"
       ],
       "MW": "165.23 g/mol"
+    },
+    {
+      "Title": "2-Benzylpiperazine",
+      "Abr": [
+        "2-BZP"
+      ],
+      "MW": "176.26 g/mol"
+    },
+    {
+      "Title": "Dextromethamphetamine",
+      "Abr": null,
+      "MW": "149.23 g/mol"
+    },
+    {
+      "Title": "Levomethamphetamine",
+      "Abr": null,
+      "MW": "149.23 g/mol"
+    },
+    {
+      "Title": "Dextroamphetamine",
+      "Abr": null,
+      "MW": "135.21 g/mol"
     }
   ],
   "Parent": "phenethylamine",

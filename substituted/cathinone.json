@@ -44,7 +44,9 @@
     },
     {
       "Title": "Brophedrone",
-      "Abr": "3-BMC",
+      "Abr": [
+        "3-BMC"
+      ],
       "MW": "242.11 g/mol"
     },
     {
@@ -192,12 +194,16 @@
     },
     {
       "Title": "Clipredrone",
-      "Abr": "4-CIC",
+      "Abr": [
+        "4-CIC"
+      ],
       "MW": "225.71 g/mol"
     },
     {
       "Title": "4-Chlorobutylcathinone",
-      "Abr": "4-CBC",
+      "Abr": [
+        "4-CBC"
+      ],
       "MW": "239.74 g/mol"
     },
     {
