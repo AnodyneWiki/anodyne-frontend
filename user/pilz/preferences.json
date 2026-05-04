@@ -4,7 +4,7 @@
         "Marie",
         "Pilz"
     ],
-    "About": "Computer touching dog addicted to caffeine. Talk with me about [ “{wkp 'Pharmacology'}, “toxicology, “IT-Security”, “Networking”, “declarative infrastructure” ]",
+    "About": "Computer touching dog addicted to caffeine.",
     "Birth": "2006-11",
     "Location": "Germany",
     "Weight": [
@@ -297,6 +297,7 @@
         },
         {
             "Name": "Bupropion",
+            "Indication": "{sub 'Nicotine'} addiction",
             "Routes": [
                 {
                     "Name": "oral",
@@ -354,6 +355,7 @@
         },
         {
             "Name": "Codeine",
+            "Indication": "{sev 'strong'} pain",
             "Routes": [
                 {
                     "Name": "oral",
@@ -468,7 +470,7 @@
         },
         {
             "Name": "Melatonin",
-            "Indication": "Insomnia",
+            "Indication": "{wkp 'Insomnia'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -648,6 +650,7 @@
         },
         {
             "Name": "Promethazine",
+            "Indication": "{wkp 'Insomnia'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -657,6 +660,7 @@
         },
         {
             "Name": "Quetiapine",
+            "Indication": "{sev 'strong'} {wkp 'Insomnia'} or {xeff 'psychosis}, might also be useful against {xeff 'anxiety'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -760,6 +764,7 @@
         },
         {
             "Name": "Benzocaine",
+            "Indication": "{wkp 'Sore_throat'}",
             "Salts":[
                 "Freebase"
             ],
@@ -782,6 +787,7 @@
         },
         {
             "Name": "Cetylpyridinium chloride",
+            "Indication": "{wkp 'Sore_throat'}",
             "Routes":[
                 {
                     "Name": "oral",
@@ -803,6 +809,9 @@
                     "Name": "oral",
                     "Dosage": "800mg"
                 }
+            ],
+            "Notes":[
+                "Might be useful as a antioxidant or when overdosing on {sub 'Paracetamol'}"
             ]
         },
         {
@@ -833,6 +842,26 @@
             "Notes": [
                 "Helped with pain caused by {wkp 'Self-harm'}",
                 "Might help with stress induced muscle twitching"
+            ]
+        },
+        {
+            "Name": "Doxylamine",
+            "Indication": "{wkp 'Insomnia'}",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "25mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'strong'} {xeff 'sleepiness'}",
+                "{xeff 'sedation'}",
+                "{xeff 'motivation-suppression'}",
+                "{sev 'light'} {xeff 'decreased-libido'}"
+            ],
+            "Notes": [
+                "Consumed as SchlafTabs-ratiopharm",
+                "stronger sleep aid than {sub 'Meltonin'}, might be useful when {sub 'Melatonin'} is insufficient"
             ]
         }
     ]
