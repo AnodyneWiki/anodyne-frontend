@@ -4,7 +4,7 @@
 <div class=collapserContent>{{if $vars.DrugClasses}}<ul>{{range $class := $vars.DrugClasses}}<li><a href=/class/{{replace "'" "%27" (replace " " "_" (lower $class))}}>{{title $class}}</a></li>
 {{end}}{{end}}{{if $vars.ChemicalClasses}}{{if .IsClass}}{{range $class := (without $vars.ChemicalClasses (first $vars.ChemicalClasses))}}<li>[{{title $class}}](/substance/{{replace "'" "%27" (replace " " "_" (lower $class))}})</li>
 </ul>{{end}}{{else}}{{range $class := .ChemicalClasses}}{{if fileExists (printf "substance/%s/vars.json" (replace "'" "%27" (replace " " "_" (lower $class))))}}* [{{title $class}}](/substance/{{replace "'" "%27" (replace " " "_" (lower $class))}})
-{{end}}{{end}}{{end}}{{range $cc := $vars.ChemicalClasses}}<li>{{template "sl" (lower $cc)}}</li>{{end}}{{end}}<li><a href=/>Anodyne</a></li></ul></div></div>{{end}}
+{{end}}{{end}}{{end}}{{range $cc := $vars.ChemicalClasses}}<li>{{template "sl" (lower $cc)}}</li>{{end}}{{end}}</ul></div></div>{{end}}
 
 {{define "refs"}}
     {{- $vars := .}}
