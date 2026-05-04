@@ -1,0 +1,45 @@
+{
+"Name": "Composite",
+"Entries": [
+	{ "Title": "Kratom", "Abr": [ "Mitragyna speciosa" ], "Substances": [
+		{ "Name": "Mitragynine" },
+		{ "Name": "7-Hydroxymitragynine" },
+		{ "Name": "Speciociliatine" },
+		{ "Name": "Paynantheine" },
+		{ "Name": "Corynantheidine" },
+		{ "Name": "Speciogynine" },
+		{ "Name": "Mitraphylline" },
+		{ "Name": "Rhynchophylline" },
+		{ "Name": "Mitralactonal" },
+		{ "Name": "Ajmalicine" },
+		{ "Name": "Mitragynaline" }
+	]
+	},
+	{ "Title": "Opium", "Abr": [ "Poopy tears", "Lachryma papaveris"], "Substances": [
+		{ "Name": "Morphine" },
+		{ "Name": "Codeine" },
+		{ "Name": "Thebaine" },
+		{ "Name": "Papaverine" },
+		{ "Name": "Noscapine" }
+	]
+	},
+	{ "Title": "Tobacco", "Abr": [ "Nicotiana" ], "Substances": [
+		{ "Name": "Nicotine", "Concentration": "90-95%" },
+		{ "Name": "Nornicotine", "Concentration": "~2.5%" },
+		{ "Name": "Anatabine", "Concentration": "~2.5%" },
+		{ "Name": "Anabasine" },
+		{ "Name": "Myosmine" },
+		{ "Name": "Cotinine" },
+		{ "Name": "2,3'-Bipyridine" },
+		{ "Name": "Yohimbine" },
+		{ "Name": "Ajmalicine" },
+		{ "Name": "Harmine" },
+		{ "Name": "Harmaline" }
+	]
+	},
+	{ "Title": "Coffea", "Substances": [
+		{ "Name": "Caffeine" }
+	]
+	}
+]
+}

@@ -1,0 +1,22 @@
+{{$path := .OriginalReq.URL.Path}}
+{{if empty .Args | not}}{{$path = index .Args 0}}{{end}}
+{{import "missing.html"}}{{import "article.html" -}}
+{{block "composite" (dict "Path" (stripHTML $path) ) -}}
+	{{$pathParts := splitList "/" .Path -}}
+	{{$title := last $pathParts}}
+	{{$v := $title | lower | printf "/api/composite/%s" | replace " " "%20" | httpInclude | fromJson -}}
+	{{if or (not $v) (empty $v) ($v.NotFound) -}}
+		{{template "missing" (dict "Title" $title "Type" "composite") -}}
+	{{else}}
+	{{if ne (lower $v.Title) (lower $title) -}}
+		{{$_ := set $v "SubstanceRedirect" $v.Title -}}
+		{{$_ := set $v "SubstanceRedirectSource" (replace "_" " " $title) -}}
+	{{end -}}
+	{{$abr := "" -}}
+	{{if empty $v.Abbreviation | not -}}
+		{{$abr = ternary $v.Abbreviation ($v.Abbreviation | join ", ") (kindIs "string" $v.Abbreviation) -}}
+	{{end -}}
+	{{$title := ternary (printf "%s" $v.Title) (printf "%s (%s)" $v.Title $abr) (empty $abr)}}
+	{{template "article" dict "Title" $title "Markdown" "composite.md"  "Vars" $v  -}}
+{{end}} 
+{{end}} 
