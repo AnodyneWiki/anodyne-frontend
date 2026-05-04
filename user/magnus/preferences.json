@@ -542,7 +542,12 @@
       "Salts": [
         "hydrochloride"
       ],
-      "Notes": "{sub 'methylphenidate' 'methylphenidate'}'s big brother; very similar pharmacological effects longer duration, higher potency more recreational; batches from spring 2023 were clean white crystals; later batches 2024 changed the source/synthesis route changing the distribution of stereoisomers resulting in an off-white clumpy texture and drastically reduced potency"
+      "Notes": [
+        "{sub 'methylphenidate' 'methylphenidate'}'s big brother",
+        "very similar pharmacological effects longer duration, higher potency more recreational",
+        "batches from spring 2023 were clean white crystals",
+        "later batches 2024 changed the source/synthesis route changing the distribution of stereoisomers resulting in an off-white clumpy texture and drastically reduced potency"
+      ]
     },
     {
       "Name": "Cocaine",
@@ -574,7 +579,11 @@
       "Salts": [
         "freebase"
       ],
-      "Notes": "very clean experience; one of the best functional stimulants I've encountered; mostly dopaminergic"
+      "Notes": [
+        "very clean experience",
+        "one of the best functional stimulants I've encountered",
+        "mostly dopaminergic"
+      ]
     },
     {
       "Name": "Diphenhydramine",
@@ -582,8 +591,7 @@
         {
           "Name": "Oral"
         }
-      ],
-      "Notes": ""
+      ]
     },
     {
       "Name": "Dimenhydrinate",
@@ -591,8 +599,7 @@
         {
           "Name": "Oral"
         }
-      ],
-      "Notes": ""
+      ]
     },
     {
       "Name": "Zolpidem",
@@ -603,8 +610,7 @@
       ],
       "Salts": [
         "tartrate"
-      ],
-      "Notes": ""
+      ]
     },
     {
       "Name": "Zopiclone",
@@ -613,8 +619,7 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [],
-      "Notes": ""
+      "Salts": []
     },
     {
       "Name": "Pagoclone",
@@ -623,8 +628,7 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [],
-      "Notes": ""
+      "Salts": []
     },
     {
       "Name": "Fenadiazole",
@@ -656,7 +660,7 @@
         "{xeff 'anxiety suppression'}",
         "in high doses {sev 'strong'} {xeff 'sedation'}"
       ],
-      "Notes": "identical effects but shorter onset than {sub '1,4-Butanediol' '1,4-butanediol'}, "
+      "Notes": "identical effects but shorter onset than {sub '1,4-Butanediol' '1,4-butanediol'}"
     },
     {
       "Name": "γ-Butyrolactone",
@@ -713,7 +717,12 @@
         }
       ],
       "Salts": [],
-      "Notes": "sedation; slight {xeff 'cognitive euphoria' 'euphoria'}; {xeff 'anxiety suppresion' 'anxiety suppression'}; pairs excellently with a {sub '6-(2-Aminopropyl)benzofuran' '6-APB'} comedown; great variability in effects noted by friends; some responded with really minor doses; some not at all"
+      "Effects": [
+        "{xeff 'sedation'}",
+        "{sev 'light'} {xeff 'cognitive euphoria'}",
+        "{xeff 'anxiety suppression'}"
+      ],
+      "Notes": "pairs excellently with a {sub '6-(2-Aminopropyl)benzofuran' '6-APB'} comedown; great variability in effects noted by friends; some responded with really minor doses; some not at all"
     },
     {
       "Name": "Pregabalin",
@@ -1161,7 +1170,11 @@
           "Name": "Oral"
         }
       ],
-      "Notes": "via magic mushrooms and magic truffels; slightly more calm headspace than {sub 'lysergic acid diethylamide' 'LSD'} and its analogues; brighter visuals which have a more futuristic feel to them like {sub '2,5-dimethoxy-4-bromophenethylamine' '2C-B'}; less agitation than {sub 'lysergic acid diethylamide' 'LSD'}; heightened {xeff 'anxiety' 'anxiety'}"
+      "Effects": [
+        "heightened {xeff 'anxiety'}",
+        "less {xeff 'irritability'} than {sub 'lysergic acid diethylamide' 'LSD'}"
+      ],
+      "Notes": "via magic mushrooms and magic truffels; slightly more calm headspace than {sub 'lysergic acid diethylamide' 'LSD'} and its analogues; brighter visuals which have a more futuristic feel to them like {sub '2,5-dimethoxy-4-bromophenethylamine' '2C-B'}"
     },
     {
       "Name": "Lysergic acid diethylamide",
