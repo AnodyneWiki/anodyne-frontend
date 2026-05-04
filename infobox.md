@@ -55,7 +55,7 @@
         </td></tr>{{end}}{{end}}
     </table>
     {{end}}<table>{{/*
-*/}}        <tr><td class=InfoboxData colspan="2">Molecular structure via <a href=https://github.com/coderobe/molpic>molpic</a> based on <a href=https://cdk.github.io>CDK</a></td></tr>
+*/}}        <tr><td class=InfoboxData colspan="2">Molecular structure via <a href=https://github.com/AnodyneWiki/anodyne-molpic>molpic</a> based on <a href=https://cdk.github.io>CDK</a></td></tr>
     </table>
     <table>
         {{if eq $v.Conformer "none" | not}}<tr><th class="InfoboxLabel InfoboxTitle" colspan="2">{{template "whint" (dict "hint" $v.Hint "user" "Rotamer")}}<div style='float:right'>{{template "exnd" $v.Collapse}}</div></th></tr>
