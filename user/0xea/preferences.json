@@ -2,13 +2,11 @@
   "Title": "0xea",
   "Name": [
     "Xea",
-    "Christie",
-    "Xander"
+    "Christie"
   ],
-  "About": "{p}Hyia~!,{Ep}{p}I am the main developer behind AnodyneWiki.{Ep}{p}I have a morbid fascination with {roa 'intravenous'} substance-use and will mainline any compound I can get my hands on.{Ep}{p}I spend a year moderating PsychonautWiki before my contributions got anonymized (merged into User:Blackhole; for {a 'assets/end_pw.png' 'calling out'} the abusive and inproper conduct coming from several moderators and the admin).{Ep}{p}Feel free to chat me up! <3{Ep}",
+  "About": "{p}Hyia~!,{Ep}{p}I am the main developer behind AnodyneWiki.{Ep}{p}I have a morbid fascination with {roa 'intravenous'} substance-use and will mainline any compound I can get my hands on.{Ep}{p}I spend a year moderating PsychonautWiki before my contributions got anonymized for {a 'assets/end_pw.png' 'calling out'} the abusive and inproper conduct coming from several moderators and the admin).{Ep}{p}Feel free to chat me up! <3{Ep}",
   "Birth": "2005-02",
-  "Location": "Berlin, Germany",
-  "Nationality": "German",
+  "Location": "Germany",
   "Weight": [ "2026: 74kg" ],
   "Links": [
     {
@@ -58,6 +56,7 @@
     "Attributes": [
       "{wkp 'autism spectrum disorder' 'autism'} (diagnosed)",
       "{wkp 'transgender'} (male to female; injecting {sub 'estradiol'} esters weekly)",
+      "on and off internal dialog",
       "frequent {wkp 'intrusive thought' 'intrusive thoughts'} (taunting, sexual, anxiety, self-disgust, self-harm, suicidal)",
       "prior phases of intense fear of {wkp 'abandonment (emotional)' 'abandonment'} (mitigated via long-term {class 'stimulant'} and {class 'opioid'} use)",
       "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'})",
@@ -281,7 +280,7 @@
         },
         {
           "Name": "Sublingual",
-          "Dosage": "0.15-0.96mg",
+          "Dosage": "0.15-1.2mg",
           "Onset": "30-90 minutes",
           "Comeup": "30-60 minutes",
           "Duration": "8-10 hours"
@@ -295,6 +294,7 @@
       "Sources": [ "25C-NBOMe: DNM Germany" ],
       "Effects": [
         "{xeff 'internal hallucination'}",
+        "{xeff 'geometry'}",
         "{xeff 'colour-enhancement' 'color enhancement'}",
         "{xeff 'visual acuity enhancement'}",
         "{xeff 'double vision'}",
@@ -306,7 +306,8 @@
         "{xeff 'analysis suppression'}",
         "{sev 'moderate'} {xeff 'thought loops'}",
         "{sev 'strong'} {xeff 'focus suppression'}",
-        "{sev 'strong'} {xeff 'thought disorganization'} (especially at the tail end)"
+        "{sev 'strong'} {xeff 'thought disorganization'} (especially at the tail end)",
+        "increased abstraction"
       ],
       "Adverse": [
         "{xeff 'delirium'}",
@@ -343,11 +344,15 @@
         "{xeff 'increased music appreciation'}",
         "{xeff 'teeth grinding'}",
         "{xeff 'vasoconstriction'}",
+        "{xeff 'dry mouth'}"
+      ],
+      "Adverse": [
+        "{xeff 'thought disorganization'} (at tail end)",
         "{xeff 'physical fatigue'}",
-        "{xeff 'thought disorganization'}"
+        "{xeff 'delusion'} ({sub 'methamphetamine'}sk)"
       ],
       "Notes": [
-        "peaceful experience",
+        "0.75mg \"peaceful experience\"",
         "\"dear god!, such sights! serotonin receptors huh?~\""
       ]
     },
@@ -479,7 +484,9 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "10-50mg"
+          "Dosage": "10-50mg",
+          "Onset": "~35 minutes",
+          "Duration": "~6-8 hours"
         },
         {
           "Name": "Insufflated",
@@ -523,13 +530,14 @@
       ],
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
-        "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
+        "without tolerance short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
         "{sev 'intense'} {xeff 'focus enhancement'}",
         "{sev 'strong'} {xeff 'wakefulness'} (up to 6+ days)",
         "{sev 'strong'} {xeff 'motivation enhancement'}",
         "{sev 'strong'} {xeff 'stamina enhancement'}",
         "{sev 'strong'} {xeff 'dry mouth'}",
-        "{xeff 'appetite suppression'} and thirst suppression",
+        "{xeff 'appetite suppression'} (often resulting in malnutrition long-term)",
+        "thirst suppression",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{xeff 'increased libido'}",
         "without tolerance {sev 'strong'} {xeff 'depression reduction'}",
@@ -539,6 +547,7 @@
         "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
         "{xeff 'headache'}",
         "{xeff 'psychosis'}",
+        "{xeff 'shadow people'} (friendly shadow person doing code-review)",
         "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)",
         "{xeff 'autonomous entity'} (hallucination of a man sitting in a chair next to me taunting me; pieces of dust manifesting as hallucinations of spider like creatures)",
         "lights shine through my courtains",
@@ -546,6 +555,13 @@
         "{xeff 'auditory hallucination'} (phantom music playing as if I were wearing headphones)",
         "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me)",
         "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
+      ],
+      "After": [
+        "{xeff 'wakefulness'} (for another 24 hours)",
+        "{xeff 'feelings of impending doom'} (for 1-5 days)",
+        "{xeff 'panic attack'} (for 1-5 days)",
+        "{xeff 'depression'}",
+        "{xeff 'motivation suppression'} (for 1-2 weeks)"
       ]
     },
     {
@@ -612,6 +628,7 @@
         "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
         "{xeff 'headache'}",
         "{xeff 'psychosis'}",
+        "{xeff 'shadow people'}",
         "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)",
         "{xeff 'autonomous entity'} (hallucination of a man sitting in a chair next to me taunting me; pieces of dust manifesting as hallucinations of spider like creatures)",
         "lights shine through my courtains",
@@ -619,6 +636,12 @@
         "{xeff 'auditory hallucination'} (phantom music playing as if I were wearing headphones)",
         "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me)",
         "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
+      ],
+      "After": [
+        "{xeff 'feelings of impending doom'} (for 1-5 days)",
+        "{xeff 'panic attack'} (for 1-5 days)",
+        "{xeff 'depression'}",
+        "{xeff 'motivation suppression'} (for 1-2 weeks)"
       ]
     },
     {
@@ -715,17 +738,18 @@
         "hydrochloride"
       ],
       "Effects": [
-        "{sev 'intense'} {xeff 'empathy affection and sociability enhancement'}"
+        "{sev 'intense'} {xeff 'empathy affection and sociability enhancement'}",
+        "allowes me to reprocess past events without fear or dread",
+        "makes people cuddly"
       ],
       "Adverse": [
-        "{xeff 'suicidal ideation'} (\"I just want to fucking die!\")",
-        "{xeff 'serotonin syndrome'}",
-        "{wkp 'clonus'}",
-        "{xeff 'increased bodily temperature'}",
-        "{xeff 'irritability'}"
+        "intravenously +165mg {xeff 'suicidal ideation'} (\"I just want to fucking die!\")",
+        "intravenously +165mg {xeff 'serotonin syndrome'}",
+        "intravenously +165mg {wkp 'clonus'}",
+        "intravenously +165mg {xeff 'increased bodily temperature'}",
+        "intravenously +165mg {xeff 'irritability'}"
       ],
       "Notes": [
-        "allowed me to reprocess some traumatic events"
       ]
     },
     {
@@ -1071,7 +1095,7 @@
         "{xeff 'psychosis'}",
         "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)"
       ],
-      "Notes": "quite tweaky; IV'ing it *feels* like being *trampeled* on the *floor* by your {sub 'dopamine'}"
+      "Notes": "quite tweaky; IV'ing it feels like being trampeled on the floor by your {sub 'dopamine'}"
     },
     {
       "Name": "N-Ethyl-nor-heptedrone",
@@ -1349,9 +1373,10 @@
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{sev 'moderate'} {xeff 'depression reduction'}",
         "{xeff 'auditory-distortion' 'auditory alteration'} or {xeff 'auditory-suppression' 'suppression'}",
-        "when vaporized {sev 'strong'} {xeff 'mouth numbing'}"
+        "when vaporized {sev 'strong'} {xeff 'mouth numbing'}",
+        "intravenously occasionally {xeff 'physical euphoria'} (comfortable full body feeling)"
       ],
-      "Notes": "occasional comfortable full body feeling; vaporized {sev 'strong'} fishy smell and numbness inside mouth"
+      "Notes": "vaporized fishy smell"
     },
     {
       "Name": "Butylscopolamine",
@@ -1416,8 +1441,10 @@
           "Dosage": "500mg"
         }
       ],
+      "Effects": [
+        "mild adrenergic activity"
+      ],
       "Notes": [
-        "mild adrenergic activity",
         "corrosive in veins"
       ]
     },
@@ -1596,7 +1623,8 @@
       ],
       "Salts": [],
       "Effects": [
-        "{xeff 'empathy-affection-and-sociability-enhancement' 'enhanced communication'}"
+        "{xeff 'empathy-affection-and-sociability-enhancement' 'enhanced communication'}",
+        "increased abstraction"
       ],
       "Notes": "made me more concious of how dissociation influences my perception of reality; broke communication down to a fluid simplified interface; vulnerable animalistic perception of organic living beings; enabled understanding repressed part of myself"
     },
@@ -1613,7 +1641,7 @@
       ],
       "Salts": [],
       "Effects": [
-        "{xeff 'empathy affection and sociability enhancement' 'enhanced communication'}",
+        "{xeff 'empathy affection and sociability enhancement'}",
         "{xeff 'novelty enhancement'}",
         "{xeff 'thought connectivity'}",
         "{sev 'light'} {xeff 'wakefulness'}",
@@ -1932,8 +1960,7 @@
       ],
       "Indication": [
         "{xeff 'anxiety'}",
-        "{xeff 'panic attack'}",
-        "acute distress"
+        "{xeff 'panic attack'}"
       ],
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
@@ -1955,8 +1982,7 @@
       ],
       "Indication": [
         "{xeff 'anxiety'}",
-        "{xeff 'panic attack'}",
-        "acute distress"
+        "{xeff 'panic attack'}"
       ],
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
@@ -1996,8 +2022,7 @@
       "Salts": [],
       "Indication": [
         "{xeff 'anxiety'}",
-        "{xeff 'panic attack'}",
-        "acute distress"
+        "{xeff 'panic attack'}"
       ],
       "Effects": [
         "{sev 'strong'} {xeff 'anxiety suppression'}",
@@ -2783,8 +2808,8 @@
       ],
       "Salts": [],
       "Indication": [
-        "{xeff 'anxiety'}, {xeff 'panick attack'}",
-        "{wkp 'acute stress reaction' 'acute distress'}"
+        "{xeff 'anxiety'}",
+        "{xeff 'panick attack'}"
       ],
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}"
@@ -2839,19 +2864,6 @@
       ]
     },
     {
-      "Name": "Phenol",
-      "Routes": [
-        {
-          "Name": "Oral"
-        },
-        {
-          "Name": "Dermal"
-        }
-      ],
-      "Salts": [],
-      "Notes": "accidental exposure through contamination; spill on hand causing blistering; suicide preparation"
-    },
-    {
       "Name": "Acetone",
       "Routes": [
         {
@@ -2871,7 +2883,7 @@
         "{xeff 'nausea'}",
         "{xeff 'headache'}"
       ],
-      "Notes": "accidental exposure through fumes and residual contamination; potencial nerve damage in my left foot"
+      "Notes": "accidental exposure through fumes and residual contamination"
     },
     {
       "Name": "Isopropanol",
