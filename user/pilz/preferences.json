@@ -863,6 +863,22 @@
                 "Consumed as SchlafTabs-ratiopharm",
                 "stronger sleep aid than {sub 'Meltonin'}, might be useful when {sub 'Melatonin'} is insufficient"
             ]
+        },
+        {
+            "Name": "Spironolactone",
+            "Indication": "Male to female {wkp 'Transsexual'}",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "100mg"
+                }
+            ],
+            "Effects": [
+            ],
+            "Notes": [
+                "Might be useful as an {wkp 'Antiandrogen'}"
+            ]
         }
+
     ]
 }
