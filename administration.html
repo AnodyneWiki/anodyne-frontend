@@ -3,8 +3,8 @@
 
 {{if .OriginalReq.URL.Path}}
 	{{$name := last ( splitList "/" .OriginalReq.URL.Path)}}
-	{{$md := printf "/administration/%s.md" $name}}
-	{{$varsFilePath := printf "/administration/%s.json" $name}}
+	{{$md := lower $name | printf "/administration/%s.md"}}
+	{{$varsFilePath := lower $name | printf "/administration/%s.json"}}
 	{{if not (fileExists $varsFilePath)}}{{httpError 404}}{{end}}
 	{{$varsFile := include $varsFilePath}}
 	{{$vars := fromJson $varsFile}}

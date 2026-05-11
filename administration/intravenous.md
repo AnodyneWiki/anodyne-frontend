@@ -34,7 +34,7 @@
 **We do not take any responsibility for any medical complications or loss of life sustained by replication of this procedure.**
 
 
-Supplies:
+*Supplies*:
 * Syringe
     * 1ml insulin syringe
     * 1ml / 2.5ml / 5ml luer-lock syringe
@@ -58,7 +58,7 @@ The instructions below are optimized for the following factors:
     * Adaptable to other enclosed mixing containers by not requiring the wheel filter to be able to fit into it
     * Adaptable to crushed tablets by reducing the amount of initial pulp which otherwise would clog up the wheel filter
 
-Instructions:
+*Instructions*:
 1. (Recommended - Optimally inbetween shoots) Wash your injection site and hands with soap and sterilize with a alcohol wipe to minimize risk of infection.
 2. Weigh the desired dose on a centrifuge tube's cap.
 3. Withdraw your desired volume of saline from a vial.
@@ -76,10 +76,10 @@ Instructions:
     * (Incase you **suddenly experience a sharp burning sensation**) Immediately pull out; You likely hit a nerve; If possible seek immediate medical attention; Give the site a break and monitor potencially sustained loss of feeling.
 10. Lightly pull back on your plunger to register, while carefully stabilizing the syringe inplace.<div><img style="float: inline-end; border: 1px solid white;" src=/assets/register.gif alt="Blood plume from successful venipuncture" width="300" height="200"></div>
     * (In case blood doesn't shoot into the syringe or in only in a slow laboured manner) Pull out the needle and try again (optimally at another site)
-11. Apply light pressure to your plunger till your solution has been full injected.
+11. Apply light pressure to your plunger till your solution has been fully injected.
 12. Slowly pull the needle back out of your vein at roughly the same angle that you inserted it.
 13. Apply light pressure to the injection site with a piece of cellulose to soak up the expelled blood and aid in quickly stopping bleeding.
-    * (Optional - helps reduce chance of overshooting due to compulsive use) Write down the time and dosage and plan ahead for when your redose will be with a timer.
+    * (Optional - helps reduce chance of overshooting due to compulsive use) <a href=/logger>Write down</a> the time and dosage and plan ahead for when your redose will be with a timer.
 
 Frequent users may internalize their preferred procedure which can lead them to dangerously deviate out of urgency and desperation by:
 - Dosing
@@ -102,5 +102,4 @@ Frequent users may internalize their preferred procedure which can lead them to 
 - {{template "wkp" "Drug injection"}}
 - [External: Getting Off: The Basics of Safer Injection](https://harmreduction.org/issues/safer-drug-use/injection-safety-manual/safer-injection-basics/)
 - [Youtube: Street heroin: Optimal preparation and injection](https://www.youtube.com/watch?v=gc-2A4F0kBk)
-- [Anodyne](/)
 - [Diacetylmorphine](/substance/diacetylmorphine)
