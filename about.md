@@ -5,6 +5,12 @@
 {{/*<h1 id=TitleMain>{{$v.Title}}</h1>*/}}
 
 <div style="margin-left: 10px; padding-left: 10px; border-left: 1px solid var(--border-color-base); max-width: 50%; float:right">
+<h3>Composite</h3>
+        <ul style="margin-left: 1.4em;">
+            <div class=collapser>
+                <li><a href='/index/composite'>Composite Index:</a></li>
+            </div>
+        </ul>
 <h3>Substances</h3>
         <ul style="margin-left: 1.4em;">
             <div class=collapser>
@@ -22,25 +28,35 @@
 
 {{/* template "imgbox" (dict "src" "/assets/funsies.png" "padding" "0px" "background" "black" "width" "200px") */}}
 
-A meta-wiki for chemicals affecting biological life-forms, their use, administration, effects and interactions.
+Meta-Wiki for chemicals affecting biological life-forms, their administration, effects and interactions.
 
-Its a meta-wiki because of its primary functions as an aggregator for a wide array of sources while only allowing user-contributions through the concept of user-pages.
+This project primarily functions as an aggregator for a wide array of sources only allowing user-contributions through the concept of <a href=/index/user>userpages</a>.
 
 This tool is actively being developed. Join our [discord](https://discord.gg/DKfYmNrz6Z) community to follow development updates, learn how you can contribute and banter.
 
 If you enjoy this project and have the means, consider <a href='/donate'>donating</a> to keep us afloat.
 
-<span style="color: red">Under no circumstance should information we provide be used as sole reference for recreational substance-use.</span>
+<div style="max-width: 60%; border: 1px solid #a2a9b1; background-color: var(--background-color-disabled); font-weight: 500;">
+<div style="margin: 5px;">
+Under no circumstance should information we provide be used as sole reference for recreational substance-use or substitute for medical advice.
+
+We do not take any responsibility for medical complications or loss of life sustained doing so.
+
+Several of our collaborators have tragically passed away.
+</div>
+</div>
 
 <div class=collapser>
 <h3>Core Ideas{{template "pexnd" $v.Collapse}}</h3>
     <div class=collapserContent>
 <ul>
 <li>Consistant templated content structure</li>
-<li>Automated content-generation through scrapping a wide array of sources</li>
-<li><a class=logo href=https://github.com/AnodyneWiki/anodyne-molpic>Canonicalized molecular structure generator</a></li>
+<li>Automated data-aggregation through scrapping a wide array of sources</li>
+<li>Consistant verbose naming scheme</li>
+<li>Proper handling of stereoisomers</li>
+<li><a class=logo href=https://github.com/AnodyneWiki/anodyne-molpic>Canonicalized custom molecular structure generator</a></li>
 <li>Individualized compound characterizations via <a href=/index/user>userpages</a></li>
-<li>Predicted subjective-effects and interactions</li>
+<li>Subjective-effects and interactions</li>
 <li><a class=logo href=https://github.com/AnodyneWiki>Free and open-source software</a></li>
         </ul>
     </div>
@@ -49,6 +65,7 @@ If you enjoy this project and have the means, consider <a href='/donate'>donatin
 <h3>Links{{template "pexnd" $v.Collapse}}</h3>
 <div class=collapserContent>
 <ul>
+<li><a href='/logger'>Logging Software</a></li>
 <li><a href='/random/substance'>Random substance</a></li>
 <li><a href='/api'>API</a></li>
 <li><a href='/legal'>Legal</a></li>
@@ -68,7 +85,7 @@ If you enjoy this project and have the means, consider <a href='/donate'>donatin
             <li><a href=/user/magnus>magnus</a> †</li>
             <li><a href=/user/pilz>pilz</a></li>
             <li><a href=/user/emily>emily</a></li>
-            <li><a href=/user/bonzi>bonzi</a></li>
+            <li><a href=/user/bonzi>bonzi</a> (developer)</li>
             <li><a href=/user/x86pup>x86pup</a></li>
             <li><a href=/user/alina>alina</a></li>
             <li>(your page could be here)</li>
@@ -80,10 +97,19 @@ If you enjoy this project and have the means, consider <a href='/donate'>donatin
 <h3>Effects{{template "pexnd" $v.Collapse}}</h3>
     <div class=collapserContent>
 <ul>
-<li><a href=https://anodyne.wiki/effect/psychosis>Psychosis</a></li>
-{{/*<li><a href=https://anodyne.wiki/effect/stimfapping>Stimfapping (satire)</a></li>*/}}
+<li><a href=https://anodyne.wiki/effect/psychosis>psychosis</a></li>
+{{/*<li><a href=https://anodyne.wiki/effect/stimfapping>stimfapping (satire)</a></li>*/}}
 <li><a class=logo href=https://www.effectindex.com/>Subjective Effect Index</a></li>
         </ul>
+    </div>
+</div>
+<div class=collapser>
+<h3>Classes{{template "pexnd" $v.Collapse}}</h3>
+    <div class=collapserContent>
+<ul>
+{{range $subst := sortAlpha (listFiles "class")}}
+<li><a href='https://anodyne.wiki/class/{{(trimSuffix ".json" $subst | replace "_" " " | lower)}}'>{{(trimSuffix ".json" $subst | replace "_" " ")}}s</a></li>{{end}}
+</ul>
     </div>
 </div>
 <h3>Misc</h3>
@@ -92,7 +118,7 @@ If you enjoy this project and have the means, consider <a href='/donate'>donatin
                 <li><a href=/index/administration>Route of Administration Index:</a><span class=collapse-button>&nbsp;{{template "exnd" $v.Collapse}}</span></li>
                 <ul>
                     <div class=collapserContent>
-                        <li><a href=/administration/intravenous>Intravenous</a></li>
+                        <li><a href=/administration/intravenous>intravenous</a></li>
                     </div>
                 </ul>
             </div>

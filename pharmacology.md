@@ -16,7 +16,7 @@
 <h2>Pharmacology</h2>
 
 {{$ratc := get $v "ATC Code" -}}
-{{with $atc := kindIs "string" $ratc | ternary (list $ratc "") $ratc -}}
+{{with $atc := kindIs "string" $ratc | ternary (list $ratc) $ratc -}}
 <h3>{{template "user" "{wkp 'Anatomical Therapeutic Chemical Classification System' 'ATC Classification'}"}}</h3>
 {{$l := ""}}{{$lclass := list -}}
 {{range $code := $atc -}}
@@ -65,18 +65,18 @@ In the <a class=logo href={{trunc 1 $pre | upper | printf "https://en.wikipedia.
 {{$off := 0}}{{range $active := $v.Actives}}{{$apiPath := printf "/api/substance/%s" (replace "_" "%20" (lower $active))}}{{$apiFile := httpInclude $apiPath}}{{$aars := fromJson $apiFile}}<div id="annotation_300x220" style="position:absolute; left:{{add 300 $off}}px; top:20px; line-height:110%;">
 <img width=150 src='/structure/{{replace " " "_" (lower $active)}}.svg'><br><span style="text-align: center;"><a href='/substance/{{replace " " "_" (lower $active)}}'>{{$active}}</a></span>
 </div>{{$off = add 200 $off}}{{end}}
-<div id="annotation_220x242" style="position:absolute; left:220px; top:42px; font-size:12px; font-size:12; line-height:14px;"><span style="background-color:transparent; color:inherit;"><a href="https://anodyne.wiki/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a></span><br><div class="arrow"></div><br><span style="background-color:transparent; color:inherit;"><a href="https://anodyne.wiki/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a></span></div>
+<div id="annotation_220x242" style="position:absolute; left:220px; top:42px; font-size:12px; font-size:12; line-height:14px;"><span style="background-color:transparent; color:inherit;">{{/*<a href="https://anodyne.wiki/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a>*/}}</span><br><div class="arrow"></div><br><span style="background-color:transparent; color:inherit;">{{/*<a href="https://anodyne.wiki/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a>*/}}</span></div>
 <div id="annotation_480x330" style="position:absolute; left:480px; top:130px; font-size:12px; font-size:12; line-height:14px;"></div></div>
 </div>
 </div>
-<div class="thumbcaption" style="color: var(--color-base);background-color: var(--background-color-interactive); clear:left">At normal urine pH, about <span class="nowrap">30–40%</span> of amphetamine is excreted unchanged and roughly 50% is excreted as the inactive metabolites (bottom row).<sup id="cite_ref-FDA_Pharmacokinetics_3-17" class="reference"><a href="#cite_note-FDA_Pharmacokinetics-3"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> The remaining <span class="nowrap">10–20%</span> is excreted as the active metabolites.<sup id="cite_ref-FDA_Pharmacokinetics_3-18" class="reference"></div>
+{{/*<div class="thumbcaption" style="color: var(--color-base);background-color: var(--background-color-interactive); clear:left">At normal urine pH, about <span class="nowrap">30–40%</span> of amphetamine is excreted unchanged and roughly 50% is excreted as the inactive metabolites (bottom row).<sup id="cite_ref-FDA_Pharmacokinetics_3-17" class="reference"><a href="#cite_note-FDA_Pharmacokinetics-3"><span class="cite-bracket">[</span>2<span class="cite-bracket">]</span></a></sup> The remaining <span class="nowrap">10–20%</span> is excreted as the active metabolites.<sup id="cite_ref-FDA_Pharmacokinetics_3-18" class="reference"></div>*/}}
 </div>
 </td></tr></table>
 {{end}}
 
 {{if $inters}}
 <div class=collapser><h3>Interactions<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;" class="collapse-button">&nbsp;{{template "exnd" .collapse}}</span></h3>
-<div class=collapserContent><table>{{range $int := $inters}}<tr style="line-height: 1.2;"><th>{{$int.Target}}</th><td>{{range $i, $act:= $int.Actions}}<span style='{{if eq $act "inhibition"}}border-bottom: 1px solid red;{{else if eq $act "induction"}}border-bottom: 1px solid blue;{{end}}'>{{.}}</span>{{if eq (add1 $i) (len $int.Actions) | not}} / {{end}}{{end}}</td></tr>{{end}}
+<div class=collapserContent><table>{{range $int := $inters}}<tr style="line-height: 1.2;"><th><a class=logo href='https://en.wikipedia.org/wiki/{{$int.Target}}'>{{$int.Target}}</a></th><td>{{range $i, $act:= $int.Actions}}<span style='{{if eq $act "inhibition"}}border-bottom: 1px solid red;{{else if eq $act "induction"}}border-bottom: 1px solid blue;{{end}}'>{{.}}</span>{{if eq (add1 $i) (len $int.Actions) | not}} / {{end}}{{end}}</td></tr>{{end}}
 </table></div></div>
 {{end}}
 {{end}}{{end}}

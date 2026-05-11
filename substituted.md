@@ -3,7 +3,7 @@
 
 # {{with $ivars.Position}}{{.}}-{{end}}Substituted {{$ivars.Name}}s{{with $ivars.Abr}} ({{.}}){{end}}
 
-<strong>{{with $ivars.Position}}{{.}}-{{end}}Substituted {{$ivars.Name}}s</strong> are a class of compounds derived of the {{$ivars.Name}} base structure.
+<strong>{{with $ivars.Position}}{{.}}-{{end}}Substituted {{$ivars.Name}}s</strong> are a class of compounds derived from the {{$ivars.Name}} base structure.
 
 ## List of {{with $ivars.Position}}{{.}}-{{end}}substituted {{$ivars.Name}}s
 
@@ -30,9 +30,12 @@
 {{end}}
 </table>
 
+{{if any $ivars.Parent $ivars.Parents -}}
 ## See also
 {{with $ivars.Parent}}- {{template "sl" .}}{{end}}
-- [Anodyne](/)
+{{with $ivars.Parents}}{{range .}}
+- {{template "sl" .}}{{end}}{{end}}
+{{- end}}
 
 {{with $ivars.Wikipedia}}## External links
 - <a class=logo href='https://en.wikipedia.org/wiki/{{.}}'>{{with $ivars.Position}}{{.}}-{{end}}Substituted {{$ivars.Name}}s (Wikipedia)</a>

@@ -3,9 +3,7 @@
 
 A play on PsychonautWiki's collection of vauge inpersonal quotes such as "be the change you wish to see in the world." or "the problem is not to find the answer, it's to face the answer.".
 
-Instead featuring a curated set of:
-- Anything curious / funny found while researching drugs
-- Notable experiences that stod-out out
+Instead featuring a curated set of anything curious, meaningful or funny we found while researching drugs.
 
 {{- $quotes := (include "quotes.json" | splitFrontMatter).Meta }}
 {{$quotei := randInt 0 (len $quotes.strings)}}

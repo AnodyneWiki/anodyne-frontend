@@ -1,10 +1,15 @@
-{{define "also" -}}
-    {{- $vars := .}}
+{{define "also"}}{{$vars := . -}}
+{{if any $vars.Classes $vars.ChemicalClasses -}}
 <div class=collapser><h2>See also<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.2 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" $vars.Collapse}}</span></h2>
-<div class=collapserContent>{{if $vars.DrugClasses}}<ul>{{range $class := $vars.DrugClasses}}<li><a href=/class/{{replace "'" "%27" (replace " " "_" (lower $class))}}>{{title $class}}</a></li>
-{{end}}{{end}}{{if $vars.ChemicalClasses}}{{if .IsClass}}{{range $class := (without $vars.ChemicalClasses (first $vars.ChemicalClasses))}}<li>[{{title $class}}](/substance/{{replace "'" "%27" (replace " " "_" (lower $class))}})</li>
-</ul>{{end}}{{else}}{{range $class := .ChemicalClasses}}{{if fileExists (printf "substance/%s/vars.json" (replace "'" "%27" (replace " " "_" (lower $class))))}}* [{{title $class}}](/substance/{{replace "'" "%27" (replace " " "_" (lower $class))}})
-{{end}}{{end}}{{end}}{{range $cc := $vars.ChemicalClasses}}<li>{{template "sl" (lower $cc)}}</li>{{end}}{{end}}</ul></div></div>{{end}}
+<div class=collapserContent>
+<ul>
+{{- if $vars.Classes}}{{range $class := $vars.Classes}}<li><a href=/class/{{replace "'" "%27" (replace " " "_" (lower $class))}}>{{title $class}}</a></li>
+{{end}}{{end -}}
+{{if $vars.ChemicalClasses}}{{range $cc := $vars.ChemicalClasses}}<li>{{template "sl" (lower $cc)}}</li>
+{{- end}}{{end}}
+</ul></div></div>
+{{- end}}
+{{- end}}
 
 {{define "refs"}}
     {{- $vars := .}}

@@ -38,7 +38,7 @@ Psychosis can arise naturally due to a range of conditions such as {{template "w
 
 **Stimulant psychosis** also known as **Stimulant-induced psychosis** is a form of psychosis associated with an increase of {{template "lsu" "dopamine"}} signaling as a result of {{template "lc" "stimulant"}}-use, typically following excessive use over the span of several days.
 
-Commonly implicated substances typically stem from the {{template "lsb" (dict "alias" "substituted amphetamine" "src" "amphetamine")}} class(notably including {{template "lsb" (dict "alias" "cathinones" "src" "cathinone")}} and {{template "lsb" (dict "alias" "pyrrolidinophenones" "src" "pyrrolidinophenonese")}}), with examples including {{template "lsu" "methamphetamine"}}, {{template "lsu" "cocaine"}}, {{template "lsu" (dict "alias" "α-PVP" "src" "α-pyrrolidinopentiophenone")}}, {{template "lsu" (dict "alias" "MDPV" "src" "3,4-Methylenedioxy-α-pyrrolidinopentiophenone")}} or {{template "lsu" (dict "alias" "NEP" "src" "n-ethyl-nor-pentedrone")}}.
+Commonly implicated substances typically stem from the {{template "lsb" (dict "alias" "substituted amphetamine" "src" "amphetamine")}} class(notably including {{template "lsb" (dict "alias" "cathinones" "src" "cathinone")}} and {{template "lsb" (dict "alias" "pyrrolidinophenones" "src" "pyrrolidinophenonese")}}), with examples including {{template "lsu" "methamphetamine"}}, {{template "lsu" "cocaine"}}, {{template "lsu" (dict "alias" "α-PVP" "src" "α-pyrrolidinopentiophenone")}}, {{template "lsu" "MDPV"}} or {{template "lsu" (dict "alias" "NEP" "src" "n-ethyl-nor-pentedrone")}}.
 
 {{/*<div style="width: 100%; height: 0px; overflow: hidden;"></div>
 {{template "imgbox" (dict "src" "/structure/caffeine.svg" "desc" "{sub 'Caffeine'}")}}*/}}
@@ -79,6 +79,4 @@ In case of stimulant-psychosis or in case of acute agitation careful use of {{te
 
 ## External links
 * {{template "wkp" (dict "src" "psychosis" "alias" "Psychosis (Wikipedia)")}}
-* {{template "wkp" (dict "src" "persecutory delusion" "alias" "Persecutory delusion (Wikipedia)")}}
-* {{template "wkp" (dict "src" "ideas and delusions of reference" "alias" "Ideas and delusions of reference (Wikipedia)")}}
 * {{template "xeff" (dict "src" "psychosis" "alias" "Psychosis (Effect Index)")}}
