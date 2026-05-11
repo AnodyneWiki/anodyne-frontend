@@ -311,5 +311,36 @@
       "Abr": "DOF",
       "MW": "213.25 g/mol"
     }
-  ]
+  ],
+  "Subjective Effects": {
+    "Physical Effects": [
+      "Increased libido",
+      "Stamina enhancement",
+      "Stimulation",
+      "Appetite suppression",
+      "Dehydration",
+      "Dry mouth",
+      "Restless legs",
+      "Shakiness",
+      "Teeth grinding",
+      "Abnormal heartbeat",
+      "Increased blood pressure",
+      "Increased heart rate",
+      "Vasoconstriction"
+    ],
+    "Cognitive Effects": [
+      "Analysis enhancement",
+      "Ego inflation",
+      "Focus enhancement",
+      "Increased music appreciation",
+      "Motivation enhancement",
+      "Thought acceleration",
+      "Wakefulness",
+      "Disinhibition",
+      "Suggestibility suppression",
+      "Cognitive euphoria",
+      "Compulsive redosing",
+      "Mania"
+    ]
+  }
 }

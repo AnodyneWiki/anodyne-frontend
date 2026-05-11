@@ -131,5 +131,44 @@
       "Abr": "",
       "MW": "263.37 g/mol"
     }
-  ]
+  ],
+  "Subjective Effects": {
+    "Visual Effects": [
+      "Visual acuity suppression"
+    ],
+    "Cognitive Effects": [
+      "Analysis enhancement",
+      "Emotion intensification",
+      "Creativity enhancement",
+      "Dream potentiation",
+      "Empathy, affection, and sociability enhancement",
+      "Immersion enhancement",
+      "Increased music appreciation",
+      "Increased sense of humor",
+      "Novelty enhancement",
+      "Personal meaning enhancement",
+      "Thought disorganization",
+      "Personal bias suppression",
+      "Addiction suppression",
+      "Introspection"
+    ],
+    "Physical Effects": [
+      "Bodily control enhancement",
+      "Appetite suppression",
+      "Decreased libido",
+      "Sedation",
+      "Excessive yawning",
+      "Pupil dilation",
+      "Pain relief",
+      "Watery eyes",
+      "Dehydration",
+      "Dizziness",
+      "Dry mouth"
+    ],
+    "Auditory Effects": [
+      "Auditory distortion",
+      "Auditory enhancement",
+      "Auditory hallucination"
+    ]
+  }
 }

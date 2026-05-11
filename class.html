@@ -1,3 +1,4 @@
 {{import "article.html"}}
-{{$ivars := splitList "/" .OriginalReq.URL.Path | last | replace " " "_" | printf "/class/%s.json" | include | fromJson}}
-{{template "article" (dict "Title" (title $ivars.Name) "Markdown" "class.md" "Vars" $ivars)}}
+{{$v := splitList "/" .OriginalReq.URL.Path | last | replace " " "_" | printf "/class/%s.json" | include | fromJson}}
+{{$_ := set $v "Type" "class" -}}
+{{template "article" (dict "Title" (title $v.Name) "Markdown" "class.md" "Vars" $v)}}

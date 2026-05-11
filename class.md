@@ -1,13 +1,20 @@
-{{$ivars := index .Args 0}}
+{{$v := index .Args 0}}
+{{import "util.html"}}
+{{import "effects.md"}}
 
-# {{camelcase $ivars.Name}}s
+# {{camelcase $v.Name}}s
 
-<strong>{{title $ivars.Name}}s</strong> are a class of psychoactive compounds.
+<strong>{{title $v.Name}}s</strong> are a class of psychoactive compounds.
 
-## List of {{$ivars.Name}}s
+{{if get $v "Subjective Effects" -}}
+<h2>Subjective effects</h2>
+{{template "subjective" $v -}}
+{{- end}}
+
+<h2>List of {{$v.Name}}s</h2>
 
 {{$subs := list}}
-{{range $sub := $ivars.Entries}} {{$subs = append $subs $sub.Title}} {{end}}
+{{range $sub := $v.Entries}} {{$subs = append $subs $sub.Title}} {{end}}
 {{$subs = sortAlpha $subs}}
 {{range $sub := $subs}}* [{{$sub}}](/substance/{{replace " " "_" (lower $sub)}})
 {{end}}
