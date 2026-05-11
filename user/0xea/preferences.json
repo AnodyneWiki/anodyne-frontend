@@ -4,7 +4,7 @@
     "Xea",
     "Christie"
   ],
-  "About": "{p}Hyia~!,{Ep}{p}I am the main developer behind AnodyneWiki.{Ep}{p}I have a morbid fascination with {roa 'intravenous'} substance-use and will mainline any compound I can get my hands on.{Ep}{p}I spend a year moderating PsychonautWiki before my contributions got anonymized for {a 'assets/end_pw.png' 'calling out'} the abusive and inproper conduct coming from several moderators and the admin).{Ep}{p}Feel free to chat me up! <3{Ep}",
+  "About": "{p}Hyia~!,{Ep}{p}I am the creator of AnodyneWiki.{Ep}{p}I spend a year moderating PsychonautWiki before my contributions got anonymized for {a 'assets/end_pw.png' 'calling out'} the abusive and inproper conduct coming from several moderators and the admin.{Ep}{p}Feel free to chat me up! <3{Ep}",
   "Birth": "2005-02",
   "Location": "Germany",
   "Weight": [ "2026: 74kg" ],
@@ -20,10 +20,6 @@
     {
       "Name": "Github",
       "Url": "https://github.com/Im-0xea"
-    },
-    {
-      "Name": "Reddit",
-      "Url": "https://www.reddit.com/user/im_0xea"
     },
     {
       "Name": "Wikipedia",
@@ -56,13 +52,7 @@
     "Attributes": [
       "{wkp 'autism spectrum disorder' 'autism'} (diagnosed)",
       "{wkp 'transgender'} (male to female; injecting {sub 'estradiol'} esters weekly)",
-      "on and off internal dialog",
-      "frequent {wkp 'intrusive thought' 'intrusive thoughts'} (taunting, sexual, anxiety, self-disgust, self-harm, suicidal)",
-      "prior phases of intense fear of {wkp 'abandonment (emotional)' 'abandonment'} (mitigated via long-term {class 'stimulant'} and {class 'opioid'} use)",
-      "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'})",
-      "{roa 'intravenous' 'Intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; periods of {xeff 'wakefulness'} up to 6+ days; longest peroid of abstinence 60 days)",
-      "{wkp 'self-destructive behaviour'} (self-punshing, head-banging, cutting, injecting, overdose) and reaccuring {xeff 'suicidal ideation'} (since ~2018)",
-      "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
+      "{roa 'intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; periods of {xeff 'wakefulness'} up to 6+ days; abstinent 74 days)"
     ]
   },
   "RoutesOfAdministration": [
@@ -316,8 +306,7 @@
       "Notes": [
         "vaporized by soaking 2.4mg of blotters in 10ml 3/1 PG/VG (experience underwhelming requiring subligual dose to push me over the edge)",
         "\"this is a weirdly psychotic experience and I absoluely love it X333\"",
-        "\"I vividly recall accidentally drawing a spider and preceding to get horrified of it \"",
-        "\"if god is real than god is this\""
+        "\"I vividly recall accidentally drawing a spider and preceding to get horrified of it \""
       ]
     },
     {
@@ -329,7 +318,8 @@
         {
           "Name": "Sublingual",
           "Dosage": "0.75-1.125mg",
-          "Onset": "2 hours",
+          "Onset": "30 - 120 minutes",
+          "Comeup": "10-30 minutes",
           "Duration": "8 hours"
         }
       ],
@@ -531,7 +521,7 @@
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
         "without tolerance short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
-        "{sev 'intense'} {xeff 'focus enhancement'}",
+        "{sev 'intense'} {xeff 'focus enhancement'} (often resulting in a state of day long hyper-focus which may or may not be counter-productive)",
         "{sev 'strong'} {xeff 'wakefulness'} (up to 6+ days)",
         "{sev 'strong'} {xeff 'motivation enhancement'}",
         "{sev 'strong'} {xeff 'stamina enhancement'}",
@@ -554,7 +544,7 @@
         "rain coming from the sealing",
         "{xeff 'auditory hallucination'} (phantom music playing as if I were wearing headphones)",
         "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me)",
-        "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
+        "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'})"
       ],
       "After": [
         "{xeff 'wakefulness'} (for another 24 hours)",
@@ -613,7 +603,7 @@
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
         "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
-        "{sev 'intense'} {xeff 'focus enhancement'}",
+        "{sev 'intense'} {xeff 'focus enhancement'} (often resulting in a state of day long hyper-focus which may or may not be counter-productive)",
         "{sev 'strong'} {xeff 'wakefulness'} (up to 6+ days)",
         "{sev 'strong'} {xeff 'motivation enhancement'}",
         "{sev 'strong'} {xeff 'stamina enhancement'}",
@@ -635,7 +625,7 @@
         "rain coming from the sealing",
         "{xeff 'auditory hallucination'} (phantom music playing as if I were wearing headphones)",
         "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me)",
-        "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotards syndrome'})"
+        "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'})"
       ],
       "After": [
         "{xeff 'feelings of impending doom'} (for 1-5 days)",
@@ -863,6 +853,10 @@
       "Salts": [
         "hydrochloride"
       ],
+      "Sources": [
+        "3-MMC: Drug taxi",
+        "3-MMC: DNM Germany"
+      ],
       "Effects": [
         "short-acting {sev 'strong'} {xeff 'cognitive euphoria'}",
         "{sev 'intense'} {wkp 'addiction'} (made me feel as if this feeling would be the purpose of the rest of my life; +60g consumed; emptied out savings)",
@@ -967,6 +961,10 @@
       ],
       "Salts": [
         "hydrochloride"
+      ],
+      "Sources": [
+        "Mephedrone: DNM Germany",
+        "4-MMC: Drug taxi"
       ],
       "Effects": [
         "short-acting {sev 'strong'} {xeff 'cognitive euphoria'}",
@@ -1164,7 +1162,7 @@
       "Routes": [
         {
           "Name": "Intravenous",
-          "Dosage": "5-20mg",
+          "Dosage": "5-60mg",
           "Onset": "10 seconds",
           "Duration": "3-4 hours"
         },
@@ -1246,6 +1244,7 @@
         "{sev 'light'} {xeff 'empathy affection and sociability enhancement'}"
       ],
       "Adverse": [
+        "{sev 'strong'} {xeff 'anxiety'}",
         "{sev 'intense'} {xeff 'thought loops'}",
         "{xeff 'psychosis'}",
         "{xeff 'delusion'} ({wkp 'thought broadcasting'})"
@@ -1413,7 +1412,12 @@
           "Dosage": "105-440mg"
         }
       ],
-      "Salts": [],
+      "Indication": [
+        "{xeff 'motivation suppression'} after stimulant discontinuation or during heavy stimulant use"
+      ],
+      "Sources": [
+        "L-Dopa+ 105mg ZEINpharma"
+      ],
       "Effects": [
         "locomotor-activity increase",
         "{xeff 'depression reduction'}"
@@ -1587,11 +1591,12 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [],
+      "Indication": [
+        "{xeff 'depression'} after {sub '3,4-methylenedioxymethamphetamine' 'MDMA'} discontinuation"
+      ],
       "Effects": [
         "subjective improvement in wellbeing after {sub '3,4-methylenedioxymethampheamine' 'MDMA'} use"
-      ],
-      "Notes": ""
+      ]
     },
     {
       "Name": "Sumatriptan",
@@ -2088,7 +2093,7 @@
         "{xeff 'sedation'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{xeff 'disinhibition'}",
-        "{xeff 'thought deceleration'}",
+        "{sev 'light'} {xeff 'analysis suppression'}",
         "{xeff 'perception of bodily heaviness'}",
         "{xeff 'pain relief'}",
         "{sev 'moderate'} {xeff 'thought deceleration'}",
@@ -2113,7 +2118,7 @@
       "Notes": [
         "generally has a negative impact on productivity and long-term wellbeing but can be helpful in change of perspective and acute coping",
         "quite plesant to foil when freebased with ammonia",
-        "intravenous injection of unsanitary and overacidified solution repeatedly lead to the development of soars all around my body(unrelated to venipuncture)",
+        "intravenous injection of unsanitary solution repeatedly lead to the development of soars all around my body(unrelated to venipuncture)",
         "intravenously sharper rush than {sub 'diacetylmorphine'}"
       ]
     },
@@ -2164,7 +2169,7 @@
         "{sev 'strong'} {xeff 'anxiety suppression'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{xeff 'disinhibition'}",
-        "{xeff 'thought deceleration'}",
+        "{sev 'moderate'} {xeff 'thought deceleration'}",
         "{xeff 'perception of bodily heaviness'}",
         "{xeff 'pain relief'}",
         "helps deal with siginificant emotional pain",
@@ -2210,7 +2215,7 @@
         "{sev 'strong'} {xeff 'anxiety suppression'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{xeff 'disinhibition'}",
-        "{xeff 'thought deceleration'}",
+        "{sev 'light'} {xeff 'analysis suppression'}",
         "{xeff 'perception of bodily heaviness'}",
         "{xeff 'pain relief'}",
         "helps deal with siginificant emotional pain",
@@ -2263,7 +2268,10 @@
         "{sev 'light'} {xeff 'nausea suppression'}",
         "ineffective in treating {xeff 'panic-attack' 'acute panic'}"
       ],
-      "Notes": "strongly delayed onset; uncertain effects on {sub 'histamine' 'histamine'}"
+      "Notes": [
+        "strongly delayed onset",
+        "uncertain effects on {sub 'histamine' 'histamine'}"
+      ]
     },
     {
       "Name": "Mirtazapine",
@@ -2275,17 +2283,21 @@
       "Salts": [
         "hemihydrate"
       ],
+      "Sources": [
+        "Mirta TAD 15mg: Mirtazapine Hemihydrate"
+      ],
       "Effects": [
         "{xeff 'sedation'} (to the point of inducing sleep; passed out on workplace-toilet for ~1 hour)",
         "{xeff 'dream potentiation'}",
         "{xeff 'lucid dreaming'}",
-        "{sev 'light'} {xeff 'dry mouth'}"
+        "{sev 'light'} {xeff 'dry mouth'}",
+        "creates unique bodily feeling(singular accurance)",
+        "seams to suppress allergy"
       ],
       "Indication": [
         "depression",
         "insomnia"
-      ],
-      "Notes": "creates unique bodily feeling; seams to suppress {sub 'histamine'} effects"
+      ]
     },
     {
       "Name": "Quetiapine",
@@ -2354,8 +2366,11 @@
         }
       ],
       "Salts": [
-        "freebase",
         "benzoate"
+      ],
+      "Indication": [
+        "{xeff 'anxiety'}",
+        "stimulant withdrawal"
       ],
       "Effects": [
         "{sev 'light'} {xeff 'stimulation'}",
@@ -2387,7 +2402,9 @@
           "Dosage": "10-15mg"
         }
       ],
-      "Salts": [],
+      "Indication": [
+        "{wkp 'hair loss'}"
+      ],
       "Effects": [
         "significantly reduced hairloss combined with {sub 'dutasteride'}",
         "{sev 'intense'} {xeff 'vasodilation'}"
@@ -2533,6 +2550,9 @@
           "Name": "Oral",
           "Dosage": "25mg"
         }
+      ],
+      "Indication": [
+        "{xeff 'depression'} after {sub '3,4-methylenedioxymethamphetamine' 'MDMA'} discontinuation"
       ],
       "Salts": [
         "Hydrochloride"
@@ -3002,7 +3022,7 @@
         "flickering vision"
       ],
       "Adverse": [
-        "{xeff 'headache'}"
+        "{xeff 'headache'} (~5-8 hours)"
       ],
       "Notes": ""
     },
@@ -3034,7 +3054,9 @@
       ],
       "Salts": [],
       "Indication": "closing cuts",
-      "Notes": "suboptimal for closing cuts; quite brittle"
+      "Notes": [
+        "suboptimal for closing cuts (quite brittle)"
+      ]
     },
     {
       "Name": "Lactose",
@@ -3224,9 +3246,7 @@
         "{xeff 'language suppression'} (hinders sincerity)",
         "{xeff 'time dilation'}",
         "{xeff 'drifting?s=morphing' 'morphing'}",
-        "visual flickering zooming in and out"
-      ],
-      "Notes": [
+        "visual flickering zooming in and out",
         "acute visual alteration upon intravenous injection of cannabinoid extract"
       ]
     },
