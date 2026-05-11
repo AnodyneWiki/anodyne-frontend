@@ -1,0 +1,21 @@
+{
+  "Name": "2-benzylpiperazine",
+  "Entries": [
+    {
+      "Title": "2-Benzylpiperazine",
+      "Abr": [
+        "2-BZP"
+      ],
+      "MW": "176.26 g/mol"
+    }
+  ],
+  "Parents": [
+    "amphetamine",
+    "piperazine"
+  ],
+  "Analogues": [
+    "2-benzylpiperidine",
+    "3-benzylmorpholine",
+    "2-benzylpyrrolidine"
+  ]
+}

@@ -1,0 +1,40 @@
+{
+  "Name": "1-aminoindane",
+  "Entries": [
+    {
+      "Title": "1-Aminoindane",
+      "Abr": [
+        "1-AI"
+      ],
+      "MW": "133.19 g/mol"
+    },
+    {
+      "Title": "Rasagiline",
+      "Abr": null,
+      "MW": "171.24 g/mol"
+    },
+    {
+      "Title": "Indatraline",
+      "Abr": [
+        "Lu 19-005"
+      ],
+      "MW": "292.2 g/mol"
+    },
+    {
+      "Title": "N-Methylindatraline",
+      "Abr": null,
+      "MW": "306.2 g/mol"
+    },
+    {
+      "Title": "Ladostigil",
+      "Abr": [
+        "TV-3326"
+      ],
+      "MW": "272.34 g/mol"
+    }
+  ],
+  "Parents": [
+    "benzylamine",
+    "phenylpropylamine"
+  ]
+}

@@ -157,6 +157,9 @@
   "Analogues": [
     "piperidinophenone"
   ],
-  "Parent": "cathinone",
+  "Parents": [
+    "cathinone",
+    "pyrrolidine"
+  ],
   "Wikipedia": "Pyrrolidinophenone"
 }

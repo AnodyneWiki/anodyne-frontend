@@ -85,6 +85,18 @@
         "U-47931E"
       ],
       "MW": "325.24 g/mol"
+    },
+    {
+      "Title": "Tametraline",
+      "Abr": [
+        "CP-24,441"
+      ],
+      "MW": "237.34 g/mol"
+    },
+    {
+      "Title": "Dasotraline",
+      "Abr": null,
+      "MW": "292.2 g/mol"
     }
   ],
   "First": {
@@ -97,6 +109,7 @@
     "α-alkylbenzylamine",
     "arylcyclohexylamine",
     "benzamide",
-    "benzylpiperazine"
+    "1-benzylpiperazine",
+    "1-aminoindane"
   ]
 }

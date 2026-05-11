@@ -1,0 +1,26 @@
+{
+  "Name": "3-benzylmorpholine",
+  "Entries": [
+    {
+      "Title": "3-Benzylmorpholine",
+      "Abr": [
+        "3-BZMo"
+      ],
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "3-Benzhydrylmorpholine",
+      "Abr": null,
+      "MW": "253.34 g/mol"
+    }
+  ],
+  "Parents": [
+    "morpholine",
+    "amphetamine"
+  ],
+  "Analogues": [
+    "2-benzylpiperidine",
+    "2-benzylpiperazine",
+    "2-benzylpyrrolidine"
+  ]
+}

@@ -1,16 +1,18 @@
 {
   "Name": "phenidate",
-  "First": {
-    "Title": "Methylphenidate",
-    "Abr": [
-      "MPH"
-    ],
-    "MW": "233.31 g/mol"
-  },
   "Entries": [
     {
+      "Title": "Methylphenidate",
+      "Abr": [
+        "MPH"
+      ],
+      "MW": "233.31 g/mol"
+    },
+    {
       "Title": "4-Fluoroethylphenidate",
-      "Abr": "4-FEPH",
+      "Abr": [
+        "4-FEPH"
+      ],
       "MW": "265.32 g/mol"
     },
     {
@@ -48,23 +50,17 @@
     },
     {
       "Title": "Methylnaphthidate",
-      "Abr": "HDMP-28",
+      "Abr": [
+        "HDMP-28"
+      ],
       "MW": "283.4 g/mol"
     },
     {
       "Title": "Propylphenidate",
-      "Abr": "PPH",
+      "Abr": [
+        "PPH"
+      ],
       "MW": "261.36 g/mol"
-    },
-    {
-      "Title": "Triprolidine",
-      "Abr": "",
-      "MW": "278.4 g/mol"
-    },
-    {
-      "Title": "Desoxypipradrol",
-      "Abr": "2-DPMP",
-      "MW": "251.4 g/mol"
     },
     {
       "Title": "3,4-Dichloromethylphenidate",
@@ -74,10 +70,55 @@
       "MW": "302.2 g/mol"
     },
     {
-      "Title": "Pipradrol",
-      "Abr": "",
-      "MW": "267.4 g/mol"
+      "Title": "Ritalinic acid",
+      "Abr": null,
+      "MW": "219.28 g/mol"
+    },
+    {
+      "Title": "Serdexmethylphenidate",
+      "Abr": [
+        "SDX"
+      ],
+      "MW": "499.5 g/mol"
+    },
+    {
+      "Title": "N-Benzylmethylphenidate",
+      "Abr": [
+        "NBMPH"
+      ],
+      "MW": "323.4 g/mol"
+    },
+    {
+      "Title": "Dexmethylphenidate",
+      "Abr": [
+        "d-MPH"
+      ],
+      "MW": "233.31 g/mol"
+    },
+    {
+      "Title": "3-Bromomethylphenidate",
+      "Abr": [
+        "3-Br-MPH"
+      ],
+      "MW": "312.20 g/mol"
+    },
+    {
+      "Title": "3-Chloromethylphenidate",
+      "Abr": [
+        "3-Cl-MPH"
+      ],
+      "MW": "267.75 g/mol"
+    },
+    {
+      "Title": "3-Methylmethylphenidate",
+      "Abr": [
+        "3-Me-MPH"
+      ],
+      "MW": "247.33 g/mol"
     }
   ],
-  "Parent": "amphetamine"
+  "Parents": [
+    "2-benzylpiperidine"
+  ],
+  "Wikipedia": "List_of_methylphenidate_analogues"
 }

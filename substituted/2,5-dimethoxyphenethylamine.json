@@ -39,7 +39,9 @@
     },
     {
       "Title": "2,5-Dimethoxy-4-iodophenethylamine",
-      "Abr": "2C-I",
+      "Abr": [
+        "2C-I"
+      ],
       "MW": "307.13 g/mol"
     },
     {

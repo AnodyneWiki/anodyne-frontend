@@ -1,0 +1,81 @@
+{
+  "Name": "2-benzylpiperidine",
+  "Entries": [
+    {
+      "Title": "2-Benzylpiperidine",
+      "Abr": [
+        "2-BZPD"
+      ],
+      "MW": "175.27 g/mol"
+    },
+    {
+      "Title": "Pipradrol",
+      "Abr": null,
+      "MW": "267.4 g/mol"
+    },
+    {
+      "Title": "Desoxypipradrol",
+      "Abr": [
+        "2-DPMP"
+      ],
+      "MW": "251.4 g/mol"
+    },
+    {
+      "Title": "Phacetoperane",
+      "Abr": null,
+      "MW": "233.31 g/mol"
+    },
+    {
+      "Title": "Rimiterol",
+      "Abr": null,
+      "MW": "223.27 g/mol"
+    },
+    {
+      "Title": "α-Acetyl-2-benzylpiperidine",
+      "Abr": null,
+      "MW": "217.31 g/mol"
+    },
+    {
+      "Title": "α-Isopropyl-2-benzylpiperidine",
+      "Abr": null,
+      "MW": "265.82 g/mol"
+    },
+    {
+      "Title": "2-Benzhydryl-1-methyl-piperidin-3-ol",
+      "Abr": null,
+      "MW": "281.4 g/mol"
+    },
+    {
+      "Title": "Difemetorex",
+      "Abr": null,
+      "MW": "295.4 g/mol"
+    },
+    {
+      "Title": "AL-1095",
+      "Abr": [
+        "AL-1095"
+      ],
+      "MW": "327.8 g/mol"
+    },
+    {
+      "Title": "2-Benzoylpiperidine",
+      "Abr": [
+        "2-BZOPD"
+      ],
+      "MW": "189.25 g/mol"
+    }
+  ],
+  "Children": [
+    "phenidate"
+  ],
+  "Parents": [
+    "piperidine",
+    "amphetamine"
+  ],
+  "Analogues": [
+    "3-benzylmorpholine",
+    "2-benzylpyrrolidine",
+    "2-benzylpiperazine"
+  ],
+  "Wikipedia": "List of methylphenidate analogues"
+}

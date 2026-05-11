@@ -1,0 +1,77 @@
+{
+  "Name": "arylcyclohexylpyrrolidine",
+  "Entries": [
+    {
+      "Title": "Rolicyclidine",
+      "Abr": [
+        "PCPy"
+      ],
+      "MW": "229.36 g/mol"
+    },
+    {
+      "Title": "Tolicyclidine",
+      "Abr": [
+        "3-Me-PCPy"
+      ],
+      "MW": "243.4 g/mol"
+    },
+    {
+      "Title": "3-Fluororolicyclidine",
+      "Abr": [
+        "3-F-PCPy"
+      ],
+      "MW": "247.35 g/mol"
+    },
+    {
+      "Title": "4-Fluororolicyclidine",
+      "Abr": [
+        "4-F-PCPy"
+      ],
+      "MW": "247.35 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxyrolicyclidine",
+      "Abr": [
+        "MDPCPy"
+      ],
+      "MW": "273.37 g/mol"
+    },
+    {
+      "Title": "3-Chloro-4-fluororolicyclidine",
+      "Abr": [
+        "3-Cl-4-F-PCPy"
+      ],
+      "MW": "281.79 g/mol"
+    },
+    {
+      "Title": "4-Methoxyrolicyclidine",
+      "Abr": [
+        "4-MeO-PCPy"
+      ],
+      "MW": "259.4 g/mol"
+    },
+    {
+      "Title": "3,3-Dimethylrolicyclidine",
+      "Abr": [
+        "3,3-DMe-PCPy"
+      ],
+      "MW": "257.4 g/mol"
+    },
+    {
+      "Title": "3-Methoxyrolicyclidine",
+      "Abr": [
+        "3-MeO-PCPy"
+      ],
+      "MW": "259.4 g/mol"
+    }
+  ],
+  "Parents": [
+    "arylcyclohexylamine",
+    "pyrrolidine"
+  ],
+  "Analogues": [
+    "arylcyclohexylpiperidine",
+    "arylcyclohexylmorpholine"
+  ],
+  "Wikipedia": "Arylcyclohexylamine"
+}

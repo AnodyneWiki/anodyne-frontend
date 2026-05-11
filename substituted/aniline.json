@@ -77,6 +77,18 @@
       "Title": "Trimipramine",
       "Abr": null,
       "MW": "294.4 g/mol"
+    },
+    {
+      "Title": "Memantine",
+      "Abr": null,
+      "MW": "179.30 g/mol"
+    },
+    {
+      "Title": "Penitrem A",
+      "Abr": [
+        "Tremortin"
+      ],
+      "MW": "634.2 g/mol"
     }
   ],
   "Parent": "arylalkylamine",

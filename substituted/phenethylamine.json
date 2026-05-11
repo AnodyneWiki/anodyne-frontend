@@ -173,13 +173,33 @@
       "Title": "Fentanyl",
       "Abr": null,
       "MW": "336.5 g/mol"
+    },
+    {
+      "Title": "Setiptiline",
+      "Abr": null,
+      "MW": "261.4 g/mol"
+    },
+    {
+      "Title": "Moxaverine",
+      "Abr": null,
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "1-Aminomethyl-5-methoxyindane",
+      "Abr": null,
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Triprolidine",
+      "Abr": null,
+      "MW": "278.4 g/mol"
     }
   ],
   "Parent": "arylalkylamine",
   "Children": [
     "amphetamine",
     "aminorex",
-    "methylenedioxyphenethylamine",
+    "3,4-methylenedioxyphenethylamine",
     "2,5-dimethoxyphenethylamine",
     "3,5-dimethoxyphenethylamine",
     "n-benzylphenethylamine",

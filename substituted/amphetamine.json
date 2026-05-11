@@ -20,7 +20,9 @@
     },
     {
       "Title": "3,4-Methylenedioxyamphetamine",
-      "Abr": "MDA",
+      "Abr": [
+        "MDA"
+      ],
       "MW": "179.22 g/mol"
     },
     {
@@ -165,11 +167,6 @@
       "MW": "263.32 g/mol"
     },
     {
-      "Title": "Tranylcypromine",
-      "Abr": [],
-      "MW": "133.19 g/mol"
-    },
-    {
       "Title": "Morforex",
       "Abr": "",
       "MW": "248.36 g/mol"
@@ -186,7 +183,9 @@
     },
     {
       "Title": "3-Hydroxyamphetamine",
-      "Abr": "",
+      "Abr": [
+        "3-HA"
+      ],
       "MW": "151.21 g/mol"
     },
     {
@@ -333,12 +332,16 @@
     },
     {
       "Title": "Ortetamine",
-      "Abr": "2-MA",
+      "Abr": [
+        "2-MA"
+      ],
       "MW": "149.23 g/mol"
     },
     {
       "Title": "3-Methylamphetamine",
-      "Abr": "3-MA",
+      "Abr": [
+        "3-MA"
+      ],
       "MW": "149.23 g/mol"
     },
     {
@@ -550,7 +553,9 @@
     },
     {
       "Title": "N-(Tert-butylformate)-3,4-methylenedioxymethamphetamine",
-      "Abr": "N-t-Boc-MDMA",
+      "Abr": [
+        "N-t-Boc-MDMA"
+      ],
       "MW": "293.36 g/mol"
     },
     {
@@ -698,11 +703,6 @@
       "MW": "167.22 g/mol"
     },
     {
-      "Title": "3',4'-Ethylene-α-pyrrolidinopentiophenone",
-      "Abr": [],
-      "MW": "257.37 g/mol"
-    },
-    {
       "Title": "N-desmethyllysergic acid diethylamide",
       "Abr": [
         "Nor-LSD",
@@ -746,17 +746,30 @@
       "Title": "Dextroamphetamine",
       "Abr": null,
       "MW": "135.21 g/mol"
+    },
+    {
+      "Title": "Gepefrine",
+      "Abr": null,
+      "MW": "151.21 g/mol"
+    },
+    {
+      "Title": "Butyltolylquinuclidine",
+      "Abr": null,
+      "MW": "257.4 g/mol"
     }
   ],
   "Parent": "phenethylamine",
   "Children": [
     "cathinone",
-    "phenidate",
-    "aminoindane",
-    "diarylethylamine",
+    "2-aminoindane",
+    "1,2-diarylethylamine",
     "phenylmorpholine",
     "phenylcyclopropylamine",
-    "phentermine"
+    "phentermine",
+    "2-benzylpiperidine",
+    "2-benzylpiperazine",
+    "3-benzylmorpholine",
+    "2-benzylpyrrolidine"
   ],
   "First": {
     "Title": "Amphetamine",

@@ -66,7 +66,9 @@
     },
     {
       "Title": "Clephedrone",
-      "Abr": "4-CMC",
+      "Abr": [
+        "4-CMC"
+      ],
       "MW": "197.66 g/mol"
     },
     {
@@ -134,7 +136,7 @@
     },
     {
       "Title": "Methcathinone",
-      "Abr": "",
+      "Abr": null,
       "MW": "163.22 g/mol"
     },
     {
@@ -164,7 +166,9 @@
     },
     {
       "Title": "Orthophedrone",
-      "Abr": "2-MMC",
+      "Abr": [
+        "2-MMC"
+      ],
       "MW": "177.24 g/mol"
     },
     {
@@ -304,6 +308,39 @@
         "NBMC"
       ],
       "MW": "253.34 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidino-2-phenylacetophenone",
+      "Abr": [
+        "α-D2PV"
+      ],
+      "MW": "265.3 g/mol"
+    },
+    {
+      "Title": "Desylamine",
+      "Abr": null,
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "3-Methylcathinone",
+      "Abr": [
+        "3-MC"
+      ],
+      "MW": "163.22 g/mol"
+    },
+    {
+      "Title": "2-Methylcathinone",
+      "Abr": [
+        "2-MC"
+      ],
+      "MW": "163.22 g/mol"
+    },
+    {
+      "Title": "2-Benzoylpiperidine",
+      "Abr": [
+        "2-BZOPD"
+      ],
+      "MW": "189.25 g/mol"
     }
   ],
   "Parent": "amphetamine",

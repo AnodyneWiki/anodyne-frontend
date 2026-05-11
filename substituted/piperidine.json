@@ -35,6 +35,8 @@
     "morpholine"
   ],
   "Children": [
-    "piperidinophenone"
+    "piperidinophenone",
+    "arylcyclohexylpiperidine",
+    "2-benzylpiperidine"
   ]
 }

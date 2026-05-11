@@ -3,12 +3,12 @@
   "Entries": [
     {
       "Title": "Mephedrene",
-      "Abr": "",
+      "Abr": null,
       "MW": "169.29 g/mol"
     },
     {
       "Title": "Methiopropamine",
-      "Abr": "",
+      "Abr": null,
       "MW": "155.26 g/mol"
     },
     {
@@ -18,7 +18,7 @@
     },
     {
       "Title": "α-Pyrrolidinopentiothiophenone",
-      "Abr": "",
+      "Abr": null,
       "MW": "237.36 g/mol"
     },
     {
@@ -29,7 +29,7 @@
   ],
   "First": {
     "Title": "Thiopropamine",
-    "Abr": "",
+    "Abr": null,
     "MW": "141.24 g/mol"
   },
   "Parent": "arylalkylamine",

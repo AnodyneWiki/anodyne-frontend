@@ -1,0 +1,56 @@
+{
+  "Name": "arylcyclohexylpiperidine",
+  "Entries": [
+    {
+      "Title": "Phencyclidine",
+      "Abr": [
+        "PCP"
+      ],
+      "MW": "243.4 g/mol"
+    },
+    {
+      "Title": "3-Methoxyphencyclidine",
+      "Abr": [
+        "3-MeO-PCP"
+      ],
+      "MW": "273.4 g/mol"
+    },
+    {
+      "Title": "3-Chlorophencyclidine",
+      "Abr": [
+        "3-Cl-PCP"
+      ],
+      "MW": "277.8 g/mol"
+    },
+    {
+      "Title": "3-Hydroxyphencyclidine",
+      "Abr": [
+        "3-HO-PCP"
+      ],
+      "MW": "259.4 g/mol"
+    },
+    {
+      "Title": "3-Fluorophencyclidine",
+      "Abr": [
+        "3-F-PCP"
+      ],
+      "MW": "261.38 g/mol"
+    },
+    {
+      "Title": "3-Methylphencyclidine",
+      "Abr": [
+        "3-Me-PCP"
+      ],
+      "MW": "257.4 g/mol"
+    }
+  ],
+  "Parents": [
+    "arylcyclohexylamine",
+    "piperidine"
+  ],
+  "Analogues": [
+    "arylcyclohexylpyrrolidine",
+    "arylcyclohexylmorpholine"
+  ],
+  "Wikipedia": "Arylcyclohexylamine"
+}

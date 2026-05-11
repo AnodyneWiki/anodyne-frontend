@@ -33,5 +33,10 @@
     "piperazine",
     "tetrahydropyridine",
     "morpholine"
+  ],
+  "Children": [
+    "pyrrolidinophenone",
+    "arylcyclohexylpyrrolidine",
+    "2-benzylpyrrolidine"
   ]
 }

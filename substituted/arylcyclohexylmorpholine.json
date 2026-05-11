@@ -1,0 +1,28 @@
+{
+  "Name": "arylcyclohexylmorpholine",
+  "Entries": [
+    {
+      "Title": "Phenylcyclohexylmorpholine",
+      "Abr": [
+        "PCMo"
+      ],
+      "MW": "245.36 g/mol"
+    },
+    {
+      "Title": "3-Methoxyphenylcyclohexylmorpholine",
+      "Abr": [
+        "3-MeO-PCMo"
+      ],
+      "MW": "275.4 g/mol"
+    }
+  ],
+  "Parents": [
+    "arylcyclohexylamine",
+    "morpholine"
+  ],
+  "Analogues": [
+    "arylcyclohexylpyrrolidine",
+    "arylcyclohexylpiperidine"
+  ],
+  "Wikipedia": "Arylcyclohexylamine"
+}

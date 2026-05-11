@@ -1,0 +1,94 @@
+{
+  "Name": "1,2-diarylethylamine",
+  "Entries": [
+    {
+      "Title": "Ephenidine",
+      "Abr": null,
+      "MW": "225.33 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxymephenidine",
+      "Abr": [
+        "UWA-001"
+      ],
+      "MW": "255.31 g/mol"
+    },
+    {
+      "Title": "Desylamine",
+      "Abr": null,
+      "MW": "211.26 g/mol"
+    },
+    {
+      "Title": "Diphenidine",
+      "Abr": [
+        "DPD"
+      ],
+      "MW": "265.4 g/mol"
+    },
+    {
+      "Title": "Isopropylphenidine",
+      "Abr": [
+        "NPDPA"
+      ],
+      "MW": "239.35 g/mol"
+    },
+    {
+      "Title": "Lefetamine",
+      "Abr": null,
+      "MW": "225.33 g/mol"
+    },
+    {
+      "Title": "Methoxphenidine",
+      "Abr": [
+        "MXP"
+      ],
+      "MW": "295.4 g/mol"
+    },
+    {
+      "Title": "Propylphenidine",
+      "Abr": [
+        "N-Pr-α-Ph-PEA"
+      ],
+      "MW": "239.35 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidino-2-phenylacetophenone",
+      "Abr": [
+        "α-D2PV"
+      ],
+      "MW": "265.3 g/mol"
+    },
+    {
+      "Title": "Mephenidine",
+      "Abr": null,
+      "MW": "211.30 g/mol"
+    },
+    {
+      "Title": "Diphenpipenol",
+      "Abr": null,
+      "MW": "388.5 g/mol"
+    },
+    {
+      "Title": "1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine",
+      "Abr": [
+        "MT-45"
+      ],
+      "MW": "348.5 g/mol"
+    },
+    {
+      "Title": "Noscapine",
+      "MW": "413.4 g/mol",
+      "Abr": null
+    },
+    {
+      "Title": "Apomorphine",
+      "MW": "267.32 g/mol",
+      "Abr": null
+    }
+  ],
+  "First": {
+    "Title": "1,2-Diphenylethylamine",
+    "MW": "197.27 g/mol"
+  },
+  "Parent": "amphetamine"
+}

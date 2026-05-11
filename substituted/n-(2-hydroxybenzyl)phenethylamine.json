@@ -72,6 +72,20 @@
         "25T7-NBOH"
       ],
       "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NBOMe"
+      ],
+      "MW": "335.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NBOMe"
+      ],
+      "MW": "427.3 g/mol"
     }
   ],
   "Parent": "n-benzylphenethylamine",

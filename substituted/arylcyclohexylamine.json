@@ -9,40 +9,11 @@
       "MW": "221.27 g/mol"
     },
     {
-      "Title": "3-Chlorophencyclidine",
-      "Abr": "3-Cl-PCP",
-      "MW": "277.8 g/mol"
-    },
-    {
-      "Title": "3-Fluorophencyclidine",
-      "Abr": "3-F-PCP",
-      "MW": "261.38 g/mol"
-    },
-    {
-      "Title": "3-Hydroxyphencyclidine",
-      "Abr": "3-HO-PCP",
-      "MW": "259.4 g/mol"
-    },
-    {
       "Title": "3-Methoxyeticyclidine",
       "Abr": [
         "3-MeO-PCE"
       ],
       "MW": "233.35 g/mol"
-    },
-    {
-      "Title": "3-Methoxyphencyclidine",
-      "Abr": [
-        "3-MeO-PCP"
-      ],
-      "MW": "273.4 g/mol"
-    },
-    {
-      "Title": "3-Methylphencyclidine",
-      "Abr": [
-        "3-Me-PCP"
-      ],
-      "MW": "257.4 g/mol"
     },
     {
       "Title": "Arketamine",
@@ -109,27 +80,6 @@
       "MW": "247.33 g/mol"
     },
     {
-      "Title": "Phencyclidine",
-      "Abr": [
-        "PCP"
-      ],
-      "MW": "243.4 g/mol"
-    },
-    {
-      "Title": "Rolicyclidine",
-      "Abr": [
-        "PCPy"
-      ],
-      "MW": "229.36 g/mol"
-    },
-    {
-      "Title": "Tolicyclidine",
-      "Abr": [
-        "3-Me-PCPy"
-      ],
-      "MW": "243.4 g/mol"
-    },
-    {
       "Title": "Methoxisopropamine",
       "Abr": [
         "MXiPr"
@@ -177,70 +127,13 @@
         "2-Cl-2'-Oxo-PCE"
       ],
       "MW": "251.75 g/mol"
-    },
-    {
-      "Title": "3-Methoxyrolicyclidine",
-      "Abr": [
-        "3-MeO-PCPy"
-      ],
-      "MW": "259.4 g/mol"
-    },
-    {
-      "Title": "3-Fluororolicyclidine",
-      "Abr": [
-        "3-F-PCPy"
-      ],
-      "MW": "247.35 g/mol"
-    },
-    {
-      "Title": "4-Fluororolicyclidine",
-      "Abr": [
-        "4-F-PCPy"
-      ],
-      "MW": "247.35 g/mol"
-    },
-    {
-      "Title": "3,4-Methylenedioxyrolicyclidine",
-      "Abr": [
-        "MDPCPy"
-      ],
-      "MW": "273.37 g/mol"
-    },
-    {
-      "Title": "4-Methoxyrolicyclidine",
-      "Abr": [
-        "4-MeO-PCPy"
-      ],
-      "MW": "259.4 g/mol"
-    },
-    {
-      "Title": "3-Chloro-4-fluororolicyclidine",
-      "Abr": [
-        "3-Cl-4-F-PCPy"
-      ],
-      "MW": "281.79 g/mol"
-    },
-    {
-      "Title": "3,3-Dimethylrolicyclidine",
-      "Abr": [
-        "3,3-DMe-PCPy"
-      ],
-      "MW": "257.4 g/mol"
-    },
-    {
-      "Title": "Phenylcyclohexylmorpholine",
-      "Abr": [
-        "PCMo"
-      ],
-      "MW": "245.36 g/mol"
-    },
-    {
-      "Title": "3-Methoxyphenylcyclohexylmorpholine",
-      "Abr": [
-        "3-MeO-PCMo"
-      ],
-      "MW": "275.4 g/mol"
     }
   ],
-  "Parent": "benzylamine"
+  "Parent": "benzylamine",
+  "Children": [
+    "arylcyclohexylpiperidine",
+    "arylcyclohexylpyrrolidine",
+    "arylcyclohexylmorpholine"
+  ],
+  "Wikipedia": "Arylcyclohexylamine"
 }

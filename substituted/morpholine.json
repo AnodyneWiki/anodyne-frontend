@@ -8,7 +8,9 @@
     }
   ],
   "Children": [
-    "phenylmorpholine"
+    "phenylmorpholine",
+    "3-benzylmorpholine",
+    "arylcyclohexylmorpholine"
   ],
   "Analogues": [
     "pyrrolidine",

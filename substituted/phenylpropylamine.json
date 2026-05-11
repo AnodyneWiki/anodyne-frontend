@@ -8,7 +8,9 @@
     },
     {
       "Title": "3,4-Methylenedioxyphenylaminobutane",
-      "Abr": "Homo-MDA",
+      "Abr": [
+        "Homo-MDA"
+      ],
       "MW": "193.24 g/mol"
     },
     {
@@ -44,18 +46,6 @@
       "MW": "345.5 g/mol"
     },
     {
-      "Title": "Sumatriptan",
-      "Abr": [],
-      "MW": "295.40 g/mol"
-    },
-    {
-      "Title": "Methylethyltryptamine",
-      "Abr": [
-        "MET"
-      ],
-      "MW": "202.30 g/mol"
-    },
-    {
       "Title": "Tapentadol",
       "Abr": [],
       "MW": "221.34 g/mol"
@@ -80,6 +70,10 @@
     }
   ],
   "Parent": "arylalkylamine",
+  "Children": [
+    "1-aminoindane",
+    "tryptamine"
+  ],
   "First": {
     "Title": "Phenylpropylamine",
     "Abr": "",

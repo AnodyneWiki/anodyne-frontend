@@ -33,7 +33,10 @@
     },
     {
       "Title": "Dimethyltryptamine",
-      "Abr": "DMT",
+      "Abr": [
+        "DMT",
+        "N,N-DMT"
+      ],
       "MW": "188.27 g/mol"
     },
     {
@@ -73,7 +76,7 @@
     },
     {
       "Title": "Sumatriptan",
-      "Abr": [],
+      "Abr": null,
       "MW": "295.40 g/mol"
     },
     {
@@ -394,7 +397,9 @@
       "MW": "274.36 g/mol"
     }
   ],
-  "Parent": "arylalkylamine",
+  "Parents": [
+    "phenylpropylamine"
+  ],
   "Children": [
     "α-alkyltryptamine",
     "β-alkyltryptamine",
