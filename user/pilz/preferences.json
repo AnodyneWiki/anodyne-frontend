@@ -475,6 +475,10 @@
                 {
                     "Name": "oral",
                     "Dosage": "0.3-10mg"
+                },
+                {
+                    "Name": "sublingual",
+                    "dosage": "0.5-5mg"
                 }
             ],
             "Effects": [
@@ -851,6 +855,10 @@
                 {
                     "Name": "oral",
                     "Dosage": "25mg"
+                },
+                {
+                    "Name": "sublingual",
+                    "Dosage": "12.5mg"
                 }
             ],
             "Effects": [
@@ -878,7 +886,19 @@
             "Notes": [
                 "Might be useful as an {wkp 'Antiandrogen'}"
             ]
+        },
+        {
+            "Name": "Tryptophan",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "500mg"
+                }
+            ],
+            "Effects": [
+            ],
+            "Notes": [
+            ]
         }
-
     ]
 }
