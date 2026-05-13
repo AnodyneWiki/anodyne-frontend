@@ -664,7 +664,7 @@
         },
         {
             "Name": "Quetiapine",
-            "Indication": "{sev 'strong'} {wkp 'Insomnia'} or {xeff 'psychosis}, might also be useful against {xeff 'anxiety'}",
+            "Indication": "{sev 'strong'} {wkp 'Insomnia'} or {xeff 'psychosis'}, might also be useful against {xeff 'anxiety'}",
             "Routes": [
                 {
                     "Name": "oral",
