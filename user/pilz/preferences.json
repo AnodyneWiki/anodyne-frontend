@@ -190,7 +190,9 @@
                 "{xeff 'increased-heart-rate'}",
                 "{sev 'strong'} {xeff 'stamina-enhancement'}",
                 "{xeff 'time-distortion'}",
-                "{xeff 'increased-bodily-temperature'}"
+                "{xeff 'increased-bodily-temperature'}",
+                "{xeff 'dry-mouth'}",
+                "{xeff 'analysis-suppression'}"
             ],
             "Adverse": [
                 "{xeff 'memory-suppression'} (forgetting what you did on the day/not having detailed memories)",
@@ -205,11 +207,15 @@
         },
         {
             "Name": "Oxitriptan",
+            "Indication": "{xeff 'depression'} and {xeff 'anxiety'} after {sub 'Mephedrone'} consumption",
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "100.0mg"
+                    "Dosage": "100mg"
                 }
+            ],
+            "Notes":[
+                "Might improve wellbeing after  {sub 'Mephedrone'} consumption"
             ]
         },
         {
@@ -297,6 +303,9 @@
         },
         {
             "Name": "Bupropion",
+            "Salts":[
+                "hydrochloride"
+            ],
             "Indication": "{sub 'Nicotine'} addiction",
             "Routes": [
                 {
@@ -695,8 +704,18 @@
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "1000.0mg"
+                    "Dosage": "500-3000mg"
                 }
+            ],
+            "Effects":[
+                "{xeff 'stimulation'}"
+            ],
+            "Adverse": [
+                "{xeff 'paranoia'}",
+                "{xeff 'anxiety'}"
+            ],
+            "Notes":[
+                "Just drink coffee, its not worth it to binge it"
             ]
         },
         {
@@ -854,7 +873,7 @@
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "25mg"
+                    "Dosage": "12.5-25mg"
                 },
                 {
                     "Name": "sublingual",
@@ -894,10 +913,37 @@
                     "Name": "oral",
                     "Dosage": "500mg"
                 }
-            ],
-            "Effects": [
+            ]
+        },
+        {
+            "Name": "Dienogest",
+            "Indication": "Male to female {wkp 'Transsexual'}",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "2mg"
+                }
             ],
             "Notes": [
+                "Might be useful as an {wkp 'Antiandrogen'}"
+            ]
+        },
+        {
+            "Name": "5-Methoxy-2-aminoindane",
+            "Routes": [
+                {
+                    "name": "insufflated",
+                    "Dosage": "30mg"
+                }
+            ],
+            "Effects":[
+                "{sev 'light'} {xeff 'cognitive-euphoria'}",
+                "{xeff 'sedation'}",
+                "{sev 'light'} {xeff 'increased-libido'}",
+                "{sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}"
+            ],
+            "Notes":[
+                "Burns even more than {sub '2,5-Dimethoxy-4-bromophenethylamine'} when consumed via insufflated"
             ]
         }
     ]
