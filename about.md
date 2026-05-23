@@ -42,7 +42,7 @@ Under no circumstance should information we provide be used as sole reference fo
 
 We do not take any responsibility for medical complications or loss of life sustained doing so.
 
-Several of our collaborators have tragically passed away.
+2 of our collaborators have tragically passed away during the development of this project.
 </div>
 </div>
 
@@ -81,12 +81,13 @@ Several of our collaborators have tragically passed away.
     <li><a href='/index/user'>User Index:</a><span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" $v.Collapse}}</span></li>
     <ul style="margin-left: 1.0em;">
         <div class=collapserContent>
-            <li><a href=/user/0xea>0xea</a> (developer)</li>{{/* [sech1p](/user/sech1p)*/}}
+            <li><a href=/user/0xea>0xea</a> (developer; creator)</li>{{/* [sech1p](/user/sech1p)*/}}
             <li><a href=/user/magnus>magnus</a> †</li>
             <li><a href=/user/pilz>pilz</a></li>
             <li><a href=/user/emily>emily</a></li>
             <li><a href=/user/bonzi>bonzi</a> (developer)</li>
             <li><a href=/user/x86pup>x86pup</a></li>
+            <li><a href=/user/mere>mere</a></li>
             <li><a href=/user/alina>alina</a></li>
             <li>(your page could be here)</li>
         </div>

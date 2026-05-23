@@ -1,0 +1,153 @@
+{
+  "Title": "Mere",
+  "About": "{p}Proud owner of 7 Blahajer.  Bisexual cis male.{Ep}{p}Current interest in drugs are focussed around {class 'psychedelic' 'psychedelics'} and {class 'dissociative' 'dissociatives'}.{Ep}",
+  "Birth": "2002-01",
+  "Location": "Germany",
+  "Psyche": {
+    "Interests": [
+      "drugs",
+      "organic chemistry",
+      "pharmacology",
+      "{wkp 'psychopharmacology'}",
+      "psychology",
+      "art and design",
+      "mixology",
+      "pool-billiard",
+      "aircraft (mainly inter-war and WW2 period)"
+    ],
+    "Attributes": [
+      "past substance use disorder (mainly {class 'stimulant'} and {class 'dissociative'} use, self-diagnosed)",
+      "past social phobia (self-diagnosed, very rarely nowadays)",
+      "ADD (diagnosed)",
+      "generalized anxiety disorder (prediagnosed)",
+      "recurrent depressive disorder (prediagnosed)",
+      "introverted",
+      "reoccurring phases of self-doubt"
+    ]
+  },
+  "TriedSubstances": [
+    {
+      "Name": "Ethanol"
+    },
+    {
+      "Name": "Tobacco"
+    },
+    {
+      "Name": "Nicotine"
+    },
+    {
+      "Name": "3,4-Methylenedioxymethamphetamine"
+    },
+    {
+      "Name": "Amphetamine"
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-bromophenethylamine"
+    },
+    {
+      "Name": "Psilocybe cubensis"
+    },
+    {
+      "Name": "Lysergic acid diethylamide"
+    },
+    {
+      "Name": "Ketamine"
+    },
+    {
+      "Name": "Dimethyltryptamine"
+    },
+    {
+      "Name": "Alprazolam"
+    },
+    {
+      "Name": "Diazepam"
+    },
+    {
+      "Name": "Mephedrone"
+    },
+    {
+      "Name": "Metaphedrone"
+    },
+    {
+      "Name": "Orthophedrone"
+    },
+    {
+      "Name": "Cannabis",
+      "Notes": [
+        "in form of dried flower, oil"
+      ]
+    },
+    {
+      "Name": "Cocaine"
+    },
+    {
+      "Name": "Methamphetamine"
+    },
+    {
+      "Name": "Clephedrone"
+    },
+    {
+      "Name": "Clophedrone"
+    },
+    {
+      "Name": "Methylphenidate"
+    },
+    {
+      "Name": "Codeine"
+    },
+    {
+      "Name": "Diacetylmorphine"
+    },
+    {
+      "Name": "Lisdexamphetamine"
+    },
+    {
+      "Name": "N-Ethyl-nor-pentedrone"
+    },
+    {
+      "Name": "4-Fluoromethamphetamine"
+    },
+    {
+      "Name": "Kratom"
+    },
+    {
+      "Name": "Methoxisopropamine"
+    },
+    {
+      "Name": "Deoxymethoxetamine"
+    },
+    {
+      "Name": "Eticyclidone"
+    },
+    {
+      "Name": "6-(2-Aminopropyl)benzofuran"
+    },
+    {
+      "Name": "Tucibi"
+    },
+    {
+      "Name": "N1-Tert-butoxycarbonyldimethyltryptamine"
+    },
+    {
+      "Name": "NB-4-HO-MIPT"
+    },
+    {
+      "Name": "Paroxetine"
+    },
+    {
+      "Name": "Mirtazapine"
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-ethyl-N-(2-hydroxybenzyl)phenethylamine"
+    },
+    {
+      "Name": "Deschloroketamine"
+    },
+    {
+      "Name": "3-Hydroxyphencyclidine"
+    },
+    {
+      "Name": "2-Fluoro-N-ethylnordeschloroketamine"
+    }
+  ]
+}
