@@ -1,0 +1,23 @@
+{
+  "Name": "ergoline",
+  "Entries": [
+    {
+      "Title": "Descarboxylysergic acid",
+      "Abr": [
+        "DCLA"
+      ],
+      "MW": "224.30 g/mol"
+    },
+    {
+      "Title": "Lysergic acid",
+      "Abr": [
+        "LSA"
+      ],
+      "MW": "268.31 g/mol"
+    }
+  ],
+  "Children": [
+    "lysergamide"
+  ],
+  "Parent": "α-alkyltryptamine"
+}

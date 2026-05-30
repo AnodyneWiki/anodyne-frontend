@@ -88,7 +88,8 @@
   ],
   "First": {
     "Title": "1,2-Diphenylethylamine",
-    "MW": "197.27 g/mol"
+    "MW": "197.27 g/mol",
+    "Abr": null
   },
   "Parent": "amphetamine"
 }

@@ -289,6 +289,13 @@
         "UWA-001"
       ],
       "MW": "255.31 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-methylfentanyl",
+      "Abr": [
+        "N-(MDA)-Fentanyl"
+      ],
+      "MW": "394.5 g/mol"
     }
   ],
   "Parent": "phenethylamine",

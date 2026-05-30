@@ -1,0 +1,93 @@
+{
+  "Name": "phenethylpiperidine",
+  "Entries": [
+    {
+      "Title": "Fentanyl",
+      "Abr": null,
+      "MW": "336.5 g/mol"
+    },
+    {
+      "Title": "Acetylfentanyl",
+      "Abr": null,
+      "MW": "322.4 g/mol"
+    },
+    {
+      "Title": "Carfentanyl",
+      "Abr": null,
+      "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "Acrylfentanyl",
+      "Abr": null,
+      "MW": "334.5 g/mol"
+    },
+    {
+      "Title": "α-Methylfentanyl",
+      "Abr": null,
+      "MW": "350.5 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-methylfentanyl",
+      "Abr": [
+        "N-(MDA)-Fentanyl"
+      ],
+      "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "2',5'-Dimethoxy-4'-bromo-fentanyl",
+      "Abr": [
+        "N-(2C-B)-Fentanyl"
+      ],
+      "MW": "475.4 g/mol"
+    },
+    {
+      "Title": "β-Methylfentanyl",
+      "Abr": null,
+      "MW": "350.5 g/mol"
+    },
+    {
+      "Title": "Cyclopropylfentanyl",
+      "Abr": null,
+      "MW": "348.5 g/mol"
+    },
+    {
+      "Title": "Cyclopentylfentanyl",
+      "Abr": null,
+      "MW": "376.5 g/mol"
+    },
+    {
+      "Title": "Isobutyrylfentanyl",
+      "Abr": null,
+      "MW": "350.5 g/mol"
+    },
+    {
+      "Title": "Butyrylfentanyl",
+      "Abr": null,
+      "MW": "350.5 g/mol"
+    },
+    {
+      "Title": "Furanylfentanyl",
+      "Abr": [
+        "Fu-F"
+      ],
+      "MW": "374.5 g/mol"
+    },
+    {
+      "Title": "Phenaridine",
+      "Abr": null,
+      "MW": "364.5 g/mol"
+    },
+    {
+      "Title": "Mefentanyl",
+      "Abr": [
+        "3-MF"
+      ],
+      "MW": "350.5 g/mol"
+    }
+  ],
+  "Parents": [
+    "phenethylamine",
+    "piperidine"
+  ],
+  "Wikipedia": "List of fentanyl analogues"
+}

@@ -1,0 +1,186 @@
+{
+  "Name": "2-phenylmorpholine",
+  "Entries": [
+    {
+      "Title": "Phenmetrazine",
+      "Abr": null,
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "2-Phenyl-3,5-dimethylmorpholine",
+      "Abr": [
+        "3,5-DMPM"
+      ],
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "2-Phenyl-3,6-dimethylmorpholine",
+      "Abr": [
+        "3,6-DMPM"
+      ],
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "Fenbutrazate",
+      "Abr": null,
+      "MW": "367.5 g/mol"
+    },
+    {
+      "Title": "Fenmetramide",
+      "Abr": null,
+      "MW": "191.23 g/mol"
+    },
+    {
+      "Title": "Phendimetrazine",
+      "Abr": null,
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "Phenetrazine",
+      "Abr": null,
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "Phenmetetrazine",
+      "Abr": null,
+      "MW": "205.30 g/mol"
+    },
+    {
+      "Title": "Radafaxine",
+      "Abr": "",
+      "MW": "255.74 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxyphenmetrazine",
+      "Abr": [
+        "MDPM",
+        "3-MDPM"
+      ],
+      "MW": "221.25 g/mol"
+    },
+    {
+      "Title": "2-(4-Bromo-2,5-dimethoxyphenyl)morpholine",
+      "Abr": "2C-B-morpholine",
+      "MW": "302.16 g/mol"
+    },
+    {
+      "Title": "3-Chlorophenmetrazine",
+      "Abr": [
+        "3-CPM"
+      ],
+      "MW": "211.69 g/mol"
+    },
+    {
+      "Title": "4-Methylphenmetrazine",
+      "Abr": "4-MPM",
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "Naphthylmetrazine",
+      "Abr": "PAL-704",
+      "MW": "227.30 g/mol"
+    },
+    {
+      "Title": "Pseudophenmetrazine",
+      "Abr": null,
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Naphthylmorpholine",
+      "Abr": "PAL-678",
+      "MW": "213.27 g/mol"
+    },
+    {
+      "Title": "3-Fluorophenmetrazine",
+      "Abr": [
+        "3-FPM",
+        "3F-Phenmetrazine"
+      ],
+      "MW": "195.23 g/mol"
+    },
+    {
+      "Title": "3-Methylphenmetrazine",
+      "Abr": [
+        "3-MPM"
+      ],
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "2-Phenylmorpholine",
+      "Abr": [
+        "PAL-632"
+      ],
+      "MW": "163.22 g/mol"
+    },
+    {
+      "Title": "4-Fluorophenmetrazine",
+      "Abr": [
+        "4-FPM",
+        "4F-Phenmetrazine",
+        "PAL-748"
+      ],
+      "MW": "195.23 g/mol"
+    },
+    {
+      "Title": "Flumexadol",
+      "Abr": [
+        "CERM-1841",
+        "1841-CERM"
+      ],
+      "MW": "231.21 g/mol"
+    },
+    {
+      "Title": "Oxaflozane",
+      "Abr": [
+        "CERM-1766",
+        "1766-CERM"
+      ],
+      "MW": "273.29 g/mol"
+    },
+    {
+      "Title": "3-Iodophenmetrazine",
+      "Abr": [
+        "3-IPM",
+        "3I-Phenmetrazine"
+      ],
+      "MW": "303.14 g/mol"
+    },
+    {
+      "Title": "Morazone",
+      "Abr": null,
+      "MW": "377.5 g/mol"
+    },
+    {
+      "Title": "2-Phenyl-5,5-dimethylmorpholine",
+      "Abr": [
+        "G-130"
+      ],
+      "MW": "191.27 g/mol"
+    },
+    {
+      "Title": "2-Fluorophenmetrazine",
+      "Abr": [
+        "2-FPM",
+        "2F-Phenmetrazine"
+      ],
+      "MW": "195.23 g/mol"
+    },
+    {
+      "Title": "3-Methoxyphenmetrazine",
+      "Abr": [
+        "3-MeO-PM"
+      ],
+      "MW": "207.27 g/mol"
+    },
+    {
+      "Title": "4-Methylphendimetrazine",
+      "Abr": null,
+      "MW": "205.30 g/mol"
+    }
+  ],
+  "Parents": [
+    "phenylethanolamine",
+    "morpholine"
+  ],
+  "Wikipedia": "Substituted phenylmorpholine"
+}

@@ -173,7 +173,7 @@
     },
     {
       "Title": "N-formylamphetamine",
-      "Abr": [],
+      "Abr": null,
       "MW": "163.22 g/mol"
     },
     {
@@ -583,13 +583,6 @@
       "MW": "394.5 g/mol"
     },
     {
-      "Title": "Orthophedrone",
-      "Abr": [
-        "2-MMC"
-      ],
-      "MW": "177.24 g/mol"
-    },
-    {
       "Title": "Formoterol",
       "Abr": [],
       "MW": "344.4 g/mol"
@@ -600,11 +593,6 @@
         "DMS"
       ],
       "MW": "173.25 g/mol"
-    },
-    {
-      "Title": "N-Benzylmethcathinone",
-      "Abr": [],
-      "MW": "253.34 g/mol"
     },
     {
       "Title": "3,4-Methylenedioxydimethylamphetamine",
@@ -632,18 +620,6 @@
       "Title": "Diethylpropion",
       "Abr": [],
       "MW": "205.30 g/mol"
-    },
-    {
-      "Title": "Flephedrone",
-      "Abr": [
-        "4-FMC"
-      ],
-      "MW": "181.21 g/mol"
-    },
-    {
-      "Title": "N-Methylbupropion",
-      "Abr": [],
-      "MW": "253.77 g/mol"
     },
     {
       "Title": "Hydroxybupropion",
@@ -763,7 +739,6 @@
     "cathinone",
     "2-aminoindane",
     "1,2-diarylethylamine",
-    "phenylmorpholine",
     "phenylcyclopropylamine",
     "phentermine",
     "2-benzylpiperidine",

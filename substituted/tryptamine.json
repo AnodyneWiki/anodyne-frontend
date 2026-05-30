@@ -395,6 +395,14 @@
         "4-PrO-MET"
       ],
       "MW": "274.36 g/mol"
+    },
+    {
+      "Title": "N-Ethyltryptamine",
+      "Abr": [
+        "NET",
+        "NETP"
+      ],
+      "MW": "188.27 g/mol"
     }
   ],
   "Parents": [
@@ -404,8 +412,7 @@
     "α-alkyltryptamine",
     "β-alkyltryptamine",
     "β-carboline",
-    "hexahydroazepinoindole",
-    "lysergamide"
+    "hexahydroazepinoindole"
   ],
   "First": {
     "Title": "Tryptamine",
