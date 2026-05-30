@@ -1,0 +1,26 @@
+{{$path := .OriginalReq.URL.Path}}
+{{import "missing.html"}}{{import "article.html" -}}
+{{$parts := splitList "/" (stripHTML $path)}}
+{{if lt (len $parts) 4}}
+    {{template "missing" (dict "Title" "Report" "Type" "report") -}}
+{{else}}
+    {{$substanceName := index $parts 2}}
+    {{$reportID := index $parts 3}}
+    {{$v := $substanceName | lower | printf "/api/substance/%s" | replace " " "%20" | httpInclude | fromJson -}}
+
+    {{if or (not $v) (empty $v) ($v.NotFound) -}}
+        {{template "missing" (dict "Title" $substanceName "Type" "report") -}}
+    {{else}}
+        {{$report := dict}}
+        {{range get $v "Reddit Experience Reports"}}
+            {{if eq .id $reportID}}{{$report = .}}{{end}}
+        {{end}}
+        
+        {{if empty $report}}
+            {{template "missing" (dict "Title" $reportID "Type" "report") -}}
+        {{else}}
+            {{$_ := set $v "SelectedReport" $report}}
+            {{template "article" dict "Title" (printf "Trip Report: %s" $report.title) "Markdown" "report.md" "Vars" $v -}}
+        {{end}}
+    {{end}}
+{{end}}
