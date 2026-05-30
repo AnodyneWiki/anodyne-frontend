@@ -11,6 +11,7 @@
 
 	{ "Title": "Glucose", "DTitle": "Dextrose", "LTitle": "Levo-glucose" },
 	{ "Title": "Water" },
+	{ "Title": "Ammonia" },
 
 	{ "Title": "Vasopressin", "NoBuild": true },
 	{ "Title": "Botulinum toxin", "NoBuild": true },
@@ -23,10 +24,15 @@
 	{ "Title": "Cabergoline" },
 	{ "Title": "Lisuride" },
 
+	{ "Title": "Descarboxylysergic acid", "Abr": "DCLA" },
+	{ "Title": "Ergine", "Abr": ["LAA", "LA-111"], "Classes": [ "Psychedelic" ] },
 	{ "Title": "Lysergic acid", "Abr": "LSA", "Classes": [ "Psychedelic" ] },
 	{ "Title": "Lysergic acid methylamide", "Abr": ["LAM", "NM-LA"], "Classes": [ ], "Search": "CID56841679" },
 	{ "Title": "Lysergic acid dimethylamide", "Abr": ["DAM", "DAM-57"], "Classes": [ "Psychedelic" ], "Search": "CID199478" },
+	{ "Title": "Lysergic acid ethylamide", "Abr": ["LAE", "LAE-32"], "Classes": [ "Psychedelic" ] },
 	{ "Title": "Lysergic acid diethylamide", "Abr": ["LSD", "LSD-25"], "Classes": [ "Psychedelic" ] },
+	{ "Title": "Lysergic acid dipropylamide", "Abr": ["LSDP", "LSDPr", "LADP", "LPP", "DPL"], "Classes": [ "Psychedelic" ], "Search": "CID129714166" },
+	{ "Title": "Lysergic acid diallylamide", "Abr": ["LDA", "DAL"], "Classes": [ "Psychedelic" ] },
 	{ "Title": "N-desmethyllysergic acid diethylamide", "Abr": ["Nor-LSD", "norLSD", "H-LAD"], "Classes": [ "Psychedelic" ], "Search": "CID169713" },
 	{ "Title": "6-Allyl-6-norlysergic acid diethylamide", "Abr": ["AL-LAD", "ALLAD"], "Classes": [ "Psychedelic" ], "Search": "CID15227511" },
 	{ "Title": "1-(1,2-dimethylcyclobutanecarbonyl)-6-allyl-6-norlysergic acid diethylamide", "Abr": ["AL-LAD", "ALLAD"], "Classes": [ "Psychedelic" ], "Search": "CID" },
@@ -36,6 +42,7 @@
 	{ "Title": "1-Butanoyl-d-lysergic acid diethylamide", "Abr": "1B-LSD", "Search": "1b-Lsd", "Classes": [ "Psychedelic" ] },
 	{ "Title": "1-Propanoyl-lysergic acid diethylamide", "Abr": "1P-LSD", "Search": "CID119025985", "Classes": [ "Psychedelic" ] },
 	{ "Title": "1-(3-(Trimethylsilyl)propionyl)-lysergic acid diethylamide", "Abr": "1S-LSD", "Search": "CID172875719", "Classes": [ "Psychedelic" ] },
+	{ "Title": "1-(Ferrocenecarbonyl)-lysergic acid diethylamide", "Abr": "1Fe-LSD", "Search": "CID176002870", "Classes": [ "Psychedelic" ] },
 	{ "Title": "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide", "Abr": "1cP-LSD", "Search": "CID155884675", "Classes": [ "Psychedelic" ] },
 	{ "Title": "1-Cyclopropionyl-6-allyl-6-nor-lysergic acid diethylamide", "Abr": "1cP-AL-LAD", "Search": "1cP-AL-LAD", "Classes": [ "Psychedelic" ] },
 
@@ -352,7 +359,8 @@
 
 	{ "Title": "Tyramine", "Classes": [ "Neurotransmitter", "Sympathomimetic" ] },
 	{ "Title": "Meta-Tyramine", "Classes": [ "Neurotransmitter", "Sympathomimetic" ] },
-	{ "Title": "Methyltyramine", "Abr": "NMT", "Classes": [ "Sympathomimetic" ] },
+	{ "Title": "Methyltyramine", "Abr": "NMT", "Classes": [ "Psychedelic" ] },
+	{ "Title": "N-Ethyltryptamine", "Abr": ["NET", "NETP"] , "Classes": [ "Psychedelic" ] },
 	{ "Title": "Methylethyltryptamine", "Abr": "MET", "Classes": [ "Psychedelic" ] },
 	{ "Title": "Hordenine", "Classes": [ "Sympathomimetic" ] },
 	{ "Title": "3-Methoxytyramine", "Abr": "3-MT" },
@@ -385,6 +393,8 @@
 	{ "Title": "Piracetam" },
 	{ "Title": "Pramiracetam" },
 	{ "Title": "Omberacetam", "System": "N-Phenylacetyl-l-prolylglycine ethyl ester", "Abr": [ "GVS-111" ]},
+
+	{ "Title": "Huperzine A", "Abr": [ "HupA" ]},
 
 	{ "Title": "Methamphetamine", "Ltitle": "Levomethamphetamine", "Dtitle": "Dextromethamphetamine", "Abr": "MA", "Classes": [ "Stimulant" ], "Search": "CID1206" },
 	{ "Title": "Dextromethamphetamine", "Classes": [ "Stimulant" ], "Search": "CID10836" },
@@ -668,7 +678,7 @@
 	{ "Title": "2-Benzhydryl-1-methyl-piperidin-3-ol", "Search": "CID209634" },
 	{ "Title": "Difemetorex" },
 
-	{ "Title": "3-Benzylmorpholine", "Abr": "3-BZMo" },
+	{ "Title": "3-Benzylmorpholine", "Abr": ["3-BZMo", "3-BZM"] },
 	{ "Title": "3-Benzhydrylmorpholine" },
 
 	{ "Title": "1-Benzylpiperazine", "Abr": [ "BZP", "1-BZP" ], "Classes": [ "Stimulant" ] },
@@ -725,14 +735,24 @@
 	{ "Title": "Catharanthalog", "Abr": "CAG", "Search": "CID20642897" },
 	{ "Title": "PHA-57378" },
 
+	{ "Title": "2-Phenylmorpholine", "Abr": "PAL-632" },
+	{ "Title": "2-Phenyl-5,5-dimethylmorpholine", "Abr": "G-130" },
+	{ "Title": "Flumexadol", "Abr": ["CERM-1841", "1841-CERM"] },
+	{ "Title": "Oxaflozane", "Abr": ["CERM-1766", "1766-CERM"] },
+
 	{ "Title": "Phenmetrazine", "UNII": "XA501VL3VR" },
 	{ "Title": "Phendimetrazine", "Actives": [ "Phenmetrazine", "Pseudophenmetrazine" ] },
 	{ "Title": "Phenetrazine" },
 	{ "Title": "Pseudophenmetrazine", "Search": "CID10329865" },
 	{ "Title": "3-Methylphenmetrazine", "Abr": "3-MPM" },
+	{ "Title": "3-Methoxyphenmetrazine", "Abr": "3-MeO-PM" },
 	{ "Title": "3-Chlorophenmetrazine", "Abr": "3-CPM" },
-	{ "Title": "3-Fluorophenmetrazine", "Abr": "3-FPM" },
+	{ "Title": "2-Fluorophenmetrazine", "Abr": ["2-FPM", "2F-Phenmetrazine"] },
+	{ "Title": "3-Fluorophenmetrazine", "Abr": ["3-FPM", "3F-Phenmetrazine", "PAL-593"] },
+	{ "Title": "3-Iodophenmetrazine", "Abr": ["3-IPM", "3I-Phenmetrazine"], "Search": "CID165429799" },
+	{ "Title": "4-Fluorophenmetrazine", "Abr": ["4-FPM", "4F-Phenmetrazine", "PAL-748"] },
 	{ "Title": "4-Methylphenmetrazine", "Abr": "4-MPM" },
+	{ "Title": "4-Methylphendimetrazine" },
 	{ "Title": "3,4-Methylenedioxyphenmetrazine", "Abr": ["MDPM", "3-MDPM"] },
 	{ "Title": "Isocyclamine" },
 	{ "Title": "Cyclopentamine" },
@@ -743,6 +763,7 @@
 	{ "Title": "2-Phenyl-3,6-dimethylmorpholine", "Abr": "3,6-DMPM" },
 	{ "Title": "Fenmetramide" },
 	{ "Title": "Fenbutrazate" },
+	{ "Title": "Morazone" },
 	{ "Title": "Naphthylmetrazine", "Abr": "PAL-704", "Search": "CID54673725" },
 	{ "Title": "Naphthylmorpholine", "Abr": "PAL-678", "Search": "CID43350792" },
 	{ "Title": "2-(4-Bromo-2,5-dimethoxyphenyl)morpholine", "Abr": "2C-B-morpholine", "Search": "CID11429275" },
@@ -842,12 +863,12 @@
 	{ "Title": "Buphedrone", "Abr": "MABP" },
 	{ "Title": "4-Methylbuphedrone", "Abr": "4-MeMABP" },
 	{ "Title": "Pentedrone" },
-	{ "Title": "N-Ethyl-nor-pentedrone", "Abr": "NEP", "Search": "N-Ethylpentedrone", "Classes": [ "Stimulant" ] },
+	{ "Title": "N-Ethyl-nor-pentedrone", "Abr": "NEP", "Search": "CID205593", "Classes": [ "Stimulant" ] },
 	{ "Title": "4-Methylpentedrone", "Abr": "4-MPD" },
 	{ "Title": "N-Ethyl-4-methyl-nor-pentedrone", "Abr": "4-MEAP", "Search": "CID205601" },
 	{ "Title": "Hexedrone", "Classes": [ "Stimulant" ] },
 	{ "Title": "N-Ethyl-nor-hexedrone", "Abr": "Hexen", "Search": "N-Ethylhexedrone", "Search": "CID134822125" },
-	{ "Title": "N-Ethyl-nor-heptedrone", "Search": "N-Ethylheptedrone" },
+	{ "Title": "N-Ethyl-nor-heptedrone", "Search": "CID163195977" },
 
 	{ "Title": "Prolintane" },
 	{ "Title": "α-Piperidinopropiophenone", "Abr": "α-PIPPP" },
@@ -1126,13 +1147,24 @@
 	{ "Title": "Methiodone", "Abr": [ "IC-26", "WIN 1161-3" ], "Classes": [ "Opioid" ] },
 
 	{ "Title": "Fentanyl", "Classes": [ "Opioid" ] },
-	{ "Title": "N-(MDA)-Fentanyl", "System": "3',4'-methylenedioxy alpha-methyl Fentanyl", "UNII": "9QS8BB23RH", "Classes": [ "Opioid" ] },
-	{ "Title": "N-(2C-B)-Fentanyl", "System": "3',4'-methylenedioxy alpha-methyl Fentanyl", "UNII": "9QS8BB23RH", "Classes": [ "Opioid" ] },
-	{ "Title": "N-(2C-B-FLY)-Fentanyl", "System": "3',4'-methylenedioxy alpha-methyl Fentanyl", "UNII": "9QS8BB23RH", "Classes": [ "Opioid" ] },
+	{ "Title": "Phenaridine", "System": "2,5-Dimethylfentanyl", "Classes": [ "Opioid" ] },
+	{ "Title": "Mefentanyl", "System": "3-Methylfentanyl", "Abr": "3-MF", "Search": "CID61996", "Classes": [ "Opioid" ] },
+	{ "Title": "Butyrylfentanyl", "Classes": [ "Opioid" ] },
+	{ "Title": "Isobutyrylfentanyl", "Classes": [ "Opioid" ] },
 	{ "Title": "Carfentanyl", "Classes": [ "Opioid" ] },
 	{ "Title": "Sufentanyl", "Classes": [ "Opioid" ] },
 	{ "Title": "Remifentanil", "Classes": [ "Opioid" ] },
 	{ "Title": "Acetylfentanyl", "Classes": [ "Opioid" ] },
+	{ "Title": "Acrylfentanyl", "Classes": [ "Opioid" ] },
+	{ "Title": "Furanylfentanyl", "Abr": [ "Fu-F" ], "Classes": [ "Opioid" ] },
+	{ "Title": "Cyclopropylfentanyl", "Classes": [ "Opioid" ] },
+	{ "Title": "Cyclopentylfentanyl", "Classes": [ "Opioid" ] },
+	{ "Title": "β-Methylfentanyl", "Classes": [ "Opioid" ] },
+	{ "Title": "α-Methylfentanyl", "Classes": [ "Opioid" ] },
+	{ "Title": "3',4'-Methylenedioxy-α-methylfentanyl", "Abr": [ "N-(MDA)-Fentanyl" ], "Search": "CID165365093", "UNII": "9QS8BB23RH", "Classes": [ "Opioid" ] },
+	{ "Title": "2',5'-Dimethoxy-4'-bromo-fentanyl", "Abr": [ "N-(2C-B)-Fentanyl" ], "Search": "CID165361468", "Classes": [ "Opioid" ] },
+	{ "Title": "N-(2C-B-FLY)-Fentanyl", "System": "3',4'-methylenedioxy alpha-methyl Fentanyl", "UNII": "9QS8BB23RH", "Classes": [ "Opioid" ] },
+
 	{ "Title": "Beta-Hydroxy-3-methylfentanyl", "Classes": [ "Opioid" ] },
 
 	{ "Title": "Pethidine", "Classes": [ "Opioid" ] },
@@ -1202,6 +1234,8 @@
 	{ "Title": "Eticyclidone", "Abr": ["2'-Oxo-PCE", "O-PCE"] },
 	{ "Title": "Hydroxetamine", "Abr": "HXE" },
 	{ "Title": "Fluorexetamine", "Abr": "FXE" },
+	{ "Title": "2-Fluoro-N-ethylnordeschloroketamine", "Abr": ["2F-NENDCK", "2-FXE"], "Search": "CID168323042" },
+	{ "Title": "Deoxymethoxetamine", "Abr": "DMXE" },
 	{ "Title": "Methoxetamine", "Abr": "MXE" },
 	{ "Title": "Methoxpropamine", "Abr": "MXPr" },
 	{ "Title": "Methoxisopropamine", "Abr": "MXiPr" },
@@ -1349,6 +1383,7 @@
 	{ "Title": "Benzydamine" },
 	{ "Title": "Fezolamine" },
 	{ "Title": "Chlorphenamine", "Abr": [ "CP", "CPM" ] },
+	{ "Title": "Doxylamine" },
 
 	{ "Title": "Sulpiride", "Brand": [ "Dogmatil" ] },
 	{ "Title": "Sultopride", "Brand": [ "Barnetil", "Barnotil", "Topral" ] },
@@ -1671,6 +1706,7 @@
 	{ "Title": "Fenadiazole" , "Classes": [ "Sedative" ] },
 
 	{ "Title": "Octenidine", "Classes": [ "Antiseptic" ] },
+	{ "Title": "Cetylpyridinium chloride", "Classes": [ "Antiseptic" ] },
 
 	{ "Title": "Panthenol", "Dtitle": "Dexpanthenol", "Ltitle": "Levopanthenol", "Classes": [ "Provitamin" ] },
 
