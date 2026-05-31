@@ -27,8 +27,8 @@
         "Attributes": [
           "{wkp 'asperger syndrome'} (diagnosed F84.5G)",
           "{wkp 'transsexual'} (diagnosed F64.0G)",
-          "ruled out {wkp 'attention deficit hyperactivity disorder'} (diagnosed F90.0F)",
-          "{wkp 'generalized anxiety disorder'} (diagnosed F41.1G)"
+          "{wkp 'attention deficit hyperactivity disorder'} (diagnosed F90.0F)",
+          "{wkp 'Mixed anxiety-depressive disorder'} (diagnosed F41.2F)"
         ]
     },
     "RoutesOfAdministration": [
@@ -957,12 +957,14 @@
                 }
             ],
             "Effects":[
-                "{sev 'light'} {xeff 'cognitive-euphoria'}",
-                "{sev 'strong'} {xeff 'sedation'} when consumed in high doses",
-                "{xeff 'double-vision'}; feels like being drunk",
+                "{sev 'light'} {xeff 'cognitive-euphoria'} and {sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}",
                 "{sev 'moderate'} {xeff 'increased-libido'}",
-                "{sev 'strong'} {xeff 'sleepiness'} when ",
-                "{sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}"
+                "{sev 'strong'} {xeff 'sedation'} and {sev 'strong'} {xeff 'sleepiness'} when consumed in high doses",
+                "{xeff 'stimulation'} when consumed in lower doses",
+                "{xeff 'double-vision'}; feels like being drunk"
+            ],
+            "Notes":[
+                "passed out at around 2/3ml"
             ]
         }
     ]
