@@ -44,7 +44,9 @@
     },
     {
       "Title": "4-Fluoromethamphetamine",
-      "Abr": "4-FMA",
+      "Abr": [
+        "4-FMA"
+      ],
       "MW": "167.22 g/mol"
     },
     {
