@@ -4,7 +4,7 @@
         "Marie",
         "Pilz"
     ],
-    "About": "Computer touching dog addicted to caffeine.",
+    "About": "{wkp 'Computer'} touching {wkp 'dog'} addicted to {sub 'caffeine'}.",
     "Birth": "2006-11",
     "Location": "Germany",
     "Weight": [
@@ -19,9 +19,9 @@
     "Psyche": {
         "Interests": [
             "{wkp 'Pharmacology'}",
-            "compounding medications",
+            "{wkp 'Compounding'}",
+            "{wkp 'train'}s",
             "networking",
-            "trains",
             "declarative configuration of computers"
         ],
         "Attributes": [
@@ -192,6 +192,8 @@
                 "{xeff 'time-distortion'}",
                 "{xeff 'increased-bodily-temperature'}",
                 "{xeff 'dry-mouth'}",
+                "{sev 'strong'} {xeff 'increased-blood-pressure'}",
+                "{xeff 'vasoconstriction'}",
                 "{xeff 'analysis-suppression'}"
             ],
             "Adverse": [
@@ -359,7 +361,7 @@
             ],
             "Notes":[
                 "comedown is a bit annoying",
-                "not worth the high cost in europe; try {xeff 'Amphetamine'} or {xeff 'mephedrone'} instead"
+                "not worth the high cost in europe; try {sub 'Amphetamine'} or {sub 'mephedrone'} instead"
             ]
         },
         {
@@ -437,7 +439,7 @@
                 "{xeff 'thought-deceleration'}, {xeff 'confusion'}, {xeff 'analysis-suppression'}; sometimes feeling stupid",
                 "{xeff 'increased-sense-of-humor'}",
                 "{xeff 'anxiety-suppression'}",
-                "{sev 'light'} {xeff 'motivation-enhancement'} in the days after using ketamine"
+                "{sev 'light'} {xeff 'motivation-enhancement'} in the days after using {sub 'Ketamine'}"
             ],
             "Adverse": [
                 "{xeff 'nausea'} when consumed in high doses"
@@ -513,7 +515,7 @@
             "Effects": [
                 "{xeff 'stimulation'}; very helpful aginst ADHD",
                 "{xeff 'motivation-enhancement'}",
-                "sometimes {xeff 'sleepiness'}; caffeine while using methylphenidate helps against that",
+                "sometimes {xeff 'sleepiness'}; caffeine while using {sub 'Methylphenidate'} helps against that",
                 "{sev 'light'} {xeff 'decreased-libido'}"
             ],
             "Notes": [
@@ -932,7 +934,7 @@
             "Name": "5-Methoxy-2-aminoindane",
             "Routes": [
                 {
-                    "name": "insufflated",
+                    "Name": "insufflated",
                     "Dosage": "30mg"
                 }
             ],
@@ -944,6 +946,23 @@
             ],
             "Notes":[
                 "Burns even more than {sub '2,5-Dimethoxy-4-bromophenethylamine'} when consumed via insufflated"
+            ]
+        },
+        {
+            "name": "γ-Butyrolactone",
+            "Routes":[
+                {
+                    "Name": "oral",
+                    "Dosage": "0.5-3ml"
+                }
+            ],
+            "Effects":[
+                "{sev 'light'} {xeff 'cognitive-euphoria'}",
+                "{sev 'strong'} {xeff 'sedation'} when consumed in high doses",
+                "{xeff 'double-vision'}; feels like being drunk",
+                "{sev 'moderate'} {xeff 'increased-libido'}",
+                "{sev 'strong'} {xeff 'sleepiness'} when ",
+                "{sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}"
             ]
         }
     ]
