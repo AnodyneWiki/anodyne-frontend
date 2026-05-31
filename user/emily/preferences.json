@@ -26,11 +26,11 @@
       "build systems (not by choice)"
     ],
     "Attributes": [
-      "F84.5G",
-      "F64.0G",
-      "F90.0G",
-      "F41.1G",
-      "F32.2G"
+      "{wkp 'asperger syndrome'} (diagnosed F84.5G)",
+      "{wkp 'transsexual'} (diagnosed F64.0G)",
+      "{wkp 'attention deficit hyperactivity disorder'} (diagnosed F90.0G)",
+      "{wkp 'generalized anxiety disorder'} (diagnosed F41.1G)",
+      "{wkp 'major depressive episode'} (diagnosed F32.2G)"
     ]
   },
   "RoutesOfAdministration": [
