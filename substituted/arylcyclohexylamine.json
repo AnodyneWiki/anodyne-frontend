@@ -127,6 +127,21 @@
         "2-Cl-2'-Oxo-PCE"
       ],
       "MW": "251.75 g/mol"
+    },
+    {
+      "Title": "Deoxymethoxetamine",
+      "Abr": [
+        "DMXE"
+      ],
+      "MW": "231.33 g/mol"
+    },
+    {
+      "Title": "2-Fluoro-N-ethylnordeschloroketamine",
+      "Abr": [
+        "2F-NENDCK",
+        "2-FXE"
+      ],
+      "MW": "235.30 g/mol"
     }
   ],
   "Parent": "benzylamine",

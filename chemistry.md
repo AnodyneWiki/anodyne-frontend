@@ -20,6 +20,9 @@
 {{range $ster := $vars.StereoisomerData}}<div class=image-item><div class=svg id='{{$ster.Title}}'><a style='line-height: 1.0;' href='/substance/{{$ster.Title}}'>{{$ster.Title}}</a>{{$ster.Structure}}</div></div>{{end}}</div></td></tr>
 <tr><td class=InfoboxData>Stereoisomer enumberation with <a href='https://www.rdkit.org'>rdkit</a></td></tr></table></div></div></div></div>
 {{end}}
-{{if $vars.Reagents}}<div class=collapser><h3>Reagent results</h3><div class=collapserContent><table><tr><th>Reagent</th><th>Color change</th></tr>
-{{range $reagent := $vars.Reagents}}<tr style="line-height: 15px;"><td>{{$reagent.Name}}</td><td style="width: 250px; background: linear-gradient(to right, {{$reagent.Start}} 0%, {{$reagent.Stop}} 100%);"></td></tr>{{end}}
+{{if $vars.Reagents}}<div class=collapser><h3>{{template "wkp" (dict "src" "Reagent testing" "alias" "Reagents")}}</h3>
+<div class=collapserContent>
+<p>There are currently {{len $vars.Reagents}} reagent-interactions on <a class=logo href=https://protestkit.eu/drugspro/reagents/analyze>DrugsPRO</a></p>
+<table><tr><th class=InfoboxLabel>Reagent</th><th class=InfoboxLabel>Color change</th></tr>
+{{range $reagent := $vars.Reagents}}<tr style="line-height: 15px;"><td>{{$reagent.Name}}</td><td style="width: 250px; background: linear-gradient(to right{{if $reagent.Colors | empty}}, white, white{{else}}{{range $reagent.Colors}}, {{.}}{{end}}{{end}});"></td></tr>{{end}}
 </table>{{end}}</div></div>{{end}}

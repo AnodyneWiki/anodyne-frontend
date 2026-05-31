@@ -26,11 +26,11 @@
       "build systems (not by choice)"
     ],
     "Attributes": [
-      "F84.5G",
-      "F64.0G",
-      "F90.0G",
-      "F41.1G",
-      "F32.2G"
+      "{wkp 'asperger syndrome'} (diagnosed F84.5G)",
+      "{wkp 'transsexual'} (diagnosed F64.0G)",
+      "{wkp 'attention deficit hyperactivity disorder'} (diagnosed F90.0G)",
+      "{wkp 'generalized anxiety disorder'} (diagnosed F41.1G)",
+      "{wkp 'major depressive episode'} (diagnosed F32.2G)"
     ]
   },
   "RoutesOfAdministration": [
@@ -303,6 +303,15 @@
       ]
     },
     {
+      "Name": "3,4-Ethylenemethcathinone",
+      "Routes": [
+        {
+          "Name": "rectal",
+          "Dosage": "140mg"
+        }
+      ]
+    },
+    {
       "Name": "Bupropion",
       "Routes": [
         {
@@ -356,6 +365,15 @@
       ]
     },
     {
+      "Name": "5-Methoxy-2-aminoindane",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "22-30mg"
+        }
+      ]
+    },
+    {
       "Name": "Methylphenidate",
       "Routes": [
         {
@@ -371,6 +389,26 @@
           "Name": "insufflated",
           "Dosage": "40mg"
         }
+      ]
+    },
+    {
+      "Name": "Benzocaine",
+      "Routes": [
+        {
+          "Name": "buccal",
+          "Dosage": "10mg"
+        }
+      ]
+    },
+    {
+      "Name": "Lidocaine",
+      "Routes": [
+        {
+          "Name": "oral"
+        }
+      ],
+      "Notes": [
+        "injection solution. helped numbing throat pain comparable to benzocaine"
       ]
     },
     {
@@ -482,6 +520,18 @@
       ]
     },
     {
+      "Name": "γ-Butyrolactone",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.25-1.5g"
+        }
+      ],
+      "Notes": [
+        "feels like ethanol with less nausea and way too easy to overdose on"
+      ]
+    },
+    {
       "Name": "Tetrahydrocannabinol",
       "Routes": [
         {
@@ -587,11 +637,37 @@
       ]
     },
     {
+      "Name": "Cyproterone acetate",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5-8mg"
+        }
+      ]
+    },
+    {
+      "Name": "Spironolactone",
+      "Routes": [
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
       "Name": "Prednisolone",
       "Routes": [
         {
           "Name": "oral",
           "Dosage": "50mg"
+        }
+      ]
+    },
+    {
+      "Name": "Dienogest",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "2mg"
         }
       ]
     },
@@ -632,6 +708,14 @@
       ]
     },
     {
+      "Name": "Diclofenac",
+      "Routes": [
+        {
+          "Name": "topical"
+        }
+      ]
+    },
+    {
       "Name": "Mirtazapine",
       "Routes": [
         {
@@ -641,11 +725,36 @@
       ]
     },
     {
+      "Name": "Doxylamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "3.125-25mg"
+        }
+      ]
+    },
+    {
       "Name": "Trimipramine",
       "Routes": [
         {
           "Name": "oral",
           "Dosage": "25-30mg"
+        }
+      ]
+    },
+    {
+      "Name": "Diphenhydramine",
+      "Routes": [
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
+      "Name": "Dimenhydrinate",
+      "Routes": [
+        {
+          "Name": "oral"
         }
       ]
     },
@@ -714,6 +823,14 @@
     },
     {
       "Name": "Tobacco",
+      "Routes": [
+        {
+          "Name": "vaporized"
+        }
+      ]
+    },
+    {
+      "Name": "Cannabis",
       "Routes": [
         {
           "Name": "vaporized"

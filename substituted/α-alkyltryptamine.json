@@ -83,7 +83,9 @@
     }
   ],
   "Parent": "tryptamine",
-  "Children": [],
+  "Children": [
+    "ergoline"
+  ],
   "First": {
     "Title": "α-Methyltryptamine",
     "Abr": "αMT",

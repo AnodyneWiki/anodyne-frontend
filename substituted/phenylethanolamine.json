@@ -240,6 +240,11 @@
       "Title": "Synephrine",
       "Abr": [],
       "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Doxylamine",
+      "Abr": null,
+      "MW": "270.37 g/mol"
     }
   ],
   "First": {
@@ -247,5 +252,8 @@
     "Abr": "",
     "MW": "137.18 g/mol"
   },
+  "Children": [
+    "2-phenylmorpholine"
+  ],
   "Parent": "phenethylamine"
 }

@@ -22,12 +22,12 @@
 
 **{{title $v.Title}}** administration{{if $v.Aliases}} (also known as {{range $i, $alias := $v.Aliases}}{{if not (eq $i 0)}}{{if not (eq $i (sub (len $v.Aliases) 1))}}, {{else}} or {{end}}{{end}}**{{$alias}}**{{end}}){{end}}{{with $v.About}} {{template "user" .}}{{end}}
 
-<h3 style='width: 100%'>Anatomy</h3>
-<h4 style='width: 100%'>Arms</h4>
+<h3>Anatomy</h3>
+<h4>Arms</h4>
 
 <img width=350px src="/assets/arm.png">
 
-<h3 style='width: 100%'>Procedure</h3>
+<h3>Procedure</h3>
 
 **Under no circumstance should the instructions below be used as a sole resource for users looking to start, they are only meant for demonstrative purposes.**
 
@@ -41,6 +41,7 @@
         * 27+ gauge luer-lock needle
 * Filter
     * Cotton ball (risk of cotton fever and particulate)
+    * Cigarette filter (risk of contamination if the filter contains glas fragments)
     * Luer-lock Syringe Filter
         * 0.22μm / 0.45μm - PTFE / PES / PVDF membrane
 * Saline

@@ -14,11 +14,6 @@
       "MW": "417.5 g/mol"
     },
     {
-      "Title": "Lysergic acid",
-      "Abr": "LSA",
-      "MW": "268.31 g/mol"
-    },
-    {
       "Title": "Lysergic acid diethylamide",
       "Abr": [
         "LSD",
@@ -115,7 +110,49 @@
         "1P-LSD"
       ],
       "MW": "379.5 g/mol"
+    },
+    {
+      "Title": "1-(Ferrocenecarbonyl)-lysergic acid diethylamide",
+      "Abr": [
+        "1Fe-LSD"
+      ],
+      "MW": "535.5 g/mol"
+    },
+    {
+      "Title": "Ergine",
+      "Abr": [
+        "LAA",
+        "LA-111"
+      ],
+      "MW": "267.33 g/mol"
+    },
+    {
+      "Title": "Lysergic acid ethylamide",
+      "Abr": [
+        "LAE",
+        "LAE-32"
+      ],
+      "MW": "295.4 g/mol"
+    },
+    {
+      "Title": "Lysergic acid dipropylamide",
+      "Abr": [
+        "LSDP",
+        "LSDPr",
+        "LADP",
+        "LPP",
+        "DPL"
+      ],
+      "MW": "351.5 g/mol"
+    },
+    {
+      "Title": "Lysergic acid diallylamide",
+      "Abr": [
+        "LDA",
+        "DAL"
+      ],
+      "MW": "347.5 g/mol"
     }
   ],
-  "Parent": "tryptamine"
+  "Parent": "ergoline"
 }

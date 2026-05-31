@@ -25,10 +25,10 @@
             "declarative configuration of computers"
         ],
         "Attributes": [
-            "F84.5G",
-            "F64.0G",
-            "F90.0F",
-            "F41.2F"
+          "{wkp 'asperger syndrome'} (diagnosed F84.5G)",
+          "{wkp 'transsexual'} (diagnosed F64.0G)",
+          "ruled out {wkp 'attention deficit hyperactivity disorder'} (diagnosed F90.0F)",
+          "{wkp 'generalized anxiety disorder'} (diagnosed F41.1G)"
         ]
     },
     "RoutesOfAdministration": [

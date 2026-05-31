@@ -40,6 +40,11 @@
 	{ "Title": "Coffea", "Substances": [
 		{ "Name": "Caffeine" }
 	]
+	},
+	{ "Title": "Psilocybe cubensis", "Abr": [ "Magic mushroom", "Shroom" ], "Substances": [
+		{ "Name": "Psilocybin" },
+		{ "Name": "Psilocin" }
+	]
 	}
 ]
 }

@@ -14,7 +14,7 @@
     },
     {
       "Name": "Reddit",
-      "Url": "https://www.reddit.com/user/hashnagel"
+      "Url": "https://reddit.com/user/hashnagel"
     }
   ],
   "Psyche": {
@@ -26,7 +26,7 @@
     ],
     "Attributes": [
       "Depressive mood disorder (diagnosed)",
-      "General social anxiety",
+      "{wkp 'Generalized anxiety disorder'}",
       "Polytoxicomania (self diagnosed)",
       "Opioid addiction"
     ]

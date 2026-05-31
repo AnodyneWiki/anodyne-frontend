@@ -12,11 +12,11 @@
 {{if eq $alset false}}{{$inters = (dict "Target" $int.Target "Actions" (list $int.Action)) | append $inters}}{{end -}}
 {{end}}{{end}}{{end -}}
 
-{{if any $v.Actives $v.SwissTargetPredictions $inters (get $v "ATC Code") (get $v "MeSH Pharmacological Classification") -}}
+{{if any $v.Actives $v.SwissTargetPredictions $inters (get $v "ATC Code") -}}
 <h2>Pharmacology</h2>
 
-{{$ratc := get $v "ATC Code" -}}
-{{with $atc := kindIs "string" $ratc | ternary (list $ratc) $ratc -}}
+{{with $ratc := get $v "ATC Code" -}}
+{{with $atc := kindIs "string" $ratc | ternary (list $ratc "") $ratc -}}
 <h3>{{template "user" "{wkp 'Anatomical Therapeutic Chemical Classification System' 'ATC Classification'}"}}</h3>
 {{$l := ""}}{{$lclass := list -}}
 {{range $code := $atc -}}
@@ -35,7 +35,7 @@ In the <a class=logo href={{trunc 1 $pre | upper | printf "https://en.wikipedia.
 {{else if and $lclass $l (hasPrefix "!" $l | not)}}{{if hasPrefix ($l | trunc 1) $code | not}} as a {{template "rca" (sortAlpha $lclass)}}{{$lclass = list}}.{{template "refg" (dict "refs" $v.Refs "grep" "pubchem")}}{{end -}}
 {{else}}{{$l = $code -}}
 {{end}}{{end -}}
-{{end -}}
+{{end}}{{end -}}
 
 {{$rmesh := get $v "MeSH Pharmacological Classification" -}}
 {{if kindIs "list" $rmesh}}{{with $mesh := $rmesh -}}
@@ -49,8 +49,9 @@ In the <a class=logo href={{trunc 1 $pre | upper | printf "https://en.wikipedia.
 {{end -}}
 </ul>{{end}}{{end -}}
 
+{{if $v.Actives -}}
 <h3>Metabolism</h3>
-{{if $v.Actives}}<p>{{$v.Title}} acts as a {{$ac := "prodrug"}}{{range $cc := $v.Classes}}{{if eq (lower $cc) "codrug"}}{{$ac = "codrug"}}{{end}}{{end}}{{if eq $ac "codrug"}}<a class=logo href=https://en.wikipedia.org/wiki/codrug>codrug</a>{{else}}<a class=logo href=https://en.wikipedia.org/wiki/prodrug>prodrug</a>{{end}} for:</p>
+<p>{{$v.Title}} acts as a {{$ac := "prodrug"}}{{range $cc := $v.Classes}}{{if eq (lower $cc) "codrug"}}{{$ac = "codrug"}}{{end}}{{end}}{{if eq $ac "codrug"}}<a class=logo href=https://en.wikipedia.org/wiki/codrug>codrug</a>{{else}}<a class=logo href=https://en.wikipedia.org/wiki/prodrug>prodrug</a>{{end}} for:</p>
 <table style='max-width: calc(100% - 400px); display: inline-table; text-align: left; border-collapse: collapse;'>
 <tr><th>Metabolic pathways<span style='float:right'>&nbsp;{{template "exnd" .collapse}}</span></th></tr>
 <tr style='background-color: #ffffff; color: #555555; padding-bottom: 0px;' >
