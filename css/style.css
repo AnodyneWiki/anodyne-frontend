@@ -727,3 +727,11 @@ ul[class=FormList] {
 	margin-right: 5px;
 	text-align: center;
 }
+.report-title {
+	display: inline-block;
+	max-width: 64ch;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+	vertical-align: bottom;
+}
