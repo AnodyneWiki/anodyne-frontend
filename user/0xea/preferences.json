@@ -26,6 +26,10 @@
       "Url": "https://en.wikipedia.org/wiki/User:0xea-mew"
     },
     {
+      "Name": "Reddit",
+      "Url": "https://reddit.com/user/im_0xea"
+    },
+    {
       "Name": "Telegram",
       "Url": "@im_0xea"
     },
@@ -51,7 +55,7 @@
     ],
     "Attributes": [
       "{wkp 'autism spectrum disorder' 'autism'} (diagnosed)",
-      "{wkp 'transgender'} (male to female since May 2023; injecting {sub 'estradiol'} esters weekly)",
+      "{wkp 'transsexual'} ({wkp 'Trans woman' 'male to female'} since May 2023; injecting {sub 'estradiol'} esters weekly)",
       "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'})",
       "{wkp 'self-destructive behaviour'} (self-punshing, head-banging, cutting, injecting, overdose)",
       "reaccuring {xeff 'suicidal ideation'} (since ~2018)",
@@ -2403,7 +2407,7 @@
         },
         {
           "Name": "Subcutaneous",
-          "Dosage": "50mcg"
+          "Dosage": "50-100mcg"
         }
       ],
       "Salts": [
@@ -2437,7 +2441,7 @@
             "{xeff 'increased bodily temperature'}",
             "{xeff 'increased perspiration'}",
             "{xeff 'auditory suppression'}",
-            "{xeff 'nausea'}",
+            "{sev 'strong'} {xeff 'nausea'}",
             "{xeff 'dizziness'}",
             "{sev 'strong'} {xeff 'motor controll loss'}"
          ]
@@ -2447,7 +2451,7 @@
           "Dose": "50mcg",
           "Effects": [
             "{sev 'intense'} {xeff 'double vision'}",
-            "{xeff 'nausea?s=vomiting' 'vomiting'}"
+            "{sev 'strong'} {xeff 'nausea?s=vomiting' 'vomiting'}"
           ]
         }
       ],
