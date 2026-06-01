@@ -142,7 +142,8 @@
       ],
       "Notes": [
         "complete loss of touch with reality at 32mg insufflated",
-        "slightly psychotic at that dose but manageable"
+        "slightly psychotic at that dose but manageable",
+        "probably my favorite psychedelic"
       ]
     },
     {
@@ -220,6 +221,28 @@
           "Name": "oral",
           "Dosage": "6-7mg"
         }
+      ],
+      "Effects": [
+        "{xeff 'colour enhancement' 'color enhancement'}",
+        "very little {xeff 'drifting'}",
+        "sharp and colourful {xeff 'tracers'}",
+        "{xeff 'chromatic aberration'}",
+        "sharp edgeds seemed to glow",
+        "{xeff 'increased music appreciation'}",
+        "very little {xeff 'introspection'} in comparison to other psychedelics",
+        "little to no {xeff 'internal hallucination'}"
+      ],
+      "Adverse": [
+        "{xeff 'muscle tension'}",
+        "{sev 'strong'} {xeff 'physical fatigue'} (might just be because i took sildenafil)",
+        "{sev 'strong'} {xeff 'back pain'}",
+        "{xeff 'increased heart rate'}",
+        "{xeff 'sensory overload'} during come up"
+      ],
+      "Notes": [
+        "the first 4h felt exhausting but after that the subtil visual effects were",
+        "very beautiful. visually its comparable to what i experienced after abusing mdma",
+        "for 10h."
       ]
     },
     {
@@ -508,6 +531,24 @@
           "Name": "oral",
           "Dosage": "3mg"
         }
+      ]
+    },
+    {
+      "Name": "Zolpidem",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'sleepiness'}",
+        "{xeff 'motor control loss'}",
+        "{xeff 'sedation'}",
+        "strange visual effects"
+      ],
+      "Notes": [
+        "very little hangover"
       ]
     },
     {
