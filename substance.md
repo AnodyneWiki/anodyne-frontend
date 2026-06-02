@@ -9,9 +9,9 @@
 
 {{range $user := listFiles "/user" -}}
 {{$prefsPath := $user | replace " " "_" | trimPrefix "/" | trimSuffix "/" | lower | printf "/user/%s/preferences.json"}}{{if fileExists $prefsPath -}}
-{{with $pv := include $prefsPath | fromJson}}{{range $trd := $pv.TriedSubstances}}{{if eq (lower $trd.Name) (lower $v.Title | replace "_" " " | replace "%20" " ") -}}
+{{with $pv := include $prefsPath | fromJson}}{{range $trd := $pv.TriedSubstances}}{{if and $trd $trd.Name}}{{if eq (lower $trd.Name) (lower $v.Title | replace "_" " " | replace "%20" " ") -}}
 {{$_ := set $usernotes (ternary "extern" "local" (default false $pv.External)) (append (ternary "extern" "local" (default false $pv.External) | get $usernotes) (dict "User" $pv.Title "External" (default false $pv.External) "trd" $trd)) -}}
-{{end}}{{end}}{{end -}}
+{{end}}{{end}}{{end}}{{end -}}
 {{end -}}
 {{end -}}
 

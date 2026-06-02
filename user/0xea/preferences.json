@@ -2431,7 +2431,8 @@
         "{sev 'moderate'} {xeff 'thought deceleration'}",
         "{sev 'moderate'} {xeff 'tinnitus'}",
         "{xeff 'muscle relaxation'}",
-        "{xeff 'pupil constriction'}"
+        "{xeff 'pupil constriction'}",
+        "{rev} {sev 'moderate'} {xeff 'increased music appreciation'}"
       ],
       "DEffects": [
         {

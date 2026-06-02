@@ -201,6 +201,9 @@ h1, h2, h3 {
 .light {
 	border-bottom: 2px solid #90ee90
 }
+span.reverse {
+	border-bottom: 1px solid #ff3311;
+}
 span.severity-light {
 	border-bottom: 1px solid #90ee90;
 }
@@ -611,6 +614,30 @@ ul[class=FormList] {
 		}
 	}
 }
+/* Placeholders for empty editable trd fields */
+.trdname:empty::before        { content: 'Name'; }
+.trdsalts  > li:empty::before { content: 'Salts'; }
+.trdsource > li:empty::before { content: 'Source'; }
+.trdnotes  > li:empty::before { content: 'Notes'; }
+.trdroutes > li:empty::before { content: 'Routes'; }
+.trdodor   > li:empty::before { content: 'Odor'; }
+.trdname:empty::before,
+.trdsalts  > li:empty::before,
+.trdsource > li:empty::before,
+.trdnotes  > li:empty::before,
+.trdroutes > li:empty::before,
+.trdodor   > li:empty::before {
+  color: grey;
+  font-style: italic;
+  opacity: 0.6;
+  pointer-events: none; /* let clicks fall through to the editable element */
+}
+/* Keep empty fields clickable so the caret can be placed in them */
+.trdname:empty {
+  display: inline-block;
+  min-width: 4em;
+}
+
 #TitleMain {
   min-width: calc(100% - 400px) !important;
   margin-bottom: 0.20em;
@@ -699,8 +726,8 @@ ul[class=FormList] {
 #editpanel {
 	background-color: var(--background-color-interactive-subtle--active);
 	border: 1px solid var(--border-color-base);
-	margin: 1em;
 	padding: 5px;
+	margin-top: 1em;
 	overflow: hidden;
 	font-family: sans-serif;
 }
@@ -709,8 +736,13 @@ ul[class=FormList] {
 	background-color: var(--background-color-progressive,#36c);
 	border-color: var(--background-color-progressive,#36c);
 	font-weight: bold;
-	margin-top: 5px;
-	line-height: 2.5;
+	font-family: inherit;
+	padding-right: 1.5em;
+	padding-left: 1.5em;
+	line-height: 2.25;
+}
+#editcancel {
+	margin-left: 1.5em;
 }
 #editsummary {
 	width: 100%;
@@ -734,4 +766,8 @@ ul[class=FormList] {
 	text-overflow: ellipsis;
 	white-space: nowrap;
 	vertical-align: bottom;
+}
+#TitleMain {
+  white-space: nowrap;
+  overflow-x: auto;
 }
