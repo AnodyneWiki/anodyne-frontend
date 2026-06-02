@@ -2,7 +2,7 @@
 
 {{define "UserAbout" -}}{{$v := . -}}
 <div contenteditable={{$v.Editable}} id=userabout class=UserAbout>{{$v := . -}}
-{{- with $v.About}}{{template "user" .}}{{end -}}
+{{- with $v.About}}{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}{{end -}}
 {{/* if $v.Birth}}{{$cLen := toDate "2006-01" $v.Birth | ago | splitList "h" | first | add 240}}This <em>organism</em> {{if $v.Deceased}}{{$dLen := toDate "2006-01" $v.Deceased | ago | splitList "h" | first}}{{$cLen = sub $cLen $dLen}}<em>lived</em>{{else}}has been <em>living</em>{{end}} for ~{{divf (divf (div $cLen 24) 365 | mulf 10 | int) 10}} <em> years</em> / ~{{div $cLen 24 }} <em>days</em> / ~{{$cLen}} <em>hours</em>.{{end}} */}}
 </div>
 {{- end}}
@@ -12,11 +12,12 @@
 {{define "UserRefs"}}{{$v := . -}}
 {{if $v.Links -}}
 <div class="collapser ContactList">
-<h2 contenteditable=false>Contact<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" .Collapse}}</span></h2>
+<h2 contenteditable=false>Contact&nbsp;{{template "pexnd" .Collapse}}</h2>
 <div class=collapserContent><ul id=usercontactlist>{{range $v.Links -}}
-{{if contains "true" $v.Editable -}}
-<li contenteditable={{$v.Editable}}>&lt;b&gt;{{.Name}}&lt;b&gt;: {{.Url}}</li>{{else}}
-<li><strong contenteditable={{$v.Editable}}>{{.Name}}</strong>: <span contenteditable={{$v.Editable}}>{{template "UserLink" .Url}}</span></li>{{end -}}
+{{if eq $v.Editable "true" -}}
+<li contenteditable=false><strong contenteditable={{$v.Editable}} class=linkname>{{.Name}}</strong>: <span contenteditable={{$v.Editable}} class=linkurl>{{.Url}}</span></li>
+{{- else -}}
+<li contenteditable=false><strong contenteditable={{$v.Editable}} class=linkname>{{.Name}}</strong>: <span contenteditable={{$v.Editable}} class=linkurl>{{template "UserLink" .Url}}</span></li>{{end -}}
 {{end -}}
 </ul></div>
 </div>
@@ -38,13 +39,11 @@
 {{end}}
 
 {{define "UserClasses"}}{{$v := . -}}
-{{/*<div class=collapser>*/}}<h2 contenteditable=false>Substance Index<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">{{/*&nbsp;{{template "exnd" .Collapse}}</span>*/}}</h2>
-{{/*<div class=collapserContent>*/}}
+<div class=collapser><h2 contenteditable=false>Substance Index&nbsp;{{template "pexnd" .Collapse}}</h2>
+<div class=collapserContent>
 <div class="ranklist">
-{{/*<table><tr>
-<th>Compound</th><th>Structure</th><th>Notes</th></tr>*/}}
 {{range $sub := $v.TriedSubstances}}
-<tr>{{template "fnoterow" (dict "v" $v "utrd" (dict "trd" $sub) "External" (default false $v.External))}}</tr>
+{{template "fnoterow" (dict "v" $v "utrd" (dict "trd" $sub) "External" (default false $v.External))}}
 {{end -}}
-</div>{{/*</div></div>*/}}
+</div></div>
 {{end}}

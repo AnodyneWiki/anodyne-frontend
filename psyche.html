@@ -2,7 +2,8 @@
 {{$v := .}}
 {{with $p:= .Psyche -}}
 <div class=collapser><h2>Psyche<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
-<div class=collapserContent><ul>
+<div class=collapserContent>
+<h3>Attributes</h3><ul id=userattributes>
 {{with $at := .Attributes -}}
 {{range .}}<li contenteditable={{$v.Editable}} class=userattribute>{{template "user" .}}</li>{{end}}</ul>{{end}}
 {{with $d := .Dissociation -}}
@@ -25,7 +26,7 @@
 <h3>Interests</h3>
 <ul id=userinterests>
 {{range .}}
-<li contenteditable={{$v.Editable}} class=userinterest>{{template "user" .}}</li>{{end}}</ul>
+<li contenteditable={{$v.Editable}} class=userinterest>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</li>{{end}}</ul>
 {{end}}
 </div></div>
 {{end}}

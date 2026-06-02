@@ -4,8 +4,10 @@
 {{import "missing.html"}}
 {{import "article.html"}}
 {{if fileExists $prefsPath | not}}
-	{{- template "missing" (dict "Type" "user" "Title" $title)}}
+	{{/*- template "missing" (dict "Type" "user" "Title" $title)*/}}
+	{{- $v := dict "Title" (ternary $title "Title" (eq $title "form" | not)) "Name" (list "Name1" "Name2") "About" "{p}I like drugs.{Ep}" "Birth" "2000-01" "Location" "Earth" "Links" (list (dict "Name" "Link" "Url" "Url")) "Psyche" (dict "Interests" (list "Drugs") "Attributes" (list "Likes drugs too much") ) }}
+	{{template "article" (dict "Title" $title "Editable" "true" "Class" "fuserarticle" "Markdown" "user.md" "Vars" $v ) }}
 {{else}}
 	{{- $v := include $prefsPath | fromJson | merge | default (dict)}}
-{{template "article" (dict "Title" (printf "%s" $title) "Editable" "true" "Class" "fuserarticle" "Markdown" "user.md" "Vars" $v ) }}
+{{template "article" (dict "Title" $title "Editable" "true" "Class" "fuserarticle" "Markdown" "user.md" "Vars" $v ) }}
 {{end}}
