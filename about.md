@@ -24,7 +24,7 @@
         </ul>
 </div>
 <div style="min-width: 50%; max-width: 75%; margin-right: 10px">
-<h2>Welcome to <span style="word-break: keep-all; font-family: Inter, sans-serif; font-weight: 600;">Anodyne<span style="font-weight: 200">Wiki</span></span></h2>
+<h2>Welcome to {{template "logo"}}</h2>
 
 {{/* template "imgbox" (dict "src" "/assets/funsies.png" "padding" "0px" "background" "black" "width" "200px") */}}
 
@@ -89,7 +89,7 @@ We do not take any responsibility for medical complications or loss of life sust
             <li><a href=/user/x86pup>x86pup</a></li>
             <li><a href=/user/mere>mere</a></li>
             <li><a href=/user/alina>alina</a></li>
-            <li>(your page could be here)</li>
+            <li><a href=/form>create new userpage</li>
         </div>
     </ul>
 </div>
