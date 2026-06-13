@@ -4,7 +4,7 @@
     "Xea",
     "Christie"
   ],
-  "About": "{p}Hyia~!,{Ep}{p}I am the creator of AnodyneWiki.{Ep}{p}I spend a year moderating PsychonautWiki before my contributions got anonymized for calling out the abusive and inproper conduct coming from several moderators and the admin.{Ep}{p}Feel free to chat me up! <3{Ep}",
+  "About": "{p}Hyia~!,{Ep}{p}I am the creator of AnodyneWiki.{Ep}{p}I spend a year moderating PsychonautWiki before a falling out with the rest of the moderation team.{Ep}{p}Feel free to chat me up! <3{Ep}",
   "Birth": "2005-02",
   "Location": "Germany",
   "Weight": [ "2026: 74kg" ],
@@ -59,7 +59,7 @@
       "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'})",
       "{wkp 'self-destructive behaviour'} (self-punshing, head-banging, cutting, injecting, overdose)",
       "reaccuring {xeff 'suicidal ideation'} (since ~2018)",
-      "{roa 'intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; abstinent 88 days; periods of {xeff 'wakefulness'} up to 6+ days)",
+      "{roa 'intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; abstinent 108 days; periods of {xeff 'wakefulness'} up to 6+ days)",
       "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'})"
     ]
   },
@@ -422,7 +422,9 @@
         "{sev 'strong'} {xeff 'vasoconstriction'}",
         "{sev 'moderate'} {xeff 'depression reduction'}",
         "{sev 'moderate'} {xeff 'appetite suppression'} and thirst suppression",
-        "acute relief of {xeff 'constipation'}"
+        "acute relief of {xeff 'constipation'}",
+        "{sev 'strong'} {xeff 'headache'} suppression",
+        "{xeff 'addiction suppression'} (helps discontinue {sub 'nicotine'} and {sub 'diacetylmorphine'} addiction at the cost of amphetamine addiction)"
       ],
       "Adverse": [
         "{sev 'strong'} {wkp 'addiction'} (+44g consumed; compulsive drug seeking on the street)",
@@ -436,6 +438,21 @@
         "{xeff 'increased heart rate'} (160+ bpm)",
         "{xeff 'increased blood pressure'}",
         "{wkp 'bells palsy' 'face dropping'} and {sev 'moderate'} numbing of sensations on the right side of my body"
+      ],
+      "After": [
+        "{xeff 'feelings of impending doom'} (for 1-3 days)",
+        "{xeff 'panic attack'} (for 1-3 days)",
+        "{xeff 'depression'}",
+        "{xeff 'motivation suppression'} (for 1-2 weeks)",
+        "{xeff 'nausea'}",
+        "{xeff 'nausea?s=vomiting' 'vomiting'}"
+      ],
+      "Odor": [
+        "freebase smells strongly of rotten fish",
+        "pristine sulfate is practically odorless"
+      ],
+      "Notes": [
+        "intravenously quite practical {class 'stimulant'}"
       ]
     },
     {
@@ -535,12 +552,14 @@
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{xeff 'increased libido'}",
         "without tolerance {sev 'strong'} {xeff 'depression reduction'}",
-        "acute relief of constipation"
+        "acute relief of constipation",
+        "{sev 'strong'} {xeff 'headache'} suppression"
       ],
       "Adverse": [
         "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
         "{xeff 'headache'}",
         "{xeff 'psychosis'}",
+        "{xeff 'unspeakable horrors'}",
         "{xeff 'shadow people'} (friendly shadow person doing code-review)",
         "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)",
         "{xeff 'autonomous entity'} (hallucination of a man sitting in a chair next to me taunting me; pieces of dust manifesting as hallucinations of spider like creatures)",
@@ -622,6 +641,7 @@
         "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
         "{xeff 'headache'}",
         "{xeff 'psychosis'}",
+        "{xeff 'unspeakable horrors'}",
         "{xeff 'shadow people'}",
         "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)",
         "{xeff 'autonomous entity'} (hallucination of a man sitting in a chair next to me taunting me; pieces of dust manifesting as hallucinations of spider like creatures)",
@@ -712,6 +732,9 @@
       "Adverse": [
         "{xeff 'anxiety'} (above 100mg)",
         "{xeff 'panic attack'} (above 100mg)"
+      ],
+      "Odor": [
+        "freebase distinct atypical yet uniquely nasty amine type smell"
       ]
     },
     {
@@ -826,6 +849,7 @@
         " {xeff 'dream potentiation'} (disturbing vivid dreams)",
         "{xeff 'psychosis'}",
         "{xeff 'amnesia'}",
+        "{xeff 'unspeakable horrors'}",
         "{xeff 'perspective hallucination'} (shift in perception as if looking at everything through a different perspective and setting)",
         "{sev 'intense'} distress and fear of being alone, the darkness and being damaged",
         "multi-layer {wkp 'sleep paralysis'}",
@@ -916,6 +940,9 @@
       "Salts": [
         "Hydrochloride"
       ],
+      "Sources": [
+        "3-FMC: Research-chemical-vendor Netherlands"
+      ],
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
@@ -999,7 +1026,7 @@
         "{sev 'intense'} {xeff 'depression reduction'}"
       ],
       "Odor": [
-        "cat piss"
+        "hydrochloride cat piss. likely through contamination not the substance itself."
       ]
     },
     {
@@ -1653,6 +1680,29 @@
       ]
     },
     {
+      "Name": "4-Propionyloxy-N-methyl-N-ethyltryptamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "20mg",
+          "Onset": "45 minutes",
+          "Comeup": "30 minutes",
+          "Duration": "5-6 hours"
+        }
+      ],
+      "Effects": [
+        "{xeff 'geometry'}",
+        "{sev 'moderate'} {xeff 'teeth grinding'}",
+        "{xeff 'visual acuity enhancement'}",
+        "{xeff 'emotion intensification'}",
+        "background humming",
+        "{xeff 'unspeakable horrors'}"
+      ],
+      "Notes": [
+        "bad trip"
+      ]
+    },
+    {
       "Name": "Melatonin",
       "Routes": [
         {
@@ -2239,7 +2289,10 @@
         }
       ],
       "After": [
-        "{xeff 'constipation'}"
+        "{xeff 'constipation'}",
+        "pain sensitization",
+        "{xeff 'depression'}",
+        "{wkp 'opioid withdrawal'}"
       ],
       "Notes": [
         "generally has a negative impact on productivity and long-term wellbeing but can be helpful in change of perspective and acute coping",
@@ -2403,7 +2456,7 @@
           "Onset": "5-10 seconds",
           "Comeup": "30 seconds",
           "Duration": "60-120 minutes",
-          "Dosage": "15-50mcg"
+          "Dosage": "15-100mcg"
         },
         {
           "Name": "Subcutaneous",
@@ -2411,20 +2464,23 @@
         }
       ],
       "Salts": [
-        "D-Tartrate"
+        "D-Tartrate",
+        "Citrate"
       ],
       "Indication": [
         "pain",
         "{xeff 'anxiety'}",
+        "{xeff 'panick attack'}",
         "fear of abandonment"
       ],
       "Sources": [
         "Fentanyl: DNM Germany"
       ],
       "Effects": [
-        "{sev 'strong'} {xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'wakefulness'}",
         "{sev 'strong'} {xeff 'anxiety suppression'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'pain relief'}",
         "{xeff 'disinhibition'}",
         "{sev 'moderate'} {xeff 'analysis suppression'}",
         "{xeff 'perception of bodily heaviness'}",
@@ -2432,7 +2488,10 @@
         "{sev 'moderate'} {xeff 'tinnitus'}",
         "{xeff 'muscle relaxation'}",
         "{xeff 'pupil constriction'}",
-        "{rev} {sev 'moderate'} {xeff 'increased music appreciation'}"
+        "{rev} {sev 'moderate'} {xeff 'increased music appreciation'}",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{xeff 'addiction suppression'} (helps discontinue nicotine addiction at the cost of fentanyl addiction)",
+        "doesn't help while experiencing a bad trip"
       ],
       "DEffects": [
         {
@@ -2442,9 +2501,9 @@
             "{xeff 'increased bodily temperature'}",
             "{xeff 'increased perspiration'}",
             "{xeff 'auditory suppression'}",
-            "{sev 'strong'} {xeff 'nausea'}",
+            "{sev 'moderate'} {xeff 'motivation enhancement'} (weirdly helps with productivity and tedious physical work)",
             "{xeff 'dizziness'}",
-            "{sev 'strong'} {xeff 'motor controll loss'}"
+            "{sev 'strong'} {xeff 'motor control loss'} (struggle to type correctly)"
          ]
         },
         {
@@ -2452,12 +2511,21 @@
           "Dose": "50mcg",
           "Effects": [
             "{sev 'intense'} {xeff 'double vision'}",
-            "{sev 'strong'} {xeff 'nausea?s=vomiting' 'vomiting'}"
+            "{sev 'strong'} {xeff 'nausea'}",
+            "{sev 'strong'} {xeff 'nausea?s=vomiting' 'vomiting'}",
+            "{sev 'strong'} {xeff 'sedation'} (often resulting in loss of conciousness)"
           ]
         }
       ],
+      "After": [
+        "{xeff 'constipation'}",
+        "{sev 'moderate'} {xeff 'motor control loss'} (1-2 days)",
+        "{xeff 'muscle tension'}",
+        "pain sensitization"
+      ],
       "Notes": [
-        "intravenously using volumetric liquid dosing only"
+        "intravenously using volumetric liquid dosing only. eyeballing or measuring out single injections would likely be deadly.",
+        "intravenous injection of unsanitary solution repeatedly lead to the development of soars all around my body(unrelated to venipuncture)"
       ]
     },
     {
@@ -2915,11 +2983,12 @@
         },
         {
           "Name": "Intravenous",
-          "Dosage": "50mg"
+          "Dosage": "50-110mg"
         }
       ],
       "Salts": [
-        "Freebase"
+        "Freebase",
+        "D-Tartrate"
       ],
       "Indication": "{xeff 'anxiety'}",
       "Effects": [
@@ -3427,6 +3496,7 @@
     },
     {
       "Name": "Kratom",
+      "Composite": true,
       "Routes": [
         {
           "Name": "Oral"
@@ -3441,6 +3511,7 @@
     },
     {
       "Name": "Tobacco",
+      "Composite": true,
       "Routes": [
         {
           "Name": "Vaporized"
@@ -3466,6 +3537,7 @@
     },
     {
       "Name": "Damiana",
+      "Composite": true,
       "Routes": [
         {
           "Name": "Vaporized"
@@ -3475,6 +3547,7 @@
     },
     {
       "Name": "Cannabis",
+      "Composite": true,
       "Routes": [
         {
           "Name": "Vaporized"
@@ -3501,6 +3574,7 @@
     },
     {
       "Name": "Coffea",
+      "Composite": true,
       "Routes": [
         {
           "Name": "Oral"
@@ -3513,5 +3587,7 @@
         "{sev 'light'} {xeff 'wakefulness'}"
       ]
     }
-  ]
+  ],
+  "SubstanceMatrixCellW": "50px",
+  "SubstanceMatrixCellH": "50px"
 }

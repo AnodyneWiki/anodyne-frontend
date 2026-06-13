@@ -853,6 +853,7 @@
     },
     {
       "Name": "Kratom",
+      "Composite": true,
       "Routes": [
         {
           "Name": "oral",
@@ -862,6 +863,7 @@
     },
     {
       "Name": "Tobacco",
+      "Composite": true,
       "Routes": [
         {
           "Name": "vaporized"
@@ -870,6 +872,7 @@
     },
     {
       "Name": "Cannabis",
+      "Composite": true,
       "Routes": [
         {
           "Name": "vaporized"

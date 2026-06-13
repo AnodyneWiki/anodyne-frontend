@@ -525,7 +525,8 @@
             ]
         },
         {
-            "Name": "Mitragynine",
+            "Name": "Kratom",
+            "Composite": true,
             "Routes": [
                 {
                     "Name": "oral"

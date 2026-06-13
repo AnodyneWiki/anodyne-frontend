@@ -197,6 +197,7 @@
     },
     {
       "Name": "Opium",
+      "Composite": true,
       "Routes": [
         {
           "Name": "Oral",
@@ -283,7 +284,8 @@
       "Name": "Metonitazepyne"
     },
     {
-      "Name": "Kratom"
+      "Name": "Kratom",
+      "Composite": true
     },
     {
       "Name": "Fentanyl"

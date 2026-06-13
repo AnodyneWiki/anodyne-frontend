@@ -996,16 +996,6 @@
       "Notes": ""
     },
     {
-      "Name": "Kratom",
-      "Routes": [
-        {
-          "Name": "Oral"
-        }
-      ],
-      "Salts": [],
-      "Notes": ""
-    },
-    {
       "Name": "7-Hydroxymitragynine",
       "Routes": [
         {
@@ -1281,6 +1271,17 @@
     },
     {
       "Name": "Toluene",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
+    },
+    {
+      "Name": "Kratom",
+      "Composite": true,
       "Routes": [
         {
           "Name": "Oral"
