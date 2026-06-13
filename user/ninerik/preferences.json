@@ -1,0 +1,123 @@
+{
+    "Title": "ninerik",
+    "Name": [
+        "Hakon",
+        "HF",
+        "Ninerik",
+        "Ninn"
+    ],
+    "About": "{p}HELLOOoooo, anyone there? No?{Ep}{p}Silence ueh? I wonder how long its been. {Ep}{p}Months, years even?{Ep}",
+    "Birth": "2007-01",
+    "Location": "Norway",
+    "Links": [
+        {
+            "Name": "Discord",
+            "Url": "hakonfors"
+        },
+        {
+            "Name": "Signal",
+            "Url": "ninerik.55"
+        }
+    ],
+    "TriedSubstances": [
+        {
+            "Name": "Caffeine",
+            "Source": [
+                "Energy drinks",
+                "workplace coffee machine"
+            ],
+            "Effects": [
+                "{xeff 'stimulation'}",
+                "{xeff 'wakefulness'}",
+                "{xeff 'increased-heart-rate'}",
+                "{xeff 'increased-perspiration'}",
+                "{xeff 'frequent-urination'}",
+                "{wkp 'addiction'} (since the start of 2026)"
+            ]
+        },
+        {
+            "Name": "Amphetamine",
+            "Sources": [
+                "DNM: Speed (pink discoleration)"
+            ],
+            "Effects": [
+                "{xeff 'stimulation'}",
+                "{xeff 'wakefulness'}",
+                "{xeff 'vasoconstriction'}",
+                "{xeff 'appetite suppression'}",
+                "{xeff 'increased-perspiration'}",
+                "{xeff 'increased heart rate'}",
+                "{xeff 'drifting'} when heavily de-hydrated"
+            ]
+        },
+        {
+            "Name": "2,5-Dimethoxy-4-bromophenethylamine",
+            "Source": [
+                "Batman"
+            ],
+            "Effects": [
+                "{xeff 'nausea'} fading as peak comes",
+                "{xeff 'pupil-dilation'}",
+                "{xeff 'tactile-enhancement'}",
+                "{xeff 'laughter-fits'}",
+                "{xeff 'geometry'}",
+                "{xeff 'transformations'}",
+                "{xeff 'colour-enhancement'}",
+                "{xeff 'time-distortion'}",
+                "{xeff 'auditory-hallucination'}"
+            ],
+            "DEffects": [
+              {
+                "Route": "Oral",
+                "Effects": [
+                  "{sev 'light'} {xeff 'teeth-grinding'}"
+                ]
+              },
+              {
+                "Route": "Insufflated",
+                "Effects": [
+                  "{sev 'strong'} {xeff 'teeth-grinding'}",
+                  "{sev 'strong'} {xeff 'shakiness'}"
+                ]
+              }
+            ],
+            "Notes": [
+                "Written when on 9mg 2C-B ^-^"
+            ]
+        },
+        {
+            "Name": "Cetirizine",
+            "Source": [
+                "Pharmacy"
+            ],
+            "Indication": [
+                "allergies"
+            ],
+            "Effects": [
+                "{wkp 'antihistamine'}"
+            ]
+        },
+        {
+            "Name": "Ethanol"
+        },
+        {
+            "Name": "Ketamine"
+        }
+    ],
+    "Psyche": {
+        "Interests": [
+            "drugs",
+            "gaming",
+            "collecting art books",
+            "{wkp 'minesweeper (video game)'}",
+            "{wkp 'machining'}",
+            "{wkp 'CNC machining'}",
+            "working overtime"
+        ],
+        "Attributes": [
+            "{wkp 'adhd'} (Diagnosed)",
+            "{wkp 'high-functioning autism'} (Diagnosed)",
+            "{wkp 'workaholic'}"
+        ]
+    }
+}
