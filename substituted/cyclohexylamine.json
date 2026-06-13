@@ -1,9 +1,15 @@
 {
   "Name": "cyclohexylamine",
   "Entries": [
+    {
+      "Title": "Memantine",
+      "Abr": null,
+      "MW": "179.30 g/mol"
+    }
   ],
   "Parent": "cycloalkylamine",
   "Children": [
+
   ],
   "First": {
     "Title": "Cyclohexylamine",

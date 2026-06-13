@@ -1,0 +1,40 @@
+{
+  "Name": "nitazepyne",
+  "Entries": [
+    {
+      "Title": "Metonitazepyne",
+      "Abr": null,
+      "MW": "380.4 g/mol"
+    },
+    {
+      "Title": "Etonitazepyne",
+      "Abr": null,
+      "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "Protonitazepyne",
+      "Abr": null,
+      "MW": "408.5 g/mol"
+    },
+    {
+      "Title": "Etodesnitazepyne",
+      "Abr": null,
+      "MW": "349.5 g/mol"
+    },
+    {
+      "Title": "Isotonitazepyne",
+      "Abr": null,
+      "MW": "408.5 g/mol"
+    },
+    {
+      "Title": "Fluetonitazepyne",
+      "Abr": null,
+      "MW": "412.5 g/mol"
+    }
+  ],
+  "Parent": "nitazene",
+  "Analogues": [
+    "nitazepipne"
+  ],
+  "Wikipedia": "List of benzimidazole opioids"
+}

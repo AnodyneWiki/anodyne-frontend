@@ -56,7 +56,9 @@
     },
     {
       "Title": "Phenylalanine",
-      "Abr": "Phe",
+      "Abr": [
+        "Phe"
+      ],
       "MW": "165.19 g/mol"
     },
     {
@@ -76,7 +78,9 @@
     },
     {
       "Title": "Histidine",
-      "Abr": "His",
+      "Abr": [
+        "His"
+      ],
       "MW": "155.15 g/mol"
     },
     {
@@ -143,7 +147,9 @@
     },
     {
       "Title": "Threonine",
-      "Abr": "Thr",
+      "Abr": [
+        "Thr"
+      ],
       "MW": "119.12 g/mol"
     },
     {
@@ -232,13 +238,6 @@
       "Title": "Ergocornine",
       "Abr": [],
       "MW": "561.7 g/mol"
-    },
-    {
-      "Title": "L-3,4-Dihydroxyphenylalanine",
-      "Abr": [
-        "L-DOPA"
-      ],
-      "MW": "197.19 g/mol"
     },
     {
       "Title": "Remifentanil",

@@ -36,7 +36,10 @@
     },
     {
       "Title": "5-Methoxy-2-aminoindane",
-      "Abr": null,
+      "Abr": [
+        "MEAI",
+        "5-MeO-AI"
+      ],
       "MW": "163.22 g/mol"
     },
     {

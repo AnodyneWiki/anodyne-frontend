@@ -31,7 +31,9 @@
     },
     {
       "Title": "α-Pyrrolidinobutiophenone",
-      "Abr": "α-PBP",
+      "Abr": [
+        "α-PBP"
+      ],
       "MW": "217.31 g/mol"
     },
     {
@@ -152,6 +154,13 @@
       "Title": "3',4'-Ethylene-α-pyrrolidinopentiophenone",
       "Abr": [],
       "MW": "257.37 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinocyclohexanophenone",
+      "Abr": [
+        "α-PCyP"
+      ],
+      "MW": "271.4 g/mol"
     }
   ],
   "Analogues": [

@@ -1,0 +1,199 @@
+{
+  "Name": "nitazene",
+  "Abr": "zenes",
+  "Entries": [
+    {
+      "Title": "Metonitazene",
+      "Abr": null,
+      "MW": "382.5 g/mol"
+    },
+    {
+      "Title": "Etonitazene",
+      "Abr": null,
+      "MW": "396.5 g/mol"
+    },
+    {
+      "Title": "Clonitazene",
+      "Abr": null,
+      "MW": "386.9 g/mol"
+    },
+    {
+      "Title": "Isotonitazene",
+      "Abr": null,
+      "MW": "410.5 g/mol"
+    },
+    {
+      "Title": "Protonitazene",
+      "Abr": null,
+      "MW": "410.5 g/mol"
+    },
+    {
+      "Title": "Secbutonitazene",
+      "Abr": null,
+      "MW": "424.5 g/mol"
+    },
+    {
+      "Title": "Desnitazene",
+      "Abr": null,
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "Metodesnitazene",
+      "Abr": null,
+      "MW": "337.5 g/mol"
+    },
+    {
+      "Title": "Etodesnitazene",
+      "Abr": null,
+      "MW": "351.5 g/mol"
+    },
+    {
+      "Title": "Protodesnitazene",
+      "Abr": null,
+      "MW": "365.5 g/mol"
+    },
+    {
+      "Title": "Isotodesnitazene",
+      "Abr": null,
+      "MW": "365.5 g/mol"
+    },
+    {
+      "Title": "Desnitroclonitazene",
+      "Abr": null,
+      "MW": "341.9 g/mol"
+    },
+    {
+      "Title": "Nitazene",
+      "Abr": null,
+      "MW": "352.4 g/mol"
+    },
+    {
+      "Title": "Dimetonitazene",
+      "Abr": null,
+      "MW": "412.5 g/mol"
+    },
+    {
+      "Title": "N-Desethyletonitazene",
+      "Abr": null,
+      "MW": "368.4 g/mol"
+    },
+    {
+      "Title": "N-Desethylisotonitazene",
+      "Abr": null,
+      "MW": "382.5 g/mol"
+    },
+    {
+      "Title": "Etomethazene",
+      "Abr": null,
+      "MW": "365.5 g/mol"
+    },
+    {
+      "Title": "6-Methyldesnitroetonitazene",
+      "Abr": null,
+      "MW": "365.5 g/mol"
+    },
+    {
+      "Title": "Etotriflazene",
+      "Abr": null,
+      "MW": "419.5 g/mol"
+    },
+    {
+      "Title": "Etocyanozene",
+      "Abr": null,
+      "MW": "376.5 g/mol"
+    },
+    {
+      "Title": "Etoacetazene",
+      "Abr": null,
+      "MW": "393.5 g/mol"
+    },
+    {
+      "Title": "N,N-Dimethyletonitazene",
+      "Abr": null,
+      "MW": "368.4 g/mol"
+    },
+    {
+      "Title": "N-Desethylprotonitazene",
+      "Abr": null,
+      "MW": "382.5 g/mol"
+    },
+    {
+      "Title": "Butonitazene",
+      "Abr": null,
+      "MW": "424.5 g/mol"
+    },
+    {
+      "Title": "Isobutonitazene",
+      "Abr": null,
+      "MW": "424.5 g/mol"
+    },
+    {
+      "Title": "Etoetonitazene",
+      "Abr": null,
+      "MW": "440.5 g/mol"
+    },
+    {
+      "Title": "Fluetonitazene",
+      "Abr": null,
+      "MW": "414.5 g/mol"
+    },
+    {
+      "Title": "Flunitazene",
+      "Abr": null,
+      "MW": "370.4 g/mol"
+    },
+    {
+      "Title": "Bronitazene",
+      "Abr": null,
+      "MW": "431.3 g/mol"
+    },
+    {
+      "Title": "Menitazene",
+      "Abr": null,
+      "MW": "366.5 g/mol"
+    },
+    {
+      "Title": "Enitazene",
+      "Abr": null,
+      "MW": "380.5 g/mol"
+    },
+    {
+      "Title": "Propylnitazene",
+      "Abr": [
+        "PPZ"
+      ],
+      "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "t-Butylnitazene",
+      "Abr": null,
+      "MW": "408.5 g/mol"
+    },
+    {
+      "Title": "Acetoxynitazene",
+      "Abr": null,
+      "MW": "410.5 g/mol"
+    },
+    {
+      "Title": "Methionitazene",
+      "Abr": null,
+      "MW": "398.5 g/mol"
+    },
+    {
+      "Title": "Ethylthionitazene",
+      "Abr": null,
+      "MW": "412.6 g/mol"
+    },
+    {
+      "Title": "2-Benzyl-1-ethylaminebenzimidazole",
+      "Abr": null,
+      "MW": "251.33 g/mol"
+    }
+  ],
+  "Parent": "benzimidazole",
+  "Children": [
+    "nitazepyne",
+    "nitazepipne"
+  ],
+  "Wikipedia": "List of benzimidazole opioids"
+}

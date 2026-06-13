@@ -1,0 +1,20 @@
+{
+  "Name": "nitazepipne",
+  "Entries": [
+    {
+      "Title": "Etodesnitazepipne",
+      "Abr": null,
+      "MW": "363.5 g/mol"
+    },
+    {
+      "Title": "Etonitazepipne",
+      "Abr": null,
+      "MW": "408.5 g/mol"
+    }
+  ],
+  "Parent": "nitazene",
+  "Analogues": [
+    "nitazepyne"
+  ],
+  "Wikipedia": "List of benzimidazole opioids"
+}
