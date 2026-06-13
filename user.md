@@ -3,7 +3,7 @@
 {{range list "util.html" "userutil.html" "matrix.html" "pics.html" "psyche.html"}}{{import .}}{{end}}
 
 <h1 contenteditable=false><span contenteditable=true id=TitleMain>{{$v.Title}}</span>{{with $v.Name}} (<span id=username contenteditable={{$v.Editable}}>{{template "rcc" .}}</span>){{end}}{{if $v.Deceased}} <span style="font-size: 18px; color: grey;">[deceased]</span>{{end}}</h1>
-<div id=Toolbar><div class="Toolbarleft"><a class=Toolbaritem {{if contains "true" $v.Editable}} href="/user/{{$v.Title}}">Current{{else}} href="#" style="color: var(--color-disabled);">Read{{end}}</a></div><div class=Toolbarright><ul style="display: flex;margin: 0;padding: 0;list-style: none;"><li><a class=Toolbaritem {{if contains "true" $v.Editable}} style="color: var(--color-destructive) !important;" href="/user/{{$v.Title}}">Cancel{{else}} href="/form/{{$v.Title}}">Edit{{end}}</a></li><li style="border-left: 1px var(--color-disabled);"><a class=Toolbaritem href="/api/user/{{lower $v.Title}}">View API</a></li></ul></div></div>
+<div id=Toolbar><div class="Toolbarleft"><a class=Toolbaritem {{if contains "true" $v.Editable}} href="/user/{{$v.Title}}">Current{{else}} href="#" style="color: var(--color-disabled);">Read{{end}}</a></div><div class=Toolbarright><ul class=ToolbarMenu><li><a class=Toolbaritem {{if contains "true" $v.Editable}} style="color: var(--color-destructive) !important;" href="/user/{{$v.Title}}">Cancel{{else}} href="/form/{{$v.Title}}">Edit{{end}}</a></li><li class=border-left-disabled>{{if or (not $v.SubType) (eq $v.SubType "form" | not)}}<a class=Toolbaritem href="/api/user/{{lower $v.Title}}">View API</a>{{end}}</li></ul></div></div>
 
 <div id=Infobox>
 <table><tr>
