@@ -1,4 +1,4 @@
-{{range list "util.html" "chemistry.md" "effects.md" "erowid.md" "pharmacology.md" "scheduling.md" "infobox.md" "intro.md" "also.md" "history.md"}}{{import .}}{{end -}}
+{{range list "util.html" "chemistry.md" "effects.md" "reports.md" "pharmacology.md" "scheduling.md" "infobox.md" "intro.md" "also.md" "history.md"}}{{import .}}{{end -}}
 
 {{$v := index .Args 0 -}}
 {{$_ := set $v "Prefix" "substance" -}}
@@ -16,7 +16,7 @@
 {{end -}}
 
 <h1 id=TitleMain>{{$v.Title}}</h1>
-<div id=Toolbar><div class="Toolbarleft"><a class=Toolbaritem {{if contains "true" $v.Editable}} href="/{{$v.Prefix}}/{{$v.Title}}">Current{{else}} href="#" style="color: var(--color-disabled);">Read{{end}}</a></div><div class=Toolbarright><ul style="display: flex;margin: 0;padding: 0;list-style: none;"><li><a class=Toolbaritem {{if contains "true" $v.Editable}} style="color: var(--color-destructive) !important;" href="/{{$v.Prefix}}/{{$v.Title}}">Cancel{{else}} href="/substance/{{$v.Title}}">Edit{{end}}</a></li><li style="border-left: 1px var(--color-disabled);"><a class=Toolbaritem href="/api/{{$v.Prefix}}/{{$v.Title}}">View API</a></li></ul></div></div>
+<div id=Toolbar><div class="Toolbarleft"><a class=Toolbaritem {{if contains "true" $v.Editable}} href="/{{$v.Prefix}}/{{$v.Title}}">Current{{else}} href="#" style="color: var(--color-disabled);">Read{{end}}</a></div><div class=Toolbarright><ul class=ToolbarMenu><li><a class=Toolbaritem {{if contains "true" $v.Editable}} style="color: var(--color-destructive) !important;" href="/{{$v.Prefix}}/{{$v.Title}}">Cancel{{else}} href="/substance/{{$v.Title}}">Edit{{end}}</a></li><li class=border-left-disabled><a class=Toolbaritem href="/api/{{$v.Prefix}}/{{$v.Title}}">View API</a></li></ul></div></div>
 
 {{template "infobox" $v}}
 
@@ -26,7 +26,7 @@
 {{template "pharma" $v}}
 
 {{if or (empty $usernotes.local | not) (get $v "Subjective Effects" | empty | not) -}}
-<div class=collapser><h2>Subjective effects<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.2 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
+<div class=collapser><h2>Subjective effects<span class=collapseButtonTight>&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
 <div class=collapserContent>
 {{if get $v "Subjective Effects"}}{{template "subjective" $v}}{{end -}}
 </div></div>
@@ -39,7 +39,7 @@
 {{/*<tr>*/}}{{template "fnoterow" (dict "v" $v "utrd" $utrd)}}{{/*</tr>*/}}{{end -}}
 {{/*</table>*/}}</div></div>{{end}}{{end -}}
 
-{{template "erowid" $v}}
+{{template "reports" $v}}
 {{template "scheduling" $v}}
 {{template "also" $v}}
 {{template "refs" $v}}
