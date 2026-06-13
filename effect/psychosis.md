@@ -40,30 +40,30 @@ Psychosis can arise naturally due to a range of conditions such as {{template "w
 
 Commonly implicated substances typically stem from the {{template "lsb" (dict "alias" "substituted amphetamine" "src" "amphetamine")}} class(notably including {{template "lsb" (dict "alias" "cathinones" "src" "cathinone")}} and {{template "lsb" (dict "alias" "pyrrolidinophenones" "src" "pyrrolidinophenonese")}}), with examples including {{template "lsu" "methamphetamine"}}, {{template "lsu" "cocaine"}}, {{template "lsu" (dict "alias" "α-PVP" "src" "α-pyrrolidinopentiophenone")}}, {{template "lsu" "MDPV"}} or {{template "lsu" (dict "alias" "NEP" "src" "n-ethyl-nor-pentedrone")}}.
 
-{{/*<div style="width: 100%; height: 0px; overflow: hidden;"></div>
+{{/*<div class=spacer></div>
 {{template "imgbox" (dict "src" "/structure/caffeine.svg" "desc" "{sub 'Caffeine'}")}}*/}}
 
 {{/*<strong>Stimulant Withdrawal Psychosis</strong> (AWP)*/}}
 {{/*<h4>{sub 'caffeine>Caffeine</a></h4>
 <strong><a href=https://en.wikipedia.org/wiki/Caffeine-induced_psychosis>Caffeine psychosis</a></strong> or <strong>Caffeine-induced psychosis</strong>*/}}
 
-<div style="width: 100%; height: 0px; overflow: hidden;"></div>
+<div class=spacer></div>
 {{template "imgbox" (dict "src" "/structure/phencyclidine.svg" "desc" "{sub 'phencyclidine' 'PCP'}, a {class 'dissociative'} associated with a high risk of psychosis.")}}
 <h4><a href=/class/dissociative>Dissociatives</a></h4>
-<div style="width: 100%; height: 0px; overflow: hidden;"></div>
+<div class=spacer></div>
 {{template "imgbox" (dict "src" "/structure/1-pentyl-3-(1-naphthoyl)indole.svg" "desc" "{sub '1-pentyl-3-(1-naphthoyl)indole' 'JWH-018'} a {class 'Cannabinoid'} associated with a increased risk of psychosis.")}}
 <h4><a href=/class/cannabinoids>Cannabinoids</a></h4>
 
-<div style="width: 100%; height: 0px; overflow: hidden;"></div>
+<div class=spacer></div>
 
 {{template "imgbox" (dict "src" "/structure/ethanol.svg" "desc" "{sub 'Ethanol'}")}}
 <h4>{{template "lsu" "Ethanol"}} (Alcohol)</h4>
 
 **Alcohol-related psychosis**, {{template "wkp" "Delirium tremens"}} (DTs) or {{template "wkp" "Alcoholic hallucinosis"}}
 
-<div style="width: 100%; height: 0px; overflow: hidden;"></div>
+<div class=spacer></div>
 {{template "imgbox" (dict "src" "/structure/toluene.svg" "desc" "{sub 'Toluene'}")}}
-<div style="width: 100%; height: 0px; overflow: hidden;"></div>
+<div class=spacer></div>
 
 {{template "imgbox" (dict "src" "/structure/haloperidol.svg" "desc" "{sub 'haloperidol' 'Haloperidol'}")}}
 
@@ -71,7 +71,7 @@ Commonly implicated substances typically stem from the {{template "lsb" (dict "a
 Most common treatment for psychosis both acutely and long-term is the administration of typical- or atypical- {{template "lc" (dict "src" "antipsychotic" "alias" "antipsychotics")}} such as {{template "lsu" "haloperidol"}} or {{template "lsu" "olanzapine"}}.
 
 In case of stimulant-psychosis or in case of acute agitation careful use of {{template "lsb" (dict "src" "benzodiazepine" "alias" "benzodiazepines")}} may be helpful.
-<div style="width: 100%; height: 0px; overflow: hidden;"></div>
+<div class=spacer></div>
 
 ## See also
 * [Antipsychotics](/class/antipsychotic)

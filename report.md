@@ -5,7 +5,7 @@
 <div id=Toolbar>
   <div class="Toolbarleft"><a class=Toolbaritem href="/substance/{{$v.Title}}">Back to {{$v.Title}}</a></div>
   <div class=Toolbarright>
-    <ul style="display: flex;margin: 0;padding: 0;list-style: none;">
+    <ul class=ToolbarMenu>
       <li><a class=Toolbaritem href="{{$r.url}}" target="_blank">Original on Reddit</a></li>
     </ul>
   </div>
