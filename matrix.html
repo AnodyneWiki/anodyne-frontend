@@ -1,7 +1,7 @@
 {{define "UserMatrix"}}{{$v := . -}}
-<div class=collapser><h2 contenteditable=false style="width: 100%;">Substance Matrix{{if eq $v.Editable "false"}} ({{len $v.TriedSubstances}}){{end}}<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
+<div class=collapser><h2 contenteditable=false class=full-width>Substance Matrix{{if eq $v.Editable "false"}} ({{len $v.TriedSubstances}}){{end}}<span class=collapseButton>&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
 <div class="collapserContent anodyneUserMatrixStruct" style="max-width: repeat({{default "12" $v.SubstanceMatrixMaxCols}}, {{default "60px" $v.SubstanceMatrixCellW}});">
 {{range $i, $sub := $v.TriedSubstances -}}
-<div {{if lower $sub.Name | replace " " "_" | printf "/structure/%s.svg" | fileExists | not}}style="display: none;"{{end}}><img class=trdmatimg style='width: {{default "60px" $v.SubstanceMatrixCellW}}; height:{{default "60px" $v.SubstanceMatrixCellH}};' alt='' src="/structure/{{replace " " "_" (lower $sub.Name)}}.svg" ></div>{{end -}}
+<div><img class=trdmatimg style='width: {{default "60px" $v.SubstanceMatrixCellW}}; height:{{default "60px" $v.SubstanceMatrixCellH}};' alt='' src="/structure/{{lower $sub.Name | replace " " "_"}}{{if lower $sub.Name | replace " " "_" | printf "/structure/%s.svg" | fileExists}}.svg{{else if lower $sub.Name | replace " " "_" | printf "/structure/%s.jpg" | fileExists}}.jpg{{end}}" ></div>{{end -}}
 </div></div>
 {{end}}

@@ -10,6 +10,11 @@ document.addEventListener('DOMContentLoaded', () => {
 			const clean = (s) => s?.replace(/[\n\t]+/g, ' ').replace(/\s+/g, ' ').trim();
 			const ulList = (el, sel) => Array.from(el.querySelectorAll(`${sel} > li`))
 				.map(li => clean(li.textContent)).filter(Boolean);
+			// Drop fields that are null/undefined, '' or [] so unfilled placeholders
+			// don't get written to the entry.
+			const omitEmpty = (obj) => Object.fromEntries(
+				Object.entries(obj).filter(([, v]) =>
+					v != null && v !== '' && !(Array.isArray(v) && v.length === 0)));
 
 			const data = {
 				Title: clean(document.getElementById('TitleMain')?.textContent),
@@ -22,7 +27,7 @@ document.addEventListener('DOMContentLoaded', () => {
 					Name: clean(li.querySelector('.linkname')?.textContent),
 					Url: clean(li.querySelector('.linkurl')?.textContent)
 				})),
-				TriedSubstances: Array.from(document.querySelectorAll('table.trd')).map(t => ({
+				TriedSubstances: Array.from(document.querySelectorAll('table.trd')).map(t => omitEmpty({
 					Name: clean(t.querySelector('.trdname')?.textContent),
 					Salts: ulList(t, '.trdsalts'),
 					Source: ulList(t, '.trdsource'),

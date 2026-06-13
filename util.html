@@ -1,3 +1,25 @@
+{{define "effecter" -}}
+{{$e := . -}}
+{{$expcls := list (dict "Name" "Physical effects" "Effects" (list "stamina enhancement" "stimulation" "appetite enhancement" "increased libido" "bodily control enhancement" "sedation" "motor control loss" "orgasm suppression" "appetite suppression" "cough suppression" "pain relief" "decreased libido" "nausea suppression" "seizure suppression" "physical disconnection" "spontaneous physical movements" "spatial disorientation" "body odour alteration" "changes in felt gravity" "excessive yawning" "mouth numbing" "perception of bodily heaviness" "pupil dilation" "muscle relaxation" "physical autonomy" "physical euphoria" "pupil constriction" "bronchodilation" "laughter fits" "perception of bodily lightness" "changes in felt bodily form" "gait alteration" "bodily pressures" "dehydration" "water intoxication" "runny nose" "watery eyes" "teeth chattering" "difficulty urinating" "dry mouth" "restless legs" "increased perspiration" "muscle tension" "optical sliding" "respiratory depression" "teeth grinding" "vibrating vision" "shakiness" "frequent urination" "increased salivation" "skin flushing" "stomach cramp" "nausea" "vomiting" "muscle cramp" "physical fatigue" "back pain" "constipation" "diarrhea" "increased phlegm production" "itchiness" "muscle twitching" "photophobia" "stomach bloating" "temporary erectile dysfunction" "headache" "seizure" "serotonin syndrome" "increased bodily temperature" "brain zaps" "dizziness" "temperature regulation suppression" "decreased heart rate" "vasoconstriction" "increased heart rate" "vasodilation" "abnormal heartbeat" "increased blood pressure" "decreased blood pressure" ) "Matches" (list) ) -}}
+{{range $es := $e -}}
+	{{$esp := lower $es | replace "_" " "}}
+	{{range $cl := $expcls -}}
+		{{$match := false}}
+		{{range .Effects -}}
+			{{if contains . $esp -}}
+				{{$match = true -}}
+				{{break -}}
+			{{- end}}
+		{{- end}}
+		{{if eq $match true -}}
+			{{$_ := set $cl "Matches" (append $cl.Matches $es)}}
+			{{break -}}
+		{{- end}}
+	{{- end}}
+{{- end}}
+<li><strong>Effects:</strong>{{range $cl := $expcls}}<ul class=trdeffects><li>{{$cl.Name}}</li><ul>{{range $cl.Matches}}<li>{{template "user" .}}</li>{{end}}</ul></ul>{{end -}}
+{{- end}}
+
 {{define "severity" -}}
 	<span class='severity-{{.}}'>{{.}}</span>
 {{- end}}
@@ -62,13 +84,16 @@
 {{define "exnd" -}}
 	[<label><input name=CollapseCheck type="checkbox" class='{{if eq . "all"}}expand{{else}}collapse{{end}}'></label>]
 {{- end}}
+{{define "cexnd" -}}
+	{{template "exnd" "all"}}
+{{- end}}
 
 {{define "pexnd" -}}
 	<span class=collapseButton style="padding-left: 10px; margin-bottom: 0px;">&nbsp;[<label><input name="CollapseCheck" type="checkbox" class="collapse"></label>]</span>
 {{- end}}
 
 {{define "rexnd" -}}
-	<span class=collapseButton style="float: right;">&nbsp;[<label><input name=CollapseCheck type="checkbox" class='{{if eq . "all"}}expand{{else}}collapse{{end}}'></label>]</span>
+	<span class="collapseButton float-right">&nbsp;[<label><input name=CollapseCheck type="checkbox" class='{{if eq . "all"}}expand{{else}}collapse{{end}}'></label>]</span>
 {{- end}}
 
 {{define "rimgbox" -}}
@@ -77,7 +102,7 @@
 
 <div style="max-width: 258px;" class=Infobox>
 {{define "imgbox" -}}
-	<div style="float: right;" class="infobox">{{template "rimgbox" .}}</div>
+	<div class="infobox float-right">{{template "rimgbox" .}}</div>
 {{- end}}
 </div>
 
@@ -184,25 +209,26 @@
 
 {{define "fnoterow"}}{{$v := .v -}}
 {{with $utrd := .utrd -}}
-<div class=collapser><table class=trd {{if contains "user" $v.Prefix | not}} style="width: calc(100vw - 400px);"{{end}}><tr><th colspan=2 class=InfoboxLabel>{{if contains "user" $v.Prefix | not}}{{if $utrd.External}}(External) {{end -}}
+<div class=collapser><table class=trd {{if contains "user" $v.Prefix | not}} style="width: calc(100vw - 400px);"{{end}}><tr><th colspan=2 class=InfoboxLabel>{{if contains "user" $v.Prefix | not -}}
 <a contenteditable={{$v.Editable}} href='/user/{{$utrd.User}}'>{{$utrd.User}}</a> / {{end}}{{if contains "substance" $v.Prefix}}<strong>{{$utrd.trd.Name}}</strong>{{else -}}
-<a contenteditable={{$v.Editable}} class=trdname href='/substance/{{$utrd.trd.Name}}'>{{$utrd.trd.Name}}</a>{{end}}{{template "rexnd" $v.Collapse -}}
-</th></tr><div class=collapserContent><tr>{{if contains "user" $v.Prefix}}<td class=svg {{if printf "/structure/%s.svg" (lower $utrd.trd.Name | replace " " "_") | fileExists | not -}} style="display: none;"{{end}}><img class=trdimg src='/structure/{{lower $utrd.trd.Name | replace " " "_"}}.svg' /></td>{{end}}<td style="vertical-align: top">
-{{- if empty $utrd.trd.Routes | not}}{{with $utrd.trd.Routes}}<strong>Routes:</strong><ul class=trdroutes>{{range . -}}
-<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{template "froa" .}}</span></li>{{end}}</ul>{{end}}{{end -}}
+<a contenteditable={{$v.Editable}} class=trdname href='/{{if $utrd.trd.Composite}}composite{{else}}substance{{end}}/{{$utrd.trd.Name}}'>{{$utrd.trd.Name}}</a>{{end}}{{template "rexnd" $v.Collapse -}}
+</th></tr><div class=collapserContent><tr>{{if contains "user" $v.Prefix}}<td class=svg {{if and (printf "/structure/%s.svg" (lower $utrd.trd.Name | replace " " "_") | fileExists | not) (printf "/structure/%s.jpg" (lower $utrd.trd.Name | replace " " "_") | fileExists | not) -}} style="display: none;"{{end}}><img class=trdimg src='/structure/{{lower $utrd.trd.Name | replace " " "_"}}{{if printf "/structure/%s.svg" (lower $utrd.trd.Name | replace " " "_") | fileExists}}.svg{{else if printf "/structure/%s.jpg" (lower $utrd.trd.Name | replace " " "_") | fileExists}}.jpg{{else}}{{end}}' /></td>{{end}}<td style="vertical-align: top">
+{{- if empty $utrd.trd.Routes | not}}<strong>Routes:</strong><ul class=trdroutes>{{range $utrd.trd.Routes -}}
+<li><span class=keepclip contenteditable={{$v.Editable}}>{{template "froa" .}}</span></li>{{end}}</ul>{{else if eq $v.Editable "true"}}<strong>Routes:</strong><ul class=trdroutes><li contenteditable=true></li></ul>{{end -}}
 {{with $utrd.trd.Dosages -}}
  at {{template "srca" . -}}
 {{end -}}
 {{with $utrd.trd.Salts -}}<strong>Salts:</strong><ul class=trdsalts>{{range . -}}
-<li>{{title .}}</li>{{end}}</ul>{{end -}}
-{{with $utrd.trd.Sources}}<strong>Source:</strong><ul class=trdsource>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{.}}</span></li>{{end}}</ul>{{end -}}
+<li>{{title .}}</li>{{end}}</ul>{{else}}{{if eq $v.Editable "true"}}<strong>Salts:</strong><ul class=trdsalts><li contenteditable=true></li></ul>{{end}}{{end -}}
+{{with $utrd.trd.Sources}}<strong>Source:</strong><ul class=trdsource>{{range .}}<li><span class=keepclip contenteditable={{$v.Editable}}>{{.}}</span></li>{{end}}</ul>{{else}}{{if eq $v.Editable "true"}}<strong>Source:</strong><ul class=trdsource><li contenteditable=true></li></ul>{{end}}{{end -}}
 {{with $utrd.trd.Indication}}<strong>Indication:</strong><ul>{{if kindIs "string" .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{else}}{{range .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}{{end}}</ul>{{end -}}
-{{with $utrd.trd.Effects}}<strong>Effects:</strong><ul class=trdeffects>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}{{if not $utrd.trd.Adverse}}</ul>{{end}}{{end -}}
-{{with $utrd.trd.Adverse}}{{if not $utrd.trd.Effects}}<strong>Effects:</strong><ul>{{end}}{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}</ul>{{end -}}
-{{with $utrd.trd.DEffects}}{{if not $utrd.trd.Effects}}<strong>Effects:</strong>{{end}}<ul>{{range $d := .}}<li><strong>{{with $d.Route}}{{.}}{{if $d.Dose}} {{end}}{{end}}{{with $d.Dose}}{{.}}{{end}}</strong></li><ul>{{range .Effects}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}</ul></li>{{end}}</ul>{{end -}}
-{{with $utrd.trd.After}}<strong>After Effects:</strong><ul>{{range .}}<li><span style="word-break: keep-all; overflow: clip;" contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}</ul>{{end -}}
-{{with $utrd.trd.Odor}}<strong>Odor:</strong><ul class=trdodor>{{if kindIs "string" .}}<li><span contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{else}}{{range .}}<li><span contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}{{end}}</ul>{{end -}}
-{{with $utrd.trd.Notes}}<strong>Notes:</strong><ul class=trdnotes>{{if kindIs "string" .}}<li><span contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{else}}{{range .}}<li><span contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}{{end}}</ul>{{end -}}
+{{with $utrd.trd.Effects}}<strong>Effects:</strong><ul class=trdeffects>{{range .}}<li><span class=keepclip contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}{{if not $utrd.trd.Adverse}}</ul>{{end}}{{end -}}
+{{with $utrd.trd.Adverse}}{{if not $utrd.trd.Effects}}<strong>Effects:</strong><ul>{{end}}{{range .}}<li><span class=keepclip contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}</ul>{{end -}}
+{{with $utrd.trd.DEffects}}{{if not $utrd.trd.Effects}}<strong>Effects:</strong>{{end}}<ul>{{range $d := .}}<li><strong>{{with $d.Route}}{{.}}{{if $d.Dose}} {{end}}{{end}}{{with $d.Dose}}{{.}}{{end}}</strong></li><ul>{{range .Effects}}<li><span class=keepclip contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}</ul></li>{{end}}</ul>{{end -}}
+{{if and (eq $v.Editable "true") (not $utrd.trd.Effects) (not $utrd.trd.Adverse) (not $utrd.trd.DEffects)}}<strong>Effects:</strong><ul class=trdeffects><li contenteditable=true></li></ul>{{end -}}
+{{with $utrd.trd.After}}<strong>After Effects:</strong><ul>{{range .}}<li><span class=keepclip contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}</ul>{{end -}}
+{{with $utrd.trd.Odor}}<strong>Odor:</strong><ul class=trdodor>{{if kindIs "string" .}}<li><span contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{else}}{{range .}}<li><span contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}{{end}}</ul>{{else}}{{if eq $v.Editable "true"}}<strong>Odor:</strong><ul class=trdodor><li contenteditable=true></li></ul>{{end}}{{end -}}
+{{with $utrd.trd.Notes}}<strong>Notes:</strong><ul class=trdnotes>{{if kindIs "string" .}}<li><span contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{else}}{{range .}}<li><span contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}{{end}}</ul>{{else}}{{if eq $v.Editable "true"}}<strong>Notes:</strong><ul class=trdnotes><li contenteditable=true></li></ul>{{end}}{{end -}}
 </td></tr></div></table></div>{{end -}}
 {{end}}
 
