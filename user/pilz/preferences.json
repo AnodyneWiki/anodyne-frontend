@@ -149,6 +149,14 @@
                 "Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'tracers'} {xeff 'environmental-patterning'} {xeff 'drifting'} {xeff 'colour-enhancement'}",
                 "{xeff 'time-distortion'}"
             ],
+            "DEffects": [
+                {
+                    "Route": "Insufflated",
+                    "Effects": [
+                        "{sev 'strong'} Nose Burn"
+                    ]
+                }
+            ],
             "Adverse": [
                 "{sev 'light'} {xeff 'anxiety'}",
                 "{xeff 'nausea'} that fades away after the comeup"
@@ -366,6 +374,9 @@
         },
         {
             "Name": "Codeine",
+            "Salts": [
+                "phosphate"
+            ],
             "Indication": "{sev 'strong'} pain",
             "Routes": [
                 {
@@ -485,11 +496,15 @@
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "0.3-10mg"
+                    "Dosage": "0.3-100mg"
                 },
                 {
                     "Name": "sublingual",
                     "Dosage": "0.5-5mg"
+                },
+                {
+                    "Name": "rectal",
+                    "Dosage": "1.5mg"
                 }
             ],
             "Effects": [
@@ -638,7 +653,7 @@
                 "very {sev 'light'} {xeff 'emotion-suppression'}; might be helpful with autism or overwhelming emotions"
             ],
             "Notes": [
-                "Consuming ~120mg daliy since 1-2026 because of stress and {xeff 'anxiety'}",
+                "Consuming ~120mg daliy from 1-2026 till 6-2026 because of stress and {xeff 'anxiety'}",
                 "Snorting pregabalin is not worth it, but it will have a stronger peak and shorter duration",
                 "Improves sleep quality",
                 "Might cause {xeff 'memory-suppression'} when consumed regularly at higher doses"
@@ -658,13 +673,20 @@
                 }
             ],
             "Effects": [
-                "{xeff 'sedation'} when consumed orally",
-                "{xeff 'sleepiness'} when consumed orally",
                 "{xeff 'increased-libido'}"
             ],
             "Notes": [
                 "Consumed daliy since 08-2025",
                 "might help with breast growth"
+            ],
+            "DEffects": [
+                {
+                    "Route": "oral",
+                    "Effects": [
+                        "{xeff 'sedation'} when consumed orally",
+                        "{xeff 'sleepiness'} when consumed orally"
+                    ]
+                }
             ]
         },
         {
@@ -893,7 +915,7 @@
                 }
             ],
             "Effects": [
-                "{xeff 'strong'} {xeff 'sleepiness'}",
+                "{sev 'strong'} {xeff 'sleepiness'}",
                 "{xeff 'sedation'}",
                 "{xeff 'motivation-suppression'}",
                 "{sev 'light'} {xeff 'decreased-libido'}"
@@ -992,6 +1014,53 @@
                 "{sev 'strong'} {xeff 'sedation'} and {sev 'strong'} {xeff 'sleepiness'}",
                 "{sev 'light'} {xeff 'nausea'} and {sev 'moderate'} {xeff 'dizziness'}; feeling slightly drunk",
                 "{sev 'light'} {xeff 'dream-potentiation'}"
+            ]
+        },
+        {
+            "Name": "Diphenhydramine",
+            "Indication": "{wkp 'Insomnia'}",
+            "Salts":[
+                "hydrochloride"
+            ],
+            "Routes":[
+                {
+                    "Name": "Oral",
+                    "Dosage": "25.0mg"
+                }
+            ],
+            "Effects":[
+                "{xeff 'sleepiness'}",
+                "{xeff 'sedation'}",
+                "{xeff 'motivation-suppression'}",
+                "{sev 'light'} {xeff 'decreased-libido'}"
+            ],
+            "Notes":[
+                "Less hangover than {sub 'Doxylamine'}",
+                "Shorter half-life compared to {sub 'Doxylamine'}"
+            ]
+        },
+        {
+            "Name": "Oxytocin",
+            "Routes":[
+                {
+                    "Name": "subcutaneous",
+                    "Dosage": "0.125mg"
+                },
+                {
+                    "Name": "insufflated",
+                    "Dosage": ""
+                }
+            ]
+        },
+        {
+            "Name": "Lamotrigine",
+            "Routes":[
+                {
+                    "Name": "Oral",
+                    "Dosage": "25.0mg"
+                }
+            ],
+            "Effects":[
             ]
         }
     ]
