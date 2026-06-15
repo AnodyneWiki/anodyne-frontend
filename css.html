@@ -13,7 +13,7 @@
 		<meta name="twitter:card" content="summary">
 		{{else if eq $v.Title "About" -}}
 		<meta property="og:description" content="A meta-wiki optimized for chemicals affecting biological life-forms and their use and administration and interactions.">
-		<meta property="og:image" content="https://anodyne.wiki/assets/funsies.png">
+		<meta property="og:image" content="https://anodyne.wiki/assets/logo.png">
 		{{else -}}
 		<meta property="og:description" content="{{$v.Title}}{{if $v.ChemicalClasses}} is a {{with $v.Classes}}{{template "rcad" .}} {{end}}substance of the {{template "rcad" $v.ChemicalClasses}} class.{{end}}">
 		<meta property="og:image" content="https://anodyne.wiki/structure/{{lower $v.Title | replace " " "_"}}.jpg">
@@ -22,12 +22,11 @@
 		<meta property="og:url" content="https://anodyne.wiki{{placeholder "http.request.orig_uri.path"}}">
 		{{- end}}
 
-		<link rel="stylesheet" href="/css/light.css">
-		<link rel="stylesheet" href="/css/dark.css">
+		<link rel="stylesheet" href="/css/theme/light.css">
+		<link rel="stylesheet" href="/css/theme/dark.css">
 		<link rel="stylesheet" href="/css/style.css">
 		<link rel="stylesheet" href="/css/icons.css">
 		<link rel="icon" type="image/x-icon" href="/assets/favicon.ico">
-		{{/*<link rel=stylesheet href="/css/{{.Theme | default "light" | stripHTML}}.css">
 		<link rel="preconnect" href="https://rsms.me/">
 		<link rel="stylesheet" href="https://rsms.me/inter/inter.css">
 

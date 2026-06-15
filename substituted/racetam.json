@@ -3,7 +3,7 @@
   "Entries": [
     {
       "Title": "Aniracetam",
-      "Abr": "",
+      "Abr": null,
       "MW": "219.24 g/mol"
     },
     {
@@ -13,27 +13,27 @@
     },
     {
       "Title": "Fasoracetam",
-      "Abr": "",
+      "Abr": null,
       "MW": "196.25 g/mol"
     },
     {
       "Title": "Nefiracetam",
-      "Abr": "",
+      "Abr": null,
       "MW": "246.30 g/mol"
     },
     {
       "Title": "Oxiracetam",
-      "Abr": "",
+      "Abr": null,
       "MW": "158.16 g/mol"
     },
     {
       "Title": "Phenylpiracetam",
-      "Abr": "",
+      "Abr": null,
       "MW": "218.25 g/mol"
     },
     {
       "Title": "Piracetam",
-      "Abr": "",
+      "Abr": null,
       "MW": "142.16 g/mol"
     },
     {
@@ -42,13 +42,8 @@
       "MW": "269.38 g/mol"
     },
     {
-      "Title": "Zopiclone",
-      "Abr": [],
-      "MW": "388.8 g/mol"
-    },
-    {
       "Title": "Pagoclone",
-      "Abr": [],
+      "Abr": null,
       "MW": "407.9 g/mol"
     },
     {
@@ -56,5 +51,8 @@
       "Abr": null,
       "MW": "176.21 g/mol"
     }
+  ],
+  "Children": [
+    "cyclopyrrolone"
   ]
 }

@@ -6,9 +6,9 @@
 <div class="Infobox">
 <table>
 <tr><th colspan="2">{{$vars.Title}}</th></tr>
-<tr><td class="3dmol InfoboxImage" colspan="2" style="display: none; max-width: 298px; max-height: 220px;">
+<tr><td class="3dmol InfoboxImage molViewerCell" colspan="2">
 <script src="/js/3Dmol-min.js"></script><script src="/js/3Dmol.ui-min.js"></script>
-<div style="background: white; height: 220px; width: 298px; position: relative;" class='viewer_3Dmoljs' data-pdb={{$vars.PDB}} data-backgroundcolor='0xffffff' data-style='cartoon:color=spectrum'></td></tr>
+<div class='viewer_3Dmoljs molViewer' data-pdb={{$vars.PDB}} data-backgroundcolor='0xffffff' data-style='cartoon:color=spectrum'></td></tr>
 {{/* data-spin='axis:vy;speed:-0.5'*/}}
 <tr><td class=InfoboxData colspan="2">Conformer structure via <a href='https://github.com/3dmol/3Dmol.js'>3Dmol.js</a></td></tr>
 <noscript><tr><td class=InfoboxData colspan="2">Enable javascript to view conformer structure via <a href='https://github.com/3dmol/3Dmol.js'>3Dmol.js</a></td></tr></noscript>

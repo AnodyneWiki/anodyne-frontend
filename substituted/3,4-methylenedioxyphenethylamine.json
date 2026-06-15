@@ -125,7 +125,9 @@
     },
     {
       "Title": "Hydrastinine",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "207.23 g/mol"
     },
     {
@@ -147,7 +149,9 @@
     },
     {
       "Title": "5-Methoxy-3,4-Methylenedioxymethamphetamine",
-      "Abr": "5-MeO-MDMA",
+      "Abr": [
+        "5-MeO-MDMA"
+      ],
       "MW": "223.27 g/mol"
     },
     {
@@ -254,7 +258,9 @@
     },
     {
       "Title": "N-(MDA)-Fentanyl",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "394.5 g/mol"
     },
     {

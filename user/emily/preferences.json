@@ -240,9 +240,7 @@
         "{xeff 'sensory overload'} during come up"
       ],
       "Notes": [
-        "the first 4h felt exhausting but after that the subtil visual effects were",
-        "very beautiful. visually its comparable to what i experienced after abusing mdma",
-        "for 10h."
+        "the first 4h felt exhausting but after that the subtil visual effects were very beautiful. visually its comparable to what i experienced after abusing mdma for 10h."
       ]
     },
     {
@@ -855,6 +853,7 @@
     },
     {
       "Name": "Kratom",
+      "Composite": true,
       "Routes": [
         {
           "Name": "oral",
@@ -864,6 +863,7 @@
     },
     {
       "Name": "Tobacco",
+      "Composite": true,
       "Routes": [
         {
           "Name": "vaporized"
@@ -872,6 +872,7 @@
     },
     {
       "Name": "Cannabis",
+      "Composite": true,
       "Routes": [
         {
           "Name": "vaporized"

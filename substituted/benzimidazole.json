@@ -2,39 +2,9 @@
   "Name": "benzimidazole",
   "Entries": [
     {
-      "Title": "Clonitazene",
-      "Abr": "",
-      "MW": "386.9 g/mol"
-    },
-    {
       "Title": "Domperidone",
       "Abr": "",
       "MW": "425.9 g/mol"
-    },
-    {
-      "Title": "Etonitazene",
-      "Abr": "",
-      "MW": "396.5 g/mol"
-    },
-    {
-      "Title": "Etonitazepyne",
-      "Abr": "",
-      "MW": "394.5 g/mol"
-    },
-    {
-      "Title": "Isotonitazene",
-      "Abr": "",
-      "MW": "410.5 g/mol"
-    },
-    {
-      "Title": "Metonitazene",
-      "Abr": "",
-      "MW": "382.5 g/mol"
-    },
-    {
-      "Title": "Protonitazene",
-      "Abr": "",
-      "MW": "410.5 g/mol"
     },
     {
       "Title": "Secbutonitazene",
@@ -53,23 +23,15 @@
     },
     {
       "Title": "Bemethyl",
-      "Abr": "",
+      "Abr": null,
       "MW": "178.26 g/mol"
     },
     {
       "Title": "Brorphine",
-      "Abr": [],
       "MW": "400.3 g/mol"
-    },
-    {
-      "Title": "Protonitazepyne",
-      "Abr": null,
-      "MW": "408.5 g/mol"
-    },
-    {
-      "Title": "Metonitazepyne",
-      "Abr": null,
-      "MW": "380.4 g/mol"
     }
+  ],
+  "Children": [
+    "nitazene"
   ]
 }

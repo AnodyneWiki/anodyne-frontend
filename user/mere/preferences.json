@@ -30,9 +30,6 @@
       "Name": "Ethanol"
     },
     {
-      "Name": "Tobacco"
-    },
-    {
       "Name": "Nicotine"
     },
     {
@@ -43,9 +40,6 @@
     },
     {
       "Name": "2,5-Dimethoxy-4-bromophenethylamine"
-    },
-    {
-      "Name": "Psilocybe cubensis"
     },
     {
       "Name": "Lysergic acid diethylamide"
@@ -70,12 +64,6 @@
     },
     {
       "Name": "Orthophedrone"
-    },
-    {
-      "Name": "Cannabis",
-      "Notes": [
-        "in form of dried flower, oil"
-      ]
     },
     {
       "Name": "Cocaine"
@@ -106,9 +94,6 @@
     },
     {
       "Name": "4-Fluoromethamphetamine"
-    },
-    {
-      "Name": "Kratom"
     },
     {
       "Name": "Methoxisopropamine"
@@ -148,6 +133,25 @@
     },
     {
       "Name": "2-Fluoro-N-ethylnordeschloroketamine"
+    },
+    {
+      "Name": "Tobacco",
+      "Composite": true
+    },
+    {
+      "Name": "Cannabis",
+      "Composite": true,
+      "Notes": [
+        "in form of dried flower, oil"
+      ]
+    },
+    {
+      "Name": "Psilocybe cubensis",
+      "Composite": true
+    },
+    {
+      "Name": "Kratom",
+      "Composite": true
     }
   ]
 }

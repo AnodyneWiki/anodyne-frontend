@@ -237,7 +237,9 @@
     },
     {
       "Title": "5-Methoxy-3,4-Methylenedioxymethamphetamine",
-      "Abr": "5-MeO-MDMA",
+      "Abr": [
+        "5-MeO-MDMA"
+      ],
       "MW": "223.27 g/mol"
     },
     {
@@ -734,6 +736,14 @@
       "Title": "Butyltolylquinuclidine",
       "Abr": null,
       "MW": "257.4 g/mol"
+    },
+    {
+      "Title": "6-Allyl-6-norlysergic acid diethylamide",
+      "Abr": [
+        "AL-LAD",
+        "ALLAD"
+      ],
+      "MW": "349.5 g/mol"
     }
   ],
   "Parent": "phenethylamine",

@@ -196,172 +196,58 @@ h1, h2, h3 {
 }
 
 .threshold {
-	border-bottom: 2px solid #81f7f3;
+	text-decoration: underline;
+	text-decoration-color: #81f7f3;
 }
 .light {
-	border-bottom: 2px solid #90ee90
+	text-decoration: underline;
+	text-decoration-color: #90ee90
+}
+span.reverse {
+	text-decoration: underline;
+	text-decoration-color: #ff3311;
 }
 span.severity-light {
-	border-bottom: 1px solid #90ee90;
+	text-decoration: underline;
+	text-decoration-color: #90ee90;
 }
 span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
+	text-decoration: underline;
+	text-decoration-color: #ffff00;
 }
 .common {
-	border-bottom: 2px solid #ffff00
-}
-span.severity-common {
-	border-bottom: 1px solid #ffff00;
+	text-decoration: underline;
+	text-decoration-color: #ffff00;
 }
 span.severity-moderate {
-	border-bottom: 1px solid #ffff00;
-}
-.strong {
-	border-bottom: 2px solid #ff0000
+	text-decoration: underline;
+	text-decoration-color: #ffff00;
 }
 span.severity-strong {
-	border-bottom: 1px solid #ff0000;
+	text-decoration: underline;
+	text-decoration-color: #ff0000;
+}
+.strong {
+	text-decoration: underline;
+	text-decoration-color: #ff0000;
 }
 .heavy {
 	border-bottom: 2px solid #ff00ff
 }
 span.severity-heavy {
-	border-bottom: 1px solid #ff00ff;
+	text-decoration: underline;
+	text-decoration-color: #ff00ff;
 }
 .extreme {
 	border-bottom: 2px solid #ff00ff
 }
 span.severity-extreme {
-	border-bottom: 1px solid #ff00ff;
+	text-decoration: underline;
+	text-decoration-color: #ff00ff;
 }
 span.severity-intense {
-	border-bottom: 1px solid #ff00ff;
+	text-decoration: underline;
+	text-decoration-color: #ff00ff;
 }
 
 .good {
@@ -611,6 +497,30 @@ ul[class=FormList] {
 		}
 	}
 }
+/* Placeholders for empty editable trd fields */
+.trdname:empty::before        { content: 'Name'; }
+.trdsalts  > li:empty::before { content: 'Salts'; }
+.trdsource > li:empty::before { content: 'Source'; }
+.trdnotes  > li:empty::before { content: 'Notes'; }
+.trdroutes > li:empty::before { content: 'Routes'; }
+.trdodor   > li:empty::before { content: 'Odor'; }
+.trdname:empty::before,
+.trdsalts  > li:empty::before,
+.trdsource > li:empty::before,
+.trdnotes  > li:empty::before,
+.trdroutes > li:empty::before,
+.trdodor   > li:empty::before {
+  color: grey;
+  font-style: italic;
+  opacity: 0.6;
+  pointer-events: none; /* let clicks fall through to the editable element */
+}
+/* Keep empty fields clickable so the caret can be placed in them */
+.trdname:empty {
+  display: inline-block;
+  min-width: 4em;
+}
+
 #TitleMain {
   min-width: calc(100% - 400px) !important;
   margin-bottom: 0.20em;
@@ -699,8 +609,8 @@ ul[class=FormList] {
 #editpanel {
 	background-color: var(--background-color-interactive-subtle--active);
 	border: 1px solid var(--border-color-base);
-	margin: 1em;
 	padding: 5px;
+	margin-top: 1em;
 	overflow: hidden;
 	font-family: sans-serif;
 }
@@ -709,8 +619,13 @@ ul[class=FormList] {
 	background-color: var(--background-color-progressive,#36c);
 	border-color: var(--background-color-progressive,#36c);
 	font-weight: bold;
-	margin-top: 5px;
-	line-height: 2.5;
+	font-family: inherit;
+	padding-right: 1.5em;
+	padding-left: 1.5em;
+	line-height: 2.25;
+}
+#editcancel {
+	margin-left: 1.5em;
 }
 #editsummary {
 	width: 100%;
@@ -734,4 +649,76 @@ ul[class=FormList] {
 	text-overflow: ellipsis;
 	white-space: nowrap;
 	vertical-align: bottom;
+}
+#TitleMain {
+  white-space: nowrap;
+  overflow-x: auto;
+}
+
+/* Extracted from repeated inline styles across *.html / *.md */
+/* Collapse toggle next to a heading; tight line-height variant of .collapseButton */
+.collapseButtonTight {
+	padding-left: 10px;
+	font-size: 14.5px !important;
+	line-height: 1.2 !important;
+	margin-bottom: 0px;
+}
+/* Flex menu list with no bullets/margins (toolbar link row) */
+.ToolbarMenu {
+	display: flex;
+	margin: 0;
+	padding: 0;
+	list-style: none;
+}
+.border-left-disabled {
+	border-left: 1px var(--color-disabled);
+}
+/* Full-width zero-height separator div */
+.spacer {
+	width: 100%;
+	height: 0px;
+	overflow: hidden;
+}
+/* Inline-editable list entry that should not wrap/overflow */
+.keepclip {
+	word-break: keep-all;
+	overflow: clip;
+}
+/* 3Dmol viewer container + its (initially hidden) infobox cell */
+.molViewer {
+	background: white;
+	height: 220px;
+	width: 298px;
+	position: relative;
+}
+.molViewerCell {
+	display: none;
+	max-width: 298px;
+	max-height: 220px;
+}
+/* Transparent span that inherits text color (structure annotations) */
+.plainspan {
+	background-color: transparent;
+	color: inherit;
+}
+/* Generic utilities */
+.float-right {
+	float: right;
+}
+.full-width {
+	width: 100%;
+}
+.text-left {
+	text-align: left;
+}
+.bg-neutral {
+	background-color: var(--background-color-neutral);
+}
+.about {
+	display: flex;
+	width: 100%;
+}
+.about > div {
+	flex: 1;
+	box-sizing: border-box;
 }

@@ -53,7 +53,7 @@ In the <a class=logo href={{trunc 1 $pre | upper | printf "https://en.wikipedia.
 <h3>Metabolism</h3>
 <p>{{$v.Title}} acts as a {{$ac := "prodrug"}}{{range $cc := $v.Classes}}{{if eq (lower $cc) "codrug"}}{{$ac = "codrug"}}{{end}}{{end}}{{if eq $ac "codrug"}}<a class=logo href=https://en.wikipedia.org/wiki/codrug>codrug</a>{{else}}<a class=logo href=https://en.wikipedia.org/wiki/prodrug>prodrug</a>{{end}} for:</p>
 <table style='max-width: calc(100% - 400px); display: inline-table; text-align: left; border-collapse: collapse;'>
-<tr><th>Metabolic pathways<span style='float:right'>&nbsp;{{template "exnd" .collapse}}</span></th></tr>
+<tr><th>Metabolic pathways<span class=float-right>&nbsp;{{template "exnd" .collapse}}</span></th></tr>
 <tr style='background-color: #ffffff; color: #555555; padding-bottom: 0px;' >
 <td>
 <div class="thumb center" style="background-color: white; color: var(--color-disabled);">
@@ -62,11 +62,11 @@ In the <a class=logo href={{trunc 1 $pre | upper | printf "https://en.wikipedia.
 </div> 
 <div style="text-align:center; font-size:16px; line-height:110%">
 <div style="background-color:transparent;">
-<div id="annotation_45x220" style="position:absolute; left:45px; top:20px; line-height:110%;"><img alt="{{$v.Title}}" width=150 src="/structure/{{lower $v.Title | pathEscape}}.svg" ><br><span style="background-color:transparent; color:inherit;"><em style="color: var(--color-disabled-emphasized);">{{$v.Title}}</em></span></div>
+<div id="annotation_45x220" style="position:absolute; left:45px; top:20px; line-height:110%;"><img alt="{{$v.Title}}" width=150 src="/structure/{{lower $v.Title | pathEscape}}.svg" ><br><span class=plainspan><em style="color: var(--color-disabled-emphasized);">{{$v.Title}}</em></span></div>
 {{$off := 0}}{{range $active := $v.Actives}}{{$apiPath := printf "/api/substance/%s" (replace "_" "%20" (lower $active))}}{{$apiFile := httpInclude $apiPath}}{{$aars := fromJson $apiFile}}<div id="annotation_300x220" style="position:absolute; left:{{add 300 $off}}px; top:20px; line-height:110%;">
 <img width=150 src='/structure/{{replace " " "_" (lower $active)}}.svg'><br><span style="text-align: center;"><a href='/substance/{{replace " " "_" (lower $active)}}'>{{$active}}</a></span>
 </div>{{$off = add 200 $off}}{{end}}
-<div id="annotation_220x242" style="position:absolute; left:220px; top:42px; font-size:12px; font-size:12; line-height:14px;"><span style="background-color:transparent; color:inherit;">{{/*<a href="https://anodyne.wiki/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a>*/}}</span><br><div class="arrow"></div><br><span style="background-color:transparent; color:inherit;">{{/*<a href="https://anodyne.wiki/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a>*/}}</span></div>
+<div id="annotation_220x242" style="position:absolute; left:220px; top:42px; font-size:12px; font-size:12; line-height:14px;"><span class=plainspan>{{/*<a href="https://anodyne.wiki/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a>*/}}</span><br><div class="arrow"></div><br><span class=plainspan>{{/*<a href="https://anodyne.wiki/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a>*/}}</span></div>
 <div id="annotation_480x330" style="position:absolute; left:480px; top:130px; font-size:12px; font-size:12; line-height:14px;"></div></div>
 </div>
 </div>
@@ -76,7 +76,7 @@ In the <a class=logo href={{trunc 1 $pre | upper | printf "https://en.wikipedia.
 {{end}}
 
 {{if $inters}}
-<div class=collapser><h3>Interactions<span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;" class="collapse-button">&nbsp;{{template "exnd" .collapse}}</span></h3>
+<div class=collapser><h3>Interactions<span class="collapseButton">&nbsp;{{template "exnd" .collapse}}</span></h3>
 <div class=collapserContent><table>{{range $int := $inters}}<tr style="line-height: 1.2;"><th><a class=logo href='https://en.wikipedia.org/wiki/{{$int.Target}}'>{{$int.Target}}</a></th><td>{{range $i, $act:= $int.Actions}}<span style='{{if eq $act "inhibition"}}border-bottom: 1px solid red;{{else if eq $act "induction"}}border-bottom: 1px solid blue;{{end}}'>{{.}}</span>{{if eq (add1 $i) (len $int.Actions) | not}} / {{end}}{{end}}</td></tr>{{end}}
 </table></div></div>
 {{end}}

@@ -4,39 +4,21 @@
 
 {{/*<h1 id=TitleMain>{{$v.Title}}</h1>*/}}
 
-<div style="margin-left: 10px; padding-left: 10px; border-left: 1px solid var(--border-color-base); max-width: 50%; float:right">
-<h3>Composite</h3>
-        <ul style="margin-left: 1.4em;">
-            <div class=collapser>
-                <li><a href='/index/composite'>Composite Index:</a></li>
-            </div>
-        </ul>
-<h3>Substances</h3>
-        <ul style="margin-left: 1.4em;">
-            <div class=collapser>
-                <li><a href='/index/substance'>Substance Index:</a><span class=collapse-button>&nbsp;{{template "exnd" $v.Collapse}}</span></li>
-                <ul style="margin-left: 1.0em;">
-                    <div class=collapserContent>{{range $subst := sortAlpha (listFiles "substituted")}}{{$st := fromJson (include (printf "/substituted/%s" $subst))}}{{if and (not $st.Parent) (not $st.Parents)}}
-                        <li>{{template "tree" (replace "_" " " (trimSuffix ".json" $subst))}}</li>{{end}}{{end}}
-                    </div>
-                </ul>
-            </div>
-        </ul>
-</div>
-<div style="min-width: 50%; max-width: 75%; margin-right: 10px">
-<h2>Welcome to <span style="word-break: keep-all; font-family: Inter, sans-serif; font-weight: 600;">Anodyne<span style="font-weight: 200">Wiki</span></span></h2>
+<div class=about>
+<div style="margin-right: 10px">
+<h2>Welcome to {{template "logo"}}</h2>
 
-{{/* template "imgbox" (dict "src" "/assets/funsies.png" "padding" "0px" "background" "black" "width" "200px") */}}
+<table style="float: right; max-width: 150px;"><tr><td class="InfoboxImage" style="background-color: black;"><img style="height: 100%;width: 150px;" src="/assets/logo.png"></td></tr><tr><td class="InfoboxData"><span style="word-break: keep-all; background-color: var(--background-color-base);">A needle plunging into a vein.</span></td></tr></table>
 
-Meta-Wiki for chemicals affecting biological life-forms, their administration, effects and interactions.
+<a class=logo href=https://en.wiktionary.org/wiki/anodyne>Anodyne</a> is a meta-wiki centered around chemicals affecting biological life-forms, their administration, effects and interactions which strives to aid those seeking direct means of pharmacological- comfort, healing and enhancement.
 
 This project primarily functions as an aggregator for a wide array of sources only allowing user-contributions through the concept of <a href=/index/user>userpages</a>.
 
-This tool is actively being developed. Join our [discord](https://discord.gg/DKfYmNrz6Z) community to follow development updates, learn how you can contribute and banter.
+This tool is actively being developed. To follow development updates and learn how you can contribute and banter, join our [Discord](https://discord.gg/DKfYmNrz6Z) / [Matrix](https://matrix.to/#/!zBeZTwXDOJIswNDxxX:anodyne.wiki?via=anodyne.wiki) (bridged to Discord).
 
 If you enjoy this project and have the means, consider <a href='/donate'>donating</a> to keep us afloat.
 
-<div style="max-width: 60%; border: 1px solid #a2a9b1; background-color: var(--background-color-disabled); font-weight: 500;">
+<div style="border: 1px solid #a2a9b1; border-radius: 5px; background-color: var(--background-color-disabled); font-weight: 500;">
 <div style="margin: 5px;">
 Under no circumstance should information we provide be used as sole reference for recreational substance-use or substitute for medical advice.
 
@@ -78,7 +60,7 @@ We do not take any responsibility for medical complications or loss of life sust
 <h3>Users</h3>
 <ul>
 <div class=collapser>
-    <li><a href='/index/user'>User Index:</a><span style="padding-left: 10px; font-size: 14.5px !important; line-height: 1.6 !important; margin-bottom: 0px;">&nbsp;{{template "exnd" $v.Collapse}}</span></li>
+    <li><a href='/index/user'>User Index:</a><span class=collapseButton>&nbsp;{{template "exnd" $v.Collapse}}</span></li>
     <ul style="margin-left: 1.0em;">
         <div class=collapserContent>
             <li><a href=/user/0xea>0xea</a> (developer; creator)</li>{{/* [sech1p](/user/sech1p)*/}}
@@ -88,8 +70,9 @@ We do not take any responsibility for medical complications or loss of life sust
             <li><a href=/user/bonzi>bonzi</a> (developer)</li>
             <li><a href=/user/x86pup>x86pup</a></li>
             <li><a href=/user/mere>mere</a></li>
+            <li><a href=/user/ninerik>ninerik</a></li>
             <li><a href=/user/alina>alina</a></li>
-            <li>(your page could be here)</li>
+            <li><a href=/form>create new userpage</li>
         </div>
     </ul>
 </div>
@@ -100,9 +83,10 @@ We do not take any responsibility for medical complications or loss of life sust
 <ul>
 <li><a href=https://anodyne.wiki/effect/psychosis>psychosis</a></li>
 {{/*<li><a href=https://anodyne.wiki/effect/stimfapping>stimfapping (satire)</a></li>*/}}
-<li><a class=logo href=https://www.effectindex.com/>Subjective Effect Index</a></li>
-        </ul>
-    </div>
+<li><a class=logo href=https://www.effectindex.com>Subjective Effect Index</a></li>
+<li><a class=logo href=http://sideeffects.embl.de>SIDER 4.1 (Side Effect Resource)</a></li>
+</ul>
+</div>
 </div>
 <div class=collapser>
 <h3>Classes{{template "pexnd" $v.Collapse}}</h3>
@@ -124,4 +108,24 @@ We do not take any responsibility for medical complications or loss of life sust
                 </ul>
             </div>
 </ul>
+</div>
+<div style="margin-left: 10px; padding-left: 10px; border-left: 1px solid var(--border-color-base); max-width: 50%;">
+<h3>Composite</h3>
+        <ul style="margin-left: 1.4em;">
+            <div class=collapser>
+                <li><a href='/index/composite'>Composite Index:</a></li>
+            </div>
+        </ul>
+<h3>Substances</h3>
+        <ul style="margin-left: 1.4em;">
+            <div class=collapser>
+                <li><a href='/index/substance'>Substance Index:</a><span class=collapse-button>&nbsp;{{template "exnd" $v.Collapse}}</span></li>
+                <ul style="margin-left: 1.0em;">
+                    <div class=collapserContent>{{range $subst := sortAlpha (listFiles "substituted")}}{{$st := fromJson (include (printf "/substituted/%s" $subst))}}{{if and (not $st.Parent) (not $st.Parents)}}
+                        <li>{{template "tree" (replace "_" " " (trimSuffix ".json" $subst))}}</li>{{end}}{{end}}
+                    </div>
+                </ul>
+            </div>
+        </ul>
+</div>
 </div>

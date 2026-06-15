@@ -1,0 +1,37 @@
+{
+  "Name": "cyclopyrrolone",
+  "Entries": [
+    {
+      "Title": "Zopiclone",
+      "Abr": null,
+      "MW": "388.8 g/mol"
+    },
+    {
+      "Title": "Pagoclone",
+      "Abr": null,
+      "MW": "407.9 g/mol"
+    },
+    {
+      "Title": "Pazinaclone",
+      "Abr": null,
+      "MW": "478.9 g/mol"
+    },
+    {
+      "Title": "Suproclone",
+      "Abr": null,
+      "MW": "520.0 g/mol"
+    },
+    {
+      "Title": "Suriclone",
+      "Abr": null,
+      "MW": "478.0 g/mol"
+    },
+    {
+      "Title": "Eszopiclone",
+      "Abr": null,
+      "MW": "388.8 g/mol"
+    }
+  ],
+  "Parent": "racetam",
+  "Wikipedia": "Cyclopyrrolones"
+}
