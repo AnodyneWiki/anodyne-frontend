@@ -113,7 +113,7 @@ We do not take any responsibility for medical complications or loss of life sust
 <h3>Composite</h3>
         <ul style="margin-left: 1.4em;">
             <div class=collapser>
-                <li><a href='/index/composite'>Composite Index:</a></li>
+                <li><a href='/index/composite'>Composite Index</a></li>
             </div>
         </ul>
 <h3>Substances</h3>
