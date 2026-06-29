@@ -675,6 +675,9 @@
             ],
             "Effects": [
                 "{sev 'light'} {xeff 'pain-relief'}"
+            ],
+            "Sources":[
+                "German Pharmacy"
             ]
         },
         {
@@ -703,6 +706,10 @@
                 "Snorting pregabalin is not worth it, but it will have a stronger peak and shorter duration",
                 "Improves sleep quality",
                 "Might cause {xeff 'memory-suppression'} when consumed regularly at higher doses"
+            ],
+            "Sources": [
+                "Pregabalin Aurobindo 200mg capsules",
+                "Pregabalin Vivanta 200mg capsules"
             ]
         },
         {
@@ -767,6 +774,9 @@
             "Notes": [
                 "Helpful as a tripkiller",
                 "Very effective as a sleep aid; but has a hangover"
+            ],
+            "Sources": [
+                "Quetiapin-neuraxpharm"
             ]
         },
         {
@@ -1021,6 +1031,9 @@
             ],
             "Notes": [
                 "Might be useful as an {wkp 'Antiandrogen'}"
+            ],
+            "Sources": [
+                "Spironolacton-ratiopharm"
             ]
         },
         {
@@ -1088,6 +1101,7 @@
         },
         {
             "Name": "Zolpidem",
+            "Indication": "{wkp 'Insomnia'}",
             "Salts": [
                 "Tartrate"
             ],
@@ -1124,6 +1138,9 @@
             "Notes":[
                 "Less hangover than {sub 'Doxylamine'}",
                 "Shorter half-life compared to {sub 'Doxylamine'}"
+            ],
+            "Sources": [
+                "German Pharmacy: Dorm Tabletten"
             ]
         },
         {
@@ -1144,6 +1161,10 @@
         },
         {
             "Name": "Lamotrigine",
+            "Indication": [
+                "unstable mood",
+                "depression"
+            ],
             "Routes":[
                 {
                     "Name": "Oral",
@@ -1178,32 +1199,34 @@
         },
         {
             "Name": "Dexibuprofen",
+            "Indication": "{sev 'light'} pain, for example {xeff 'headache'}",
             "Routes":[
                 {
                     "Name": "Oral",
                     "Dosage": "200mg"
                 }
             ],
-            "Effects":[
-                "see {sub 'Ibuprofen'}"
+            "Effects": [
+                "{sev 'light'} {xeff 'pain-relief'}"
             ],
             "Sources": [
-                "German Pharmacy"
+                "German Pharmacy: Dexibu-ratiopharm 200mg"
             ]
         },
         {
             "Name": "Ibuprofen Lysine",
+            "Indication": "{sev 'light'} pain, for example {xeff 'headache'}",
             "Routes":[
                 {
                     "Name": "Oral",
                     "Dosage": "800mg"
                 }
             ],
-            "Effects":[
-                "see {sub 'Ibuprofen'}"
+            "Effects": [
+                "{sev 'light'} {xeff 'pain-relief'}"
             ],
             "Sources": [
-                "German Pharmacy"
+                "German Pharmacy: Redcare Ibu-Lysin"
             ]
         }
     ]
