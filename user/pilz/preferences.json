@@ -125,6 +125,9 @@
             "Adverse": [
                 "{xeff 'analysis-suppression'}",
                 "{xeff 'motivation-suppression'} (feeling fried)"
+            ],
+            "Sources": [
+                "2-MMC: DNM Germany"
             ]
         },
         {
@@ -145,8 +148,8 @@
             ],
             "Effects": [
                 "{sev 'strong'} {xeff 'stimulation'}",
-                "{xeff 'motivation-enhancement'} in lower doses",
-                "Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'tracers'} {xeff 'environmental-patterning'} {xeff 'drifting'} {xeff 'colour-enhancement'}",
+                "{sev 'moderate'} {xeff 'motivation-enhancement'} in lower doses",
+                "{sev 'strong'} Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'tracers'} {xeff 'environmental-patterning'} {xeff 'drifting'} {xeff 'colour-enhancement'}",
                 "{xeff 'time-distortion'}"
             ],
             "DEffects": [
@@ -159,10 +162,13 @@
             ],
             "Adverse": [
                 "{sev 'light'} {xeff 'anxiety'}",
-                "{xeff 'nausea'} that fades away after the comeup"
+                "{sev 'moderate'} {xeff 'nausea'} that fades away after the comeup"
             ],
             "Notes": [
                 "My favorite psychedelic"
+            ],
+            "Sources": [
+                "2-CB: DNM Germany"
             ]
         },
         {
@@ -174,12 +180,12 @@
                 }
             ],
             "Effects": [
-                "{xeff 'stimulation'}",
-                "{xeff 'increased-libido'}"
+                "{sev 'strong'} {xeff 'stimulation'}",
+                "{sev 'light'} {xeff 'increased-libido'}"
             ],
             "Adverse": [
-                "{xeff 'compulsive-redosing'}",
-                "{xeff 'motivation-suppression'} (feeling fried)"
+                "{sev 'moderate'} {xeff 'compulsive-redosing'}",
+                "{sev 'moderate'} {xeff 'motivation-suppression'} (feeling fried)"
             ]
         },
         {
@@ -192,27 +198,28 @@
             ],
             "Effects": [
                 "{sev 'strong'} {xeff 'stimulation'}",
-                "{xeff 'empathy-affection-and-sociability-enhancement'}",
+                "{sev 'strong'} {xeff 'empathy-affection-and-sociability-enhancement'}",
                 "{sev 'strong'} {xeff 'increased-libido'}",
-                "{xeff 'anxiety-suppression'}",
-                "{xeff 'increased-heart-rate'}",
+                "{sev 'light'} {xeff 'anxiety-suppression'}",
+                "{sev 'strong'} {xeff 'increased-heart-rate'}",
                 "{sev 'strong'} {xeff 'stamina-enhancement'}",
-                "{xeff 'time-distortion'}",
-                "{xeff 'increased-bodily-temperature'}",
+                "{sev 'strong'} {xeff 'time-distortion'}",
+                "{sev 'moderate'} {xeff 'increased-bodily-temperature'}",
                 "{xeff 'dry-mouth'}",
                 "{sev 'strong'} {xeff 'increased-blood-pressure'}",
                 "{xeff 'vasoconstriction'}",
                 "{xeff 'analysis-suppression'}"
             ],
             "Adverse": [
-                "{xeff 'memory-suppression'} (forgetting what you did on the day/not having detailed memories)",
-                "{xeff 'orgasm-suppression'}",
+                "{sev 'strong'} {xeff 'memory-suppression'} (forgetting what you did on the day/not having detailed memories)",
+                "{sev 'strong'} {xeff 'orgasm-suppression'}",
                 "{sev 'strong'} {xeff 'compulsive-redosing'} (feels like your constantly redosing/having to redose)",
-                "{xeff 'teeth-grinding'} when using higher doses"
+                "{sev 'moderate'} {xeff 'teeth-grinding'} when using higher doses"
             ],
             "Notes": [
                 "Very good substance to have sex on",
-                "The most addictive substance i consumed"
+                "The most addictive substance i consumed",
+                "152/89 Blood pressure, 108bpm and 37.1°C (temp messured on the forehead by a google pixel) after ~50-70mg insufflated"
             ]
         },
         {
@@ -254,10 +261,10 @@
                 }
             ],
             "Effects": [
-                "{xeff 'sedation'}",
-                "{xeff 'anxiety-suppression'} (very helpful in social situations)",
+                "{sev 'moderate'} {xeff 'sedation'}",
+                "{sev 'light'} {xeff 'anxiety-suppression'} (very helpful in social situations)",
                 "{sev 'light'} {xeff 'appetite-enhancement'}",
-                "{xeff 'motor-control-loss'}"
+                "{sev 'light'} {xeff 'motor-control-loss'}"
             ],
             "Adverse":[
                 "{xeff 'nausea'} when consumed in high doses",
@@ -277,9 +284,9 @@
                 }
             ],
             "Effects": [
-                "{xeff 'sedation'}",
-                "{xeff 'anxiety-suppression'}",
-                "{xeff 'memory-suppression'}",
+                "{sev 'strong'} {xeff 'sedation'}",
+                "{sev 'moderate'} {xeff 'anxiety-suppression'}",
+                "{sev 'moderate'} {xeff 'memory-suppression'}",
                 "{xeff 'muscle-relaxation'}"
             ]
         },
@@ -301,14 +308,17 @@
             ],
             "Effects": [
                 "{sev 'strong'} {xeff 'stimulation'}; very helpful aginst ADHD in lower doses (15-20mg oral, 1-2x per day)",
-                "{xeff 'wakefulness'}",
-                "{xeff 'stamina-enhancement'}",
-                "{xeff 'motivation-enhancement'}",
+                "{sev 'moderate'} {xeff 'motivation-enhancement'}",
+                "{sev 'moderate'} {xeff 'wakefulness'}",
+                "{sev 'light'} {xeff 'stamina-enhancement'}",
                 "{sev 'light'} {xeff 'increased-libido'} or {xeff 'decreased-libido'}",
                 "{sev 'light'} {xeff 'compulsive-redosing'}"
             ],
             "Notes": [
                 "Consumed close to daliy since 11-2025, helps against ADHD"
+            ],
+            "Sources": [
+                "Amphetamine: DNM Germany"
             ]
         },
         {
@@ -322,6 +332,9 @@
                     "Name": "oral",
                     "Dosage": "150.0mg"
                 }
+            ],
+            "Sources": [
+                "Bupropion Neuraxpharm"
             ]
         },
         {
@@ -358,9 +371,9 @@
                 }
             ],
             "Effects": [
-                "{xeff 'stimulation'}",
-                "{xeff 'wakefulness'}",
-                "{xeff 'motivation-enhancement'}",
+                "{sev 'moderate'} {xeff 'stimulation'}",
+                "{sev 'strong'} {xeff 'wakefulness'}",
+                "{sev 'moderate'} {xeff 'motivation-enhancement'}",
                 "{sev 'light'} {xeff 'increased-libido'}",
                 "{xeff 'mouth-numbing'}"
             ],
@@ -385,9 +398,13 @@
                 }
             ],
             "Effects": [
-                "{xeff 'sedation'}",
                 "{sev 'strong'} {xeff 'pain-relief'}",
+                "{sev 'moderate'} {xeff 'cognitive-euphoria'}",
+                "{sev 'light'} {xeff 'sedation'}",
                 "{sev 'light'} {xeff 'thought-deceleration'} in high doses (140mg+)"
+            ],
+            "Sources":[
+                "Polish Pharmacy: Nurofen plus"
             ]
         },
         {
@@ -419,6 +436,10 @@
                     "Name": "oral",
                     "Dosage": "1-2mg"
                 }
+            ],
+            "Sources":[
+                "Estreva gel",
+                "Gynokadin gel"
             ]
         },
         {
@@ -449,11 +470,14 @@
                 "{xeff 'tactile-suppression'} + {xeff 'pain-relief'}",
                 "{xeff 'thought-deceleration'}, {xeff 'confusion'}, {xeff 'analysis-suppression'}; sometimes feeling stupid",
                 "{xeff 'increased-sense-of-humor'}",
-                "{xeff 'anxiety-suppression'}",
+                "{sev 'moderate'} {xeff 'anxiety-suppression'}",
                 "{sev 'light'} {xeff 'motivation-enhancement'} in the days after using {sub 'Ketamine'}"
             ],
             "Adverse": [
                 "{xeff 'nausea'} when consumed in high doses"
+            ],
+            "Sources": [
+                "S-Ketamine: DNM Germany"
             ]
         },
         {
@@ -469,13 +493,17 @@
                 }
             ],
             "Effects": [
-                "{xeff 'stimulation'}; very helpful aginst ADHD",
-                "{xeff 'wakefulness'}",
-                "{xeff 'motivation-enhancement'}",
+                "{sev 'moderate'} {xeff 'stimulation'}; very helpful aginst ADHD",
+                "{sev 'moderate'} {xeff 'wakefulness'}",
+                "{sev 'moderate'} {xeff 'motivation-enhancement'}",
                 "{sev 'light'} {xeff 'increased-libido'} or {sev 'light'} {xeff 'decreased-libido'}"
             ],
             "Notes": [
                 "Best ADHD-Medication ive tried"
+            ],
+            "Sources": [
+                "Elvanse Capusles",
+                "Lisdexamphetamin ratiopharm capsules"
             ]
         },
         {
@@ -488,6 +516,9 @@
             ],
             "Notes":[
                 "Might help with {xeff 'diarrhea'} when doing psychedelics"
+            ],
+            "Sources": [
+                "multiple generics from germany pharmacies"
             ]
         },
         {
@@ -537,6 +568,10 @@
                 "Good ADHD-Medication",
                 "From the available preparations i would recommend concerta/kinecteen",
                 "Social interactions can feel difficult"
+            ],
+            "Sources": [
+                "Kinecteen tablets",
+                "Medikinet capsules"
             ]
         },
         {
@@ -558,6 +593,9 @@
                 "In form of Kratom powder",
                 "One of my favorite substances for having sex",
                 "Good substance for late night computer work"
+            ],
+            "Sources": [
+                "clearnet shop"
             ]
         },
         {
@@ -617,6 +655,9 @@
                 "{xeff 'increased-sense-of-humor'}",
                 "{xeff 'auditory-distortion'}",
                 "{xeff 'time-distortion'}"
+            ],
+            "Sources": [
+                "Corner shop (Frankfurt Bahnhofviertel)"
             ]
         },
         {
@@ -626,6 +667,10 @@
                 {
                     "Name": "oral",
                     "Dosage": "250-500mg"
+                },
+                {
+                    "Name": "rectal",
+                    "Dosage": "500mg"
                 }
             ],
             "Effects": [
@@ -646,12 +691,12 @@
                 }
             ],
             "Effects": [
-                "{xeff 'anxiety-suppression'}; helps a lot in my day-to-day life",
-                "very {sev 'light'} {xeff 'sedation'}",
+                "{sev 'moderate'} {xeff 'anxiety-suppression'}; helps a lot in my day-to-day life",
+                "{sev 'light'} {xeff 'sedation'}",
                 "{sev 'light'} {xeff 'motor-control-loss'} at high doses or without tolerance",
                 "{sev 'light'} {xeff 'cognitive-euphoria'} at higher doses or without tolerance",
                 "{sev 'light'} {xeff 'pain-relief'}",
-                "very {sev 'light'} {xeff 'emotion-suppression'}; might be helpful with autism or overwhelming emotions"
+                "{sev 'light'} {xeff 'emotion-suppression'}; might be helpful with autism or overwhelming emotions"
             ],
             "Notes": [
                 "Consuming ~120mg daliy from 1-2026 till 6-2026 because of stress and {xeff 'anxiety'}",
@@ -684,10 +729,13 @@
                 {
                     "Route": "oral",
                     "Effects": [
-                        "{xeff 'sedation'} when consumed orally",
-                        "{xeff 'sleepiness'} when consumed orally"
+                        "{xeff 'sedation'}",
+                        "{xeff 'sleepiness'}"
                     ]
                 }
+            ],
+            "Sources": [
+                "German pharmacy: Progestan 100 mg soft capsules"
             ]
         },
         {
@@ -732,6 +780,9 @@
                     "Name": "oral",
                     "Dosage": "22-27mg"
                 }
+            ],
+            "Effects": [
+                "{wkp 'Erection's} are easier to get and more intense"
             ]
         },
         {
@@ -750,7 +801,10 @@
                 "{xeff 'anxiety'}"
             ],
             "Notes":[
-                "Just drink coffee, its not worth it to binge it"
+                "Not worth it to binge it"
+            ],
+            "Sources": [
+                "German Amazon"
             ]
         },
         {
@@ -783,7 +837,7 @@
         },
         {
             "Name": "Ketoprofen",
-            "Indication": "{wkp 'Pain'} or {xeff 'headache'}",
+            "Indication": "{sev 'moderate'} {wkp 'Pain'} or {xeff 'headache'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -791,10 +845,13 @@
                 }
             ],
             "Effects": [
-                "{xeff 'pain-relief'}"
+                "{sev 'moderate'} {xeff 'pain-relief'}"
             ],
             "Notes": [
                 "Might help with pain better than {sub 'Ibuprofen'}"
+            ],
+            "Sources": [
+                "Polish Pharmacy: Ketonal"
             ]
         },
         {
@@ -808,6 +865,9 @@
             "Notes": [
                 "Helpful when doing MTF-HRT with {sub 'Estradiol'}-gel or tablets",
                 "Might also increase libido and breast size like {sub 'Progesterone'}"
+            ],
+            "Sources": [
+                "German Pharmacy"
             ]
         },
         {
@@ -818,7 +878,10 @@
                     "Dosage": "10mg"
                 }
             ],
-            "Notes": "No effects noted at 10mg"
+            "Notes": "No effects noted at 10mg",
+            "Sources": [
+                "Found on the ground at {wkp 'Alexanderplatz'}"
+            ]
         },
         {
             "Name": "Benzocaine",
@@ -841,6 +904,9 @@
             ],
             "Notes": [
                 "Consumed as Dolo-Dobendan Lozenges with {sub 'Cetylpyridinium chloride'}"
+            ],
+            "Sources": [
+                "German Pharmacy: Dolo-Dobendan"
             ]
         },
         {
@@ -858,6 +924,9 @@
             ],
             "Notes": [
                 "Consumed as Dolo-Dobendan Lozenges with {sub 'Benzocaine'}"
+            ],
+            "Sources": [
+                "German Pharmacy: Dolo-Dobendan"
             ]
         },
         {
@@ -880,6 +949,9 @@
                     "Name": "oral",
                     "Dosage": "5mg"
                 }
+            ],
+            "Effects": [
+                "{wkp 'Erection's} are easier to get and more intense"
             ]
         },
         {
@@ -895,16 +967,22 @@
                 }
             ],
             "Effects": [
-                "{xeff 'pain-relief'}, stronger than {sub 'Ibuprofen'}, but weaker than 150mg of {sub 'codeine'}"
+                "{sev 'moderate'} {xeff 'pain-relief'}, stronger than {sub 'Ibuprofen'}, but weaker than 150mg of {sub 'codeine'}"
             ],
             "Notes": [
                 "Helped with pain caused by {wkp 'Self-harm'}",
                 "Might help with stress induced muscle twitching"
+            ],
+            "Sources": [
+                "Polish Pharmacy: Pyralgina"
             ]
         },
         {
             "Name": "Doxylamine",
             "Indication": "{wkp 'Insomnia'}",
+            "Salts":[
+                "succinate"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
@@ -917,13 +995,17 @@
             ],
             "Effects": [
                 "{sev 'strong'} {xeff 'sleepiness'}",
-                "{xeff 'sedation'}",
+                "{sev 'moderate'} {xeff 'sedation'}",
                 "{xeff 'motivation-suppression'}",
                 "{sev 'light'} {xeff 'decreased-libido'}"
             ],
             "Notes": [
                 "Consumed as SchlafTabs-ratiopharm",
                 "stronger sleep aid than {sub 'Meltonin'}, might be useful when {sub 'Melatonin'} is insufficient"
+            ],
+            "Sources": [
+                "German Pharmacy: SchlafTabs-Ratiopharm",
+                "German Pharmacy: Schlafsterne"
             ]
         },
         {
@@ -948,6 +1030,9 @@
                     "Name": "oral",
                     "Dosage": "500mg"
                 }
+            ],
+            "Sources": [
+                "German Amazon"
             ]
         },
         {
@@ -997,7 +1082,8 @@
                 "{xeff 'double-vision'}; feels like being drunk"
             ],
             "Notes":[
-                "passed out at around 2/3ml"
+                "passed out at around 2/3ml",
+                "Good for having sex; probably not useful for anything else"
             ]
         },
         {
@@ -1051,6 +1137,9 @@
                     "Name": "insufflated",
                     "Dosage": ""
                 }
+            ],
+            "Notes":[
+                "No effects noted other than my head feeling a bit more quiet (could be placebo)"
             ]
         },
         {
@@ -1058,10 +1147,63 @@
             "Routes":[
                 {
                     "Name": "Oral",
-                    "Dosage": "25.0mg"
+                    "Dosage": "25-50mg"
                 }
             ],
             "Effects":[
+                "{sev 'light'} {xeff 'depression-reduction'}; made my mood less unstable",
+                "Maybe {sev 'light'} {xeff 'anxiety-suppression'}?"
+            ],
+            "Notes":[
+                "After upping my dose to 50mg one of my lymph nodes got swollen; went away after a few days"
+            ]
+        },
+        {
+            "Name": "Lorazepam",
+            "Routes":[
+                {
+                    "Name": "Oral",
+                    "Dosage": "0.625mg"
+                }
+            ],
+            "Effects":[
+                "{sev 'strong'} {xeff 'anxiety-suppression'}",
+                "{sev 'moderate'} {xeff 'sedation'}",
+                "{sev 'moderate'} {xeff 'sleepiness'}",
+                "{sev 'light'} {xeff 'thought-deceleration'}"
+            ],
+            "Notes":[
+                "Better emergency medication than {sub 'Alprazolam'} for {xeff 'anxiety'}"
+            ]
+        },
+        {
+            "Name": "Dexibuprofen",
+            "Routes":[
+                {
+                    "Name": "Oral",
+                    "Dosage": "200mg"
+                }
+            ],
+            "Effects":[
+                "see {sub 'Ibuprofen'}"
+            ],
+            "Sources": [
+                "German Pharmacy"
+            ]
+        },
+        {
+            "Name": "Ibuprofen Lysine",
+            "Routes":[
+                {
+                    "Name": "Oral",
+                    "Dosage": "800mg"
+                }
+            ],
+            "Effects":[
+                "see {sub 'Ibuprofen'}"
+            ],
+            "Sources": [
+                "German Pharmacy"
             ]
         }
     ]
