@@ -276,7 +276,11 @@
         },
         {
             "Name": "Alprazolam",
-            "Indication": "{xeff 'anxiety'}/{wkp 'Anxiety_disorder'}",
+            "Indication": [
+                "{xeff 'anxiety'}",
+                "{xeff 'panic-attack'",
+                "{wkp 'Anxiety_disorder'}"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
@@ -287,7 +291,10 @@
                 "{sev 'strong'} {xeff 'sedation'}",
                 "{sev 'moderate'} {xeff 'anxiety-suppression'}",
                 "{sev 'moderate'} {xeff 'memory-suppression'}",
-                "{xeff 'muscle-relaxation'}"
+                "{sev 'light'} {xeff 'muscle-relaxation'}"
+            ],
+            "Sources": [
+                "Ksalol 1mg Alprazolam tablet"
             ]
         },
         {
@@ -1033,7 +1040,7 @@
                 "Might be useful as an {wkp 'Antiandrogen'}"
             ],
             "Sources": [
-                "Spironolacton-ratiopharm"
+                "Spironolacton-ratiopharm 100mg tablets"
             ]
         },
         {
@@ -1101,7 +1108,7 @@
         },
         {
             "Name": "Zolpidem",
-            "Indication": "{wkp 'Insomnia'}",
+            "Indication": "{sev 'strong'} {wkp 'Insomnia'}",
             "Salts": [
                 "Tartrate"
             ],
@@ -1181,6 +1188,11 @@
         },
         {
             "Name": "Lorazepam",
+            "Indication": [
+                "{xeff 'anxiety'}",
+                "{xeff 'panic-attack'",
+                "{wkp 'Anxiety_disorder'}"
+            ],
             "Routes":[
                 {
                     "Name": "Oral",
@@ -1195,6 +1207,9 @@
             ],
             "Notes":[
                 "Better emergency medication than {sub 'Alprazolam'} for {xeff 'anxiety'}"
+            ],
+            "Sources": [
+                "Hemofarm Lorazepam 2.5mg Tablet"
             ]
         },
         {
@@ -1227,6 +1242,42 @@
             ],
             "Sources": [
                 "German Pharmacy: Redcare Ibu-Lysin"
+            ]
+        },
+        {
+            "Name": "3-Fluorophenmetrazine",
+            "Routes":[
+                {
+                    "Name": "Oral",
+                    "Dosage": "15mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'light'} {xeff 'stimulation'}",
+                "no other effects noted; probably beacuse of the low dose"
+            ]
+        },
+        {
+            "Name": "Diazepam",
+            "Indication": [
+                "{xeff 'anxiety'}",
+                "{xeff 'panic-attack'",
+                "{wkp 'Anxiety_disorder'}"
+            ],
+            "Routes":[
+                {
+                    "Name": "Oral",
+                    "Dosage": "5mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'strong'} {xeff 'anxiety-suppression'}",
+                "{sev 'moderate'} {xeff 'sedation'}",
+                "{sev 'light'} {xeff 'sleepiness'}",
+                "{sev 'light'} {xeff 'thought-deceleration'}"
+            ],
+            "Sources": [
+                "Hemofarm Diazepam 10mg Tablet"
             ]
         }
     ]
