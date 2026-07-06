@@ -341,7 +341,7 @@
                 }
             ],
             "Sources": [
-                "Bupropion Neuraxpharm"
+                "Bupropion Neuraxpharm 150mg/300mg XR tablets"
             ]
         },
         {
@@ -363,6 +363,11 @@
             ],
             "Adverse": [
                 "{sev 'strong'} {xeff 'anxiety'} at high doses"
+            ],
+            "Source": [
+                "Coffee",
+                "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets",
+                "Bulk.com 200mg caffeine tablets"
             ]
         },
         {
@@ -411,7 +416,7 @@
                 "{sev 'light'} {xeff 'thought-deceleration'} in high doses (140mg+)"
             ],
             "Sources":[
-                "Polish Pharmacy: Nurofen plus"
+                "Polish Pharmacy: Nurofen plus tablets"
             ]
         },
         {
@@ -684,7 +689,8 @@
                 "{sev 'light'} {xeff 'pain-relief'}"
             ],
             "Sources":[
-                "German Pharmacy"
+                "German Pharmacy: generic tablets",
+                "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets"
             ]
         },
         {
@@ -749,17 +755,29 @@
                 }
             ],
             "Sources": [
-                "German pharmacy: Progestan 100 mg soft capsules"
+                "German pharmacy: Progestan 100 mg soft capsules",
+                "self made suppositories from powder from china"
             ]
         },
         {
             "Name": "Promethazine",
             "Indication": "{wkp 'Insomnia'}",
+            "Salts": [
+                "hydrochloride"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "25.0mg"
+                    "Dosage": "12.5-25.0mg"
                 }
+            ],
+            "Effects": [
+                "{sev 'strong'} {xeff 'sleepiness'}",
+                "{sev 'strong'} {xeff 'sedation'}",
+                "{sev 'light'} {xeff 'motivation-suppression'}"
+            ],
+            "Source": [
+                "Promethazin-neuraxpharm 25mg tablet"
             ]
         },
         {
@@ -1017,8 +1035,7 @@
                 "{sev 'light'} {xeff 'decreased-libido'}"
             ],
             "Notes": [
-                "Consumed as SchlafTabs-ratiopharm",
-                "stronger sleep aid than {sub 'Meltonin'}, might be useful when {sub 'Melatonin'} is insufficient"
+                "stronger sleep aid than {sub 'Meltonin'}, useful when {sub 'Melatonin'} is insufficient"
             ],
             "Sources": [
                 "German Pharmacy: SchlafTabs-Ratiopharm",
@@ -1179,12 +1196,15 @@
                 }
             ],
             "Effects":[
-                "{sev 'light'} {xeff 'depression-reduction'}; made my mood less unstable",
-                "Maybe {sev 'light'} {xeff 'anxiety-suppression'}?"
+                "{sev 'moderate'} {xeff 'anxiety-suppression'}?",
+                "{sev 'light'} {xeff 'depression-reduction'}; made my mood less unstable"
             ],
             "Notes":[
                 "After upping my dose to 50mg one of my lymph nodes got swollen; went away after a few days"
-            ]
+            ],
+            "Source": [
+                "Powder from chinese vendor"
+            ]  
         },
         {
             "Name": "Lorazepam",
@@ -1206,10 +1226,10 @@
                 "{sev 'light'} {xeff 'thought-deceleration'}"
             ],
             "Notes":[
-                "Better emergency medication than {sub 'Alprazolam'} for {xeff 'anxiety'}"
+                "Best emergency medication for {xeff 'anxiety'}"
             ],
             "Sources": [
-                "Hemofarm Lorazepam 2.5mg Tablet"
+                "Hemofarm Lorazepam HF 2.5mg Tablet"
             ]
         },
         {
@@ -1277,7 +1297,41 @@
                 "{sev 'light'} {xeff 'thought-deceleration'}"
             ],
             "Sources": [
-                "Hemofarm Diazepam 10mg Tablet"
+                "Hemofarm Diazepam HF 10mg Tablet"
+            ]
+        },
+        {
+            "Name": "Taurine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "1g"
+                }
+            ],
+            "Sources":[
+                "Bulk.com (supplement store)"
+            ]
+        },
+        {
+            "Name": "Oxycodone",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Indication": "{sev 'strong'} pain",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "13mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'strong'} {xeff 'pain-relief'}",
+                "{sev 'strong'} {xeff 'cognitive-euphoria'}",
+                "{sev 'light'} {xeff 'sedation'}",
+                "{sev 'light'} {xeff 'thought-deceleration'}"
+            ],
+            "Sources":[
+                "Crushed Oxycodonhydrochlorid Puren 30 mg XR tablet found in the Herrngarten in {wkp 'Darmstadt'}"
             ]
         }
     ]
