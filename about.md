@@ -8,8 +8,8 @@
 <div style="margin-right: 10px">
 <h2>Welcome to {{template "logo"}}</h2>
 
-<table style="float: right; max-width: 150px;"><tr><td class="InfoboxImage" style="background-color: black;"><img style="height: 100%;width: 150px;" src="/assets/logo.png"></td></tr><tr><td class="InfoboxData"><span style="word-break: keep-all; background-color: var(--background-color-base);">A needle plunging into a vein.</span></td></tr></table>
-
+<div>
+<table style="margin-bottom: 1em; float: right; max-width: 150px;"><tr><td class="InfoboxImage" style="background-color: black;"><img style="height: 100%;width: 150px;" src="/assets/logo.png"></td></tr><tr><td class="InfoboxData"><span style="word-break: keep-all; background-color: var(--background-color-base);">A needle plunging into a vein.</span></td></tr></table>
 <a class=logo href=https://en.wiktionary.org/wiki/anodyne>Anodyne</a> is a meta-wiki centered around chemicals affecting biological life-forms, their administration, effects and interactions which strives to aid those seeking direct means of pharmacological- comfort, healing and enhancement.
 
 This project primarily functions as an aggregator for a wide array of sources only allowing user-contributions through the concept of <a href=/index/user>userpages</a>.
@@ -17,14 +17,18 @@ This project primarily functions as an aggregator for a wide array of sources on
 This tool is actively being developed. To follow development updates and learn how you can contribute and banter, join our [Discord](https://discord.gg/DKfYmNrz6Z) / [Matrix](https://matrix.to/#/!zBeZTwXDOJIswNDxxX:anodyne.wiki?via=anodyne.wiki) (bridged to Discord).
 
 If you enjoy this project and have the means, consider <a href='/donate'>donating</a> to keep us afloat.
+</div>
 
-<div style="border: 1px solid #a2a9b1; border-radius: 5px; background-color: var(--background-color-disabled); font-weight: 500;">
+<div style="clear: right; border: 1px solid #a2a9b1; border-radius: 0px; background-color: var(--background-color-disabled); font-weight: 500;">
 <div style="margin: 5px;">
-Under no circumstance should information we provide be used as sole reference for recreational substance-use or substitute for medical advice.
+<h4>Disclaimer</h4>
+Information we provide should not be used as sole reference for recreational drug use or as substitute for the advice of a medical professional.
 
 We do not take any responsibility for medical complications or loss of life sustained doing so.
 
-2 of our collaborators have tragically passed away during the development of this project.
+During the ~17 month life-span of this project, 2 of our collaborators have tragically passed away.
+
+We hope to make a positive impact on the safety of our users but the responsibility for your safety is still yours.
 </div>
 </div>
 

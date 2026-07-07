@@ -13,7 +13,7 @@
 
 {{define "refs"}}
     {{- $vars := .}}
-    {{- if $vars.Refs}}<div class=collapser><h2 style="word-break: keep-all; display: block;">External links<span class=collapseButtonTight>&nbsp;{{template "exnd" .Collapse}}</span></h2>
+    {{- if $vars.References}}<div class=collapser><h2 style="word-break: keep-all; display: block;">External links<span class=collapseButtonTight>&nbsp;{{template "exnd" .Collapse}}</span></h2>
 <div class=collapserContent>{{if $vars.References}}
 <ul>{{end}}{{range $ref := $vars.References}}{{if $ref.Urls}}{{range $i, $url := $ref.Urls}}{{if $url.Sub}} / {{else}}<li>{{end}}<a {{if eq $i (sub (len $ref.Urls) 1)}}class=logo{{end}} href='{{replace "'" "%27" (replace " " "_" ($url.Link))}}'>{{$url.Name}}{{if not (eq $i (sub (len $ref.Urls) 1))}}</a>{{end}}{{end}} ({{$ref.Name}})</a></li>
 {{else}}{{if $ref.url}}<li><a class="logo" href='{{replace "'" "%27" (replace " " "_" ($ref.url))}}'>{{$vars.Title}} ({{$ref.name}})</a></li>

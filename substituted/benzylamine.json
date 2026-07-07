@@ -43,9 +43,7 @@
     },
     {
       "Title": "Aptiganel",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "303.4 g/mol"
     },
     {
@@ -63,16 +61,12 @@
     },
     {
       "Title": "Sulpiride",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "341.4 g/mol"
     },
     {
       "Title": "Sultopride",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "354.5 g/mol"
     },
     {
@@ -108,13 +102,19 @@
       "Title": "Ipsapirone",
       "Abr": null,
       "MW": "401.5 g/mol"
+    },
+    {
+      "Title": "Lamotrigine",
+      "Abr": [
+        "BW-430C",
+        "BW430C"
+      ],
+      "MW": "256.09 g/mol"
     }
   ],
   "First": {
     "Title": "Benzylamine",
-    "Abr": [
-
-    ],
+    "Abr": [],
     "MW": "107.15 g/mol"
   },
   "Parent": "arylalkylamine",

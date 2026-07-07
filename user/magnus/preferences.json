@@ -1289,6 +1289,17 @@
       ],
       "Salts": [],
       "Notes": ""
+    },
+    {
+      "Name": "Borax combo",
+      "Composite": true,
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Salts": [],
+      "Notes": ""
     }
   ],
   "SubstanceMatrixMaxCols": "16",

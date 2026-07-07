@@ -47,7 +47,7 @@
                 "{xeff 'appetite suppression'}",
                 "{xeff 'increased-perspiration'}",
                 "{xeff 'increased heart rate'}",
-                "{xeff 'drifting'} when heavily de-hydrated"
+                "{sev 'light'} {xeff 'drifting'} when heavily de-hydrated"
             ]
         },
         {
@@ -67,19 +67,19 @@
                 "{xeff 'auditory-hallucination'}"
             ],
             "DEffects": [
-              {
-                "Route": "Oral",
-                "Effects": [
-                  "{sev 'light'} {xeff 'teeth-grinding'}"
-                ]
-              },
-              {
-                "Route": "Insufflated",
-                "Effects": [
-                  "{sev 'strong'} {xeff 'teeth-grinding'}",
-                  "{sev 'strong'} {xeff 'shakiness'}"
-                ]
-              }
+                {
+                    "Route": "Oral",
+                    "Effects": [
+                        "{sev 'light'} {xeff 'teeth-grinding'}"
+                    ]
+                },
+                {
+                    "Route": "Insufflated",
+                    "Effects": [
+                        "{sev 'strong'} {xeff 'teeth-grinding'}",
+                        "{sev 'strong'} {xeff 'shakiness'}"
+                    ]
+                }
             ],
             "Notes": [
                 "Written when on 9mg 2C-B ^-^"
@@ -98,10 +98,34 @@
             ]
         },
         {
-            "Name": "Ethanol"
+            "Name": "Ketamine",
+            "Effects": [
+                "{xeff 'sedation'}",
+                "{xeff 'physical-euphoria'}",
+                "{xeff 'increased-music-appreciation'}",
+                "{xeff 'cognitive-disconnection'}"
+            ]
         },
         {
-            "Name": "Ketamine"
+            "Name": "3,4-Methylenedioxymethamphetamine",
+            "Effects": [
+                "{xeff 'stimulation'}",
+                "{xeff 'increased-music-appreciation'}",
+                "{xeff 'laughter-fits'}",
+                "{xeff 'tactile-enhancement'}",
+                "{xeff 'physical-euphoria'}",
+                "{xeff 'empathy-affection-and-sociability-enhancement'}",
+                "{xeff 'thought-acceleration'}",
+                "{xeff 'increased-perspiration'}",
+                "{xeff 'wakefulness'}",
+                "{xeff 'teeth-grinding'}"
+            ],
+            "Odor": [
+                "liquorice"
+            ]
+        },
+        {
+            "Name": "Ethanol"
         }
     ],
     "Psyche": {

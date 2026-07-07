@@ -722,3 +722,8 @@ ul[class=FormList] {
 	flex: 1;
 	box-sizing: border-box;
 }
+.copyable {
+	cursor: pointer;
+	display: inline-block;
+	margin: 4px 0;
+}
