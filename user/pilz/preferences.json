@@ -1036,6 +1036,9 @@
                     "Dosage": "12.5mg"
                 }
             ],
+            "Sources": [
+                "SchlafTabs: Ratiopharm"
+            ],
             "Effects": [
                 "{sev 'strong'} {xeff 'sleepiness'}",
                 "{sev 'moderate'} {xeff 'sedation'}",
@@ -1043,7 +1046,7 @@
                 "{sev 'light'} {xeff 'decreased-libido'}"
             ],
             "Notes": [
-                "stronger sleep aid than {sub 'Meltonin'}, useful when {sub 'Melatonin'} is insufficient"
+                "stronger sleep aid than {sub 'melatonin'}, useful when {sub 'melatonin'} is insufficient."
             ],
             "Sources": [
                 "German Pharmacy: SchlafTabs-Ratiopharm",

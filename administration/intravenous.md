@@ -60,7 +60,10 @@ The instructions below are optimized for the following factors:
     * Adaptable to crushed tablets by reducing the amount of initial pulp which otherwise would clog up the wheel filter
 
 *Instructions*:
-1. (Recommended - Optimally inbetween shoots) Wash your injection site and hands with soap and sterilize with a alcohol wipe to minimize risk of infection.
+1. (Recommended) Do prep
+    * Wash your injection site and hands with soap and sterilize with a alcohol wipe to minimize risk of infection.
+    * Properly hydrate (this will help widen your veins making finding veins alot easier)
+    * Make sure your injection site is warm enough
 2. Weigh the desired dose on a centrifuge tube's cap.
 3. Withdraw your desired volume of saline from a vial.
 4. Add your desired dose into the centrifuge tube, spray it with saline and let it dissolve your dose.

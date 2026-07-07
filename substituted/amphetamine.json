@@ -744,6 +744,18 @@
         "ALLAD"
       ],
       "MW": "349.5 g/mol"
+    },
+    {
+      "Title": "Desomorphine",
+      "Abr": null,
+      "MW": "271.35 g/mol"
+    },
+    {
+      "Title": "4-Phenylmethamphetamine",
+      "Abr": [
+        "BPMA"
+      ],
+      "MW": "225.33 g/mol"
     }
   ],
   "Parent": "phenethylamine",

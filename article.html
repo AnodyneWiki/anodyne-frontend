@@ -1,4 +1,4 @@
-{{define "article" -}}{{range list  "cookies.html" "util.html" "css.html" "header.html" "footer.html"}}{{import .}}{{end -}}
+{{define "article" -}}{{range list  "cookies.html" "util.html" "head.html" "header.html" "footer.html"}}{{import .}}{{end -}}
 {{template "cookies" (.) -}}
 {{$v := default (dict) .Vars -}}
 	{{- $_ := set $v "Theme" (default "dark" .Theme) -}}
@@ -10,9 +10,7 @@
 <!DOCTYPE html>
 <html lang=en dir=ltr translate=no data-theme='{{$v.Theme}}'>
 	<head>
-		<title>{{.Title}}{{if hasSuffix " - AnodyneWiki" .Title | not}} - AnodyneWiki{{end}}</title>
-
-		{{template "css" $v}}
+		{{template "head" (dict "Title" .Title "v" $v)}}
 	</head>
 
 	<body style="margin: 0px 6px 0px 6px;">

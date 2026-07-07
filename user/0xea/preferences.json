@@ -44,6 +44,10 @@
     {
       "Name": "Matrix",
       "Url": "@0xea:anodyne.wiki"
+    },
+    {
+      "Name": "Session",
+      "Url": "0544fa7f05357df46cac3c51f12f3a482ed4ca4e17bf348f035f04fcd0cb2f5d67"
     }
   ],
   "Psyche": {
@@ -57,9 +61,9 @@
       "{wkp 'autism spectrum disorder' 'autism'} (diagnosed)",
       "{wkp 'transsexual'} ({wkp 'Trans woman' 'male to female'} since May 2023; injecting {sub 'estradiol'} esters weekly)",
       "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'})",
-      "{wkp 'self-destructive behaviour'} (self-punshing, head-banging, cutting, injecting, overdose)",
+      "{wkp 'self-destructive behaviour'} (self-punshing, head-banging, cutting, injecting, intentional overdose)",
       "reaccuring {xeff 'suicidal ideation'} (since ~2018)",
-      "{roa 'intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; abstinent 108 days; periods of {xeff 'wakefulness'} up to 6+ days)",
+      "{roa 'intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; longest perioid of abstinence 113 days; periods of {xeff 'wakefulness'} up to 6+ days, psychological breakdown and severe episodes of {wkp 'stimulant psychosis'})",
       "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'})"
     ]
   },
@@ -77,35 +81,35 @@
         "0.3ml insulin syringe"
       ],
       "Sites": [
-        "Cephalic",
-        "Median cubital",
-        "Femoral",
-        "Dorsal metacarpal",
-        "Small saphenous",
-        "Dorsal venous arch",
-        "Great saphenous"
+        "{wkp 'Cephalic vein'}",
+        "{wkp 'Median cubital vein'}",
+        "{wkp 'Femoral vein'}",
+        "{wkp 'Dorsal metacarpal vein'}",
+        "{wkp 'Small saphenous vein'}",
+        "{wkp 'Dorsal venous arch'}",
+        "{wkp 'Great saphenous vein'}"
       ]
     },
     {
       "Name": "Inhaled",
       "Paraphernalia": [
-        "Metered-dose Inhaler",
+        "{wkp 'Metered-dose Inhaler'}",
         "Balloon",
         "Vaporizer",
-        "Base pipe",
-        "Foily",
+        "{wkp 'Drug pipe#Methamphetamine pipe' 'Base pipe'}",
+        "{wkp 'Chasing the dragon' 'Foily'}",
         "Straight \"Crack\" pipe",
         "Volatile fumes",
-        "Combusted"
+        "{wkp 'Smoking' 'Combusted'}"
       ],
       "Sites": [
-        "Lungs"
+        "{wkp 'Lung'}"
       ]
     },
     {
       "Name": "Subcutaneous",
       "Paraphernalia": [
-        "Injector pen",
+        "{wkp 'Injector pen'}",
         "0.3ml syringe",
         "1ml syringe"
       ],
@@ -119,7 +123,7 @@
       "Name": "Intrarectal",
       "Paraphernalia": [
         "1ml syringe",
-        "Suppository"
+        "{wkp 'Suppository'}"
       ],
       "Sites": [
         "Rectum"
@@ -129,12 +133,12 @@
       "Name": "Intramuscular",
       "Paraphernalia": [
         "1ml syringe",
-        "Injector pen"
+        "{wkp 'Injector pen'}"
       ],
       "Sites": [
-        "Deltoid",
-        "Vastus lateralis",
-        "Vastus intermedius"
+        "{wkp 'Deltoid muscle'}",
+        "{wkp 'Vastus lateralis muscle'}",
+        "{wkp 'Vastus intermedius muscle'}"
       ]
     },
     {
@@ -142,17 +146,17 @@
       "Paraphernalia": [
         "Mirror-plate, razor-blade/credit-card and tube",
         "Syringe adapter atomizer",
-        "Nasalspray"
+        "{wkp 'Nasal spray'}"
       ],
       "Sites": [
-        "Nose"
+        "{wkp 'Nostril'}"
       ]
     },
     {
       "Name": "Transdermal",
       "Paraphernalia": [
-        "Patch",
-        "Gel"
+        "{wkp 'Dermal patch'}",
+        "{wkp 'Topical medication#Gel' 'Gel'}"
       ],
       "Sites": [
         "Upper arm",
@@ -162,9 +166,9 @@
     {
       "Name": "Oral",
       "Paraphernalia": [
-        "Capsule",
+        "{wkp 'Capsule (pharmacy)' 'Capsule'}",
         "Solution",
-        "Tablet",
+        "{wkp 'Tablet (pharmacy)' 'Tablet'}",
         "Powder"
       ],
       "Sites": [
@@ -411,6 +415,10 @@
         "{xeff 'sleepiness'}",
         "{xeff 'cognitive dysphoria'}"
       ],
+      "Tolerance": [
+        "builds steadily over the span of weeks to months",
+        "sustained use leads to a point where the drugs positive effects are still reachable but at dosages between 50-100mg intravenously and oftentimes only 15-30 minutes at a time."
+      ],
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
@@ -539,9 +547,12 @@
         "{xeff 'sleepiness'}",
         "{xeff 'cognitive dysphoria'}"
       ],
+      "Tolerance": [
+        "builds steadily over the span of 1-2 weeks",
+        "sustained use leads to absolute tolerance where only adverse effects remain"
+      ],
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
-        "without tolerance short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
         "{sev 'intense'} {xeff 'focus enhancement'} (often resulting in a state of day long hyper-focus which may or may not be counter-productive)",
         "{sev 'strong'} {xeff 'wakefulness'} (up to 6+ days)",
         "{sev 'strong'} {xeff 'motivation enhancement'}",
@@ -551,9 +562,17 @@
         "thirst suppression",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{xeff 'increased libido'}",
-        "without tolerance {sev 'strong'} {xeff 'depression reduction'}",
         "acute relief of constipation",
         "{sev 'strong'} {xeff 'headache'} suppression"
+      ],
+      "DEffects": [
+        {
+          "Condition": "without tolerance",
+          "Effects": [
+            "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
+            "{sev 'strong'} {xeff 'depression reduction'}"
+          ]
+        }
       ],
       "Adverse": [
         "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
@@ -622,6 +641,10 @@
         "{xeff 'depression'}",
         "{xeff 'sleepiness'}",
         "{xeff 'cognitive dysphoria'}"
+      ],
+      "Tolerance": [
+        "builds steadily over the span of 1-2 weeks",
+        "sustained use leads to absolute tolerance where only adverse effects remain"
       ],
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
@@ -738,6 +761,23 @@
       ]
     },
     {
+      "Name": "5-Methoxy-2-aminoindane",
+      "Routes": [
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Sources": [
+        "MEAI: Research-chemical-vendor Netherlands"
+      ],
+      "Notes": [
+        "consumption mixed with other substances during anxiety episode. unable to seperate effects."
+      ]
+    },
+    {
       "Name": "3,4-Methylenedioxymethamphetamine",
       "Routes": [
         {
@@ -806,7 +846,10 @@
         "{sev 'strong'} {xeff 'focus enhancement'}",
         "{sev 'light'} {xeff 'vasoconstriction'}"
       ],
-      "Indication": "executive dysfunction"
+      "Indication": "executive dysfunction",
+      "Tolerance": [
+        "builds steadily over the span of weeks to months"
+      ]
     },
     {
       "Name": "Orthophedrone",
@@ -895,6 +938,10 @@
         "3-MMC: Drug taxi",
         "3-MMC: DNM Germany"
       ],
+      "Tolerance": [
+        "builds steadily over the span of a single session leading to acute dose escalation from <~30mg every 30-45 minutes> at the beginning to <250mg every 10-15 minutes> at the grinding breakdown 3-5 days in.",
+        "sustained use leads to absolute tolerance where only adverse effects remain and the corrosion in the venous networks or nostrils causes severe burning."
+      ],
       "Effects": [
         "short-acting {sev 'strong'} {xeff 'cognitive euphoria'}",
         "{sev 'intense'} {wkp 'addiction'} (made me feel as if this feeling would be the purpose of the rest of my life; +60g consumed; emptied out savings)",
@@ -905,8 +952,29 @@
         "{sev 'moderate'} {xeff 'increased libido'}",
         "{sev 'intense'} {xeff 'depression reduction'}"
       ],
+      "After": [
+        "{sev 'moderate'} {xeff 'depression'}",
+        "{xeff 'memory suppression'}"
+      ],
       "Notes": [
         "corrosive in veins and nostrils"
+      ]
+    },
+    {
+      "Name": "Clophedrone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "21mg"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Sources": [
+        "3-CMC: Research-chemical-vendor Netherland"
+      ],
+      "Effects": [
       ]
     },
     {
@@ -1017,6 +1085,10 @@
         "Mephedrone: DNM Germany",
         "4-MMC: Drug taxi"
       ],
+      "Tolerance": [
+        "builds steadily over the span of a single session leading to acute dose escalation from <~30mg every 30-45 minutes> at the beginning to <200mg every 10-15 minutes> at the grinding breakdown 3-5 days in.",
+        "sustained use leads to absolute tolerance where only adverse effects remain and the corrosion in the venous networks or nostrils causes severe burning."
+      ],
       "Effects": [
         "short-acting {sev 'strong'} {xeff 'cognitive euphoria'}",
         "{sev 'moderate'} {xeff 'empathy affection and sociability enhancement'}",
@@ -1024,6 +1096,9 @@
         "{sev 'strong'} {xeff 'increased libido'}",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{sev 'intense'} {xeff 'depression reduction'}"
+      ],
+      "After": [
+        "{sev 'strong'} {xeff 'depression'}"
       ],
       "Odor": [
         "hydrochloride cat piss. likely through contamination not the substance itself."
@@ -1052,7 +1127,7 @@
         "more {xeff 'sedation'} than stimulation"
       ],
       "Notes": [
-        "barely active"
+        "barely active (presumably tested with stimulant tolerance)"
       ]
     },
     {
@@ -1077,17 +1152,40 @@
         "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
         "{sev 'intense'} {xeff 'stimulation'}",
         "{sev 'intense'} {xeff 'motivation enhancement'}",
-        "{sev 'intense'} {xeff 'compulsive redosing'}",
-        "{sev 'intense'} {xeff 'depression reduction'}"
+        "{sev 'intense'} {xeff 'focus enhancement'}",
+        "{sev 'strong'} {xeff 'stamina enhancement'}",
+        "{sev 'intense'} {xeff 'motivation enhancement'}",
+        "{sev 'moderate'} {xeff 'compulsive redosing'}",
+        "{sev 'intense'} {xeff 'depression reduction'}",
+        "{sev 'intense'} {xeff 'increased libido'}"
       ],
       "DEffects": [
         {
-          "Route": "Oral",
-          "Dose": "1g",
+          "Condition": "discontinuation after a couple of redoses",
           "Effects": [
-            "mild adrenergic activity"
+            "{sev 'light'} {xeff 'thought disorganization'}",
+            "{sev 'light'} {xeff 'focus suppression'}",
+            "feeling fried"
+          ]
+        },
+        {
+          "Condition": "without tolerance",
+          "Dosage": "30mg",
+          "Route": "Intravenous",
+          "Effects": [
+            "{sev 'strong'} {xeff 'increased heart rate'}",
+            "{sev 'strong'} {xeff 'anxiety'}",
+            "{sev 'strong'} {xeff 'feelings of impending doom'}",
+            "{sev 'strong'} {xeff 'dehydration '} (went through 4 bottles of water in 24 hours)",
+            "{sev 'strong'} {xeff 'shakiness'}",
+            "{sev 'strong'} {xeff 'increased perspiration'}",
+            "{sev 'light'} {xeff 'respiratory depression'}",
+            "{sev 'moderate'} {xeff 'dry mouth'}"
           ]
         }
+      ],
+      "Tolerance": [
+        "typically breaks through {sev 'strong'} {class 'stimulant'}-tolerance"
       ],
       "Adverse": [
         "{xeff 'psychosis'}"
@@ -1096,8 +1194,8 @@
         "{sev 'intense'} {xeff 'depression'}"
       ],
       "Notes": [
-        "quite potent",
-        "my favorite stimulant"
+        "highly potent presumably more useful when struggling with heavy stimulant tolerance",
+        "favorite stimulant"
       ]
     },
     {
@@ -1260,6 +1358,9 @@
       "Salts": [
         "Hydrochloride"
       ],
+      "Tolerance": [
+        "minimal dosage escalation following several weeks of sustained usage in form of 5-7 day long bindges."
+      ],
       "Effects": [
         "{sev 'intense'} {xeff 'vasoconstriction'}",
         "{sev 'intense'} {xeff 'stimulation'}",
@@ -1287,7 +1388,7 @@
         },
         {
           "Route": "Intravenous",
-          "Dose": "50mg",
+          "Dose": ">50mg",
           "Effects": [
             "when dosed too frequently multi-hour peroids of strong dissociation"
           ]
@@ -1862,7 +1963,7 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "50mg"
+          "Dosage": "25-50mg"
         },
         {
           "Name": "Intravenous",
@@ -1870,17 +1971,15 @@
         }
       ],
       "Effects": [
-        "{xeff 'sedation'}",
-        "{xeff 'analysis suppression'}",
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "{sev 'strong'} {xeff 'analysis suppression'}",
         "{sev 'light'} {xeff 'nausea suppression'}",
-        "{xeff 'irritability'}"
+        "{xeff 'irritability'}",
+        "seams too improve allergy symptoms"
       ],
       "Indication": [
         "{wkp 'insomnia'}",
         "{sev 'light'} allergy"
-      ],
-      "Effects": [
-        "seams too improve allergy symptoms"
       ]
     },
     {
@@ -1889,6 +1988,24 @@
         {
           "Name": "Oral"
         }
+      ]
+    },
+    {
+      "Name": "Doxylamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "25mg"
+        }
+      ],
+      "Salts":  [
+        "Succinate"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'sedation'}"
+      ],
+      "Indication": [
+        "{wkp 'insomnia'}"
       ]
     },
     {
@@ -2144,6 +2261,25 @@
       ]
     },
     {
+      "Name": "Flubromazolam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.25mg"
+        }
+      ],
+      "Sources": [
+        "Flubromazolam 0.5mg pellets: Research-chemical-vendor Netherlands"
+      ],
+      "Indication": [
+        "{wkp 'insomnia'}"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'anxiety suppression'}",
+        "{sev 'moderate'} {xeff 'sedation'}"
+      ]
+    },
+    {
       "Name": "Diazepam",
       "Routes": [
         {
@@ -2256,6 +2392,9 @@
         "{xeff 'panic attack'}",
         "fear of abandonment"
       ],
+      "Tolerance": [
+        "builds steadily over the span of 1-2 weeks"
+      ],
       "Effects": [
         "{sev 'strong'} {xeff 'anxiety suppression'}",
         "{xeff 'sedation'}",
@@ -2269,7 +2408,7 @@
         "{sev 'moderate'} {xeff 'tinnitus'}",
         "{xeff 'increased bodily temperature'}",
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
-        "dream like states which feel fully concious/lucid",
+        "dream-like states which feel fully concious/lucid",
         "{xeff 'muscle relaxation'}",
         "{xeff 'pupil constriction'}"
       ],
@@ -2297,7 +2436,7 @@
       "Notes": [
         "generally has a negative impact on productivity and long-term wellbeing but can be helpful in change of perspective and acute coping",
         "quite plesant to foil when Freebased with ammonia",
-        "intravenous injection of unsanitary solution repeatedly lead to the development of soars all around my body(unrelated to venipuncture)"
+        "intravenous injection of unsanitary solution repeatedly lead to the development of soars all around the body unrelated to venipuncture."
       ]
     },
     {
@@ -2365,7 +2504,7 @@
         "helps deal with significant emotional pain",
         "{xeff 'nausea'}",
         "{xeff 'increased bodily temperature'}",
-        "dream like states which feel fully concious/lucid",
+        "dream-like states which feel fully concious/lucid",
         "{xeff 'increased libido'}"
       ],
       "Notes": "obtained by letting {sub 'diacetylmorphine'} sit in a low pH solution for several weeks; quite potent"
@@ -2400,6 +2539,9 @@
         "{xeff 'panic attack'}",
         "fear of abandonment"
       ],
+      "Tolerance": [
+        "builds steadily over the span of 1-2 weeks"
+      ],
       "Effects": [
         "{sev 'moderate'} {xeff 'sedation'}",
         "{sev 'strong'} {xeff 'anxiety suppression'}",
@@ -2417,7 +2559,7 @@
         "{xeff 'increased bodily temperature'}",
         "{xeff 'increased perspiration'}",
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
-        "dream like states which feel fully concious/lucid",
+        "dream-like states which feel fully concious/lucid",
         "{xeff 'increased libido'}",
         "{xeff 'muscle relaxation'}",
         "{xeff 'pupil constriction'}",
@@ -2456,11 +2598,20 @@
           "Onset": "5-10 seconds",
           "Comeup": "30 seconds",
           "Duration": "60-120 minutes",
-          "Dosage": "15-100mcg"
+          "Dosage": "15-800mcg"
         },
         {
           "Name": "Subcutaneous",
-          "Dosage": "50-100mcg"
+          "Onset": "7-8 minutes",
+          "Comeup": "10 minutes",
+          "Duration": "60-120 minutes",
+          "Dosage": "50-250mcg"
+        },
+        {
+          "Name": "Vaporized",
+          "Onset": "5-10 seconds",
+          "Comeup": "30 seconds",
+          "Dosage": "250-1000mcg"
         }
       ],
       "Salts": [
@@ -2473,11 +2624,15 @@
         "{xeff 'panick attack'}",
         "fear of abandonment"
       ],
+      "Tolerance": [
+        "builds steadily over the span of 1-2 weeks",
+        "sustained use leads to absolute tolerance where only adverse effects remain"
+      ],
       "Sources": [
         "Fentanyl: DNM Germany"
       ],
       "Effects": [
-        "{sev 'moderate'} {xeff 'wakefulness'}",
+        "{sev 'moderate'} {xeff 'wakefulness'} (causes only temporary non-restful loss of conciousness for an hour once conciousness is regained consumption is typically resumed)",
         "{sev 'strong'} {xeff 'anxiety suppression'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{sev 'strong'} {xeff 'pain relief'}",
@@ -2487,6 +2642,7 @@
         "{sev 'moderate'} {xeff 'thought deceleration'}",
         "{sev 'moderate'} {xeff 'tinnitus'}",
         "{xeff 'muscle relaxation'}",
+        "{xeff 'decreased libido'} or {xeff 'increased libido'}",
         "{xeff 'pupil constriction'}",
         "{rev} {sev 'moderate'} {xeff 'increased music appreciation'}",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
@@ -2497,6 +2653,7 @@
         {
           "Route": "Intravenous",
           "Dose": "25mcg",
+          "Condition": "without tolerance",
           "Effects": [
             "{xeff 'increased bodily temperature'}",
             "{xeff 'increased perspiration'}",
@@ -2509,23 +2666,66 @@
         {
           "Route": "Intravenous",
           "Dose": "50mcg",
+          "Condition": "without tolerance",
           "Effects": [
             "{sev 'intense'} {xeff 'double vision'}",
             "{sev 'strong'} {xeff 'nausea'}",
             "{sev 'strong'} {xeff 'nausea?s=vomiting' 'vomiting'}",
             "{sev 'strong'} {xeff 'sedation'} (often resulting in loss of conciousness)"
           ]
+        },
+        {
+          "Route": "Intravenous",
+          "Dose": "+400mcg",
+          "Condition": "with tolerance",
+          "Effects": [
+            "{sev 'moderate'} {xeff 'cognitive dysphoria'}"
+          ]
         }
       ],
       "After": [
         "{xeff 'constipation'}",
-        "{sev 'moderate'} {xeff 'motor control loss'} (1-2 days)",
+        "without tolerance {sev 'moderate'} {xeff 'motor control loss'} (1-2 days)",
         "{xeff 'muscle tension'}",
-        "pain sensitization"
+        "pain sensitization ({sev 'light'} {xeff 'back pain'}, {sev 'light'} tooth pain chewing hard food)",
+        "{sev 'moderate'} {xeff 'appetite suppression'} (food tastes much more bland)",
+        "nightmares"
       ],
       "Notes": [
+        "less recreational than {subst 'morphinan'} {class 'opioid'}s.",
         "intravenously using volumetric liquid dosing only. eyeballing or measuring out single injections would likely be deadly.",
-        "intravenous injection of unsanitary solution repeatedly lead to the development of soars all around my body(unrelated to venipuncture)"
+        "intravenous injection of unsanitary solution repeatedly lead to the development of soars all around the body unrelated to venipuncture."
+      ]
+    },
+    {
+      "Name": "2-Methylbucinnazine",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Onset": "5-10 seconds",
+          "Comeup": "30 seconds",
+          "Dosage": "0.75-10mg"
+        },
+        {
+          "Name": "Oral",
+          "Dosage": "50mg"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Indication": [
+      ],
+      "Sources": [
+        "2-Methyl-AP-237: Research-chemical-vendor Netherlands"
+      ],
+      "Effects": [
+        "{xeff 'nausea'}"
+      ],
+      "After": [
+      ],
+      "Notes": [
+        "Does not meaningfully substitute for {sub 'fentanyl'}"
       ]
     },
     {
@@ -2645,6 +2845,9 @@
       "Indication": [
         "{xeff 'anxiety'}",
         "stimulant withdrawal"
+      ],
+      "Tolerance": [
+        "tolerance typically builds over span of waking cycle with the first dosage having the strongest sedating effects numbing out through compulsive use."
       ],
       "Effects": [
         "{sev 'light'} {xeff 'stimulation'}",
@@ -3055,6 +3258,10 @@
         "Freebase",
         "Citrate"
       ],
+      "Tolerance": [
+        "tolerance builds from daily usage over weeks, months to years leading to dosage escalation.",
+        "effects remain reachable with dosage escalation."
+      ],
       "Effects": [
         "{sev 'light'} {xeff 'stimulation'}",
         "{sev 'light'} {xeff 'focus enhancement'}",
@@ -3296,6 +3503,22 @@
       "Notes": [
         "diluted with water not as bitter as described"
       ]
+    },
+    {
+      "Name": "Amyl nitrite",
+      "Routes": [
+        {
+          "Name": "Inhaled",
+          "Dosage": "250-800mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{sev 'light'} {xeff 'sedation'}",
+        "overwhelming pulsing and buzzing",
+        "{xeff 'tinnitus'}"
+      ],
+      "Odor": "sweet and nasty"
     },
     {
       "Name": "Butane",
@@ -3588,6 +3811,6 @@
       ]
     }
   ],
-  "SubstanceMatrixCellW": "50px",
-  "SubstanceMatrixCellH": "50px"
+  "SubstanceMatrixCellW": "60px",
+  "SubstanceMatrixCellH": "60px"
 }

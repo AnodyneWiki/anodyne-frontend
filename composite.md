@@ -43,7 +43,7 @@
 {{template "history" $v}}
 {{template "pharma" $v}}
 
-{{if or (empty $usernotes | not) (get $v "Subjective Effects") -}}
+{{if or (empty $usernotes.local | not) (get $v "Subjective Effects") -}}
 <div class=collapser><h2>Subjective effects<span class=collapseButtonTight>&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
 <div class=collapserContent>
 {{with get $v "Subjective Effects"}}{{template "subjective" .}}{{end -}}

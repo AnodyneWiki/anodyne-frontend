@@ -262,6 +262,7 @@
 	{ "Title": "Trimethylamphetamine", "Abr": "TMA", "Search": "CID26640" },
 	{ "Title": "β-Methylamphetamine", "Classes": [ "Stimulant" ] },
 	{ "Title": "β-Phenylmethamphetamine", "Classes": [ "Stimulant" ] },
+	{ "Title": "4-Phenylmethamphetamine", "Abr": [ "BPMA" ], "Classes": [ "Stimulant" ], "Search": "CID82540674" },
 
 	{ "Title": "N-Formylamphetamine", "Classes": [ "Stimulant" ] },
 	{ "Title": "N-Acetylamphetamine", "Classes": [ "Stimulant" ] },
@@ -629,6 +630,9 @@
 	{ "Title": "Morpholine" },
 
 	{ "Title": "Bucinnazine", "Abr": [ "AP-237" ] },
+	{ "Title": "2,6-Dimethylprocinnazine", "Abr": [ "AP-238" ], "Search": "CID124389619" },
+	{ "Title": "Azaprocin" },
+	{ "Title": "2-Methylbucinnazine", "Abr": [ "2-Methyl-AP-237" ], "Search": "CID6447699" },
 
 	{ "Title": "Piperine" },
 
@@ -1547,6 +1551,7 @@
 	{ "Title": "16α-Lactone-estradiol", "Abr": "16α-LE2", "Search": "CID9862250" },
 	{ "Title": "8β-Vinylestradiol", "Abr": "8β-VE2", "Search": "CID9832100" },
 	{ "Title": "Ethinylestradiol", "Abr": "EE" },
+	{ "Title": "Dienogest", "Abr": "DNG", "Brand": [ "Visanne" ]},
 	{ "Title": "Etonogestrel" },
 	{ "Title": "Estramustine"},
 	{ "Title": "Equilin"},
@@ -1682,6 +1687,7 @@
 
 	{ "Title": "Anethole trithione" },
 	{ "Title": "Valproate" },
+	{ "Title": "Lamotrigine", "Abr": [ "BW-430C", "BW430C" ], "System": "3,5-Diamino-6-(2,3-dichlorophenyl)-1,2,4-triazine", "Brand": [ "Lamictal" ]},
 	{ "Title": "Suxamethonium" },
 
 	{ "Title": "Capsaicin" },

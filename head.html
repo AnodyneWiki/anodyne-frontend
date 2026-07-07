@@ -1,7 +1,9 @@
-{{define "css"}}{{$v := . -}}
+{{define "head"}}{{$v := .v -}}
+		<title>{{.Title}}{{if hasSuffix " - AnodyneWiki" .Title | not}} - AnodyneWiki{{end}}</title>
+
 		<meta charset="utf-8" />
 		<meta name="description" content="Sustainable pharmacology and harmreduction wiki." />
-		<meta name="color-scheme" content="{{default "light" .Theme | stripHTML}}" />
+		<meta name="color-scheme" content="{{default "light" $v.Theme | stripHTML}}" />
 
 		{{if $v.Title -}}
 		<meta property="og:title" content="{{$v.Title}}">
@@ -33,4 +35,5 @@
 		{{/*<script type="text/javascript" src="/js/JSmol.min.js"></script>*/}}
 		{{/*<script type="text/javascript" src="/js/JSmol.GLmol.min.js"></script>*/}}
 		{{if contains "true" $v.Editable}}<script type="text/javascript" src="/js/editable.js"></script>{{end}}
+		<script src="/js/copy.js"></script>
 {{- end}}

@@ -253,7 +253,8 @@
     "MW": "137.18 g/mol"
   },
   "Children": [
-    "2-phenylmorpholine"
+    "2-phenylmorpholine",
+    "aminorex"
   ],
   "Parent": "phenethylamine"
 }

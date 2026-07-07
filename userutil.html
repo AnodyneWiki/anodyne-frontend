@@ -34,7 +34,7 @@
 {{define "UserRoa" -}}
 {{if .RoutesOfAdministration}}<div class=collapser><h2 contenteditable=false>Routes of Administration Ranklist<span class=collapseButton>&nbsp;{{template "exnd" .Collapse}}</span></h2>
 <div class=collapserContent><table><tr><th>Route of Administration</th><th>Site</th><th>Paraphernalia</th></tr>
-{{range .RoutesOfAdministration}}<tr><td><em>{{if lower .Name | replace " " "_" | printf "administration/%s.json" | fileExists }}{{template "lroa" .Name}}</em></a>{{else}}{{.Name}}{{end}}</b></td><td>{{if .Sites}}<ul>{{range .Sites}}<li>{{.}}</li>{{end}}</ul>{{end}}</td><td>{{if .Paraphernalia}}<ul>{{range .Paraphernalia}}<li>{{template "user" .}}</li>{{end}}</ul>{{end}}</td></tr>{{end}}
+{{range .RoutesOfAdministration}}<tr><td><em>{{if lower .Name | replace " " "_" | printf "administration/%s.json" | fileExists }}{{template "lroa" .Name}}</em></a>{{else}}{{.Name}}{{end}}</b></td><td>{{if .Sites}}<ul>{{range .Sites}}<li>{{template "user" .}}</li>{{end}}</ul>{{end}}</td><td>{{if .Paraphernalia}}<ul>{{range .Paraphernalia}}<li>{{template "user" .}}</li>{{end}}</ul>{{end}}</td></tr>{{end}}
 </table></div></div>{{end}}
 {{end}}
 

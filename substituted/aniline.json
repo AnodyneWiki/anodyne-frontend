@@ -3,9 +3,7 @@
   "Entries": [
     {
       "Title": "Aniline",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "93.13 g/mol"
     },
     {
@@ -32,58 +30,42 @@
     },
     {
       "Title": "Metamizole",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "311.36 g/mol"
     },
     {
       "Title": "Avizafone",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "430.9 g/mol"
     },
     {
       "Title": "Rilmazafone",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "475.3 g/mol"
     },
     {
       "Title": "Clonazafone Desglycyl",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "333.72 g/mol"
     },
     {
       "Title": "Metacetamol",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "151.16 g/mol"
     },
     {
       "Title": "Ampyrone",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "203.24 g/mol"
     },
     {
       "Title": "Doxycycline",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "444.4 g/mol"
     },
     {
       "Title": "Lidocaine",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "234.34 g/mol"
     },
     {
@@ -107,6 +89,11 @@
         "Tremortin"
       ],
       "MW": "634.2 g/mol"
+    },
+    {
+      "Title": "Domperidone",
+      "Abr": null,
+      "MW": "425.9 g/mol"
     }
   ],
   "Parent": "arylalkylamine",

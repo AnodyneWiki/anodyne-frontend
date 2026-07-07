@@ -1,7 +1,7 @@
 {
 "Name": "Composite",
 "Entries": [
-	{ "Title": "Kratom", "Abr": [ "Mitragyna speciosa" ], "Substances": [
+	{ "Title": "Kratom", "Abr": [ "Mitragyna speciosa" ], "Wkp": "Mitragyna speciosa", "Substances": [
 		{ "Name": "Mitragynine" },
 		{ "Name": "7-Hydroxymitragynine" },
 		{ "Name": "Speciociliatine" },
@@ -15,7 +15,7 @@
 		{ "Name": "Mitragynaline" }
 	]
 	},
-	{ "Title": "Opium", "Abr": [ "Poopy tears", "Lachryma papaveris"], "Substances": [
+	{ "Title": "Opium", "Abr": [ "Poopy tears", "Lachryma papaveris"], "Wkp": "Opium", "Substances": [
 		{ "Name": "Morphine" },
 		{ "Name": "Codeine" },
 		{ "Name": "Thebaine" },
@@ -23,7 +23,7 @@
 		{ "Name": "Noscapine" }
 	]
 	},
-	{ "Title": "Tobacco", "Abr": [ "Nicotiana" ], "Substances": [
+	{ "Title": "Tobacco", "Abr": [ "Nicotiana" ], "Wkp": "Tobacco", "Substances": [
 		{ "Name": "Nicotine", "Concentration": "90-95%" },
 		{ "Name": "Nornicotine", "Concentration": "~2.5%" },
 		{ "Name": "Anatabine", "Concentration": "~2.5%" },
@@ -37,13 +37,21 @@
 		{ "Name": "Harmaline" }
 	]
 	},
-	{ "Title": "Coffea", "Substances": [
+	{ "Title": "Coffea", "Wkp": "Coffea", "Substances": [
 		{ "Name": "Caffeine" }
 	]
 	},
-	{ "Title": "Psilocybe cubensis", "Abr": [ "Magic mushroom", "Shroom" ], "Substances": [
+	{ "Title": "Psilocybe cubensis", "Abr": [ "Magic mushroom", "Shroom" ], "Wkp": "Psilocybe cubensis", "Substances": [
 		{ "Name": "Psilocybin" },
 		{ "Name": "Psilocin" }
+	]
+	},
+	{ "Title": "Borax combo", "Abr": [ "Blue Bliss", "Pink Star" ], "Wkp": "Borax combo", "Substances": [
+		{ "Name": "5-(N-methyl-2-aminopropyl)benzofuran" },
+		{ "Name": "5,6-methylenedioxy-2-aminoindane" },
+		{ "Name": "2-Fluoromethamphetamine" },
+		{ "Name": "5-Methoxy-N-methyl-N-isopropyltryptamine" },
+		{ "Name": "Metocin" }
 	]
 	}
 ]
