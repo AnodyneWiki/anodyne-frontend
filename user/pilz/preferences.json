@@ -51,7 +51,8 @@
                 "Suppository",
                 "1ml syringe",
                 "Tablet",
-                "Powder"
+                "Powder",
+                "Crushed tablet"
             ],
             "Sites": [
                 "Mouth"
@@ -84,7 +85,8 @@
                 "Vaporizer",
                 "Cigarette",
                 "Ballon",
-                "Aluminium foil"
+                "Aluminium foil",
+                "Vape"
             ],
             "Sites": [
                 "Lungs"
@@ -278,7 +280,7 @@
             "Name": "Alprazolam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{xeff 'panic-attack'",
+                "{xeff 'panic-attack'}",
                 "{wkp 'Anxiety_disorder'}"
             ],
             "Routes": [
@@ -591,7 +593,8 @@
             "Composite": true,
             "Routes": [
                 {
-                    "Name": "oral"
+                    "Name": "oral",
+                    "Dosage": "2-8g"
                 }
             ],
             "Effects": [
@@ -651,6 +654,11 @@
                 "Extremly addictive but boring substance",
                 "Most fun in the form of cigarettes",
                 "Very easy to overdose"
+            ],
+            "Source": [
+                "Siberia Snus",
+                "Vape",
+                "cigarette"
             ]
         },
         {
@@ -669,7 +677,7 @@
                 "{xeff 'time-distortion'}"
             ],
             "Sources": [
-                "Corner shop (Frankfurt Bahnhofviertel)"
+                "Corner shop (Frankfurt Bahnhofviertel): Exotic Whip"
             ]
         },
         {
@@ -817,7 +825,7 @@
                 }
             ],
             "Effects": [
-                "{wkp 'Erection's} are easier to get and more intense"
+                "{wkp 'Erection'}s are easier to get and more intense"
             ]
         },
         {
@@ -1187,7 +1195,8 @@
             "Name": "Lamotrigine",
             "Indication": [
                 "unstable mood",
-                "depression"
+                "depression",
+                "{wkp 'Anxiety_disorder'}"
             ],
             "Routes":[
                 {
@@ -1210,7 +1219,7 @@
             "Name": "Lorazepam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{xeff 'panic-attack'",
+                "{xeff 'panic-attack'}",
                 "{wkp 'Anxiety_disorder'}"
             ],
             "Routes":[
@@ -1332,6 +1341,43 @@
             ],
             "Sources":[
                 "Crushed Oxycodonhydrochlorid Puren 30 mg XR tablet found in the Herrngarten in {wkp 'Darmstadt'}"
+            ]
+        },
+        {
+            "Name": "Tilidine",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Indication": "{sev 'strong'} pain",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "90mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'strong'} {xeff 'pain-relief'}",
+                "{sev 'strong'} {xeff 'cognitive-euphoria'}",
+                "{sev 'light'} {xeff 'sedation'}",
+                "{sev 'light'} {xeff 'thought-deceleration'}"
+            ],
+            "Sources":[
+                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"
+            ]
+        },
+        {
+            "Name": "Naloxone",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "7.2mg"
+                }
+            ],
+            "Sources":[
+                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"
             ]
         }
     ]
