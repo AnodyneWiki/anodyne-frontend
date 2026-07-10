@@ -2002,7 +2002,8 @@
         "Succinate"
       ],
       "Effects": [
-        "{sev 'light'} {xeff 'sedation'}"
+        "{sev 'light'} {xeff 'sedation'}",
+        "subjectively less drowsy than {sub 'diphenhydramine'}"
       ],
       "Indication": [
         "{wkp 'insomnia'}"
@@ -2012,7 +2013,8 @@
       "Name": "Modafinil",
       "Routes": [
         {
-          "Name": "Oral"
+          "Name": "Oral",
+          "Dosage": "100-400mg"
         }
       ],
       "Effects": [
@@ -3559,18 +3561,6 @@
       "Notes": "flavor reminicent of whipped cream"
     },
     {
-      "Name": "Ethylcyanoacrylate",
-      "Routes": [
-        {
-          "Name": "Dermal"
-        }
-      ],
-      "Indication": "closing cuts",
-      "Notes": [
-        "suboptimal for closing cuts (quite brittle)"
-      ]
-    },
-    {
       "Name": "Lactose",
       "Routes": [
         {
@@ -3640,18 +3630,6 @@
         "{wkp 'anaphylaxis'}"
       ],
       "Notes": ""
-    },
-    {
-      "Name": "Carbon",
-      "Routes": [
-        {
-          "Name": "Oral"
-        }
-      ],
-      "Indication": "oral poisoning",
-      "Notes": [
-        "in form of activated charcoal"
-      ]
     },
     {
       "Name": "Water",
