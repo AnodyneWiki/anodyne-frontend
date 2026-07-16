@@ -2442,6 +2442,22 @@
       ]
     },
     {
+      "Name": "Buprenorphine",
+      "Routes": [
+        {
+          "Name": "Transdermal"
+        }
+      ],
+      "Salts": [
+      ],
+      "Indication": [
+        "{wkp 'opioid withdrawal'}",
+        "pain",
+        "{xeff 'anxiety'}",
+        "{xeff 'panic attack'}"
+      ]
+    },
+    {
       "Name": "Oxycodone",
       "Routes": [
         {
@@ -2608,6 +2624,13 @@
           "Comeup": "10 minutes",
           "Duration": "60-120 minutes",
           "Dosage": "50-250mcg"
+        },
+        {
+          "Name": "Intramuscular",
+          "Onset": "~10 minutes",
+          "Comeup": "~10 minutes",
+          "Duration": "60 minutes",
+          "Dosage": "750mcg"
         },
         {
           "Name": "Vaporized",
@@ -3490,7 +3513,7 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "1.1-1.8ml"
+          "Dosage": "1.1-2ml"
         }
       ],
       "Effects": [
@@ -3565,6 +3588,9 @@
       "Routes": [
         {
           "Name": "Oral"
+        },
+        {
+          "Name": "Intravenous"
         }
       ],
       "Effects": [
