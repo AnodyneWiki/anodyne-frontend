@@ -10,7 +10,7 @@
 
 <div>
 <table style="margin-bottom: 1em; float: right; max-width: 150px;"><tr><td class="InfoboxImage" style="background-color: black;"><img style="height: 100%;width: 150px;" src="/assets/logo.png"></td></tr><tr><td class="InfoboxData"><span style="word-break: keep-all; background-color: var(--background-color-base);">A needle plunging into a vein.</span></td></tr></table>
-<a class=logo href=https://en.wiktionary.org/wiki/anodyne>Anodyne</a> is a meta-wiki centered around chemicals affecting biological life-forms, their administration, effects and interactions which strives to aid those seeking direct means of pharmacological- comfort, healing and enhancement.
+<a class=logo href=https://en.wiktionary.org/wiki/anodyne>Anodyne</a> is a meta-wiki centered around chemicals affecting biological life-forms, their administration, effects and interactions which strives to aid those seeking direct means of pharmacological- comfort, healing, coping, exploration and enhancement.
 
 This project primarily functions as an aggregator for a wide array of sources only allowing user-contributions through the concept of <a href=/index/user>userpages</a>.
 
