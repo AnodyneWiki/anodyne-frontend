@@ -30,6 +30,13 @@
       "Title": "6-Bromopravadoline",
       "Abr": "WIN 54,461",
       "MW": "457.4 g/mol"
+    },
+    {
+      "Title": "JWH-210",
+      "Abr": [
+        "JWH-210"
+      ],
+      "MW": "369.5 g/mol"
     }
   ]
 }
