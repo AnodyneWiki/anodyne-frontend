@@ -1157,9 +1157,19 @@
         "{sev 'intense'} {xeff 'motivation enhancement'}",
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
         "{sev 'intense'} {xeff 'depression reduction'}",
-        "{sev 'intense'} {xeff 'increased libido'}"
+        "{sev 'intense'} {xeff 'increased libido'}",
+        "{sev 'intense'} {xeff 'increased libido'}",
+        "acute relief of {xeff 'constipation'}",
+        "presumably related to sporatic system-concentrations due to IV use: {xeff 'disorganized thinking'}"
       ],
       "DEffects": [
+        {
+          "Condition": "without-tolerance",
+          "Dosage": "5mg",
+          "Effects": [
+            "{sev 'light'} {xeff 'anxiety suppression'}"
+          ]
+        },
         {
           "Condition": "discontinuation after a couple of redoses",
           "Effects": [
