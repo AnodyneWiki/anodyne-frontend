@@ -1257,6 +1257,8 @@
         "{sev 'moderate'} {xeff 'increased libido'}",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{sev 'intense'} {xeff 'depression reduction'}",
+        "{sev 'moderate'} {xeff 'thought dirorganization'}",
+        "relief of {xeff 'constipation'}",
         "{xeff 'psychosis'}",
         "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)"
       ],
@@ -2343,6 +2345,33 @@
       "Notes": "practical intravenous-use (using additional solvant such as {sub 'propylene glycol' 'propylene glycol'} or {sub 'ethanol' 'ethanol'})"
     },
     {
+      "Name": "Etizolam",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.5mg",
+          "Duration": "~8 hours"
+        },
+        {
+          "Name": "Vaporized",
+          "Dosage": "0.25mg"
+        }
+      ],
+      "Indication": [
+        "{xeff 'anxiety'}",
+        "{xeff 'panic attack'}",
+        "{wkp 'insomnia'}"
+      ],
+      "Sources": [
+        "Etizolam 1mg tabs: Research-chemical-vendor Netherlands"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety suppression'}",
+        "{sev 'strong'} {xeff 'sedation'} (to the point of inducing sleep)",
+        "{sev 'strong'} {xeff 'motor control loss'}"
+      ]
+    },
+    {
       "Name": "Dextromethorphan",
       "Routes": [
         {
@@ -3175,6 +3204,20 @@
         "{xeff 'language suppression'} (hinders sincerity)"
       ],
       "Notes": ""
+    },
+    {
+      "Name": "JWH-210",
+      "Routes": [
+        {
+          "Name": "Vaporized",
+          "Dosage": "0.2mg"
+        }
+      ],
+      "Effects": [
+        "{xeff 'appetite enhancement'}",
+        "{sev 'moderate'} {xeff 'anxiety suppression'}",
+        "{xeff 'analysis suppression'}"
+      ]
     },
     {
       "Name": "γ-Aminobutyric acid",
