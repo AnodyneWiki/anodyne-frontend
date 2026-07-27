@@ -366,7 +366,7 @@
             "Adverse": [
                 "{sev 'strong'} {xeff 'anxiety'} at high doses"
             ],
-            "Source": [
+            "Sources": [
                 "Coffee",
                 "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets",
                 "Bulk.com 200mg caffeine tablets"
@@ -1293,7 +1293,7 @@
             "Name": "Diazepam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{xeff 'panic-attack'",
+                "{xeff 'panic-attack'}",
                 "{wkp 'Anxiety_disorder'}"
             ],
             "Routes":[
@@ -1381,6 +1381,133 @@
             ],
             "Sources":[
                 "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"
+            ]
+        },
+        {
+            "Name": "Daridorexant",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Indication": [
+                "{wkp 'Insomnia'}"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "50mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'light'} sleep quality improvement",
+                "{sev 'light'} {xeff 'sleepiness'}"
+            ],
+            "Sources":[
+                "Quviviq 50mg tablet"
+            ],
+            "Notes": [
+                "only minor effects, but worth a try for insomnia"
+            ]
+        },
+        {
+            "Name": "Clonazepam",
+            "Indication": [
+                "{xeff 'anxiety'}"
+            ],
+            "Routes":[
+                {
+                    "Name": "Oral",
+                    "Dosage": "0.5-1mg"
+                }
+            ],
+            "Effects":[
+                "{sev 'moderate'} {xeff 'anxiety-suppression'}",
+                "{sev 'light'} {xeff 'sedation'}",
+                "{sev 'light'} {xeff 'sleepiness'}"
+            ],
+            "Sources": [
+                "Galenika Rivotril 2mg Tablet"
+            ]
+        },
+        {
+            "Name": "Ketanserin",
+            "Routes":[
+                {
+                    "Name": "sublingual",
+                    "Dosage": "20mg",
+                    "Onset": "~20min"
+                }
+            ],
+            "Effects":[
+                "Stops 2-CB trips",
+                "No major side-effects"
+            ]
+        },
+        {
+            "Name": "Amyl nitrite",
+            "Routes":[
+                {
+                    "Name": "inhaled"
+                }
+            ]
+        },
+        {
+            "Name": "Morphine",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Routes":[
+                {
+                    "Name": "Subcutaneous",
+                    "Dosage": "5mg",
+                    "Onset": "5 minutes",
+                    "Comeup": "20 minutes",
+                    "Duration": "~2 hours"
+                }
+            ],
+            "Effects": [
+                "{sev 'strong'} {xeff 'pain-relief'}",
+                "{sev 'moderate'} {xeff 'cognitive-euphoria'}",
+                "{sev 'moderate'} {xeff 'sedation'}",
+                "{sev 'moderate'} {xeff 'thought-deceleration'}"
+            ],
+            "Adverse": [
+                "{sev 'strong'} {xeff 'nausea'}"
+            ],
+            "Notes":[
+                "Very {sev 'strong'} {xeff 'nausea'}, even multiple hours after the ingestion"
+            ]
+        },
+        {
+            "Name": "5-MeO-T-NBOMe",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Routes":[
+                {
+                    "Name": "Oral",
+                    "Dosage": "20-40mg",
+                    "Onset": "30 minutes",
+                    "Comeup": "~1.5 hours",
+                    "Duration": "~7 hours"
+                }
+            ],
+            "Effects":[
+                "open-eye visuals: {sev 'strong'} {xeff 'colour-enhancement'} + {sev 'light'} {xeff 'chromatic-aberration'}, {sev 'strong'} {xeff 'Tracers'}, {sev 'moderate'} {xeff 'increased-pareidolia'}, {sev 'light'} {xeff 'visual-acuity-enhancement'}, {sev 'light'} {xeff 'drifting?s=melting' 'melting'}, seeing faces/cartoon art on on walls/the ground",
+                "closed-eye visuals: {sev 'moderate'} {xeff 'internal-hallucination'}, mostly interesting 3D-Scenes, that can partly be controlled by the thought stream,",
+                "{sev 'moderate'} pleasant {xeff 'stimulation'}",
+                "Cognitive effects: {sev 'light'} {xeff 'cognitive-euphoria'}, feeling very relaxed, {sev 'strong'} {xeff 'increased-sense-of-humor'}; made fun of peoples drug consumption at a rave and laughed for multiple minutes about a guy wearing a Drachenlord T-Shirt walking into the {wkp 'McDonald's'}'"
+            ],
+            "Adverse": [
+                "{sev 'moderate'} {xeff 'motor-control-loss'}, (hands trembling) in higher doses; struggling with sorting capsules",
+                "{sev 'light'} {xeff 'muscle-tension'}",
+                "{sev 'light'} {xeff 'thought-deceleration'}",
+                "{sev 'light'} {xeff 'vasoconstriction'} (i think)",
+                "{sev 'light'} {xeff 'increased-blood-pressure'}",
+                "feels like i could have a {xeff 'seizure'} any moment"
+            ],
+            "Notes": [
+                "Very interesting closed eye visuals",
+                "Barely any {xeff 'anxiety'} compared to other psychedelics"
             ]
         }
     ]
