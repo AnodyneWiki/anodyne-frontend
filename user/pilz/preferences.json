@@ -37,6 +37,7 @@
             "Paraphernalia": [
                 "Bahncard 100, Macbook and Paper",
                 "{wkp 'Trans_woman'}s {wkp 'Breast'}s",
+                "{wkp 'Spatula'}",
                 "Nasalspray"
             ],
             "Sites": [
@@ -52,7 +53,8 @@
                 "1ml syringe",
                 "Tablet",
                 "Powder",
-                "Crushed tablet"
+                "Crushed tablet",
+                "Brownie"
             ],
             "Sites": [
                 "Mouth"
@@ -84,6 +86,7 @@
             "Paraphernalia": [
                 "Vaporizer",
                 "Cigarette",
+                "Joint",
                 "Ballon",
                 "Aluminium foil",
                 "Vape"
@@ -279,9 +282,7 @@
         {
             "Name": "Alprazolam",
             "Indication": [
-                "{xeff 'anxiety'}",
-                "{xeff 'panic-attack'}",
-                "{wkp 'Anxiety_disorder'}"
+                "{xeff 'anxiety'}"
             ],
             "Routes": [
                 {
@@ -335,7 +336,7 @@
             "Salts":[
                 "hydrochloride"
             ],
-            "Indication": "{sub 'Nicotine'} addiction",
+            "Indication": "{sev 'light'} {sub 'Nicotine'} addiction",
             "Routes": [
                 {
                     "Name": "oral",
@@ -404,7 +405,6 @@
             "Salts": [
                 "phosphate"
             ],
-            "Indication": "{sev 'strong'} pain",
             "Routes": [
                 {
                     "Name": "oral",
@@ -458,7 +458,7 @@
         },
         {
             "Name": "Ibuprofen",
-            "Indication": "{sev 'light'} pain, for example {xeff 'headache'}",
+            "Indication": "{sev 'light'} pain",
             "Routes": [
                 {
                     "Name": "oral",
@@ -496,7 +496,7 @@
         },
         {
             "Name": "Lisdexamphetamine",
-            "Indication": "Attention-Deficit/Hyperactivity Disorder",
+            "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
             "Salts": [
                 "dimesilat"
             ],
@@ -565,7 +565,7 @@
         },
         {
             "Name": "Methylphenidate",
-            "Indication": "Attention-Deficit/Hyperactivity Disorder",
+            "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -614,6 +614,48 @@
             ]
         },
         {
+            "Name": "Cannabis",
+            "Composite": true,
+            "Routes":[
+                {
+                    "Name": "oral"
+                },
+                {
+                    "Name": "smoked"
+                }
+            ]
+        },
+        {
+            "Name": "Coffea",
+            "Composite": true,
+            "Routes": [
+                {
+                    "Name": "Oral"
+                }
+            ],
+            "Effects": [
+                "{sev 'moderate'} {xeff 'stimulation'}",
+                "{sev 'light'} {xeff 'motivation enhancement'}",
+                "{sev 'moderate'} {xeff 'focus enhancement'}",
+                "{sev 'moderate'} {xeff 'wakefulness'}"
+            ],
+            "Adverse": [
+                "{sev 'light'} {xeff 'anxiety'} when consumed in high doses"
+            ]
+        },
+        {
+            "Name": "Tobacco",
+            "Composite": true,
+            "Routes": [
+                {
+                    "Name": "smoked"
+                },
+                {
+                    "Name": "buccal"
+                }
+            ]
+        }, 
+        {
             "Name": "N1-Tert-butoxycarbonyldimethyltryptamine",
             "Routes": [
                 {
@@ -627,7 +669,8 @@
             ],
             "Notes": [
                 "Gets converted to {sub 'dimethyltryptamine'} under heat",
-                "Byproducts might cause local anaesthesia in the mouth when smoked"
+                "Byproducts might cause local anaesthesia in the mouth when smoked",
+                "Felt more unhinged afterwards"
             ]
         },
         {
@@ -682,7 +725,7 @@
         },
         {
             "Name": "Paracetamol",
-            "Indication": "{sev 'light'} pain, for example {xeff 'headache'}",
+            "Indication": "{sev 'light'} pain",
             "Routes": [
                 {
                     "Name": "oral",
@@ -793,7 +836,6 @@
             "Salts": [
                 "Hemifumarate"
             ],
-            "Indication": "{sev 'strong'} {wkp 'Insomnia'} or {xeff 'psychosis'}, might also be useful against {xeff 'anxiety'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -817,7 +859,7 @@
             "Salts": [
                 "Citrate"
             ],
-            "Indication": "{wkp 'Erectile_dysfunction'}",
+            "Indication": "{sev 'light'} {wkp 'Erectile_dysfunction'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -880,7 +922,7 @@
         },
         {
             "Name": "Ketoprofen",
-            "Indication": "{sev 'moderate'} {wkp 'Pain'} or {xeff 'headache'}",
+            "Indication": "{sev 'moderate'} {wkp 'Pain'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -1002,7 +1044,7 @@
             "Salts": [
                 "sodium monohydrate"
             ],
-            "Indication": "{sev 'strong'} pain, for example after surgeries",
+            "Indication": "{sev 'moderate'} pain",
             "Routes": [
                 {
                     "Name": "oral",
@@ -1036,9 +1078,6 @@
                     "Dosage": "12.5mg"
                 }
             ],
-            "Sources": [
-                "SchlafTabs: Ratiopharm"
-            ],
             "Effects": [
                 "{sev 'strong'} {xeff 'sleepiness'}",
                 "{sev 'moderate'} {xeff 'sedation'}",
@@ -1055,7 +1094,6 @@
         },
         {
             "Name": "Spironolactone",
-            "Indication": "Male to female {wkp 'Transsexual'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -1085,7 +1123,6 @@
         },
         {
             "Name": "Dienogest",
-            "Indication": "Male to female {wkp 'Transsexual'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -1136,7 +1173,7 @@
         },
         {
             "Name": "Zolpidem",
-            "Indication": "{sev 'strong'} {wkp 'Insomnia'}",
+            "Indication": "{wkp 'Insomnia'}",
             "Salts": [
                 "Tartrate"
             ],
@@ -1199,6 +1236,7 @@
             "Indication": [
                 "unstable mood",
                 "depression",
+                "random suicidal breakdowns",
                 "{wkp 'Anxiety_disorder'}"
             ],
             "Routes":[
@@ -1208,8 +1246,7 @@
                 }
             ],
             "Effects":[
-                "{sev 'moderate'} {xeff 'anxiety-suppression'}?",
-                "{sev 'light'} {xeff 'depression-reduction'}; made my mood less unstable"
+                "no major effects noted, didn't help with my mental breakdowns"
             ],
             "Notes":[
                 "After upping my dose to 50mg one of my lymph nodes got swollen; went away after a few days"
@@ -1222,7 +1259,6 @@
             "Name": "Lorazepam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{xeff 'panic-attack'}",
                 "{wkp 'Anxiety_disorder'}"
             ],
             "Routes":[
@@ -1246,7 +1282,7 @@
         },
         {
             "Name": "Dexibuprofen",
-            "Indication": "{sev 'light'} pain, for example {xeff 'headache'}",
+            "Indication": "{sev 'light'} pain",
             "Routes":[
                 {
                     "Name": "Oral",
@@ -1262,7 +1298,7 @@
         },
         {
             "Name": "Ibuprofen Lysine",
-            "Indication": "{sev 'light'} pain, for example {xeff 'headache'}",
+            "Indication": "{sev 'light'} pain",
             "Routes":[
                 {
                     "Name": "Oral",
@@ -1293,7 +1329,6 @@
             "Name": "Diazepam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{xeff 'panic-attack'}",
                 "{wkp 'Anxiety_disorder'}"
             ],
             "Routes":[
@@ -1329,7 +1364,6 @@
             "Salts": [
                 "hydrochloride"
             ],
-            "Indication": "{sev 'strong'} pain",
             "Routes": [
                 {
                     "Name": "oral",
@@ -1351,7 +1385,6 @@
             "Salts": [
                 "hydrochloride"
             ],
-            "Indication": "{sev 'strong'} pain",
             "Routes": [
                 {
                     "Name": "oral",
@@ -1363,6 +1396,9 @@
                 "{sev 'strong'} {xeff 'cognitive-euphoria'}",
                 "{sev 'light'} {xeff 'sedation'}",
                 "{sev 'light'} {xeff 'thought-deceleration'}"
+            ],
+            "Adverse": [
+                "{sev 'moderate'} {xeff 'nausea'}"
             ],
             "Sources":[
                 "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"
@@ -1388,9 +1424,6 @@
             "Salts": [
                 "hydrochloride"
             ],
-            "Indication": [
-                "{wkp 'Insomnia'}"
-            ],
             "Routes": [
                 {
                     "Name": "oral",
@@ -1405,7 +1438,7 @@
                 "Quviviq 50mg tablet"
             ],
             "Notes": [
-                "only minor effects, but worth a try for insomnia"
+                "no major effects noted; still worth a try for insomnia"
             ]
         },
         {
@@ -1478,7 +1511,7 @@
             ]
         },
         {
-            "Name": "5-MeO-T-NBOMe",
+            "Name": "N-(2-Methoxybenzyl)-5-methoxytryptamine",
             "Salts": [
                 "hydrochloride"
             ],
@@ -1495,7 +1528,7 @@
                 "open-eye visuals: {sev 'strong'} {xeff 'colour-enhancement'} + {sev 'light'} {xeff 'chromatic-aberration'}, {sev 'strong'} {xeff 'Tracers'}, {sev 'moderate'} {xeff 'increased-pareidolia'}, {sev 'light'} {xeff 'visual-acuity-enhancement'}, {sev 'light'} {xeff 'drifting?s=melting' 'melting'}, seeing faces/cartoon art on on walls/the ground",
                 "closed-eye visuals: {sev 'moderate'} {xeff 'internal-hallucination'}, mostly interesting 3D-Scenes, that can partly be controlled by the thought stream,",
                 "{sev 'moderate'} pleasant {xeff 'stimulation'}",
-                "Cognitive effects: {sev 'light'} {xeff 'cognitive-euphoria'}, feeling very relaxed, {sev 'strong'} {xeff 'increased-sense-of-humor'}; made fun of peoples drug consumption at a rave and laughed for multiple minutes about a guy wearing a Drachenlord T-Shirt walking into the {wkp 'McDonald's'}'"
+                "Cognitive effects: {sev 'light'} {xeff 'cognitive-euphoria'}, feeling very relaxed, {sev 'strong'} {xeff 'increased-sense-of-humor'}; made fun of peoples drug consumption at a rave and laughed for multiple minutes about a guy wearing a Drachenlord T-Shirt walking into the {wkp 'McDonalds'}"
             ],
             "Adverse": [
                 "{sev 'moderate'} {xeff 'motor-control-loss'}, (hands trembling) in higher doses; struggling with sorting capsules",
