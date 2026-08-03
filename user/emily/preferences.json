@@ -206,6 +206,53 @@
       ]
     },
     {
+      "Name": "N-(2-Methoxybenzyl)-5-methoxytryptamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20-40mg",
+          "Onset": "20 min",
+          "Comeup": "1.5-2 h",
+          "Duration": "~ 7-8 h"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'light'} to {sev 'moderate'} atypical {xeff 'stimulation'} compareable to {sub '2C-B'}",
+        "{sev 'strong'} {xeff 'increased sense of humor'}",
+        "{sev 'moderate'} {xeff 'motor control loss'}",
+        "even {sev 'strong'} sensory input didn't cause me to feel overloaded even tho I usually have a lower sensory threshold on psychedelics"
+      ],
+      "DEffects": [
+        {
+          "Condition": "open-eye visuals",
+          "Effects": [
+            "{sev 'strong'} {xeff 'colour enhancement'}",
+            "{sev 'strong'} {xeff 'Tracers'}",
+            "{sev 'moderate'} {xeff 'increased pareidolia'}",
+            "{sev 'moderate'} {xeff 'visual acuity enhancement'}",
+            "{sev 'moderate'} {xeff 'texture liquidation'}",
+            "{sev 'moderate'} {xeff 'drifting?=melting' 'melting'}",
+            "{sev 'light'} {xeff 'chromatic aberration'}"
+          ]
+        },
+        {
+          "Condition": "closed-eye visuals",
+          "Effects": [
+            "comparably {sev 'strong'} in contrast to the open-eye visuals",
+            "{sev 'moderate'} {xeff 'internal hallucination'}, symmetrical patterns and 3D-Scenes that changed to the music",
+            "partially reminded me of the closed-eye visuals experienced with low doses of {sub 'DMT'} but much lighter"
+          ]
+        }
+      ],
+      "Notes": [
+        "one of the more interesting psychedelics I have tried",
+        "felt very relaxed"
+      ]
+    },
+    {
       "Name": "5-Methoxy-N,N-diallyltryptamine",
       "Routes": [
         {
@@ -219,28 +266,30 @@
       "Routes": [
         {
           "Name": "oral",
-          "Dosage": "6-7mg"
+          "Dosage": "6-12mg"
         }
       ],
       "Effects": [
-        "{xeff 'colour enhancement' 'color enhancement'}",
-        "very little {xeff 'drifting'}",
+        "{sev 'light'} {xeff 'colour enhancement'}",
         "sharp and colourful {xeff 'tracers'}",
+        "{sev 'moderate'} {xeff 'texture liquidation'}",
+        "{sev 'moderate'} {xeff 'drifting?=melting' 'melting'}",
         "{xeff 'chromatic aberration'}",
-        "sharp edgeds seemed to glow",
+        "{sev 'moderate'} {xeff 'increased pareidolia'}",
         "{xeff 'increased music appreciation'}",
         "very little {xeff 'introspection'} in comparison to other psychedelics",
-        "little to no {xeff 'internal hallucination'}"
+        "{sev 'moderate'} {xeff 'internal hallucination'}",
+        "sharp edgeds seemed to glow"
       ],
       "Adverse": [
         "{xeff 'muscle tension'}",
-        "{sev 'strong'} {xeff 'physical fatigue'} (might just be because i took sildenafil)",
+        "{sev 'strong'} {xeff 'physical fatigue'}",
         "{sev 'strong'} {xeff 'back pain'}",
         "{xeff 'increased heart rate'}",
         "{xeff 'sensory overload'} during come up"
       ],
       "Notes": [
-        "the first 4h felt exhausting but after that the subtil visual effects were very beautiful. visually its comparable to what i experienced after abusing mdma for 10h."
+        "the first 4h felt exhausting but after that the subtil visual effects were very beautiful."
       ]
     },
     {
@@ -465,6 +514,55 @@
         {
           "Name": "oral",
           "Dosage": "10-25mg"
+        },
+        {
+          "Name": "subcutaneous",
+          "Dosage": "5mg",
+          "Onset": "5 min",
+          "Comeup": "20 min",
+          "Duration": "2-3 h"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'cognitive euphoria'} (faded after the frist dose)",
+        "{xeff 'decreased libido'}",
+        "{sev 'strong'} {xeff 'pain relief'}",
+        "{sev 'moderate'} {xeff 'sedation'}"
+      ],
+      "Adverse": [
+        "{sev 'strong'} {xeff 'nausea'} during the comedown lasting at least 6-7h after 3 doses 5mg subq"
+      ],
+      "Notes": [
+        "sucks ass recreationally"
+      ]
+    },
+    {
+      "Name": "Oxycodone",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "5-11mg"
+        }
+      ]
+    },
+    {
+      "Name": "Naloxone",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "7.2mg"
+        }
+      ],
+      "Source": [
+        "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"
+      ]
+    },
+    {
+      "Name": "Tilidine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50-100mg"
         }
       ]
     },
@@ -478,30 +576,37 @@
       ]
     },
     {
-      "Name": "Tilidine",
-      "Routes": [
-        {
-          "Name": "oral",
-          "Dosage": "50-100mg"
-        }
-      ]
-    },
-    {
-      "Name": "Oxycodone",
-      "Routes": [
-        {
-          "Name": "insufflated",
-          "Dosage": "5-11mg"
-        }
-      ]
-    },
-    {
       "Name": "Desmetramadol",
       "Routes": [
         {
           "Name": "oral",
           "Dosage": "40mg"
         }
+      ]
+    },
+    {
+      "Name": "Lorazepam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.625mg"
+        }
+      ],
+      "Indication": [
+        "acute {wpk 'anxiety'}",
+        "{wkp 'Generalized anxiety disorder'}",
+        "{wkp 'panic attack'}",
+        "{wkp 'Emotional dysregulation'}"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'anxiety suppression'}",
+        "{sev 'moderate'} {xeff 'emotion suppression'}",
+        "{sev 'light'} {xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'sleepiness'}",
+        "{sev 'light'} {xeff 'thought deceleration'}"
+      ],
+      "Notes": [
+        "my prefered {wpk 'Benzodiazepine'} as last line of treatment for acute anxiety or panick"
       ]
     },
     {
@@ -514,20 +619,42 @@
       ]
     },
     {
-      "Name": "Alprazolam",
-      "Routes": [
-        {
-          "Name": "oral",
-          "Dosage": "0.25-2mg"
-        }
-      ]
-    },
-    {
       "Name": "Bromazepam",
       "Routes": [
         {
           "Name": "oral",
           "Dosage": "3mg"
+        }
+      ]
+    },
+    {
+      "Name": "Diazepam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5mg"
+        }
+      ],
+      "Indication": [
+        "acute {wpk 'anxiety'}",
+        "{wkp 'Generalized anxiety disorder'}",
+        "{wkp 'panic attack'}",
+        "{wkp 'Emotional dysregulation'}"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety suppression'}",
+        "{sev 'moderate'} {xeff 'emotion suppression'}",
+        "{sev 'light'} {xeff 'sedation'}",
+        "{sev 'light'} {xeff 'sleepiness'}",
+        "{sev 'light'} {xeff 'thought deceleration'}"
+      ]
+    },
+    {
+      "Name": "Alprazolam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.25-2mg"
         }
       ]
     },
@@ -542,11 +669,31 @@
       "Effects": [
         "{sev 'strong'} {xeff 'sleepiness'}",
         "{xeff 'motor control loss'}",
+        "{sev 'light'} {xeff 'dizziness'}",
         "{xeff 'sedation'}",
         "strange visual effects"
       ],
       "Notes": [
-        "very little hangover"
+        "{sev 'light'} hangover"
+      ]
+    },
+    {
+      "Name": "Zopiclone",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "3.75mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'sleepiness'}",
+        "{xeff 'motor control loss'}",
+        "{sev 'strong'} {xeff 'sedation'}",
+        "strange visual effects"
+      ],
+      "Notes": [
+        "{sev 'moderate'} hangover",
+        "lasts longer than {sub 'Zolpidem'} slept for ~9h"
       ]
     },
     {
@@ -729,6 +876,15 @@
       ]
     },
     {
+      "Name": "Dexibuprofen",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "200mg"
+        }
+      ]
+    },
+    {
       "Name": "Metamizole",
       "Routes": [
         {
@@ -760,6 +916,19 @@
         {
           "Name": "oral",
           "Dosage": "15-30mg"
+        }
+      ]
+    },
+    {
+      "Name": "Promethazine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "12.5mg"
+        },
+        {
+          "Name": "sublingual",
+          "Dosage": "12.5mg"
         }
       ]
     },
@@ -798,12 +967,56 @@
       ]
     },
     {
+      "Name": "Daridorexant",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50mg"
+        }
+      ],
+      "Source": [
+        "Quviviq 50mg tablet"
+      ],
+      "Indication": [
+        "{wkp 'Insomnia'}"
+      ],
+      "Notes": [
+        "uncertain activity but worth a try since the long term adverse effects seem to be a lot more tolerable compared to other sleeping medication"
+      ]
+    },
+    {
       "Name": "Fluoxetine",
       "Routes": [
         {
           "Name": "oral",
           "Dosage": "20mg"
         }
+      ]
+    },
+    {
+      "Name": "Lamotrigine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "25-100mg"
+        }
+      ],
+      "Indication": [
+        "{wkp 'Emotional lability'}",
+        "{wkp 'Emotional dysregulation'}",
+        "{wkp 'Anxiety disorder'}"
+      ],
+      "Effects": [
+        "{sev 'light'} reduction of {wkp 'emotional lability'} but uncertain about the efficacy"
+      ],
+      "Adverse": [
+        "{sev 'moderate'} {xeff 'insomnia'}",
+        "{sev 'light'} chest pain/tightness",
+        "{sev 'moderate'} pounding heart beat"
+      ],
+      "Notes": [
+        "little to no noticable cognitive advers effects",
+        "stopped taking it after a month because of the adverse effects"
       ]
     },
     {
@@ -822,6 +1035,20 @@
           "Name": "oral",
           "Dosage": "13-20mg"
         }
+      ]
+    },
+    {
+      "Name": "Ketanserin",
+      "Routes": [
+        {
+          "Name": "sublingual",
+          "Dosage": "15mg",
+          "Onset": "10-15 min",
+          "Comeup": "20-25 min"
+        }
+      ],
+      "Notes": [
+        "taken 30min after ingesting {sub '2C-B'}. the psychedelic effects were completely gone ~40min after ingestion"
       ]
     },
     {
@@ -849,6 +1076,46 @@
           "Name": "oral",
           "Dosage": "800mg"
         }
+      ]
+    },
+    {
+      "Name": "Taurine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "1g"
+        }
+      ],
+      "Source": [
+        "Bulk.com (supplement store)"
+      ]
+    },
+    {
+      "Name": "Oxytocin",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "subcutaneous",
+          "Dosage": "125μg"
+        }
+      ],
+      "Notes": [
+        "uncertain activity"
+      ]
+    },
+    {
+      "Name": "Amyl nitrite",
+      "Routes": [
+        {
+          "Name": "inhaled"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'decreased blood pressure'}",
+        "{sev 'moderate'} {xeff 'muscle relaxation'}",
+        "{sev 'light'} {xeff 'thought deceleration'}"
       ]
     },
     {
