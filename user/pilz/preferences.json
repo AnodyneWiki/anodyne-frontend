@@ -458,6 +458,10 @@
         },
         {
             "Name": "Ibuprofen",
+            "Salts": [
+                "Freebase",
+                "Lysine"
+            ],
             "Indication": "{sev 'light'} pain",
             "Routes": [
                 {
@@ -1297,22 +1301,6 @@
             ]
         },
         {
-            "Name": "Ibuprofen Lysine",
-            "Indication": "{sev 'light'} pain",
-            "Routes":[
-                {
-                    "Name": "Oral",
-                    "Dosage": "800mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'light'} {xeff 'pain-relief'}"
-            ],
-            "Sources": [
-                "German Pharmacy: Redcare Ibu-Lysin"
-            ]
-        },
-        {
             "Name": "3-Fluorophenmetrazine",
             "Routes":[
                 {
@@ -1524,11 +1512,37 @@
                     "Duration": "~7 hours"
                 }
             ],
-            "Effects":[
-                "open-eye visuals: {sev 'strong'} {xeff 'colour-enhancement'} + {sev 'light'} {xeff 'chromatic-aberration'}, {sev 'strong'} {xeff 'Tracers'}, {sev 'moderate'} {xeff 'increased-pareidolia'}, {sev 'light'} {xeff 'visual-acuity-enhancement'}, {sev 'light'} {xeff 'drifting?s=melting' 'melting'}, seeing faces/cartoon art on on walls/the ground",
-                "closed-eye visuals: {sev 'moderate'} {xeff 'internal-hallucination'}, mostly interesting 3D-Scenes, that can partly be controlled by the thought stream,",
-                "{sev 'moderate'} pleasant {xeff 'stimulation'}",
-                "Cognitive effects: {sev 'light'} {xeff 'cognitive-euphoria'}, feeling very relaxed, {sev 'strong'} {xeff 'increased-sense-of-humor'}; made fun of peoples drug consumption at a rave and laughed for multiple minutes about a guy wearing a Drachenlord T-Shirt walking into the {wkp 'McDonalds'}"
+            "Effects": [
+                "{sev 'moderate'} pleasant {xeff 'stimulation'}"
+            ],
+            "DEffects": [
+                {
+                      "Condition": "open-eye visuals",
+                      "Effects": [
+                        "{sev 'strong'} {xeff 'colour-enhancement'}",
+                        "{sev 'light'} {xeff 'chromatic-aberration'}",
+                        "{sev 'strong'} {xeff 'Tracers'}",
+                        "{sev 'moderate'} {xeff 'increased-pareidolia'}",
+                        "{sev 'light'} {xeff 'visual-acuity-enhancement'}",
+                        "{sev 'light'} {xeff 'drifting?s=melting' 'melting'}",
+                        "seeing faces/cartoon art on on walls/the ground"
+                      ]
+                },
+                {
+                    "Condition": "closed-eye visuals",
+                    "Effects": [
+                        "{sev 'moderate'} {xeff 'internal-hallucination'}, mostly interesting 3D-Scenes, that can partly be controlled by the thought stream"
+                    ]
+                },
+                {
+                    "Condition": "cognetive effects",
+                    "Effects": [
+                        "{sev 'light'} {xeff 'cognitive-euphoria'}",
+                        "feeling very relaxed",
+                        "{sev 'strong'} {xeff 'increased-sense-of-humor'}; made fun of peoples drug consumption at a rave and laughed for multiple minutes about a guy wearing a Drachenlord T-Shirt walking into the {wkp 'McDonalds'}"
+
+                    ]
+                }
             ],
             "Adverse": [
                 "{sev 'moderate'} {xeff 'motor-control-loss'}, (hands trembling) in higher doses; struggling with sorting capsules",
@@ -1542,6 +1556,133 @@
                 "Very interesting closed eye visuals",
                 "Barely any {xeff 'anxiety'} compared to other psychedelics"
             ]
+        },
+        {
+            "Name": "Mometasone Furoate",
+            "Indication": "Toxic contact dermatitis",
+            "Routes": [
+                {
+                    "Name": "transdermal"
+                }
+            ],
+            "Sources":[
+                "German Pharmacy: MOMETASON Glenmark 1 mg/g cream"
+            ]
+        },
+        {
+            "Name": "Cannabidiol",
+            "Routes": [
+                {
+                    "Name": "Oral"
+                },
+                {
+                    "Name": "smoked"
+                }
+            ],
+            "Effects": [
+                "{xeff 'headache'}",
+                "{xeff 'analysis-suppression'}"
+            ]
+        },
+        {
+            "Name": "Oxazepam",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "12.5mg"
+                }
+            ],
+            "Sources": [
+                "Oxazepam-ratiopharm 50 mg tablets"
+            ]
+        },
+        {
+            "Name": "Clostebol acetate",
+            "Routes": [
+                {
+                    "Name": "transdermal"
+                }
+            ],
+            "Sources": [
+                "Italian pharmacy: trofodermin creme"
+            ]
+        },
+        {
+            "Name": "Neomycin",
+            "Routes": [
+                {
+                    "Name": "transdermal"
+                }
+            ],
+            "Sources": [
+                "Italian pharmacy: trofodermin creme"
+            ]
+        },
+        {
+            "Name": "3-FPO",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "5mg",
+                    "Onset": "~40 minutes",
+                    "Comeup": "~40 minutes",
+                    "Duration": "~6 hours"
+                },
+                {
+                    "Name": "insufflated",
+                    "Dosage": "2.5mg",
+                    "Onset": "5-10 minutes",
+                    "Comeup": "20 minutes",
+                    "Duration": "~2.5hours"
+                }
+            ],
+            "Effects": [
+                "cold {sev 'moderate'} stimulation; simmilar to {sub 'Methylphenidate'}",
+                "{sev 'moderate'} {xeff 'motivation-enhancement'}",
+                "{sev 'moderate'} {xeff 'depression-reduction'}",
+                "{sev 'moderate'} {xeff 'increased-libido'}",
+                "{sev 'light'} {xeff 'cognitive-euphoria'}"
+            ],
+            "Adverse": [
+                "{sev 'light'} {xeff 'sleepiness'}"
+            ],
+            "Sources": [
+                "NL RC Vendor: 3-FPO"
+            ],
+            "Notes": [
+                "Around 2-2.5 times as potent as {sub 'Methylphenidate'}"
+            ]
+        },
+        {
+            "Name": "Thozalinone",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "50mg",
+                    "Onset": "~1 hour"
+                }
+            ],
+            "Effects": [
+                "pleasant warm {sev 'light'} stimulation",
+                "{sev 'moderate'} {xeff 'depression-reduction'}",
+                "{sev 'light'} {xeff 'motivation-enhancement'}",
+                "{sev 'light'} {xeff 'cognitive-euphoria'}"
+            ],
+            "Sources": [
+                "NL RC Vendor: Thozalinone"
+            ],
+            "Notes": [
+                "Very chill relaxing stimulant"
+            ]
+        },
+        {
+            "Name": "Mebufotenin"
         }
     ]
 }
