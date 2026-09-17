@@ -39,11 +39,66 @@
 {{end}}
 
 {{define "UserClasses"}}{{$v := . -}}
-<div class=collapser><h2 contenteditable=false>Substance Index&nbsp;{{template "pexnd" .Collapse}}</h2>
-<div class=collapserContent>
+<h2 contenteditable=false>Substance Index</h2>
 <div class="ranklist">
 {{range $sub := $v.TriedSubstances}}
 {{template "fnoterow" (dict "v" $v "utrd" (dict "trd" $sub) "External" (default false $v.External))}}
 {{end -}}
+{{end}}
+
+{{define "UserMatrix"}}{{$v := . -}}
+<div class=collapser><h2 contenteditable=false class=full-width>Substance Matrix{{if eq $v.Editable "false"}} ({{len $v.TriedSubstances}}){{end}}<span class=collapseButton>&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
+<div class="collapserContent anodyneUserMatrixStruct" style="max-width: repeat({{default "12" $v.SubstanceMatrixMaxCols}}, {{default "60px" $v.SubstanceMatrixCellW}});">
+{{range $i, $sub := $v.TriedSubstances -}}
+<div><img class=trdmatimg style='width: {{default "60px" $v.SubstanceMatrixCellW}}; height:{{default "60px" $v.SubstanceMatrixCellH}};' alt='' src="/structure/{{lower $sub.Name | replace " " "_"}}{{if lower $sub.Name | replace " " "_" | printf "/structure/%s.svg" | fileExists}}.svg{{else if lower $sub.Name | replace " " "_" | printf "/structure/%s.jpg" | fileExists}}.jpg{{end}}" ></div>{{end -}}
 </div></div>
+{{end}}
+
+{{define "UserPics" -}}
+{{$picsdir := printf "/user/%s/pics/" .Title -}}
+{{$pics := list -}}
+{{if fileExists $picsdir -}}
+{{range $pic := listFiles $picsdir -}}
+{{$pics = append $pics (base $pic) -}}
+{{end -}}
+{{$pics = sortAlpha $pics -}}
+<div class=Infobox>{{range $pic := $pics -}}
+{{$nt := trimSuffix ".jpg" $pic | trimSuffix ".png" -}}
+{{template "rimgbox" (dict "src" (printf "%s%s" $picsdir $pic) "desc" (substr 1 (len $nt) (replace "_" " " $nt)) "padding" "0px" "background" "black" "width" "350px") -}}
+{{end -}}
+</div>{{end -}}
+{{end}}
+
+{{define "UserPsyche" -}}
+{{$v := .}}
+{{with $p:= .Psyche -}}
+<div class=collapser><h2>Psyche<span class=collapseButton>&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
+<div class=collapserContent>
+<h3>Attributes</h3><ul id=userattributes>
+{{with $at := .Attributes -}}
+{{range .}}<li contenteditable={{$v.Editable}} class=userattribute>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</li>{{end}}</ul>{{end}}
+{{with $d := .Dissociation -}}
+<li>{{template "user" "{wkp 'Dissociative identity disorder'}"}} ({{with $d.Diagnosis}}{{.}}; {{end}}{{with $d.Alters | len}}{{.}} known alters{{end}})</li>
+{{with $d.Alters}}
+<ul>
+{{range . -}}
+<li>{{template "srca" .Name}}</li>
+<ul>
+{{with .Sexuality}}<li><strong>sexuality</strong>: {{.}}</li>{{end -}}
+{{with .Interests}}<li><strong>interests</strong>: <ul>{{range .}}<li>{{template "user" .}}</li>{{end}}</li>{{end}}
+{{with .Compounds}}<li><strong>favorite compounds</strong>:</li><ul>{{range .}}<li>{{template "user" .}}</li>{{end}}</ul>{{end}}
+{{with .Attributes}}<li><strong>attributes</strong>:</li><ul>{{range .}}<li>{{template "user" .}}</li>{{end}}</ul>{{end}}
+</ul>
+{{end -}}
+</ul>
+{{end -}}
+</li>{{end}}</ul>
+{{with .Interests}}
+<h3>Interests</h3>
+<ul id=userinterests>
+{{range .}}
+<li contenteditable={{$v.Editable}} class=userinterest>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</li>{{end}}</ul>
+{{end}}
+</div></div>
+{{end}}
 {{end}}

@@ -20,6 +20,55 @@
       "Title": "4-Fluoro-α-piperidinopentiophenone",
       "Abr": "4-FPIPVP",
       "MW": "263.35 g/mol"
+    },
+    {
+      "Title": "4-Methyl-α-piperidinopropiophenone",
+      "Abr": [
+        "4-Me-PIPPP"
+      ],
+      "MW": "231.33 g/mol"
+    },
+    {
+      "Title": "3-Methyl-α-piperidinopropiophenone",
+      "Abr": [
+        "3-Me-PIPPP"
+      ],
+      "MW": "231.33 g/mol"
+    },
+    {
+      "Title": "3-Methoxy-α-piperidinopropiophenone",
+      "Abr": [
+        "3-MeO-PIPPP"
+      ],
+      "MW": "247.33 g/mol"
+    },
+    {
+      "Title": "3,4-Dihydroxy-α-piperidinopropiophenone",
+      "Abr": [
+        "3,4-DMPIPPP"
+      ],
+      "MW": "249.30 g/mol"
+    },
+    {
+      "Title": "3',4'-Dichloro-α-piperidinopentiophenone",
+      "Abr": [
+        "3,4-DCPIPVP"
+      ],
+      "MW": "314.2 g/mol"
+    },
+    {
+      "Title": "3'-Nitro-α-piperidinopropiophenone",
+      "Abr": [
+        "3-NPIPPP"
+      ],
+      "MW": "262.30 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-piperidinoheptaphenone",
+      "Abr": [
+        "MDPIPEP"
+      ],
+      "MW": "317.4 g/mol"
     }
   ],
   "First": {
@@ -32,5 +81,8 @@
   "Analogues": [
     "pyrrolidinophenone"
   ],
-  "Parent": "cathinone"
+  "Parents": [
+    "cathinone",
+    "phenethylpiperidine"
+  ]
 }

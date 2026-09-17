@@ -90,5 +90,11 @@
     "phenethylamine",
     "piperidine"
   ],
+  "Children": [
+    "piperidinophenone"
+  ],
+  "Analogues": [
+    "phenethylpyrrolidine"
+  ],
   "Wikipedia": "List of fentanyl analogues"
 }

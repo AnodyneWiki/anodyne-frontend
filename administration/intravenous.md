@@ -67,6 +67,7 @@ The instructions below are optimized for the following factors:
 2. Weigh the desired dose on a centrifuge tube's cap.
 3. Withdraw your desired volume of saline from a vial.
 4. Add your desired dose into the centrifuge tube, spray it with saline and let it dissolve your dose.
+    * incase the drug is in its freebase form (common examples: heroin, crack cocaine) add a equivilant amount of either citric, tartaric or ascorbic acid.
 5. Draw the solution back up into the previously used syringe.
 6. Transfer the solution into a fresh syringe with a wheel filter connected to a fresh needle.
     * (Optional - minimizes residual loss, unnecessary repeatition and usage of filters) Draw a desired amount of the solution into a smaller syringe for immediate use.
@@ -106,4 +107,3 @@ Frequent users may internalize their preferred procedure which can lead them to 
 - {{template "wkp" "Drug injection"}}
 - [External: Getting Off: The Basics of Safer Injection](https://harmreduction.org/issues/safer-drug-use/injection-safety-manual/safer-injection-basics/)
 - [Youtube: Street heroin: Optimal preparation and injection](https://www.youtube.com/watch?v=gc-2A4F0kBk)
-- [Diacetylmorphine](/substance/diacetylmorphine)

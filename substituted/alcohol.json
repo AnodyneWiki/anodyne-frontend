@@ -38,7 +38,10 @@
     }
   ],
   "Children": [
-    "phenol"
+    "phenol",
+    "benzochromene",
+    "phenylethanolamine",
+    "carboxylic acid"
   ],
   "First": {
     "Title": "Methanol",

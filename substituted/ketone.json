@@ -7,7 +7,13 @@
       "MW": "177.24 g/mol"
     }
   ],
-  "Children": [],
+  "Children": [
+    "benzamide",
+    "cathinone",
+    "barbiturate",
+    "thiobarbiturate",
+    "carboxylic acid"
+  ],
   "First": {
     "Title": "Acetone",
     "Abr": "",

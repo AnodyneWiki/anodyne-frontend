@@ -1,0 +1,39 @@
+{
+  "Name": "alkyl nitrite",
+  "Entries": [
+    {
+      "Title": "Amyl nitrite",
+      "Abr": null,
+      "MW": "117.15 g/mol"
+    },
+    {
+      "Title": "Isopropyl nitrite",
+      "Abr": null,
+      "MW": "89.09 g/mol"
+    },
+    {
+      "Title": "Isobutyl nitrite",
+      "Abr": null,
+      "MW": "103.12 g/mol"
+    },
+    {
+      "Title": "Pentyl nitrite",
+      "Abr": null,
+      "MW": "117.15 g/mol"
+    },
+    {
+      "Title": "Hexyl nitrite",
+      "Abr": null,
+      "MW": "131.17 g/mol"
+    },
+    {
+      "Title": "Butyl nitrite",
+      "Abr": null,
+      "MW": "103.12 g/mol"
+    }
+  ],
+  "Parents": [
+    "ether"
+  ],
+  "Wikipedia": "Alkyl nitrite"
+}

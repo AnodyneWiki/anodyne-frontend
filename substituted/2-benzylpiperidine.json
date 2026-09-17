@@ -68,6 +68,23 @@
       "Title": "Desomorphine",
       "Abr": null,
       "MW": "271.35 g/mol"
+    },
+    {
+      "Title": "Dihydromorphine",
+      "Abr": null,
+      "MW": "287.35"
+    },
+    {
+      "Title": "Oxymorphone",
+      "Abr": null,
+      "MW": "301.34 g/mol"
+    },
+    {
+      "Title": "N-Phenethylnoroxymorphone",
+      "Abr": [
+        "PHM"
+      ],
+      "MW": "391.5 g/mol"
     }
   ],
   "Children": [

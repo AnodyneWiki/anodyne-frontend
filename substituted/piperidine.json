@@ -31,13 +31,17 @@
     "pyrrolidine",
     "pyridine",
     "piperazine",
-    "tetrahydropyridine",
     "morpholine"
   ],
   "Children": [
     "phenethylpiperidine",
     "piperidinophenone",
     "arylcyclohexylpiperidine",
-    "2-benzylpiperidine"
+    "2-benzylpiperidine",
+    "piperidinylethylindole",
+    "nitazepipne"
+  ],
+  "Parents": [
+    "amine"
   ]
 }

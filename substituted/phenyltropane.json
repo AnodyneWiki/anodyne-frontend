@@ -14,11 +14,6 @@
       "MW": "413.3 g/mol"
     },
     {
-      "Title": "Cocaine",
-      "Abr": [],
-      "MW": "303.35 g/mol"
-    },
-    {
       "Title": "2-β-Carbomethoxy-3-β-(4-fluorophenyl)tropane",
       "Abr": [
         "WIN-35428"
@@ -26,5 +21,6 @@
       "MW": "277.33 g/mol"
     }
   ],
-  "Parent": "tropane"
+  "Parent": "tropane",
+  "Wikipedia": "phenyltropane"
 }

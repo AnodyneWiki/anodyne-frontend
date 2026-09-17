@@ -33,12 +33,16 @@
     },
     {
       "Title": "Ergonovine",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "325.4 g/mol"
     },
     {
       "Title": "Ergocornine",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "561.7 g/mol"
     },
     {
@@ -48,7 +52,9 @@
     },
     {
       "Title": "Cabergoline",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "451.6 g/mol"
     },
     {
@@ -152,6 +158,14 @@
         "DAL"
       ],
       "MW": "347.5 g/mol"
+    },
+    {
+      "Title": "Lysergic acid 2,4-dimethylazetidide",
+      "Abr": [
+        "LSZ",
+        "LA-Az"
+      ],
+      "MW": "335.4 g/mol"
     }
   ],
   "Parent": "ergoline"

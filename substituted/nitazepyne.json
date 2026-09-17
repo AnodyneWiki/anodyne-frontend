@@ -32,7 +32,10 @@
       "MW": "412.5 g/mol"
     }
   ],
-  "Parent": "nitazene",
+  "Parents": [
+    "nitazene",
+    "pyrrolidine"
+  ],
   "Analogues": [
     "nitazepipne"
   ],

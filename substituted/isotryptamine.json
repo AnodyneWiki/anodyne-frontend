@@ -1,0 +1,61 @@
+{
+  "Name": "isotryptamine",
+  "Entries": [
+    {
+      "Title": "Isotryptamine",
+      "Abr": null,
+      "MW": "160.22 g/mol"
+    },
+    {
+      "Title": "N,N-Dimethylisotryptamine",
+      "Abr": [
+        "isoDMT"
+      ],
+      "MW": "188.27 g/mol"
+    },
+    {
+      "Title": "6-Methoxy-N,N-dimethylisotryptamine",
+      "Abr": [
+        "6-MeO-isoDMT"
+      ],
+      "MW": "218.29 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N,N-dimethylisotryptamine",
+      "Abr": [
+        "5-MeO-isoDMT"
+      ],
+      "MW": "218.29 g/mol"
+    },
+    {
+      "Title": "α-Methylisotryptamine",
+      "Abr": [
+        "isoAMT"
+      ],
+      "MW": "174.24 g/mol"
+    },
+    {
+      "Title": "Zalsupindole",
+      "Abr": [
+        "DLX-001",
+        "AAZ-A-154"
+      ],
+      "MW": "232.32 g/mol"
+    },
+    {
+      "Title": "(S)-5-fluoro-6-chloro-α-methylisotryptamine",
+      "Abr": [
+        "Ro60-0175",
+        "(S)-5-F-6-Cl-isoAMT"
+      ],
+      "MW": "226.68 g/mol"
+    }
+  ],
+  "Parents": [
+    "aniline"
+  ],
+  "Analogues": [
+    "tryptamine"
+  ],
+  "Wikipedia": "Substituted isotryptamine"
+}

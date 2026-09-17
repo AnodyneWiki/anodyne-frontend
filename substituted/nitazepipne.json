@@ -12,7 +12,10 @@
       "MW": "408.5 g/mol"
     }
   ],
-  "Parent": "nitazene",
+  "Parents": [
+    "nitazene",
+    "piperidine"
+  ],
   "Analogues": [
     "nitazepyne"
   ],

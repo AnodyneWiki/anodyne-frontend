@@ -90,11 +90,6 @@
       "MW": "329.74 g/mol"
     },
     {
-      "Title": "Midazolam",
-      "Abr": "",
-      "MW": "325.8 g/mol"
-    },
-    {
       "Title": "Nifoxipam",
       "Abr": "",
       "MW": "315.26 g/mol"
@@ -172,5 +167,8 @@
   "Analogues": [
     "thienodiazepine",
     "pyridodiazepine"
+  ],
+  "Parents": [
+    "aniline"
   ]
 }

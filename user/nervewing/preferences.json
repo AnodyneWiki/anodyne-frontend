@@ -1,0 +1,819 @@
+{ 
+  "Title": "nervewing",
+  "Name": [
+    "Nervewing"
+  ],
+  "About": "{p}Psychoactive chemicals blogger #1 erowid experience vaults contributor former dissociatiive chemist bug and invertebrate enthusiast{Ep}{p}{a 'https://nervewing.blogspot.com'}{Ep}",
+  "Location": "United states",
+  "Links": [
+    {
+      "Name": "Email",
+      "Url": "nervewing@protonmail.com"
+    },
+    {
+      "Name": "Wikipedia",
+      "Url": "https://en.wikipedia.org/wiki/User:Nervewing"
+    },
+    {
+      "Name": "Reddit",
+      "Url": "https://www.reddit.com/user/Nervewing"
+    },
+    {
+      "Name": "Discord",
+      "Url": "nervewing420"
+    }
+  ],
+  "Psyche": {
+    "Interests": [
+      "synthesis",
+      "invertebrates"
+    ],
+    "Attributes": [
+    ]
+  },
+  "RoutesOfAdministration": [
+  ],
+  "Preferences": [
+  ],
+  "TriedSubstances": [
+    {
+      "Name": "Caffeine"
+    },
+    {
+      "Name": "Nicotine"
+    },
+    {
+      "Name": "Modafinil"
+    },
+    {
+      "Name": "Ethanol"
+    },
+    {
+      "Name": "Nitrous Oxide"
+    },
+    {
+      "Name": "Isobutyl nitrite"
+    },
+    {
+      "Name": "Diethyl Ether"
+    },
+    {
+      "Name": "Corisoprodol"
+    },
+    {
+      "Name": "Jimson weed (Datura stramonium)"
+    },
+    {
+      "Name": "Psilocybin mushrooms (Psilocybe sp.)"
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-iodo-N-(2-methoxybenzyl)phenethylamine"
+    },
+    {
+      "Name": "Dimethyltryptamine"
+    },
+    {
+      "Name": "AMT"
+    },
+    {
+      "Name": "4-HO-DPT"
+    },
+    {
+      "Name": "4-AcO-DPT"
+    },
+    {
+      "Name": "DiPT"
+    },
+    {
+      "Name": "5-MeO-DPT"
+    },
+    {
+      "Name": "Dipropyltrytamine"
+    },
+    {
+      "Name": "5-MeO-DALT"
+    },
+    {
+      "Name": "5-MeO-DMT"
+    },
+    {
+      "Name": "DOB"
+    },
+    {
+      "Name": "Lysergic acid",
+      "Sources": [
+        "Argyreia nervosa"
+      ]
+    },
+    {
+      "Name": "Lysergic acid diethylamide"
+    },
+    {
+      "Name": "Lysergic acid 2,4-dimethylazetidide"
+    },
+    {
+      "Name": "1-Propanoyl-lysergic acid diethylamide"
+    },
+    {
+      "Name": "1-Butanoyl-d-lysergic acid diethylamide"
+    },
+    {
+      "Name": "ETH-LAD"
+    },
+    {
+      "Name": "ALD-52"
+    },
+    {
+      "Name": "4-AcO-DMT"
+    },
+    {
+      "Name": "Ketamine"
+    },
+    {
+      "Name": "2F-DCK"
+    },
+    {
+      "Name": "O-PCE"
+    },
+    {
+      "Name": "3-Me-PCE"
+    },
+    {
+      "Name": "3-HO-PCE"
+    },
+    {
+      "Name": "3-MeO-PCE"
+    },
+    {
+      "Name": "MXE"
+    },
+    {
+      "Name": "FXE"
+    },
+    {
+      "Name": "MXM"
+    },
+    {
+      "Name": "MXP"
+    },
+    {
+      "Name": "Psilocin",
+      "Sources": [
+        "Synthetic"
+      ]
+    },
+    {
+      "Name": "Cocaine"
+    },
+    {
+      "Name": "DPH"
+    },
+    {
+      "Name": "4-AcO-MET"
+    },
+    {
+      "Name": "4-HO-MiPT"
+    },
+    {
+      "Name": "Allylescaline"
+    },
+    {
+      "Name": "Hydroxyzine"
+    },
+    {
+      "Name": "3-MeO-PCP"
+    },
+    {
+      "Name": "5-MeO-MiPT"
+    },
+    {
+      "Name": "Mescaline"
+    },
+    {
+      "Name": "Escaline"
+    },
+    {
+      "Name": "Bromomescaline"
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-bromophenethylamine"
+    },
+    {
+      "Name": "2C-P"
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-iodo-N-(2-hydroxybenzyl)phenethylamine"
+    },
+    {
+      "Name": "2C-E"
+    },
+    {
+      "Name": "2C-C"
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-iodophenethylamine"
+    },
+    {
+      "Name": "2C-D"
+    },
+    {
+      "Name": "2C-B-FLY"
+    },
+    {
+      "Name": "2C-iP"
+    },
+    {
+      "Name": "2C-T-7"
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-chloro-N-(2-methoxybenzyl)phenethylamine"
+    },
+    {
+      "Name": "3C-E"
+    },
+    {
+      "Name": "Amphetamine"
+    },
+    {
+      "Name": "2-Fluoroamphetamine"
+    },
+    {
+      "Name": "3-Fluoroamphetamine"
+    },
+    {
+      "Name": "Cathinone",
+      "Sources": [
+        "Catha edulis"
+      ]
+    },
+    {
+      "Name": "Metaphedrone"
+    },
+    {
+      "Name": "Eutylone"
+    },
+    {
+      "Name": "N-Ethylhexedrone"
+    },
+    {
+      "Name": "α-Pyrrolidino-2-phenylacetophenone"
+    },
+    {
+      "Name": "Methamphetamine"
+    },
+    {
+      "Name": "Propylhexedrine"
+    },
+    {
+      "Name": "3,4-Methylenedioxymethamphetamine"
+    },
+    {
+      "Name": "Prolintane"
+    },
+    {
+      "Name": "6-APB"
+    },
+    {
+      "Name": "5-APDB"
+    },
+    {
+      "Name": "Methylphenidate"
+    },
+    {
+      "Name": "3-Fluorophenmetrazine"
+    },
+    {
+      "Name": "3-Chlorophenmetrazine"
+    },
+    {
+      "Name": "3-Iodophenmetrazine"
+    },
+    {
+      "Name": "3-Chlorophenmetrazine"
+    },
+    {
+      "Name": "Ephenidine"
+    },
+    {
+      "Name": "Diphenidine"
+    },
+    {
+      "Name": "2-Br-Diphenidine"
+    },
+    {
+      "Name": "Isopropylphenidine"
+    },
+    {
+      "Name": "2-TFM-Diphenidine"
+    },
+    {
+      "Name": "Cocaine",
+      "Salts": [
+        "Freebase"
+      ]
+    },
+    {
+      "Name": "Mirtazapine"
+    },
+    {
+      "Name": "Promethazine"
+    },
+    {
+      "Name": "4-AcO-DET"
+    },
+    {
+      "Name": "4-HO-MET"
+    },
+    {
+      "Name": "Methallylescaline"
+    },
+    {
+      "Name": "DALT"
+    },
+    {
+      "Name": "DCK"
+    },
+    {
+      "Name": "Phenylpiracetam"
+    },
+    {
+      "Name": "Kava (Piper methysticum)"
+    },
+    {
+      "Name": "Glaucine"
+    },
+    {
+      "Name": "Memantine"
+    },
+    {
+      "Name": "Armodafinil"
+    },
+	{
+      "Name": "Passionflower (Passiflora sp.)"
+    },
+    {
+      "Name": "4-HO-EPT"
+    },
+    {
+      "Name": "4-HO-DET"
+    },
+    {
+      "Name": "Salvia (Salvia divinorum)"
+    },
+    {
+      "Name": "AL-LAD"
+    },
+    {
+      "Name": "4-AcO-MiPT"
+    },
+    {
+      "Name": "DOM"
+    },
+    {
+      "Name": "MET"
+    },
+    {
+      "Name": "Kratom"
+    },
+    {
+      "Name": "Cannabis"
+    },
+    {
+      "Name": "7-Hydroxymitragynine"
+    },
+    {
+      "Name": "Mitragynine Pseudoindoxyl"
+    },
+    {
+      "Name": "γ-Hydroxybutyric acid"
+    },
+    {
+      "Name": "1,4-Butanediol"
+    },
+    {
+      "Name": "Gabapentin"
+    },
+    {
+      "Name": "Pregabalin"
+    },
+    {
+      "Name": "Phenibut"
+    },
+    {
+      "Name": "4-AcO-MPT"
+    },
+    {
+      "Name": "4-MeO-MiPT"
+    },
+    {
+      "Name": "4-AcO-EPT"
+    },
+    {
+      "Name": "MXPr"
+    },
+    {
+      "Name": "4-PrO-DMT"
+    },
+    {
+      "Name": "4-HO-DiPT"
+    },
+    {
+      "Name": "α-PCYP"
+    },
+    {
+      "Name": "BOD"
+    },
+    {
+      "Name": "Blue Lotus (Nymphaea caerulea)"
+    },
+    {
+      "Name": "4-HO-MALT"
+    },
+    {
+      "Name": "5-MeO-MALT"
+    },
+    {
+      "Name": "1cP-LSD"
+    },
+    {
+      "Name": "PCM"
+    },
+    {
+      "Name": "PCP"
+    },
+    {
+      "Name": "3-HO-PCP"
+    },
+    {
+      "Name": "3F-PCP"
+    },
+    {
+      "Name": "4F-MPH"
+    },
+    {
+      "Name": "1F-LSD"
+    },
+    {
+      "Name": "5-MeO-MET"
+    },
+    {
+      "Name": "3-Me-PCP"
+    },
+    {
+      "Name": "MXiPr"
+    },
+    {
+      "Name": "Δ8-THC"
+    },
+    {
+      "Name": "Zolpidem"
+    },
+    {
+      "Name": "Clonazolam"
+    },
+    {
+      "Name": "Bromazolam"
+    },
+    {
+      "Name": "Pyrazolam"
+    },
+    {
+      "Name": "Flualprazolam"
+    },
+    {
+      "Name": "Flubrotizolam"
+    },
+    {
+      "Name": "Fluclotizolam"
+    },
+    {
+      "Name": "Triazolam"
+    },
+    {
+      "Name": "Diazepam"
+    },
+    {
+      "Name": "Diclazepam"
+    },
+    {
+      "Name": "Flubromazepam"
+    },
+    {
+      "Name": "Bromazepam"
+    },
+    {
+      "Name": "Nitrazepam"
+    },
+    {
+      "Name": "Deschloroetizolam"
+    },
+    {
+      "Name": "Etizolam"
+    },
+    {
+      "Name": "Flunitrazepam"
+    },
+    {
+      "Name": "Midazolam"
+    },
+    {
+      "Name": "Lorazepam"
+    },
+    {
+      "Name": "Alprazolam"
+    },
+    {
+      "Name": "Clonazepam"
+    },
+    {
+      "Name": "Loprazolam"
+    },
+    {
+      "Name": "Flunitrazolam"
+    },
+    {
+      "Name": "Mecloanzepam"
+    },
+    {
+      "Name": "Norflurazepam"
+    },
+    {
+      "Name": "Temazepam"
+    },
+    {
+      "Name": "Flurazepam"
+    },
+    {
+      "Name": "Desalkylgidazepam"
+    },
+    {
+      "Name": "Tofisopam"
+    },
+    {
+      "Name": "Oxazepam"
+    },
+    {
+      "Name": "Flubromazolam"
+    },
+    {
+      "Name": "DMXE"
+    },
+    {
+      "Name": "BTCP"
+    },
+    {
+      "Name": "O-DSMT"
+    },
+    {
+      "Name": "MPT"
+    },
+    {
+      "Name": "IPPH"
+    },
+    {
+      "Name": "3-FMA"
+    },
+    {
+      "Name": "Doxylamine"
+    },
+    {
+      "Name": "2-FMA"
+    },
+    {
+      "Name": "DOF"
+    },
+    {
+      "Name": "DOiP"
+    },
+    {
+      "Name": "3,4-DCMP (aka 3,4-CTMP)"
+    },
+    {
+      "Name": "βk-2C-B"
+    },
+    {
+      "Name": "HXE"
+    },
+    {
+      "Name": "DOPr"
+    },
+    {
+      "Name": "1cP-AL-LAD"
+    },
+    {
+      "Name": "Dihydrocodeine"
+    },
+    {
+      "Name": "MiPT"
+    },
+    {
+      "Name": "1V-LSD"
+    },
+    {
+      "Name": "4-HO-PiPT"
+    },
+    {
+      "Name": "POxP"
+    },
+    {
+      "Name": "PThP"
+    },
+    {
+      "Name": "Rilmazafone"
+    },
+    {
+      "Name": "Mexazolam"
+    },
+    {
+      "Name": "Flutazolam"
+    },
+    {
+      "Name": "Dexoxadrol"
+    },
+    {
+      "Name": "3C-P"
+    },
+    {
+      "Name": "α-PiHP"
+    },
+    {
+      "Name": "Baclofen"
+    },
+    {
+      "Name": "PiPT"
+    },
+    {
+      "Name": "MALT"
+    },
+    {
+      "Name": "Δ10-THC"
+    },
+    {
+      "Name": "CBN"
+    },
+    {
+      "Name": "Banisteriopsis caapi"
+    },
+    {
+      "Name": "HHC"
+    },
+    {
+      "Name": "2B-DCK"
+    },
+    {
+      "Name": "4-MetMP"
+    },
+    {
+      "Name": "Emylcamate"
+    },
+    {
+      "Name": "DOC"
+    },
+    {
+      "Name": "Lemborexant"
+    },
+    {
+      "Name": "TMA-2"
+    },
+    {
+      "Name": "Tapentadol"
+    },
+    {
+      "Name": "Zopiclone"
+    },
+    {
+      "Name": "Muscimol",
+      "Sources": [ 
+        "As a decarboxylated Amanita muscaria extract"
+      ]
+    },
+    {
+      "Name": "O-PCiPr"
+    },
+    {
+      "Name": "NEP"
+    },
+    {
+      "Name": "3'-MXP"
+    },
+    {
+      "Name": "4-HO-DsBT"
+    },
+    {
+      "Name": "Nalbuphine"
+    },
+    {
+      "Name": "1D-LSD"
+    },
+    {
+      "Name": "GBL"
+    },
+    {
+      "Name": "TPP"
+    },
+    {
+      "Name": "2-Methyl-AP-237"
+    },
+    {
+      "Name": "Dextromethorphan"
+    },
+    {
+      "Name": "Morphine"
+    },
+    {
+      "Name": "Codeine"
+    },
+    {
+      "Name": "Oxycodone"
+    },
+    {
+      "Name": "Hydromorphone"
+    },
+    {
+      "Name": "Hydrocodone"
+    },
+    {
+      "Name": "Buprenorphine"
+    },
+    {
+      "Name": "3F-DCK"
+    },
+    {
+      "Name": "4-HO-MsBT"
+    },
+    {
+      "Name": "Tramadol"
+    },
+    {
+      "Name": "3-MeO-PCiPr"
+    },
+    {
+      "Name": "3-MeO-PCA"
+    },
+    {
+      "Name": "O-PCPr"
+    },
+    {
+      "Name": "3,4-MD-PCiPr"
+    },
+    {
+      "Name": "3-MeS-PCP"
+    },
+    {
+      "Name": "P2AP"
+    },
+    {
+      "Name": "PCPy"
+    },
+    {
+      "Name": "3-Me-PCPy"
+    },
+    {
+      "Name": "3-MeO-PCPy"
+    },
+    {
+      "Name": "3-Cl-PCP"
+    },
+    {
+      "Name": "3,4-MD-PCP"
+    },
+    {
+      "Name": "2-MeO-PCiPr"
+    },
+    {
+      "Name": "PCiPr"
+    },
+    {
+      "Name": "3-Me-PCiPr"
+    },
+    {
+      "Name": "3-MeO-PCsBu"
+    },
+    {
+      "Name": "3-EtO-PCiPr"
+    },
+    {
+      "Name": "3-F-PCiPr"
+    },
+    {
+      "Name": "3-EtO-PCP"
+    },
+    {
+      "Name": "3-MeS-PCiPr"
+    },
+    {
+      "Name": "O-PCP"
+    },
+    {
+      "Name": "3,4-MD-PCDE"
+    },
+    {
+      "Name": "MXPCP"
+    },
+    {
+      "Name": "2-FXiPr"
+    }
+  ],
+  "SubstanceMatrixCellW": "60px",
+  "SubstanceMatrixCellH": "60px"
+}

@@ -10,13 +10,17 @@
   "Children": [
     "2-phenylmorpholine",
     "3-benzylmorpholine",
-    "arylcyclohexylmorpholine"
+    "arylcyclohexylmorpholine",
+    "morpholinylethylindole"
   ],
   "Analogues": [
     "pyrrolidine",
     "pyridine",
     "piperidine",
-    "piperazine",
-    "tetrahydropyridine"
+    "piperazine"
+  ],
+  "Parents": [
+    "amine",
+    "ether"
   ]
 }

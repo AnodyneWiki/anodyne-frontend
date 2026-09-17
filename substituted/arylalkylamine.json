@@ -53,7 +53,6 @@
     }
   ],
   "Children": [
-    "aniline",
     "benzylamine",
     "phenethylamine",
     "phenylpropylamine",
@@ -63,5 +62,7 @@
     "annulenylalkylamine",
     "cycloalkylamine"
   ],
-  "First": {}
+  "Parents": [
+   "amine"
+  ]
 }

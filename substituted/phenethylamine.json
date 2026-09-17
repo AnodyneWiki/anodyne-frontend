@@ -204,15 +204,13 @@
     "β-alkylphenethylamine",
     "catecholamine",
     "tetrahydroisoquinoline",
-    "phenethylpiperidine"
+    "phenethylpiperidine",
+    "phenethylpyrrolidine"
   ],
   "First": {
     "Title": "Phenethylamine",
     "Abr": "PEA",
     "MW": "121.18 g/mol"
   },
-  "Analogues": [
-
-  ],
   "Wikipedia": "Substituted phenethylamine"
 }

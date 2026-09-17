@@ -16,5 +16,8 @@
   "Analogues": [
     "arylalkylamine",
     "cycloalkylamine"
+  ],
+  "Parents": [
+    "amine"
   ]
 }

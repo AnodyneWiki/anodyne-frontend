@@ -27,5 +27,8 @@
     "Title": "Methylcyanoacrylate",
     "Abr": "MCA",
     "MW": "111.10 g/mol"
-  }
+  },
+  "Parents": [
+    "ketone"
+  ]
 }

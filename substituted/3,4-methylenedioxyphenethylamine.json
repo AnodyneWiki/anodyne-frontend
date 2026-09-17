@@ -125,7 +125,9 @@
     },
     {
       "Title": "Hydrastinine",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "207.23 g/mol"
     },
     {
@@ -255,11 +257,6 @@
       "MW": "275.34 g/mol"
     },
     {
-      "Title": "N-(MDA)-Fentanyl",
-      "Abr": [],
-      "MW": "394.5 g/mol"
-    },
-    {
       "Title": "3',4'-Methylenedioxy-α-pyrrolidinopentiophenone",
       "Abr": [
         "MDPV",
@@ -278,7 +275,7 @@
     {
       "Title": "Tadalafil",
       "Abr": null,
-      "MW": "389.4 g/mol"
+      "MW": "389.4"
     },
     {
       "Title": "Noscapine",
@@ -298,6 +295,27 @@
         "N-(MDA)-Fentanyl"
       ],
       "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "α-Piperidinoheptaphenone",
+      "Abr": [
+        "α-PIPEP"
+      ],
+      "MW": "317.4 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-Piperidinoheptaphenone",
+      "Abr": [
+        "MDPIPEP"
+      ],
+      "MW": "317.4 g/mol"
+    },
+    {
+      "Title": "PharmAla-1",
+      "Abr": [
+        "APA-01"
+      ],
+      "MW": "205.25 g/mol"
     }
   ],
   "Parent": "phenethylamine",

@@ -6,7 +6,7 @@
         "Ninerik",
         "Ninn"
     ],
-    "About": "{p}HELLOOoooo, anyone there? No?{Ep}{p}Silence ueh? I wonder how long its been. {Ep}{p}Months, years even?{Ep}",
+    "About": "{p}HELLOOoooo, anyone there? No?{Ep}{p}Silence, ueh? I wonder how long it's been. {Ep}{p}Months, years even?{Ep}",
     "Birth": "2007-01",
     "Location": "Norway",
     "Links": [
@@ -22,9 +22,15 @@
     "TriedSubstances": [
         {
             "Name": "Caffeine",
-            "Source": [
+            "Routes": [
+              {
+                "Name": "Oral",
+                "Dosage": "80-500mg"
+              }
+            ],
+            "Sources": [
                 "Energy drinks",
-                "workplace coffee machine"
+                "Workplace coffee machine"
             ],
             "Effects": [
                 "{xeff 'stimulation'}",
@@ -32,13 +38,14 @@
                 "{xeff 'increased-heart-rate'}",
                 "{xeff 'increased-perspiration'}",
                 "{xeff 'frequent-urination'}",
+                "{xeff 'headache'} at higher doses",
                 "{wkp 'addiction'} (since the start of 2026)"
             ]
         },
         {
             "Name": "Amphetamine",
             "Sources": [
-                "DNM: Speed (pink discoleration)"
+                "DNM: Speed"
             ],
             "Effects": [
                 "{xeff 'stimulation'}",
@@ -47,24 +54,34 @@
                 "{xeff 'appetite suppression'}",
                 "{xeff 'increased-perspiration'}",
                 "{xeff 'increased heart rate'}",
+                "{sev 'light'} {xeff 'teeth-grinding'}",
                 "{sev 'light'} {xeff 'drifting'} when heavily de-hydrated"
             ]
         },
         {
             "Name": "2,5-Dimethoxy-4-bromophenethylamine",
-            "Source": [
-                "Batman"
+          "Routes": [
+            {
+              "Name": "Oral",
+              "Dosage": "10-28mg"
+            },
+            {
+              "Name": "Insufflated",
+              "Dosage": "9-14mg"
+            }
+          ],
+            "Sources": [
+                "DNM: Batman"
             ],
             "Effects": [
-                "{xeff 'nausea'} fading as peak comes",
+                "{sev 'light'} {xeff 'nausea'} fading as peak comes",
                 "{xeff 'pupil-dilation'}",
                 "{xeff 'tactile-enhancement'}",
                 "{xeff 'laughter-fits'}",
                 "{xeff 'geometry'}",
                 "{xeff 'transformations'}",
                 "{xeff 'colour-enhancement'}",
-                "{xeff 'time-distortion'}",
-                "{xeff 'auditory-hallucination'}"
+                "{xeff 'time-distortion'}"
             ],
             "DEffects": [
                 {
@@ -82,7 +99,7 @@
                 }
             ],
             "Notes": [
-                "Written when on 9mg 2C-B ^-^"
+                "Written when on 2C-B ^-^"
             ]
         },
         {
@@ -95,6 +112,9 @@
             ],
             "Effects": [
                 "{wkp 'antihistamine'}"
+            ],
+            "Notes": [
+                "Seems to work better than {wkp 'desloratadine'}"
             ]
         },
         {
@@ -125,7 +145,22 @@
             ]
         },
         {
-            "Name": "Ethanol"
+            "Name": "Ethanol",
+            "Effects": [
+                "{xeff 'sedation'}",
+                "{xeff 'motor-control-loss'}",
+                "{xeff 'cognitive-euphoria'}",
+                "{xeff 'disinhibition'}",
+                "{xeff 'anxiety-suppression'}",
+                "{xeff 'empathy-affection-and-sociability-enhancement'}",
+                "{xeff 'nausea'}",
+                "{xeff 'dehydration'}",
+                "{xeff 'frequent-urination'}",
+                "{xeff 'double-vision'}"
+            ],
+            "Notes": [
+                "mmmmmpf vodka"
+            ]
         }
     ],
     "Psyche": {

@@ -1,0 +1,1050 @@
+{
+  "Title": "a1ko",
+  "Name": [
+    "aiko"
+  ],
+  "About": "{p}I shoot up with and sleep in the same bed as Anodyne's creator.{Ep}{p}Love you {user '0xea'}.{Ep}",
+  "Birth": "2007-11",
+  "Location": "Germany",
+  "Nationality": "",
+  "Weight": [
+    ""
+  ],
+  "Links": [
+    {
+      "Name": "Discord",
+      "Url": "aikooakii"
+    },
+    {
+      "Name": "Signal",
+      "Url": "wigzqjndoxugqvwndlpai85252ydsurs.49"
+    }
+  ],
+  "Psyche": {
+    "Interests": [
+
+    ],
+    "Attributes": [
+      "{wkp 'autism spectrum disorder' 'autism'} (diagnosed)",
+      "{wkp 'obsessive–compulsive disorder'} (diagnosed)",
+      "{wkp 'attention deficit hyperactivity disorder'} (not yet diagnosed)",
+      "{wkp 'Depression (mood)' 'depression'} (diagnosed)",
+      "{wkp 'borderline personality disorder'} (diagnosed)",
+      "{wkp 'self-destructive behaviour'} (cutting, burning, injecting, intentional overdose)",
+      "reaccuring {xeff 'suicidal ideation'} (since ~2013)",
+      "{wkp 'Visual snow syndrome' 'persistant visual snow'}",
+      "{roa 'intravenous'} {wkp 'stimulant use disorder'} (since 2024; longest period of abstinence 14 days; periods of {xeff 'wakefulness'} up to +5 days; severe episodes of {wkp 'stimulant psychosis'})",
+      "{wkp 'dyslexia'} (diagnosed)",
+      "{wkp 'dyscalculia'} (diagnosed)",
+      "{wkp 'dysorthography'} (diagnosed)",
+      "{wkp 'dysgraphia'} (diagnosed)",
+      "{wkp 'color blindness' 'color blind'}",
+      "{wkp 'transsexual'} ({wkp 'Trans woman' 'male to female'} since September 2024)"
+    ]
+  },
+  "RoutesOfAdministration": [
+
+  ],
+  "Preferences": [
+
+  ],
+  "TriedSubstances": [
+    {
+      "Name": "Metocin",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "oral"
+        }
+      ],
+      "Effects": [
+        "{xeff 'stimulation'}",
+        "{xeff 'wakefulness'}"
+      ]
+    },
+    {
+      "Name": "4-Propionyloxy-N-methyl-N-ethyltryptamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10mg"
+        }
+      ],
+      "Effects": [
+        "{xeff 'drifting'}"
+      ]
+    },
+    {
+      "Name": "Melatonin",
+      "Routes": [
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
+      "Name": "1-Valeryl-D-lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "300µg"
+        }
+      ]
+    },
+    {
+      "Name": "1-Propanoyl-lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "sublingual"
+        }
+      ]
+    },
+    {
+      "Name": "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "100µg"
+        }
+      ]
+    },
+    {
+      "Name": "Lysergic acid 2,4-dimethylazetidide",
+      "Routes": [
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
+      "Name": "Eticyclidone",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        }
+      ]
+    },
+    {
+      "Name": "Ketamine",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "intramuscular"
+        },
+        {
+          "Name": "smoked"
+        },
+        {
+          "Name": "intravenous"
+        }
+      ]
+    },
+    {
+      "Name": "Fluoroketamine",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
+      "Name": "3-Methoxyeticyclidine",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "12mg"
+        }
+      ]
+    },
+    {
+      "Name": "Phencyclidine",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        }
+      ],
+      "Note": "untrustworthy source"
+    },
+    {
+      "Name": "3-Hydroxyphencyclidine",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "10mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "4mg"
+        }
+      ]
+    },
+    {
+      "Name": "3-Methoxyphencyclidine",
+      "Routes": [
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "insufflated"
+        }
+      ],
+      "Sources": [
+        "3-MeO-PCP: Research-chemical-vendor Netherlands 25mg tablets"
+      ],
+      "Effects": [
+        "{xeff 'pupil constriction'}",
+        "{xeff 'mania'}",
+        "{xeff 'tinnitus'}"
+      ]
+    },
+    {
+      "Name": "Escitalopram",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50mg"
+        }
+      ]
+    },
+    {
+      "Name": "Atomoxetine",
+      "Routes": [
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "insufflated"
+        }
+      ]
+    },
+    {
+      "Name": "Venlafaxine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "300mg"
+        }
+      ]
+    },
+    {
+      "Name": "Alprazolam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.3-2mg"
+        },
+        {
+          "Name": "inhaled",
+          "Dosage": "1mg"
+        }
+      ]
+    },
+    {
+      "Name": "Bromazepam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "4.5-12mg"
+        }
+      ]
+    },
+    {
+      "Name": "Bromazolam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.5mg"
+        }
+      ]
+    },
+    {
+      "Name": "Pyrazolam",
+      "Routes": [
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
+      "Name": "Clonazepam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "1-2mg"
+        }
+      ]
+    },
+    {
+      "Name": "Lorazepam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "2mg"
+        }
+      ]
+    },
+    {
+      "Name": "Diazepam",
+      "Routes": [
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "5mg"
+        }
+      ]
+    },
+    {
+      "Name": "Oxazepam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20-70mg"
+        }
+      ]
+    },
+    {
+      "Name": "Caffeine",
+      "Routes": [
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "rectal"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "65mg"
+        },
+        {
+          "Name": "intravenous"
+        }
+      ]
+    },
+    {
+      "Name": "Mirtazapine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "25mg"
+        }
+      ]
+    },
+    {
+      "Name": "Quetiapine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "25-100mg"
+        }
+      ]
+    },
+    {
+      "Name": "Nicotine",
+      "Routes": [
+        {
+          "Name": "buccal"
+        },
+        {
+          "Name": "inhaled",
+          "Dosage": "0.5-1mg"
+        },
+        {
+          "Name": "smoked",
+          "Dosage": "1mg"
+        },
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
+      "Name": "Dextromethorphan",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "75-705mg"
+        }
+      ]
+    },
+    {
+      "Name": "Codeine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "150mg"
+        }
+      ]
+    },
+    {
+      "Name": "Oxycodone",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "40mg"
+        }
+      ]
+    },
+    {
+      "Name": "Morphine",
+      "Routes": [
+        {
+          "Name": "intravenous"
+        }
+      ]
+    },
+    {
+      "Name": "Diacetylmorphine",
+      "Routes": [
+        {
+          "Name": "smoked"
+        },
+        {
+          "Name": "intravenous",
+          "Dosage": "10-75mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'respiratory depression'}",
+        "{sev 'strong'} {xeff 'pain relief'}",
+        "{sev 'intense'} {xeff 'itchiness'}",
+        "{xeff 'nausea'}",
+        "{sev 'intense'} {xeff 'nausea?s=vomiting' 'vomiting'}"
+      ]
+    },
+    {
+      "Name": "Buprenorphine",
+      "Routes": [
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "sublingual",
+          "Dosage": "1.8mg"
+        }
+      ]
+    },
+    {
+      "Name": "Naloxone",
+      "Routes": [
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "insufflated"
+        }
+      ],
+      "Sources": [
+        "NYXOID 1.8mg: Nasalspray"
+      ],
+      "Effects": [
+        "{rev} {xeff 'respiratory depression'} (in case of {sub 'diacetylmorphine'} overdose)",
+        "{xeff 'anxiety'}",
+        "{sev 'light'} {xeff 'cognitive dysphoria'}"
+      ]
+    },
+    {
+      "Name": "Tramadol",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "37.5-337.5mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "37.5mg"
+        },
+        {
+          "Name": "intravenous"
+        }
+      ]
+    },
+    {
+      "Name": "Fentanyl",
+      "Routes": [
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "intravenous"
+        }
+      ]
+    },
+    {
+      "Name": "Ethanol",
+      "Routes": [
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "rectal"
+        },
+        {
+          "Name": "intravenous"
+        }
+      ]
+    },
+    {
+      "Name": "Nitrous oxide",
+      "Routes": [
+        {
+          "Name": "inhaled"
+        }
+      ]
+    },
+    {
+      "Name": "Amyl nitrite",
+      "Routes": [
+        {
+          "Name": "Inhaled"
+        }
+      ]
+    },
+    {
+      "Name": "Creatine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20-250mg"
+        }
+      ]
+    },
+    {
+      "Name": "Theanine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "500mg"
+        }
+      ]
+    },
+    {
+      "Name": "Pregabalin",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "150-300mg"
+        },
+        {
+          "Name": "rectal",
+          "Dosage": "600mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "150-460mg"
+        }
+      ]
+    },
+    {
+      "Name": "Phenibut",
+      "Routes": [
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
+      "Name": "Piracetam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "1.2-6000mg"
+        }
+      ]
+    },
+    {
+      "Name": "Omberacetam",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        }
+      ]
+    },
+    {
+      "Name": "Ibuprofen",
+      "Routes": [
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
+      "Name": "Acetylsalicylic acid",
+      "Routes": [
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
+      "Name": "Paracetamol",
+      "Routes": [
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
+      "Name": "Estradiol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "Transdermal"
+        }
+      ]
+    },
+    {
+      "Name": "Estradiol enantate",
+      "Routes": [
+        {
+          "Name": "Subcutaneous",
+          "Dosage": "10mg"
+        }
+      ]
+    },
+    {
+      "Name": "Progesterone",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "200-1400mg"
+        },
+        {
+          "Name": "rectal",
+          "Dosage": "100-400mg"
+        }
+      ],
+      "Effects": [
+        "{xeff 'increased libido'}"
+      ]
+    },
+    {
+      "Name": "Cannabidiol",
+      "Routes": [
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "smoked"
+        }
+      ]
+    },
+    {
+      "Name": "Δ-9-tetrahydrocannabinol",
+      "Routes": [
+        {
+          "Name": "inhaled"
+        }
+      ]
+    },
+    {
+      "Name": "Hexahydrocannabinol",
+      "Routes": [
+        {
+          "Name": "inhaled"
+        }
+      ]
+    },
+    {
+      "Name": "Zolpidem",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20mg"
+        }
+      ]
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-bromophenethylamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10-30mg"
+        },
+        {
+          "Name": "insufflated"
+        }
+      ]
+    },
+    {
+      "Name": "Amphetamine",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "intravenous"
+        }
+      ]
+    },
+    {
+      "Name": "Lisdexamphetamine",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "30-60mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "30-120mg"
+        }
+      ]
+    },
+    {
+      "Name": "Methamphetamine",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "smoked"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "145mg"
+        },
+        {
+          "Name": "intravenous",
+          "Dosage": "15-145mg"
+        },
+        {
+          "Name": "intramuscular"
+        }
+      ],
+      "Effects": [
+        "{sev 'intense'} {xeff 'cognitive euphoria'} (intensity dependant on quality)",
+        "{sev 'strong'} {xeff 'focus enhancement'} (disappears after long-term abuse)",
+        "{xeff 'paranoia'}"
+      ]
+    },
+    {
+      "Name": "3,4-Methylenedioxymethamphetamine",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "oral"
+        }
+      ]
+    },
+    {
+      "Name": "4-Phenylmethamphetamine",
+      "Routes": [
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "intravenous",
+          "Dosage": "60mg"
+        },
+        {
+          "Name": "smoked"
+        }
+      ]
+    },
+    {
+      "Name": "Methylphenidate",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "30-60mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "30-60mg"
+        }
+      ]
+    },
+    {
+      "Name": "Orthophedrone",
+      "Routes": [
+        {
+          "Name": "intravenous"
+        }
+      ]
+    },
+    {
+      "Name": "Metaphedrone",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "intravenous"
+        }
+      ]
+    },
+    {
+      "Name": "Mephedrone",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "rectal"
+        },
+        {
+          "Name": "smoked"
+        },
+        {
+          "Name": "intramuscular"
+        },
+        {
+          "Name": "inhaled"
+        },
+        {
+          "Name": "intravenous"
+        },
+        {
+          "Name": "transdermal"
+        }
+      ],
+      "Effects": [
+        "{sev 'intense'} {xeff 'increased libido'}",
+        "{sev 'intense'} {xeff 'cognitive euphoria'}",
+        "{xeff 'depression reduction'}",
+        "{xeff 'sleepiness'}"
+      ]
+    },
+    {
+      "Name": "Clophedrone",
+      "Routes": [
+      ]
+    },
+    {
+      "Name": "Clephedrone",
+      "Routes": [
+      ]
+    },
+    {
+      "Name": "Bupropion",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "125mg"
+        }
+      ]
+    },
+    {
+      "Name": "4-Methylpentedrone",
+      "Routes": [
+        {
+          "Name": "intravenous"
+        }
+      ]
+    },
+    {
+      "Name": "N-Ethyl-nor-pentedrone",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "smoked"
+        },
+        {
+          "Name": "inhaled",
+          "Dosage": "1-21mg"
+        },
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "intravenous",
+          "Dosage": "80mg"
+        },
+        {
+          "Name": "sublingual"
+        },
+        {
+          "Name": "buccal"
+        },
+        {
+          "Name": "transdermal"
+        },
+        {
+          "Name": "rectal"
+        }
+      ],
+      "Effects": [
+        "{sev 'intense'} {xeff 'cognitive euphoria'} (intensity depends on general condition)",
+        "{sev 'strong'} {xeff 'focus enhancement'}",
+        "{xeff 'paranoia'}"
+      ]
+    },
+    {
+      "Name": "N-Ethyl-nor-hexedrone"
+    },
+    {
+      "Name": "α-Pyrrolidinobutiophenone",
+      "Routes": [
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Sources": [
+        "α-Pyrrolidinobutyrophenone: Research-chemical-vendor Netherlands (questionable purity and identity; mislabeled bag)"
+      ],
+      "Salts": [
+        "Ascorbate"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}"
+      ]
+    },
+    {
+      "Name": "α-Pyrrolidinopentiophenone",
+      "Routes": [
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Sources": [
+        "α-PVP: Research-chemical-vendor Netherlands (orangeish crystal shards)"
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Effects": [
+        "{xeff 'cognitive euphoria'}",
+        "{xeff 'psychosis'}",
+        "{xeff 'anxiety'}",
+        "{xeff 'panic attack'}"
+      ]
+    },
+    {
+      "Name": "α-Pyrrolidinoisohexanophenone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Onset": "10-15 seconds",
+          "Active": "3-15 minutes"
+        }
+      ],
+      "Salts": [
+        "Citrate"
+      ],
+      "Effects": [
+        "{sev 'intense'} {xeff 'cognitive euphoria'}"
+      ],
+      "After": [
+        "{sev 'intense'} {xeff 'cognitive dysphoria'}",
+        "{sev 'moderate'} {xeff 'suicidal ideation'}"
+      ]
+    },
+    {
+      "Name": "α-Pyrrolidinocyclohexanophenone",
+      "Routes": [
+        {
+          "Name": "Intravenous"
+        }
+      ],
+      "Salts": [
+        "Citrate",
+        "Freebase"
+      ],
+      "Odor": [
+        "Freebase: unpleasant smell of cucumbers and cum"
+      ],
+      "Effects": [
+        "{xeff 'anxiety'}",
+        "{xeff 'depression reduction'}",
+        "{rev} {xeff 'constipation'}"
+      ]
+    },
+    {
+      "Name": "Dimethocaine",
+      "Routes": [
+        {
+          "Name": "intravenous"
+        },
+        {
+          "Name": "insufflated"
+        },
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "inhaled"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{xeff 'mouth numbing'}"
+      ]
+    },
+    {
+      "Name": "Cocaine",
+      "Routes": [
+        {
+          "Name": "insufflated"
+        }
+      ]
+    },
+    {
+      "Name": "Kratom",
+      "Composite": true,
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ]
+    },
+    {
+      "Name": "Tobacco",
+      "Composite": true,
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        }
+      ]
+    },
+    {
+      "Name": "Cannabis",
+      "Composite": true,
+      "Routes": [
+        {
+          "Name": "Vaporized"
+        }
+      ]
+    },
+    {
+      "Name": "Coffea",
+      "Composite": true,
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ]
+    }
+  ],
+  "SubstanceMatrixCellW": "60px",
+  "SubstanceMatrixCellH": "60px"
+}

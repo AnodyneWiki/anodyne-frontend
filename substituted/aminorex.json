@@ -83,6 +83,9 @@
     ],
     "MW": "162.19 g/mol"
   },
-  "Parent": "phenylethanolamine",
+  "Parents": [
+    "phenylethanolamine",
+    "ether"
+  ],
   "Wikipedia": "List of aminorex analogues"
 }

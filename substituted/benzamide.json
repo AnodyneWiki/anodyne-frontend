@@ -32,7 +32,10 @@
       "MW": "299.79 g/mol"
     }
   ],
-  "Parent": "benzylamine",
+  "Parents": [
+    "benzylamine",
+    "ketone"
+  ],
   "Children": [
     "quinazolinone"
   ]

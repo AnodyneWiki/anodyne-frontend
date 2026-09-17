@@ -157,5 +157,8 @@
     "Abr": "DA",
     "MW": "153.18 g/mol"
   },
-  "Parent": "phenethylamine"
+  "Parents": [
+    "phenethylamine",
+    "alcohol"
+  ]
 }

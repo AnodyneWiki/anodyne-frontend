@@ -403,6 +403,20 @@
         "NETP"
       ],
       "MW": "188.27 g/mol"
+    },
+    {
+      "Title": "N-(2-Methoxybenzyl)-5-methoxytryptamine",
+      "Abr": [
+        "5-MeO-T-NBOMe"
+      ],
+      "MW": "310.4 g/mol"
+    },
+    {
+      "Title": "4-Bromo-N,N-dimethyltryptamine",
+      "Abr": [
+        "4-Bromo-DMT"
+      ],
+      "MW": "267.16 g/mol"
     }
   ],
   "Parents": [
@@ -412,11 +426,19 @@
     "α-alkyltryptamine",
     "β-alkyltryptamine",
     "β-carboline",
-    "hexahydroazepinoindole"
+    "hexahydroazepinoindole",
+    "pyrrolidinylethylindole",
+    "piperidinylethylindole",
+    "morpholinylethylindole"
+  ],
+  "Analogues": [
+    "isotryptamine"
   ],
   "First": {
     "Title": "Tryptamine",
-    "Abr": [],
+    "Abr": [
+
+    ],
     "MW": "160.22 g/mol"
   }
 }

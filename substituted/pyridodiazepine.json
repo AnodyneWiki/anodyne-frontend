@@ -12,7 +12,10 @@
       "MW": "322.1 g/mol"
     }
   ],
-  "Parent": "pyridine",
+  "Parents": [
+    "amine",
+    "pyridine"
+  ],
   "Analogues": [
     "thienodiazepine",
     "benzodiazepine"

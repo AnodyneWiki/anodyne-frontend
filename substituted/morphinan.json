@@ -99,6 +99,16 @@
       "Title": "Codeine-6-glucuronide",
       "Abr": "",
       "MW": "475.5 g/mol"
+    },
+    {
+      "Title": "N-Phenethylnoroxymorphone",
+      "Abr": [
+        "PHM"
+      ],
+      "MW": "391.5 g/mol"
     }
+  ],
+  "Parents": [
+    "amphetamine"
   ]
 }

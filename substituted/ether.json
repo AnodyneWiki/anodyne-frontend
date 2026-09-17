@@ -1,0 +1,96 @@
+{
+  "Name": "ether",
+  "Entries": [
+    {
+      "Title": "Diethyl ether",
+      "Abr": [
+        "Ether"
+      ],
+      "MW": "74.12 g/mol"
+    },
+    {
+      "Title": "Methyl propyl ether",
+      "Abr": null,
+      "MW": "74.12 g/mol"
+    },
+    {
+      "Title": "Isoflurane",
+      "Abr": null,
+      "MW": "184.49 g/mol"
+    },
+    {
+      "Title": "Sevoflurane",
+      "Abr": [
+        "sevo"
+      ],
+      "MW": "200.05 g/mol"
+    },
+    {
+      "Title": "Desflurane",
+      "Abr": null,
+      "MW": "168.04 g/mol"
+    },
+    {
+      "Title": "Methoxyflurane",
+      "Abr": null,
+      "MW": "164.96 g/mol"
+    },
+    {
+      "Title": "Enflurane",
+      "Abr": null,
+      "MW": "184.49 g/mol"
+    },
+    {
+      "Title": "Flurothyl",
+      "Abr": null,
+      "MW": "182.06 g/mol"
+    },
+    {
+      "Title": "Fluroxene",
+      "Abr": null,
+      "MW": "126.08 g/mol"
+    },
+    {
+      "Title": "Divinyl ether",
+      "Abr": null,
+      "MW": "70.09 g/mol"
+    },
+    {
+      "Title": "Aliflurane",
+      "Abr": null,
+      "MW": "178.51 g/mol"
+    },
+    {
+      "Title": "Roflurane",
+      "Abr": null,
+      "MW": "192.96 g/mol"
+    },
+    {
+      "Title": "Isoflurothyl",
+      "Abr": null,
+      "MW": "182.06 g/mol"
+    },
+    {
+      "Title": "Methyl ethyl ether",
+      "Abr": null,
+      "MW": "60.10 g/mol"
+    },
+    {
+      "Title": "Ethylene oxide",
+      "Abr": [
+        "EO"
+      ],
+      "MW": "44.05 g/mol"
+    }
+  ],
+  "Children": [
+    "morpholine",
+    "2,5-dimethoxyphenethylamine",
+    "3,5-dimethoxyphenethylamine",
+    "alkyl nitrite"
+  ],
+  "Analogues": [
+    "thioether"
+  ],
+  "Wikipedia": "Ether"
+}

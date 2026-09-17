@@ -1,8 +1,8 @@
 {
   "Name": "Administration",
   "Entries": [
-    { "Title": "Subcutaneous", "Abr": "SC"},
-    { "Title": "Intramuscular", "Abr": "IM"},
-    { "Title": "Intravenous", "Abr": "IV"}
+    { "Title": "Subcutaneous", "Abr": "SC" },
+    { "Title": "Intramuscular", "Abr": "IM" },
+    { "Title": "Intravenous", "Abr": "IV" }
   ]
 }

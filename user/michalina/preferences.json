@@ -95,8 +95,8 @@
     {
       "Name": "N-Ethyl-nor-pentedrone",
       "Effects": [
-        "heavy stimulation",
-        "serotonin syndrome"
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{xeff 'serotonin syndrome'}"
       ]
     },
     {
@@ -106,7 +106,7 @@
       ],
       "Effects": [
         "most heavy stimulation from all stimulants I've been tooked",
-        "psychosis",
+        "{xeff 'psychosis'}",
         "serotonin syndrome",
         "paranoia",
         "ExDS",

@@ -44,5 +44,9 @@
   },
   "Analogues": [
     "barbiturate"
+  ],
+  "Parents": [
+    "amine",
+    "ketone"
   ]
 }

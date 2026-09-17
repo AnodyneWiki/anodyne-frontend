@@ -200,8 +200,7 @@ h1, h2, h3 {
 	text-decoration-color: #81f7f3;
 }
 .light {
-	text-decoration: underline;
-	text-decoration-color: #90ee90
+	border-bottom: 1px solid #90ee90;
 }
 span.reverse {
 	text-decoration: underline;
@@ -216,8 +215,7 @@ span.severity-common {
 	text-decoration-color: #ffff00;
 }
 .common {
-	text-decoration: underline;
-	text-decoration-color: #ffff00;
+	border-bottom: 2px solid #ffff00;
 }
 span.severity-moderate {
 	text-decoration: underline;
@@ -228,18 +226,17 @@ span.severity-strong {
 	text-decoration-color: #ff0000;
 }
 .strong {
-	text-decoration: underline;
-	text-decoration-color: #ff0000;
+	border-bottom: 2px solid #ff0000;
 }
 .heavy {
-	border-bottom: 2px solid #ff00ff
+	border-bottom: 2px solid #ff00ff;
 }
 span.severity-heavy {
 	text-decoration: underline;
 	text-decoration-color: #ff00ff;
 }
 .extreme {
-	border-bottom: 2px solid #ff00ff
+	border-bottom: 2px solid #ff00ff;
 }
 span.severity-extreme {
 	text-decoration: underline;

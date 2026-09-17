@@ -1,0 +1,74 @@
+{
+  "Name": "amine",
+  "Entries": [
+    {
+      "Title": "Ammonia",
+      "Abr": null,
+      "MW": "17.031 g/mol"
+    },
+    {
+      "Title": "Methylhexanamine",
+      "Abr": [
+        "1,3-DMAA"
+      ],
+      "MW": "115.22 g/mol"
+    },
+    {
+      "Title": "Tuaminoheptane",
+      "Abr": null,
+      "MW": "115.22 g/mol"
+    },
+    {
+      "Title": "Isometheptene",
+      "Abr": null,
+      "MW": "141.25 g/mol"
+    },
+    {
+      "Title": "1,4-Dimethylamylamine",
+      "Abr": [
+        "1,4-DMAA"
+      ],
+      "MW": "115.22 g/mol"
+    },
+    {
+      "Title": "Heptaminol",
+      "Abr": null,
+      "MW": "145.24 g/mol"
+    },
+    {
+      "Title": "Iproheptine",
+      "Abr": null,
+      "MW": "171.32 g/mol"
+    },
+    {
+      "Title": "Octodrine",
+      "Abr": null,
+      "MW": "129.24 g/mol"
+    },
+    {
+      "Title": "Oenethyl",
+      "Abr": null,
+      "MW": "129.24 g/mol"
+    },
+    {
+      "Title": "Isobutylamine",
+      "Abr": null,
+      "MW": "73.14 g/mol"
+    }
+  ],
+  "Children": [
+    "amino acid",
+    "arylalkylamine",
+    "annulenylalkylamine",
+    "cycloalkylamine",
+    "barbiturate",
+    "thiobarbiturate",
+    "piperazine",
+    "piperidine",
+    "morpholine",
+    "thienodiazepine",
+    "pyridodiazepine",
+    "tropane",
+    "aniline"
+  ]
+}

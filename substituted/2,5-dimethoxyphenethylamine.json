@@ -176,7 +176,10 @@
       "MW": "274.23 g/mol"
     }
   ],
-  "Parent": "phenethylamine",
+  "Parents": [
+    "phenethylamine",
+    "ether"
+  ],
   "Children": [
     "2,5-dimethoxyamphetamine"
   ],

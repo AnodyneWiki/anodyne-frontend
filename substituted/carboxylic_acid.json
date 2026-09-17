@@ -130,6 +130,11 @@
     }
   ],
   "Children": [
-    "amino acid"
+    "amino acid",
+    "phenidate"
+  ],
+  "Parents": [
+    "ketone",
+    "alcohol"
   ]
 }

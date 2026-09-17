@@ -26,9 +26,15 @@ Information we provide should not be used as sole reference for recreational dru
 
 We do not take any responsibility for medical complications or loss of life sustained doing so.
 
-During the ~17 month life-span of this project, 2 of our collaborators have tragically passed away.
+During the life-span of this project, several of our collaborators and dear friends have tragically passed away.
 
 We hope to make a positive impact on the safety of our users but the responsibility for your safety is still yours.
+
+<div>Rest In Peace:
+<ul>
+<li>{{template "lu" "magnus"}} (September 2025 - {{template "lsu" "desmetramadol"}} overdose)</li>
+{{/*<li>kayrite (May 2026 - suicide)</li>*/}}
+</ul></div>
 </div>
 </div>
 
@@ -68,6 +74,7 @@ We hope to make a positive impact on the safety of our users but the responsibil
     <ul style="margin-left: 1.0em;">
         <div class=collapserContent>
             <li><a href=/user/0xea>0xea</a> (developer; creator)</li>{{/* [sech1p](/user/sech1p)*/}}
+            <li><a href=/user/a1ko>a1ko</a></li>
             <li><a href=/user/magnus>magnus</a> †</li>
             <li><a href=/user/pilz>pilz</a></li>
             <li><a href=/user/emily>emily</a></li>

@@ -54,5 +54,10 @@
   ],
   "Children": [
     "cyclopyrrolone"
-  ]
+  ],
+  "Parents": [
+    "amine",
+    "ketone"
+  ],
+  "Wikipedia": "Racetam"
 }

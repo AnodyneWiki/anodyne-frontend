@@ -7,11 +7,11 @@
       "MW": "86.14 g/mol"
     },
     {
-      "Title": "Bucinnazine",
+      "Title": "Sildenafil",
       "Abr": [
-        "AP-237"
+        "Viagra"
       ],
-      "MW": "272.4 g/mol"
+      "MW": "474.6 g/mol"
     }
   ],
   "Children": [
@@ -20,11 +20,13 @@
     "2-benzylpiperazine",
     "1-cinnamylpiperazine"
   ],
+  "Parents": [
+    "amine"
+  ],
   "Analogues": [
     "pyrrolidine",
     "pyridine",
     "piperidine",
-    "tetrahydropyridine",
     "morpholine"
   ]
 }

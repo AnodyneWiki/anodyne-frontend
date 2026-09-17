@@ -1,17 +1,17 @@
-{
+{ 
   "Title": "0xea",
   "Name": [
     "Xea",
     "Christie"
   ],
-  "About": "{p}Hyia~!,{Ep}{p}I am the creator of AnodyneWiki.{Ep}{p}I spend a year moderating PsychonautWiki before a falling out with the rest of the moderation team.{Ep}{p}Feel free to chat me up! <3{Ep}",
+  "About": "{p}Hyia~!,{Ep}{p}I am the creator of AnodyneWiki.{Ep}{p}I spend a year moderating PsychonautWiki before a falling out with the rest of the moderation team.{Ep}{p}{user 'a1ko'} is my beloved wife.{Ep}{p}Feel free to chat me up! <3{Ep}",
   "Birth": "2005-02",
   "Location": "Germany",
   "Weight": [ "2026: 74kg" ],
   "Links": [
     {
       "Name": "Email",
-      "Url": "0xea@paranoici.org"
+      "Url": "im_0xea@proton.me"
     },
     {
       "Name": "GPG",
@@ -61,10 +61,11 @@
       "{wkp 'autism spectrum disorder' 'autism'} (diagnosed)",
       "{wkp 'transsexual'} ({wkp 'Trans woman' 'male to female'} since May 2023; injecting {sub 'estradiol'} esters weekly)",
       "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'})",
+      "prior phases of intense fear of {wkp 'Abandonment (emotional)' 'abandonment'} mitigated via heavy intravenous substance-use.",
       "{wkp 'self-destructive behaviour'} (self-punshing, head-banging, cutting, injecting, intentional overdose)",
       "reaccuring {xeff 'suicidal ideation'} (since ~2018)",
-      "{roa 'intravenous'} {class 'stimulant' 'stimulant'} {wkp 'addiction'} (since februrary 2024; longest perioid of abstinence 113 days; periods of {xeff 'wakefulness'} up to 6+ days, psychological breakdown and severe episodes of {wkp 'stimulant psychosis'})",
-      "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'})"
+      "{roa 'intravenous'} {wkp 'stimulant use disorder'} (since februrary 2024; longest period of abstinence 113 days; periods of {xeff 'wakefulness'} up to +7 days, psychological breakdown and severe episodes of {wkp 'stimulant psychosis'})",
+      "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'reduplicative paramnesia'}, {wkp 'delusional parasitosis'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'}, {wkp 'gang stalking'}, {wkp 'truman show delusion'}, {wkp 'messiah complex'}, {wkp 'reduplicative paramnesia'}, {wkp 'pathological jealousy'}, {wkp 'scrupulosity'}, {wkp 'erotomania'}, {wkp 'reincarnation'})"
     ]
   },
   "RoutesOfAdministration": [
@@ -78,101 +79,106 @@
         "5ml luer-lock syringe with butterfly needle",
         "10ml luer-lock syringe with butterfly needle",
         "5ml luer-lock syringe",
-        "0.3ml insulin syringe"
+        "0.3ml insulin syringe",
+        "injector pen (needs to find vein entirely by feel)"
       ],
       "Sites": [
-        "{wkp 'Cephalic vein'}",
-        "{wkp 'Median cubital vein'}",
-        "{wkp 'Femoral vein'}",
-        "{wkp 'Dorsal metacarpal vein'}",
-        "{wkp 'Small saphenous vein'}",
-        "{wkp 'Dorsal venous arch'}",
-        "{wkp 'Great saphenous vein'}"
+        "{wkp 'median cubital vein'}",
+        "{wkp 'cephalic vein'}",
+        "{wkp 'dorsal metacarpal vein'}",
+        "{wkp 'femoral vein'}",
+        "{wkp 'small saphenous vein'}",
+        "{wkp 'dorsal venous arch'}",
+        "{wkp 'great saphenous vein'}"
       ]
     },
     {
       "Name": "Inhaled",
       "Paraphernalia": [
-        "{wkp 'Metered-dose Inhaler'}",
-        "Balloon",
-        "Vaporizer",
-        "{wkp 'Drug pipe#Methamphetamine pipe' 'Base pipe'}",
-        "{wkp 'Chasing the dragon' 'Foily'}",
-        "Straight \"Crack\" pipe",
-        "Volatile fumes",
-        "{wkp 'Smoking' 'Combusted'}"
+        "{wkp 'metered-dose Inhaler'}",
+        "balloon",
+        "vaporizer",
+        "{wkp 'drug pipe#Methamphetamine pipe' 'base pipe'}",
+        "{wkp 'chasing the dragon' 'foily'}",
+        "straight \"crack\" pipe",
+        "volatile fumes",
+        "{wkp 'smoking' 'combusted'}"
       ],
       "Sites": [
-        "{wkp 'Lung'}"
+        "{wkp 'lung'}"
       ]
     },
     {
       "Name": "Subcutaneous",
       "Paraphernalia": [
-        "{wkp 'Injector pen'}",
-        "0.3ml syringe",
+        "{wkp 'injector pen'}",
+        "1ml insulin syringe",
+        "0.3ml insulin syringe",
         "1ml syringe"
       ],
       "Sites": [
-        "Stomach",
-        "Thigh",
-        "Upper arm"
+        "stomach",
+        "thigh",
+        "upper arm"
       ]
     },
     {
       "Name": "Intrarectal",
       "Paraphernalia": [
         "1ml syringe",
-        "{wkp 'Suppository'}"
+        "5ml syringe",
+        "1ml insulin syringe (with the needle carefully broken off and remaining stump ground down)",
+        "{wkp 'suppository'}"
       ],
       "Sites": [
-        "Rectum"
+        "rectum"
       ]
     },
     {
       "Name": "Intramuscular",
       "Paraphernalia": [
         "1ml syringe",
-        "{wkp 'Injector pen'}"
+        "{wkp 'injector pen'} (using needles with cut down spacer, giving the needle a more appropriate length)",
+        "1ml insulin syringe"
       ],
       "Sites": [
-        "{wkp 'Deltoid muscle'}",
-        "{wkp 'Vastus lateralis muscle'}",
-        "{wkp 'Vastus intermedius muscle'}"
+        "{wkp 'deltoid muscle'}",
+        "{wkp 'vastus lateralis muscle'}",
+        "{wkp 'vastus intermedius muscle'}"
       ]
     },
     {
       "Name": "Intranasal",
       "Paraphernalia": [
-        "Mirror-plate, razor-blade/credit-card and tube",
-        "Syringe adapter atomizer",
-        "{wkp 'Nasal spray'}"
+        "mirror-plate, tube and a razor-blade or clean credit-card.",
+        "intranasal atomizer attached to syringe.",
+        "{wkp 'nasal spray'}"
       ],
       "Sites": [
-        "{wkp 'Nostril'}"
+        "{wkp 'nostril'}"
       ]
     },
     {
       "Name": "Transdermal",
       "Paraphernalia": [
-        "{wkp 'Dermal patch'}",
-        "{wkp 'Topical medication#Gel' 'Gel'}"
+        "{wkp 'dermal patch'}",
+        "{wkp 'topical medication#Gel' 'gel'}"
       ],
       "Sites": [
-        "Upper arm",
-        "Stomach"
+        "upper arm",
+        "stomach"
       ]
     },
     {
       "Name": "Oral",
       "Paraphernalia": [
-        "{wkp 'Capsule (pharmacy)' 'Capsule'}",
-        "Solution",
-        "{wkp 'Tablet (pharmacy)' 'Tablet'}",
-        "Powder"
+        "{wkp 'capsule (pharmacy)' 'capsule'}",
+        "solution",
+        "{wkp 'tablet (pharmacy)' 'tablet'}",
+        "powder"
       ],
       "Sites": [
-        "Mouth"
+        "mouth"
       ]
     }
   ],
@@ -261,9 +267,7 @@
         "{xeff 'transformations'}",
         "{xeff 'geometry'}",
         "{xeff 'autonomous entity'}",
-        "{xeff 'addiction suppression'} (helps discontinue nicotine/stimulant addiction)"
-      ],
-      "Adverse": [
+        "{xeff 'addiction suppression'} (helps discontinue nicotine/stimulant addiction)",
         "{xeff 'brain zaps'}",
         "{xeff 'nausea'}",
         "{xeff 'nausea?s=vomiting' 'vomiting'}"
@@ -307,9 +311,7 @@
         "{sev 'moderate'} {xeff 'thought loops'}",
         "{sev 'strong'} {xeff 'focus suppression'}",
         "{sev 'strong'} {xeff 'thought disorganization'} (especially at the tail end)",
-        "increased abstraction"
-      ],
-      "Adverse": [
+        "increased abstraction",
         "{xeff 'delirium'}",
         "{xeff 'confusion'}"
       ],
@@ -343,9 +345,7 @@
         "{xeff 'increased music appreciation'}",
         "{xeff 'teeth grinding'}",
         "{xeff 'vasoconstriction'}",
-        "{xeff 'dry mouth'}"
-      ],
-      "Adverse": [
+        "{xeff 'dry mouth'}",
         "{xeff 'thought disorganization'} (at tail end)",
         "{xeff 'physical fatigue'}",
         "{xeff 'delusion'} ({wkp 'fregoli delusion'})"
@@ -423,6 +423,7 @@
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{sev 'moderate'} {xeff 'focus enhancement'}",
+        "{sev 'strong'} {xeff 'increased music appreciation'}",
         "{sev 'moderate'} {xeff 'motivation enhancement'}",
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
         "{sev 'strong'} {xeff 'wakefulness'} (up to 5+ days)",
@@ -430,11 +431,9 @@
         "{sev 'strong'} {xeff 'vasoconstriction'}",
         "{sev 'moderate'} {xeff 'depression reduction'}",
         "{sev 'moderate'} {xeff 'appetite suppression'} and thirst suppression",
-        "acute relief of {xeff 'constipation'}",
+        "{rev} {xeff 'constipation'}",
         "{sev 'strong'} {xeff 'headache'} suppression",
-        "{xeff 'addiction suppression'} (helps discontinue {sub 'nicotine'} and {sub 'diacetylmorphine'} addiction at the cost of amphetamine addiction)"
-      ],
-      "Adverse": [
+        "{xeff 'addiction suppression'} (helps discontinue {sub 'nicotine'} and {sub 'diacetylmorphine'} addiction at the cost of amphetamine addiction)",
         "{sev 'strong'} {wkp 'addiction'} (+44g consumed; compulsive drug seeking on the street)",
         "{xeff 'psychosis'}",
         "{xeff 'delusion'} ({wkp 'delusions of reference'})",
@@ -492,9 +491,8 @@
         "clean {sev 'strong'} {xeff 'cognitive euphoria'}",
         "{sev 'strong'} {xeff 'focus enhancement'}",
         "{sev 'light'} {xeff 'vasoconstriction'}",
-        "{sev 'strong'} {xeff 'compulsive redosing'}"
-      ],
-      "Adverse": [
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{xeff 'paranoia'}",
         "{xeff 'delusion'} (paranoid, shadow police)"
       ]
     },
@@ -526,7 +524,7 @@
         },
         {
           "Name": "Intravenous",
-          "Dosage": "10-60mg",
+          "Dosage": "10-110mg",
           "Onset": "10-15 seconds",
           "Duration": "1-8 hours"
         },
@@ -538,7 +536,6 @@
         "Hydrochloride"
       ],
       "Sources": [
-        "Crystal Meth (Ephedrine): DNM Germany",
         "Crystal Meth: Goerlitzer park"
       ],
       "Indication": [
@@ -556,14 +553,30 @@
         "{sev 'intense'} {xeff 'focus enhancement'} (often resulting in a state of day long hyper-focus which may or may not be counter-productive)",
         "{sev 'strong'} {xeff 'wakefulness'} (up to 6+ days)",
         "{sev 'strong'} {xeff 'motivation enhancement'}",
+        "{sev 'strong'} {xeff 'increased music appreciation'}",
         "{sev 'strong'} {xeff 'stamina enhancement'}",
         "{sev 'strong'} {xeff 'dry mouth'}",
         "{xeff 'appetite suppression'} (often resulting in malnutrition long-term)",
         "thirst suppression",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{xeff 'increased libido'}",
-        "acute relief of constipation",
-        "{sev 'strong'} {xeff 'headache'} suppression"
+        "{rev} {xeff 'constipation'}",
+        "{sev 'strong'} {xeff 'headache'} suppression",
+        "{xeff 'suicidal ideation'} (sliced right-cephalic vein wide open with scalpel, registered {sub 'phenol'} syringe inside vein)",
+        "{xeff 'paranoia'}",
+        "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
+        "{xeff 'headache'}",
+        "{xeff 'psychosis'}",
+        "{xeff 'unspeakable horrors'}",
+        "{xeff 'shadow people'} (friendly shadow person doing code-review)",
+        "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)",
+        "{xeff 'autonomous entity'} (hallucination of a man sitting in a chair next to me taunting me; pieces of dust manifesting as hallucinations of spider like creatures)",
+        "{wkp 'photopsia'} (lights shine through my courtains)",
+        "rain coming from the sealing",
+        "{xeff 'auditory hallucination'} (phantom music playing as if I were wearing headphones)",
+        "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me; nurses at hospital making fun of me)",
+        "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'}, paranoid)",
+        "{xeff 'personal meaning enhancement'}"
       ],
       "DEffects": [
         {
@@ -574,25 +587,11 @@
           ]
         }
       ],
-      "Adverse": [
-        "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
-        "{xeff 'headache'}",
-        "{xeff 'psychosis'}",
-        "{xeff 'unspeakable horrors'}",
-        "{xeff 'shadow people'} (friendly shadow person doing code-review)",
-        "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)",
-        "{xeff 'autonomous entity'} (hallucination of a man sitting in a chair next to me taunting me; pieces of dust manifesting as hallucinations of spider like creatures)",
-        "lights shine through my courtains",
-        "rain coming from the sealing",
-        "{xeff 'auditory hallucination'} (phantom music playing as if I were wearing headphones)",
-        "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me)",
-        "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'})"
-      ],
       "After": [
-        "{xeff 'wakefulness'} (for another 24 hours)",
-        "{xeff 'feelings of impending doom'} (for 1-5 days)",
-        "{xeff 'panic attack'} (for 1-5 days)",
-        "{xeff 'depression'}",
+        "{xeff 'feelings of impending doom'} (for 3-6 days)",
+        "{sev 'intense'} {xeff 'anxiety'} (for 3-6 days)",
+        "{xeff 'panic attack'} (for 3-6 days)",
+        "{xeff 'depression'} (for 1-4 weeks)",
         "{xeff 'motivation suppression'} (for 1-2 weeks)"
       ]
     },
@@ -648,37 +647,103 @@
       ],
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
-        "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
         "{sev 'intense'} {xeff 'focus enhancement'} (often resulting in a state of day long hyper-focus which may or may not be counter-productive)",
         "{sev 'strong'} {xeff 'wakefulness'} (up to 6+ days)",
         "{sev 'strong'} {xeff 'motivation enhancement'}",
         "{sev 'strong'} {xeff 'stamina enhancement'}",
         "{sev 'strong'} {xeff 'dry mouth'}",
-        "{sev 'intense'} {xeff 'appetite suppression'} and thirst suppression",
+        "{xeff 'appetite suppression'} (often resulting in malnutrition long-term)",
+        "thirst suppression",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{xeff 'increased libido'}",
-        "without tolerance {sev 'strong'} {xeff 'depression reduction'}",
-        "acute relief of constipation"
-      ],
-      "Adverse": [
+        "{rev} {xeff 'constipation'}",
+        "{sev 'strong'} {xeff 'headache'} suppression",
+        "{xeff 'suicidal ideation'} (sliced right-cephalic vein wide open with scalpel, registered {sub 'phenol'} syringe inside vein)",
+        "{xeff 'paranoia'}",
         "{sev 'strong'} {wkp 'addiction'} (+10g consumed; compulsive drug seeking on the street; psychological breakdown; intense mental dulling and tolerance)",
         "{xeff 'headache'}",
         "{xeff 'psychosis'}",
         "{xeff 'unspeakable horrors'}",
-        "{xeff 'shadow people'}",
+        "{xeff 'shadow people'} (friendly shadow person doing code-review)",
         "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)",
         "{xeff 'autonomous entity'} (hallucination of a man sitting in a chair next to me taunting me; pieces of dust manifesting as hallucinations of spider like creatures)",
-        "lights shine through my courtains",
+        "{wkp 'photopsia'} (lights shine through my courtains)",
         "rain coming from the sealing",
         "{xeff 'auditory hallucination'} (phantom music playing as if I were wearing headphones)",
-        "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me)",
-        "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'})"
+        "{xeff 'autonomous voice communication'} (voices of my mother and father screaming at each other for hours about my drug habit; mocking and laughter; police officer screaming in stair-way all night; police radio chatter blaring through the street spelling my name; hallucinations of my partner making fun of me to her friends and threatening to seriously hurt me; nurses at hospital making fun of me)",
+        "{xeff 'delusion'} ({wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'}, paranoid)",
+        "{xeff 'personal meaning enhancement'}"
       ],
       "After": [
-        "{xeff 'feelings of impending doom'} (for 1-5 days)",
-        "{xeff 'panic attack'} (for 1-5 days)",
-        "{xeff 'depression'}",
+        "{xeff 'feelings of impending doom'} (for 3-6 days)",
+        "{sev 'intense'} {xeff 'anxiety'} (for 3-6 days)",
+        "{xeff 'panic attack'} (for 3-6 days)",
+        "{xeff 'depression'} (for 1-4 weeks)",
         "{xeff 'motivation suppression'} (for 1-2 weeks)"
+      ]
+    },
+    {
+      "Name": "4-Phenylmethamphetamine",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "45-170mg",
+          "Onset": "10-30 seconds"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride?"
+      ],
+      "Sources": [
+        "BPMA: Research-chemical-vendor Netherlands"
+      ],
+      "Indication": [
+        "{xeff 'motivation suppression'} (executive dysfunction)",
+        "{xeff 'depression'}",
+        "{xeff 'sleepiness'}",
+        "{xeff 'cognitive dysphoria'}"
+      ],
+      "Effects": [
+        "{xeff 'stimulation'}",
+        "{xeff 'focus enhancement'}",
+        "{xeff 'motivation enhancement'}",
+        "{xeff 'stamina enhancement'}",
+        "{xeff 'appetite suppression'}",
+        "{rev} {xeff 'constipation'}",
+        "{sev 'moderate'} {xeff 'teeth grinding'}",
+        "{xeff 'headache'} suppression",
+        "endocrine disruptor effects possibly caused {wkp 'lactation'}"
+      ],
+      "DEffects": [
+        {
+          "Dosage": "170mg",
+          "Route": "intravenous",
+          "Effects": [
+            "{xeff 'sleepiness'} (loss of conciousness)"
+          ]
+        }
+      ],
+      "Notes": [
+         "requires gentle heating to fully dissolve (regardless of acidic conditions)"
+      ]
+    },
+    {
+      "Name": "3-Fluoroamphetamine",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "100-120mg"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride?"
+      ],
+      "Sources": [ "3-FA: Research-chemical-vendor Netherlands" ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'jaw clenching'}",
+        "{sev 'moderate'} {xeff 'visual acuity suppression'}",
+        "{xeff 'psychosis'}"
       ]
     },
     {
@@ -694,7 +759,7 @@
         }
       ],
       "Salts": [
-        "Hydrochloride"
+        "Hydrochloride?"
       ],
       "Sources": [ "3-FEA: Research-chemical-vendor Netherlands" ],
       "Notes": [
@@ -714,7 +779,7 @@
         }
       ],
       "Salts": [
-        "Hydrochloride"
+        "Hydrochloride?"
       ],
       "Effects": [
         "{sev 'light'} {xeff 'stimulation'}"
@@ -750,9 +815,7 @@
       ],
       "Indication": "nasal congestion",
       "Effects": [
-        "{sev 'light'} {xeff 'stimulation'}"
-      ],
-      "Adverse": [
+        "{sev 'light'} {xeff 'stimulation'}",
         "{xeff 'anxiety'} (above 100mg)",
         "{xeff 'panic attack'} (above 100mg)"
       ],
@@ -764,17 +827,15 @@
       "Name": "5-Methoxy-2-aminoindane",
       "Routes": [
         {
-          "Name": "Intravenous"
+          "Name": "Intravenous",
+          "Dosage": "45mg"
         }
       ],
       "Salts": [
-        "Hydrochloride"
+        "Hydrochloride?"
       ],
       "Sources": [
         "MEAI: Research-chemical-vendor Netherlands"
-      ],
-      "Notes": [
-        "consumption mixed with other substances during anxiety episode. unable to seperate effects."
       ]
     },
     {
@@ -885,9 +946,7 @@
         "{sev 'strong'} {xeff 'stimulation'}",
         "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
         "{sev 'intense'} {xeff 'compulsive redosing'}",
-        "{xeff 'memory suppression'}"
-      ],
-      "Adverse": [
+        "{xeff 'memory suppression'}",
         "{sev 'light'} {wkp 'addiction'} (10g consumed)",
         " {xeff 'dream potentiation'} (disturbing vivid dreams)",
         "{xeff 'psychosis'}",
@@ -965,7 +1024,7 @@
       "Routes": [
         {
           "Name": "Intravenous",
-          "Dosage": "21mg"
+          "Dosage": "21-150mg"
         }
       ],
       "Salts": [
@@ -975,6 +1034,9 @@
         "3-CMC: Research-chemical-vendor Netherland"
       ],
       "Effects": [
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{sev 'moderate'} {xeff 'depression reduction'}",
+        "{xeff 'increased libido'}"
       ]
     },
     {
@@ -1095,10 +1157,20 @@
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'increased libido'}",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
-        "{sev 'intense'} {xeff 'depression reduction'}"
+        "{sev 'intense'} {xeff 'depression reduction'}",
+        "{xeff 'sleepiness'}"
+      ],
+      "DEffects": [
+        {
+          "Route": "Intravenous",
+          "Effects": [
+            "rush adds metalic distortions and extra depth to music"
+          ]
+        }
       ],
       "After": [
-        "{sev 'strong'} {xeff 'depression'}"
+        "{sev 'strong'} {xeff 'depression'}",
+        "{sev 'strong'} {xeff 'suicidal ideation'}"
       ],
       "Odor": [
         "hydrochloride cat piss. likely through contamination not the substance itself."
@@ -1123,11 +1195,16 @@
       "Salts": [
         "Hydrochloride"
       ],
-      "Effects": [
-        "more {xeff 'sedation'} than stimulation"
+      "DEffects": [
+        {
+          "condition": "stimulant tolerance",
+          "effects": [
+            "more {xeff 'sedation'} than stimulation",
+            "barely active (presumably tested with stimulant tolerance)"
+          ]
+        }
       ],
       "Notes": [
-        "barely active (presumably tested with stimulant tolerance)"
       ]
     },
     {
@@ -1147,6 +1224,9 @@
       "Salts": [
         "Hydrochloride"
       ],
+      "Sources": [
+        "4-MPD: Research-chemical-vendor Netherlands"
+      ],
       "Effects": [
         "{sev 'moderate'} {xeff 'empathy affection and sociability enhancement'}",
         "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
@@ -1159,8 +1239,17 @@
         "{sev 'intense'} {xeff 'depression reduction'}",
         "{sev 'intense'} {xeff 'increased libido'}",
         "{sev 'intense'} {xeff 'increased libido'}",
-        "acute relief of {xeff 'constipation'}",
-        "presumably related to sporatic system-concentrations due to IV use: {xeff 'disorganized thinking'}"
+        "{rev} {xeff 'constipation'}",
+        "{xeff 'muscle tension'}",
+        "{xeff 'vasoconstriction'}",
+        "{xeff 'physical fatigue'}",
+        "{xeff 'respiratory depression'}",
+        "presumably related to sporatic system-concentrations due to IV use: {xeff 'disorganized thinking'}",
+        "{xeff 'psychosis'}",
+        "{sev 'strong'} {xeff 'mouth numbing'}",
+        "numbing of sensations on the right side of my body",
+        "{xeff 'respiratory depression'} (leading to an ER visit)",
+        "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and human beings comically speed up)"
       ],
       "DEffects": [
         {
@@ -1197,11 +1286,10 @@
       "Tolerance": [
         "typically breaks through {sev 'strong'} {class 'stimulant'}-tolerance"
       ],
-      "Adverse": [
-        "{xeff 'psychosis'}"
-      ],
       "After": [
-        "{sev 'intense'} {xeff 'depression'}"
+        "{sev 'intense'} {xeff 'depression'}",
+        "{sev 'strong'} {xeff 'suicidal ideation'}",
+        "{sev 'strong'} pain sensitization"
       ],
       "Notes": [
         "highly potent presumably more useful when struggling with heavy stimulant tolerance",
@@ -1247,12 +1335,20 @@
         },
         {
           "Name": "Intravenous",
-          "Dosage": "10-50mg",
+          "Dosage": "10-120mg",
+          "Onset": "5-15 seconds",
+          "Comeup": "~1 minute",
           "Duration": "1-3 hours"
         },
         {
+          "Name": "Intramuscular",
+          "Dosage": "40mg",
+          "Onset": "~30-60 seconds"
+        },
+        {
           "Name": "Intrarectal",
-          "Dosage": "10mg"
+          "Dosage": "10mg",
+          "Onset": "~30 seconds"
         },
         {
           "Name": "Oral",
@@ -1267,16 +1363,37 @@
         "{sev 'moderate'} {xeff 'increased libido'}",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{sev 'intense'} {xeff 'depression reduction'}",
-        "{sev 'moderate'} {xeff 'thought dirorganization'}",
+        "{xeff 'suicidal ideation'}",
+        "{sev 'moderate'} {xeff 'thought disorganization'}",
+        "{sev 'strong'} {xeff 'increased heart rate'}",
+        "{sev 'moderate'} {xeff 'increased blood pressure'}",
         "relief of {xeff 'constipation'}",
         "{xeff 'psychosis'}",
-        "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)"
+        "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)",
+        "disrupts neurotransmitter synthesis with repeated high dosage use leading to neurotransmitter depletion (incase this compound suddenly stops having any rewarding effects, under no circumstances start escalating dosages instead make sure you are well nurished, don't have a {sub 'pyridoxine' 'vitamin-b6'} deficiency)"
       ],
       "DEffects": [
         {
           "Route": "Intravenous",
           "Effects": [
             "feels like being trampeled on the floor by my {sub 'dopamine'}"
+          ]
+        }
+      ],
+      "DEffects": [
+        {
+          "Dosage": "+500mg incremental",
+          "Effects": [
+            "{xeff 'increased bodily temperature'}",
+            "{wkp 'acidosis'} (risking {wkp 'kidney failure'} and {wkp 'rhabdomyolysis'}) take {sub 'bicarbonate'} to raise bodily pH and aid breaking down compound)"
+          ]
+        },
+        {
+          "Condition": "combined with a serotonin releasing drug",
+          "Effects": [
+            "{xeff 'serotonin syndrome'}",
+            "{xeff 'suicidal ideation'}",
+            "{xeff 'increased bodily temperature'}"
           ]
         }
       ],
@@ -1294,6 +1411,10 @@
         {
           "Name": "Intravenous",
           "Dosage": "10mg"
+        },
+        {
+          "Name": "Intramuscular",
+          "Dosage": "40mg"
         }
       ],
       "Salts": [
@@ -1302,6 +1423,146 @@
       "Effects": [
         "{sev 'light'} {xeff 'cognitive euphoria'}",
         "{xeff 'increased bodily temperature'}"
+      ]
+    },
+    {
+      "Name": "α-Pyrrolidinobutiophenone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "5-100mg"
+        }
+      ],
+      "Salts": [
+        "Citrate"
+      ],
+      "Sources": [
+        "α-Pyrrolidinobutyrophenone: Research-chemical-vendor Netherlands (questionable purity and identity; mislabeled bag)"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'anxiety'}"
+      ]
+    },
+    {
+      "Name": "α-Pyrrolidinopentiophenone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "5-60mg",
+          "Onset": "10 seconds",
+          "Duration": "3-4 hours"
+        },
+        {
+          "Name": "Vaporized",
+          "Dosage": "15mg"
+        },
+        {
+          "Name": "Intrarectal",
+          "Dosage": "10mg"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Tolerance": [
+        "minimal dosage escalation following several weeks of sustained usage in form of 5-7 day long bindges."
+      ],
+      "Effects": [
+        "{sev 'intense'} {xeff 'vasoconstriction'}",
+        "{sev 'intense'} {xeff 'stimulation'}",
+        "{sev 'intense'} {xeff 'wakefulness'} (up to 6-7 days)",
+        "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{sev 'light'} {xeff 'empathy affection and sociability enhancement'}",
+        "{sev 'moderate'} {xeff 'depression reduction'}",
+        "{sev 'intense'} subjective locomotor-activity increase",
+        "{sev 'moderate'} {xeff 'thought loops'}",
+        "{sev 'intense'} {xeff 'paranoia'} (thinking I was being chased; prepared to kill or defendmyself at all times; auditory filtering pipeline; cameras)",
+        "{xeff 'peripheral information misinterpretation'} (waving and movements all around me)",
+        "{xeff 'delusion'} (paranoid, persecutory, {wkp 'delusions of grandeur'}, time-travel)",
+        "{xeff 'personal meaning enhancement'}",
+        "{sev 'intense'} {xeff 'suicidal ideation'}"
+      ],
+      "DEffects": [
+        {
+          "Route": "Intravenous",
+          "Dose": "25mg",
+          "Effects": [
+            "{xeff 'psychosis'}"
+          ]
+        },
+        {
+          "Route": "Intravenous",
+          "Dose": ">50mg",
+          "Effects": [
+            "when dosed too frequently multi-hour peroids of strong dissociation"
+          ]
+        }
+      ]
+    },
+    {
+      "Name": "α-Pyrrolidinoisohexanophenone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "2.5-25mg",
+          "Onset": "5-10 seconds",
+          "Active": "3-15 minutes",
+          "Duration": "1-4 hours"
+        },
+        {
+          "Name": "Vaporized",
+          "Dosage": "~10mg",
+          "Onset": "5-10 seconds"
+        }
+      ],
+      "Salts": [
+        "Freebase",
+        "Citrate",
+        "Ascorbate"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'focus enhancement'}",
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{xeff 'physical euphoria'}",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{sev 'moderate'} {xeff 'jaw clenching'}",
+        "in overdose hyperventilation",
+        "{sev 'moderate'} {xeff 'irritability'}",
+        "{xeff 'internal hallucination'} (uncomfortable disturbing imagery trying to taunt mind)",
+        "{xeff 'psychosis'} (related visual alterations, flickering and textures being perceived in fragments which iterate 5-10x per second)"
+      ],
+      "Odor": [
+        "freebase smells like mixture of disgusting mushroom smell and cum"
+      ],
+      "Notes": [
+        "\"literally craving the next shoot 3 minutes after having had a serious one... I imagine this is what being addicted to crack must feel like\""
+      ]
+    },
+    {
+      "Name": "α-Pyrrolidinocyclohexanophenone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "10-100mg",
+          "Onset": "5-10 seconds"
+        }
+      ],
+      "Salts": [
+        "Citrate"
+      ],
+      "Odor": [
+        "Freebase: unpleasant smell of cucumbers and cum"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'focus enhancement'}",
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{xeff 'physical euphoria'}",
+        "{xeff 'increased bodily temperature'}",
+        "{sev 'moderate'} {xeff 'anxiety'}"
       ]
     },
     {
@@ -1350,64 +1611,6 @@
       ]
     },
     {
-      "Name": "α-Pyrrolidinopentiophenone",
-      "Routes": [
-        {
-          "Name": "Intravenous",
-          "Dosage": "5-60mg",
-          "Onset": "10 seconds",
-          "Duration": "3-4 hours"
-        },
-        {
-          "Name": "Vaporized",
-          "Dosage": "15mg"
-        },
-        {
-          "Name": "Intrarectal",
-          "Dosage": "10mg"
-        }
-      ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Tolerance": [
-        "minimal dosage escalation following several weeks of sustained usage in form of 5-7 day long bindges."
-      ],
-      "Effects": [
-        "{sev 'intense'} {xeff 'vasoconstriction'}",
-        "{sev 'intense'} {xeff 'stimulation'}",
-        "{sev 'intense'} {xeff 'wakefulness'} (up to 6-7 days)",
-        "{sev 'strong'} {xeff 'cognitive euphoria'}",
-        "{sev 'strong'} {xeff 'compulsive redosing'}",
-        "{sev 'light'} {xeff 'empathy affection and sociability enhancement'}",
-        "{sev 'moderate'} {xeff 'depression reduction'}",
-        "{sev 'intense'} subjective locomotor-activity increase"
-      ],
-      "Adverse": [
-        "{sev 'moderate'} {xeff 'thought loops'}",
-        "{xeff 'peripheral information misinterpretation'} (waving and movements all around me)",
-        "{xeff 'delusion'} (paranoid, persecutory, {wkp 'delusions of grandeur'}, time-travel)",
-        "{xeff 'personal meaning enhancement'}",
-        "{sev 'intense'} {xeff 'suicidal ideation'} and feelings of guilt resulting from actions"
-      ],
-      "DEffects": [
-        {
-          "Route": "Intravenous",
-          "Dose": "25mg",
-          "Effects": [
-            "{xeff 'psychosis'}"
-          ]
-        },
-        {
-          "Route": "Intravenous",
-          "Dose": ">50mg",
-          "Effects": [
-            "when dosed too frequently multi-hour peroids of strong dissociation"
-          ]
-        }
-      ]
-    },
-    {
       "Name": "3,4-Methylenedioxy-α-pyrrolidinoisohexanophenone",
       "Routes": [
         {
@@ -1425,9 +1628,7 @@
         "{sev 'strong'} {xeff 'stimulation'}",
         "{sev 'intense'} {xeff 'cognitive euphoria'} (comparable to my first time taking stimulants)",
         "{sev 'moderate'} {xeff 'empathy affection and sociability enhancement'}",
-        "{sev 'intense'} {xeff 'depression reduction'}"
-      ],
-      "Adverse": [
+        "{sev 'intense'} {xeff 'depression reduction'}",
         "{xeff 'psychosis'}",
         "{xeff 'suicidal ideation'}"
       ]
@@ -1454,9 +1655,7 @@
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
-        "{sev 'light'} {xeff 'empathy affection and sociability enhancement'}"
-      ],
-      "Adverse": [
+        "{sev 'light'} {xeff 'empathy affection and sociability enhancement'}",
         "{sev 'strong'} {xeff 'anxiety'}",
         "{sev 'intense'} {xeff 'thought loops'}",
         "{xeff 'psychosis'}",
@@ -1559,7 +1758,17 @@
       ],
       "Effects": [ 
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
-        "{sev 'strong'} numbing effect both in veins and mouth"
+        "{sev 'strong'} {xeff 'compulsive redosing'}"
+      ],
+      "DEffects": [
+        {
+          "Dosage": "+100mg",
+          "Route": "intravenous",
+          "Effects": [
+            "{sev 'moderate'} {xeff 'mouth numbing'}",
+            "{sev 'strong'} numbing effect in veins"
+          ]
+        }
       ],
       "Notes": "pleasant vaporized"
     },
@@ -2007,7 +2216,8 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "25mg"
+          "Dosage": "25mg",
+          "Onset": "~1 hour"
         }
       ],
       "Salts":  [
@@ -2092,6 +2302,15 @@
           "Name": "Dermal"
         }
       ]
+    },
+    {
+      "Name": "Progesterone",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Indication": "Male to female transsexuality"
     },
     {
       "Name": "Estradiol",
@@ -2216,7 +2435,7 @@
         }
       ],
       "Indication": "hairloss",
-      "Adverse": [
+      "Effects": [
         "{xeff 'suicidal ideation'}"
       ],
       "Notes": "stopped treatment after a month"
@@ -2267,7 +2486,8 @@
       ],
       "Indication": [
         "{xeff 'anxiety'}",
-        "{xeff 'panic attack'}"
+        "{xeff 'panic attack'}",
+        "{class 'stimulant'} overdose"
       ],
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
@@ -2286,7 +2506,8 @@
         "Flubromazolam 0.5mg pellets: Research-chemical-vendor Netherlands"
       ],
       "Indication": [
-        "{wkp 'insomnia'}"
+        "{wkp 'insomnia'}",
+        "{class 'stimulant'} overdose"
       ],
       "Effects": [
         "{sev 'light'} {xeff 'anxiety suppression'}",
@@ -2312,6 +2533,7 @@
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
         "{sev 'moderate'} {xeff 'sedation'}",
+        "{sev 'strong'} {xeff 'irritability'}",
         "cancels out {class 'stimulant' 'stimulants'}"
       ],
       "Notes": "practical intravenous-use (using additional solvant such as {sub 'propylene glycol' 'propylene glycol'} or {sub 'ethanol' 'ethanol'})"
@@ -2345,7 +2567,8 @@
       ],
       "Indication": [
         "{xeff 'anxiety'}",
-        "{xeff 'panic attack'}"
+        "{xeff 'panic attack'}",
+        "{class 'stimulant'} overdose"
       ],
       "Effects": [
         "{sev 'strong'} {xeff 'anxiety suppression'}",
@@ -2359,18 +2582,19 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "0.5mg",
+          "Dosage": "0.5-2mg",
           "Duration": "~8 hours"
         },
         {
           "Name": "Vaporized",
-          "Dosage": "0.25mg"
+          "Dosage": "1mg"
         }
       ],
       "Indication": [
         "{xeff 'anxiety'}",
         "{xeff 'panic attack'}",
-        "{wkp 'insomnia'}"
+        "{wkp 'insomnia'}",
+        "{class 'stimulant'} overdose"
       ],
       "Sources": [
         "Etizolam 1mg tabs: Research-chemical-vendor Netherlands"
@@ -2378,7 +2602,16 @@
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
         "{sev 'strong'} {xeff 'sedation'} (to the point of inducing sleep)",
-        "{sev 'strong'} {xeff 'motor control loss'}"
+        "{sev 'strong'} {xeff 'motor control loss'}",
+        "{sev 'moderate'} {xeff 'memory suppression'}"
+      ],
+      "DEffects": [
+        {
+          "Route": "Vaporized",
+          "Effects": [
+            "{sev 'moderate'} {xeff 'respiratory depression'}"
+          ]
+        }
       ]
     },
     {
@@ -2451,9 +2684,7 @@
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
         "dream-like states which feel fully concious/lucid",
         "{xeff 'muscle relaxation'}",
-        "{xeff 'pupil constriction'}"
-      ],
-      "Adverse": [
+        "{xeff 'pupil constriction'}",
         "{xeff 'irritability'}",
         "{xeff 'constipation'}",
         "{xeff 'nausea'}",
@@ -2625,7 +2856,8 @@
         "{xeff 'constipation'}",
         "{xeff 'nausea'}",
         "{xeff 'dizziness'}",
-        "{xeff 'nausea?s=vomiting' 'vomiting'}"
+        "{xeff 'nausea?s=vomiting' 'vomiting'}",
+        "{sev 'strong'} {xeff 'itchiness'}"
       ],
       "DEffects": [
         {
@@ -2768,7 +3000,8 @@
           "Name": "Intravenous",
           "Onset": "5-10 seconds",
           "Comeup": "30 seconds",
-          "Dosage": "0.75-10mg"
+          "Duration": "45-70 minutes",
+          "Dosage": "0.75-50mg"
         },
         {
           "Name": "Oral",
@@ -2779,17 +3012,25 @@
         "Hydrochloride"
       ],
       "Indication": [
+        "{wkp 'opioid withdrawal'}",
+        "pain",
+        "{xeff 'anxiety'}",
+        "{xeff 'panic attack'}"
       ],
       "Sources": [
         "2-Methyl-AP-237: Research-chemical-vendor Netherlands"
       ],
       "Effects": [
-        "{xeff 'nausea'}"
+        "{sev 'light'} {xeff 'sedation'}",
+        "{xeff 'nausea'}",
+        "{sev 'strong'} {rev} {wkp 'opioid withdrawal'}",
+        "{sev 'moderate'} {xeff 'anxiety suppression'}",
+        "{xeff 'irritability'}"
       ],
       "After": [
       ],
       "Notes": [
-        "Does not meaningfully substitute for {sub 'fentanyl'}"
+        "Did not meaningfully seam to substitute for {sub 'fentanyl'} during state of dependence"
       ]
     },
     {
@@ -2868,15 +3109,22 @@
         "{xeff 'motivation suppression'}",
         "{xeff 'appetite enhancement'}",
         "{sev 'moderate'} {xeff 'dry mouth'}",
-        "seams to relieve psychosis at proper dose"
-      ],
-      "Adverse": [
+        "seams to relieve psychosis at proper dose",
         "{xeff 'anxiety'}",
         "{xeff 'cognitive dysphoria'}",
         "{xeff 'abnormal heartbeat'}",
         "{xeff 'respiratory depression'}"
       ],
       "Notes": "unsure about effects on allergy"
+    },
+    {
+      "Name": "Olanzapine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosages": "10mg"
+        }
+      ]
     },
     {
       "Name": "Omberacetam",
@@ -2900,7 +3148,13 @@
         },
         {
           "Name": "Transdermal",
-          "Dosages": "21-42mg"
+          "Dosages": "15-42mg (24 hour delivery)",
+          "Onset": "~1 hour"
+        },
+        {
+          "Name": "Buccal",
+          "Dosages": "1-5mg",
+          "Onset": "45 seconds"
         }
       ],
       "Salts": [
@@ -2908,7 +3162,7 @@
       ],
       "Indication": [
         "{xeff 'anxiety'}",
-        "stimulant withdrawal"
+        "{class 'stimulant'} withdrawal"
       ],
       "Tolerance": [
         "tolerance typically builds over span of waking cycle with the first dosage having the strongest sedating effects numbing out through compulsive use."
@@ -2921,14 +3175,16 @@
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
         "{sev 'light'} {xeff 'depression reduction'}",
         "{xeff 'perception of bodily heaviness'}",
-        "{xeff 'thought acceleration'}",
-        "{xeff 'internal hallucination'} at the edge of falling asleep"
+        "{xeff 'thought acceleration'}"
       ],
-      "Adverse": [
-        "{sev 'moderate'} {wkp 'addiction'} (in form of tobacoo; on and off +2 years; rebound addiction when withdrawing from more powerful {class 'stimulant'} drugs)",
-        "{xeff 'irritability'}",
-        "{xeff 'headache'}",
-        "{wkp 'nicotine poisoning'}"
+      "DEffects": [
+        {
+          "Dosage": "+5mg",
+          "Route": "Buccal",
+          "Effects": [
+            "{wkp 'nicotine poisoning'}"
+          ]
+        }
       ],
       "Notes": "helps take the edge of other {class 'stimulant' 'stimulants'}"
     },
@@ -2948,12 +3204,28 @@
       ],
       "Effects": [
         "significantly reduced hairloss combined with {sub 'dutasteride'}",
-        "{sev 'intense'} {xeff 'vasodilation'}"
-      ],
-      "Adverse": [
+        "{sev 'intense'} {xeff 'vasodilation'}",
         "{sev 'intense'} {xeff 'respiratory depression'}"
       ],
       "Notes": "seams to promote hair-regrowth"
+    },
+    {
+      "Name": "Tadalafil",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "10-20mg"
+        }
+      ],
+      "Sources": [
+        "Tadalista Tablets 40mg"
+      ],
+      "Indication": [
+        "{wkp 'erectile dysfunction'}"
+      ],
+      "Effects": [
+        "{sev 'light'} {wkp 'erection'}"
+      ]
     },
     {
       "Name": "Deschloroketamine",
@@ -2987,10 +3259,9 @@
       ],
       "Effects": [
         "{xeff 'perspective-distortion' 'body distortion'}",
+        "{xeff 'changes in felt bodily form'}",
         "{xeff 'frame rate suppression'}",
-        "{xeff 'time distortion'}"
-      ],
-      "Adverse": [
+        "{xeff 'time distortion'}",
         "{xeff 'memory suppression'} (forgot who I was and what was happening upon 30mg IV infusion)",
         "{xeff 'confusion'}",
         "{xeff 'psychosis'}",
@@ -3085,6 +3356,33 @@
       "Notes": ""
     },
     {
+      "Name": "3-Methoxyphencyclidine",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "10-20mg",
+          "Onset": "15 seconds",
+          "Comeup": "5-10 minutes",
+          "Active": "1 hour",
+          "Duration": "7 hours"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'anxiety suppression'}",
+        "{sev 'moderate'} {xeff 'mania'}",
+        "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'physical disconnection'}",
+        "{sev 'strong'} {xeff 'pain relief'}",
+        "{sev 'light'} {rev} {wkp 'opioid withdrawal'}",
+        "{xeff 'physical fatigue'}",
+        "{sev 'light'} {xeff 'suicidal ideation'}",
+        "revelations and interesting thought exploration"
+      ]
+    },
+    {
       "Name": "Sertraline",
       "Routes": [
         {
@@ -3128,6 +3426,21 @@
       ],
       "Indication": "genetically elevated {sub 'cholesterol'} levels",
       "Notes": ""
+    },
+    {
+      "Name": "Dalteparin",
+      "Routes": [
+        {
+          "Name": "Subcutaneous",
+          "Dosage": "2.500 I.E."
+        }
+      ],
+      "Salts": [
+        "Sodium"
+      ],
+      "Indication": [
+        "prevention of {wkp 'heart attack'} or {wkp 'stroke'} during {class 'stimulant'}-overdose"
+      ]
     },
     {
       "Name": "Aripiprazole",
@@ -3290,9 +3603,7 @@
         "Freebase"
       ],
       "Effects": [
-        "no notable {xeff 'anxiety suppression'}"
-      ],
-      "Adverse": [
+        "no notable {xeff 'anxiety suppression'}",
         "coincided {sev 'strong'} {xeff 'nausea'}"
       ]
     },
@@ -3332,6 +3643,9 @@
           "Name": "Intravenous"
         }
       ],
+      "Indication": [
+        "{xeff 'sleepiness'}"
+      ],
       "Salts": [
         "Freebase",
         "Citrate"
@@ -3347,7 +3661,7 @@
       ],
       "DEffects": [
         {
-          "Dose": "1700mg",
+          "Dosage": "1700mg",
           "Route": "Oral",
           "Effects": [
             "{wkp 'convulsions'}",
@@ -3450,9 +3764,7 @@
       "Effects": [
         "{xeff 'respiratory depression'}",
         "{xeff 'analysis suppression'}",
-        "{xeff 'visual strobing'}"
-      ],
-      "Adverse": [
+        "{xeff 'visual strobing'}",
         "{xeff 'motor control loss'}",
         "{xeff 'nausea'}",
         "{xeff 'headache'}"
@@ -3469,9 +3781,7 @@
       ],
       "Effects": [
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
-        "{xeff 'analysis suppression'}"
-      ],
-      "Adverse": [
+        "{xeff 'analysis suppression'}",
         "{xeff 'headache'}",
         "{xeff 'delusion'} ({wkp 'delusions of grandeur'})"
       ],
@@ -3495,9 +3805,7 @@
         "{xeff 'analysis suppression'}",
         "{xeff 'disinhibition'}",
         "{xeff 'motor control loss'}",
-        "at high doses {sev 'moderate'} {xeff 'cognitive euphoria'}"
-      ],
-      "Adverse": [
+        "at high doses {sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{xeff 'perspective hallucination'} (one time; perceiving myself from above while laying in bed)",
         "{xeff 'nausea'}",
         "{xeff 'nausea?s=vomiting' 'vomiting'}"
@@ -3573,9 +3881,7 @@
         "{xeff 'motor control loss'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{sev 'moderate'} {xeff 'disinhibition'}",
-        "{sev 'moderate'} {xeff 'empathy, affection, and sociability enhancement'}"
-      ],
-      "Adverse": [
+        "{sev 'moderate'} {xeff 'empathy, affection, and sociability enhancement'}",
         "{xeff 'nausea'}"
       ],
       "Notes": [
@@ -3610,9 +3916,7 @@
         "{sev 'light'} {xeff 'cognitive euphoria'}",
         "warm headrush",
         "{xeff 'increased perspiration'}",
-        "flickering vision"
-      ],
-      "Adverse": [
+        "flickering vision",
         "{xeff 'headache'} (~5-8 hours)"
       ],
       "Notes": ""
@@ -3647,7 +3951,7 @@
         }
       ],
       "Effects": [
-        "acutely causes acne"
+        "causes acne (in 1-2 days)"
       ]
     },
     {
@@ -3671,8 +3975,12 @@
       "Salts": [
         "Sodium"
       ],
-      "Indication": "{wkp 'Acidemia'}",
-      "Notes": "temporarily increases urinary pH decreasing {sub 'dextroamphetamine' 'dextroamphetamine'} excression"
+      "Indication": [
+        "{wkp 'Acidemia'}",
+        "aid in breaking down certain {subst 'cathinone'} drugs during acidosis",
+        "temporarily increases urinary pH decreasing {sub 'dextroamphetamine' 'dextroamphetamine'} excression",
+        "freebasing {sub 'cocaine'} hydrochloride"
+      ]
     },
     {
       "Name": "Octenidine",
@@ -3705,10 +4013,9 @@
         }
       ],
       "Indication": "antibiotic wound course used for infected eyelid",
-      "Adverse": [
+      "Effects": [
         "{wkp 'anaphylaxis'}"
-      ],
-      "Notes": ""
+      ]
     },
     {
       "Name": "Water",
@@ -3742,11 +4049,12 @@
         "distilled water"
       ],
       "Indication": [
-        "existance",
-        "{xeff 'dehydration'}"
+        "base medium for biological lifeforms",
+        "{xeff 'dehydration'}",
+        "dissolving salts and water-solubile compounds"
       ],
-      "Adverse": [
-        "{wkp 'substance dependence'} (my entire life)"
+      "Effects": [
+        "{xeff 'delirium'} (due to reduction of blood sodium chloride concentration and damage to red blood cells when {roa 'intravenous'}ly administered)"
       ],
       "Notes": [
         "solvant for injecting drug salts.",
@@ -3795,7 +4103,9 @@
       "Composite": true,
       "Routes": [
         {
-          "Name": "Vaporized"
+          "Name": "Vaporized",
+          "Onset": "5-10 seconds",
+          "Duration": "~15 minutes"
         },
         {
           "Name": "Insufflated"
@@ -3805,15 +4115,33 @@
         "{sev 'light'} {xeff 'stimulation'}",
         "{sev 'light'} {xeff 'focus enhancement'}",
         "{sev 'light'} {xeff 'wakefulness'}",
-        "{sev 'light'} {xeff 'sedation'}",
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
         "{sev 'light'} {xeff 'depression reduction'}",
-        "{xeff 'perception of bodily heaviness'}",
+        "{sev 'light'} {xeff 'anxiety suppression'}",
         "{xeff 'thought acceleration'}",
-        "{xeff 'internal hallucination'} at the edge of falling asleep"
+        "{sev 'moderate'} {wkp 'addiction'} (on and off +2 years. rebound addiction when withdrawing from {class 'stimulant'} drugs)",
+        "{xeff 'irritability'} (occasionally used to cause)",
+        "{xeff 'headache'} (especially through repeated use)"
       ],
-      "Notes": [
-        "the first hit of the day feels quite sedating and enjoyable. over the span of the day tolerance grows exponensially"
+      "Tolerance": [
+        "tolerance typically builds over span of waking cycle with the first dosage having the strongest sedating effects numbing out through compulsive use."
+      ],
+      "Notes": "helps take the edge of other {class 'stimulant' 'stimulants'}",
+      "DEffects": [
+        {
+          "Condition": "first couple of doses of the day",
+          "Effects": [
+            "{xeff 'perception of bodily heaviness'}",
+            "{sev 'light'} {xeff 'sedation'}",
+            "{sev 'light'} {xeff 'cognitive euphoria'}"
+          ]
+        },
+        {
+          "Condition": "at the edge of falling asleep",
+          "Effects": [
+            "{xeff 'internal hallucination'}"
+          ]
+        }
       ]
     },
     {

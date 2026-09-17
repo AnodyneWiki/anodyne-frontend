@@ -1,0 +1,69 @@
+{
+  "Name": "piperidinylethylindole",
+  "Entries": [
+    {
+      "Title": "N,N-Piperidyltryptamine",
+      "Abr": [
+        "pip-T"
+      ],
+      "MW": "228.33 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N,N-piperidyltryptamine",
+      "Abr": [
+        "5-MeO-pip-T"
+      ],
+      "MW": "258.36 g/mol"
+    },
+    {
+      "Title": "α-Methyl-N,N-piperidyltryptamine",
+      "Abr": [
+        "pip-AMT"
+      ],
+      "MW": "242.36 g/mol"
+    },
+    {
+      "Title": "5-Hydroxy-N,N-piperidyltryptamine",
+      "Abr": [
+        "5-HO-pip-T"
+      ],
+      "MW": "244.33 g/mol"
+    },
+    {
+      "Title": "4-Hydroxy-N,N-piperidyltryptamine",
+      "Abr": [
+        "4-HO-pip-T"
+      ],
+      "MW": "244.33 g/mol"
+    },
+    {
+      "Title": "β-Keto-N,N-piperidyltryptamine",
+      "Abr": [
+        "βk-pip-T"
+      ],
+      "MW": "242.32 g/mol"
+    },
+    {
+      "Title": "6-Methoxy-α-methyl-N,N-piperidyltryptamine",
+      "Abr": [
+        "6-MeO-pip-AMT"
+      ],
+      "MW": "272.4 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-2-methyl-N,N-piperidyltryptamine",
+      "Abr": [
+        "5-MeO-2-Me-pip-T"
+      ],
+      "MW": "272.4 g/mol"
+    }
+  ],
+  "Parents": [
+    "tryptamine",
+    "piperidine"
+  ],
+  "Analogues": [
+    "pyrrolidinylethylindole",
+    "morpholinylethylindole"
+  ]
+}

@@ -21,31 +21,29 @@
 {{/*template "infobox" $v*/}}
 <div id=Infobox>
 <table><tr>
-<th contenteditable=false colspan="2">{{$v.Title}}</th>
+<th contenteditable=false colspan="3">{{$v.Title}}</th>
 </tr>
 {{if printf "/structure/%s.jpg" (lower $v.Title) | fileExists}}
-<tr><td class=InfoboxImage colspan=2><img class=InfoboxImage width=220 src="/structure/{{lower $v.Title}}.jpg"></td></tr>
+<tr><td class=InfoboxImage colspan=3><img class=InfoboxImage width=220 src="/structure/{{lower $v.Title}}.jpg"></td></tr>
 {{end}}
+{{with $v.Substances -}}
+<tr><th>Structure</th><th>Compound</th><th>Concentration</th>
+{{- range $v.Substances -}}
+<tr><td class=svg><img style="padding: 5px;" width=60 src="/structure/{{lower .Name | replace " " "_"}}.svg" /></td><td>{{template "lsu" .Name}}</td><td>{{with .Concentration}}{{.}}{{else}}-{{end}}</td></tr>
+{{- end -}}
+{{end -}}
 </table>
 </div>
 
 {{template "intro" $v}}
 
-{{with $v.Substances -}}
-<table><tr><th>Structure</th><th>Compound</th><th>Concentration</th>
-{{- range $v.Substances -}}
-<tr><td class=svg><img style="padding: 5px;" width=60 src="/structure/{{lower .Name | replace " " "_"}}.svg" /></td><td>{{template "lsu" .Name}}</td><td>{{with .Concentration}}{{.}}{{else}}-{{end}}</td></tr>
-{{- end -}}
-</table>
-{{end -}}
 
 {{/*template "chem" $v*/}}
 {{template "history" $v}}
 {{template "pharma" $v}}
 
 {{if or (empty $usernotes.local | not) (get $v "Subjective Effects") -}}
-<div class=collapser><h2>Subjective effects<span class=collapseButtonTight>&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
-<div class=collapserContent>
+<h2>Subjective effects<span class=collapseButtonTight>&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
 {{with get $v "Subjective Effects"}}{{template "subjective" .}}{{end -}}
 
 {{if and (empty $usernotes.local) (empty $usernotes.extern) | not -}}<div class=effects style="padding-top: 0.25em;"><div>

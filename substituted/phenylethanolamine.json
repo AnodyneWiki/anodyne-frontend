@@ -256,5 +256,8 @@
     "2-phenylmorpholine",
     "aminorex"
   ],
-  "Parent": "phenethylamine"
+  "Parents": [
+    "phenethylamine",
+    "alcohol"
+  ]
 }

@@ -1,0 +1,48 @@
+{
+  "Name": "morpholinylethylindole",
+  "Entries": [
+    {
+      "Title": "N,N-Morpholinyltryptamine",
+      "Abr": [
+        "mor-T"
+      ],
+      "MW": "230.31 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N,N-morpholinyltryptamine",
+      "Abr": [
+        "5-MeO-mor-T"
+      ],
+      "MW": "260.33 g/mol"
+    },
+    {
+      "Title": "5-Hydroxy-N,N-morpholinyltryptamine",
+      "Abr": [
+        "5-HO-mor-T"
+      ],
+      "MW": "246.30 g/mol"
+    },
+    {
+      "Title": "4-Methoxy-N,N-morpholinyltryptamine",
+      "Abr": [
+        "4-MeO-mor-T"
+      ],
+      "MW": "260.33 g/mol"
+    },
+    {
+      "Title": "β-Keto-N,N-morpholinyltryptamine",
+      "Abr": [
+        "βk-mor-T"
+      ],
+      "MW": "244.29 g/mol"
+    }
+  ],
+  "Parents": [
+    "tryptamine",
+    "morpholine"
+  ],
+  "Analogues": [
+    "pyrrolidinylethylindole",
+    "piperidinylethylindole"
+  ]
+}

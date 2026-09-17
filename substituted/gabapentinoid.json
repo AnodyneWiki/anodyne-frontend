@@ -68,5 +68,8 @@
       "GABA"
     ],
     "MW": "103.12 g/mol"
-  }
+  },
+  "Parents": [
+    "amino acid"
+  ]
 }

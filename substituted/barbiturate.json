@@ -64,5 +64,9 @@
   },
   "Analogues": [
     "thiobarbiturate"
+  ],
+  "Parents": [
+    "amine",
+    "ketone"
   ]
 }
