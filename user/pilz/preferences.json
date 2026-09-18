@@ -1,14 +1,13 @@
 {
     "Title": "Pilz",
     "Name": [
-        "Marie",
         "Pilz"
     ],
     "About": "{wkp 'Computer'} touching {wkp 'dog'} addicted to {sub 'caffeine'}.",
     "Birth": "2006-11",
     "Location": "Germany",
     "Weight": [
-        "2025/26: ~78kg"
+        "2026: ~80kg"
     ],
     "Links": [
         {
@@ -28,7 +27,9 @@
           "{wkp 'asperger syndrome'} (diagnosed F84.5G)",
           "{wkp 'transsexual'} (diagnosed F64.0G)",
           "{wkp 'attention deficit hyperactivity disorder'} (diagnosed F90.0F)",
-          "{wkp 'Mixed anxiety–depressive disorder'} (diagnosed F41.2F)"
+          "{wkp 'Mixed anxiety–depressive disorder'} (diagnosed F41.2F)",
+          "{wkp 'Social_rejection#Rejection_sensitivity'} (self diagnosed)",
+          "{wkp 'Major_depressive_episode'}, probably F33.1 (self diagnosed)"
         ]
     },
     "RoutesOfAdministration": [
@@ -213,20 +214,21 @@
         },
         {
             "Name": "3-FPO",
+            "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
             "Salts": [
                 "hydrochloride"
             ],
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "5mg",
+                    "Dosage": "5-10mg",
                     "Onset": "~40 minutes",
                     "Comeup": "~40 minutes",
                     "Duration": "~6 hours"
                 },
                 {
                     "Name": "insufflated",
-                    "Dosage": "2.5mg",
+                    "Dosage": "2.5-10mg",
                     "Onset": "5-10 minutes",
                     "Comeup": "20 minutes",
                     "Duration": "~2.5hours"
@@ -252,10 +254,13 @@
         {
             "Name": "Methylphenidate",
             "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
+            "Salts": [
+                "hydrochloride"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "5-27mg"
+                    "Dosage": "5-38mg"
                 }
             ],
             "Effects": [
@@ -335,7 +340,7 @@
             "Name": "Lisdexamphetamine",
             "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
             "Salts": [
-                "dimesilat"
+                "dimesylate"
             ],
             "Routes": [
                 {
@@ -359,6 +364,7 @@
         },
         {
             "Name": "Thozalinone",
+            "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
             "Salts": [
                 "hydrochloride"
             ],
@@ -387,7 +393,11 @@
             "Routes": [
                 {
                     "Name": "insufflated",
-                    "Dosage": "30mg"
+                    "Dosage": "30-60mg"
+                },
+                {
+                    "Name": "rectal",
+                    "Dosage": "50mg"
                 }
             ],
             "Effects":[
@@ -423,7 +433,8 @@
             "Sources": [
                 "Coffee",
                 "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets",
-                "Bulk.com 200mg caffeine tablets"
+                "Bulk.com 200mg caffeine tablets",
+                "Slovakian pharmacy: Caffetin tablets"
             ]
         },
         {
@@ -471,6 +482,7 @@
         },
         {
             "Name": "Cocaine",
+            "Indication": "{sev 'moderate'} to {sev 'strong'} {wkp 'Pain'}",
             "Routes": [
                 {
                     "Name": "insufflated",
@@ -602,12 +614,13 @@
         {
             "Name": "Codeine",
             "Salts": [
-                "phosphate"
+                "phosphate",
+                "phosphate sesquihydrate"
             ],
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "12.8-140mg"
+                    "Dosage": "10-140mg"
                 }
             ],
             "Effects": [
@@ -617,7 +630,8 @@
                 "{sev 'light'} {xeff 'thought-deceleration'} in high doses (140mg+)"
             ],
             "Sources":[
-                "Polish Pharmacy: Nurofen plus tablets"
+                "Polish Pharmacy: Nurofen plus tablets",
+                "Slovakian pharmacy: Caffetin tablets"
             ]
         },
         {
@@ -738,13 +752,14 @@
                 "Partial {xeff 'memory-suppression'} when consumed in high doses"
             ],
             "Notes": [
-                "One of my favorite substances in lower doses"
+                "decent substance in lower doses"
             ]
         },
         {
             "Name": "Alprazolam",
             "Indication": [
-                "{xeff 'anxiety'}"
+                "{xeff 'anxiety'}",
+                "{wkp 'Anxiety_disorder'}"
             ],
             "Routes": [
                 {
@@ -790,7 +805,8 @@
         {
             "Name": "Clonazepam",
             "Indication": [
-                "{xeff 'anxiety'}"
+                "{xeff 'anxiety'}",
+                "{wkp 'Anxiety_disorder'}"
             ],
             "Routes":[
                 {
@@ -809,6 +825,10 @@
         },
         {
             "Name": "Oxazepam",
+            "Indication": [
+                "{xeff 'anxiety'}",
+                "{wkp 'Anxiety_disorder'}"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
@@ -819,7 +839,23 @@
                 "Oxazepam-ratiopharm 50 mg tablets"
             ]
         },
-       {
+        {
+            "Name": "Midazolam",
+            "Indication": [
+                "{xeff 'anxiety'}",
+                "{wkp 'Anxiety_disorder'}"
+            ],
+            "Routes": [
+                {
+                    "Name": "sublingual",
+                    "Dosage": "7.5mg"
+                }
+            ],
+            "Sources": [
+                "Galenika Flormidal 15mg Tablet"
+            ]
+        },
+        {
             "Name": "Diazepam",
             "Indication": [
                 "{xeff 'anxiety'}",
@@ -861,11 +897,15 @@
         },
         {
             "Name": "Zopiclone",
+            "Indication": "{wkp 'Insomnia'}",
             "Routes": [
                 {
                     "Name": "Oral",
                     "Dosage": "~3.5mg"
                 }
+            ],
+            "Sources": [
+                "Zop Tablets Zopiclone Tablets IP 7.5mg"
             ]
         },
         {
@@ -902,7 +942,7 @@
                 }
             ],
             "Sources": [
-                "Italian pharmacy: trofodermin creme"
+                "Italian pharmacy: Trofodermin creme"
             ]
         },
         {
@@ -913,7 +953,7 @@
                 }
             ],
             "Sources": [
-                "Italian pharmacy: trofodermin creme"
+                "Italian pharmacy: Trofodermin creme"
             ]
         },
         {
@@ -982,6 +1022,7 @@
         },
         {
             "Name": "Cyproterone acetate",
+            "Indication":"Male to female {wkp 'Transsexual'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -1032,6 +1073,7 @@
         },
         {
             "Name": "Daridorexant",
+            "Indication":"{wkp 'Insomnia'}",
             "Salts": [
                 "hydrochloride"
             ],
@@ -1184,7 +1226,7 @@
                 "Very effective as a sleep aid; but has a hangover"
             ],
             "Sources": [
-                "Quetiapin-neuraxpharm"
+                "Quetiapin-neuraxpharm 50mg tablets"
             ]
         },
         {
@@ -1208,6 +1250,48 @@
             ],
             "Sources": [
                 "Polish Pharmacy: Pyralgina"
+            ]
+        },
+        {
+            "Name": "Propyphenazone",
+            "Indication": "{sev 'moderate'} to {sev 'strong'} {wkp 'Pain'}",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "210mg"
+                }
+            ],
+            "Sources": [
+                "Slovakian pharmacy: Caffetin tablets"
+            ]
+        },
+        {
+            "Name": "Panthenol",
+            "Indication": "self harm wound",
+            "Routes": [
+                {
+                    "Name": "transdermal"
+                }
+            ],
+            "Effects": [
+                "Wounds heal faster when applied 2-3 times per day"
+            ],
+            "Source": [
+                "German pharmacy: Bepanthen",
+                "German pharmacy: Panthenol-ratiopharm"
+            ]
+        },
+        {
+            "Name": "Venlafaxine",
+            "Indication": "{wkp 'Major_depressive_episode'}, probably F33.1 (self diagnosed)",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Routes": [
+                {
+                    "Name": "Oral",
+                    "Dosage": "75mg"
+                } 
             ]
         },
         {
@@ -1257,6 +1341,20 @@
             ]
         },
         {
+            "Name": "Xylometazoline",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Routes": [
+               {
+                    "Name": "insufflated"
+               } 
+            ],
+            "Sources": [
+                "NasenSpray-ratiopharm Erwachsene"
+            ]
+        },
+        {
             "Name": "Sildenafil",
             "Salts": [
                 "Citrate"
@@ -1265,7 +1363,7 @@
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "22-27mg"
+                    "Dosage": "22-50mg"
                 }
             ],
             "Effects": [
@@ -1274,7 +1372,7 @@
         },
         {
             "Name": "Tadalafil",
-            "Indication": "{wkp 'Erectile_dysfunction'}",
+            "Indication": "{sev 'light'} {wkp 'Erectile_dysfunction'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -1292,6 +1390,9 @@
                     "Name": "oral",
                     "Dosage": "100mg"
                 }
+            ],
+            "Sources": [
+                "Turkish pharmacy: Majezik tablets"
             ]
         },
         {
@@ -1309,6 +1410,9 @@
             ],
             "Effects": [
                 "{sev 'light'} {xeff 'pain-relief'}"
+            ],
+            "Sources": [
+                "German pharmacy"
             ]
         },
         {
@@ -1348,7 +1452,8 @@
             ],
             "Sources":[
                 "German Pharmacy: generic tablets",
-                "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets"
+                "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets",
+                "Slovakian pharmacy: Caffetin tablets"
             ]
         },
         {
@@ -1444,11 +1549,15 @@
             ],
             "Sources": [
                 "Pregabalin Aurobindo 200mg capsules",
-                "Pregabalin Vivanta 200mg capsules"
+                "Pregabalin Vivanta 200mg capsules",
+                "Pregabalin Aurobindo 50mg capsules",
+                "Pregabalin Aurobindo 75mg capsules",
+                "Powder from chinese vendor"
             ]
         },
         {
             "Name": "Ketamine",
+            "Indication": "{xeff 'depression'}",
             "Salts": [
                 "hydrochloride"
             ],
@@ -1526,24 +1635,54 @@
             ]
         },
         {
+            "Name": "1-Propanoyl-lysergic acid diethylamide",
+            "Routes": [
+              {
+                "Name": "sublingual",
+                "Dosage": "50μg"
+              }  
+            ]
+        },
+        {
             "Name": "1-(3-(Trimethylsilyl)propionyl)-lysergic acid diethylamide",
             "Routes": [
                 {
                     "Name": "sublingual",
-                    "Dosage": "0.01-0.02mg"
+                    "Dosage": "10-20μg"
                 }
             ]
         },
         {
             "Name": "Tryptophan",
+            "Indication": "{wkp 'Insomnia'}",
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "500mg"
+                    "Dosage": "0.5-2g"
                 }
+            ],
+            "Effects": [
+                "{sev 'moderate'} {xeff 'sedation'}",
+                "{sev 'moderate'} {xeff 'sleepiness'}"
+            ],
+            "Notes": [
+                "Good natural sleep aid"
             ],
             "Sources": [
                 "German Amazon"
+            ]
+        },
+        {
+            "Name": "Magnesium",
+            "Salts": [
+                "Carbonate",
+                "Citrate",
+                "Bisglycinate"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral"
+                }
             ]
         },
         {
@@ -1581,6 +1720,10 @@
                 {
                     "Name": "smoked"
                 }
+            ],
+            "Sources": [
+                "Found on the ground in Hamburg, Germany",
+                "German pharmacy"
             ]
         },
         {
@@ -1598,6 +1741,10 @@
                 {
                     "Name": "rectal",
                     "Dosage": "1.5mg"
+                },
+                {
+                    "Name": "insufflated",
+                    "Dosage": "7mg"
                 }
             ],
             "Effects": [
@@ -1609,6 +1756,14 @@
                 "My favorite sleep aid, hangover is non existent and the availability is very good",
                 "Doses over 0.5mg make no sense",
                 "Ineffective while on stimulants"
+            ],
+            "Sources": [
+                "German Amazon: Melatonin 0.5mg",
+                "S3 Chemicals: Melatonin (min. 99%, Food Grade)",
+                "Polish pharmacy: Melatonin 5mg",
+                "Italian pharmacy",
+                "German pharmacy",
+                "Slovakian pharmacy: Melatonin 3mg"
             ]
         },
         {
