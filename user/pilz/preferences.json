@@ -6,9 +6,7 @@
     "About": "{wkp 'Computer'} touching {wkp 'dog'} addicted to {sub 'caffeine'}.",
     "Birth": "2006-11",
     "Location": "Germany",
-    "Weight": [
-        "2026: ~80kg"
-    ],
+    "Weight": [ "2026: ~80kg" ],
     "Links": [
         {
             "Name": "Signal",
@@ -39,6 +37,7 @@
                 "Bahncard 100, Macbook and Paper",
                 "{wkp 'Trans_woman'}s {wkp 'Breast'}s",
                 "{wkp 'Spatula'}",
+                "Knive",
                 "Nasalspray"
             ],
             "Sites": [
@@ -55,7 +54,8 @@
                 "Tablet",
                 "Powder",
                 "Crushed tablet",
-                "Brownie"
+                "Brownie",
+                "Drink"
             ],
             "Sites": [
                 "Mouth"
@@ -76,7 +76,8 @@
             "Name": "Intrarectal",
             "Paraphernalia": [
                 "soft capsule",
-                "Suppository"
+                "Suppository",
+                "1ml syringe"
             ],
             "Sites": [
                 "Rectum"
@@ -97,6 +98,7 @@
             "Name": "Smoked",
             "Paraphernalia": [
                 "Vaporizer",
+                "Vape",
                 "Cigarette",
                 "Joint",
                 "Aluminium foil"
@@ -201,12 +203,29 @@
             "Salts":[
                 "hydrochloride"
             ],
-            "Indication": "{sev 'light'} {sub 'Nicotine'} addiction",
+            "Indication": [
+                "{sev 'light'} {sub 'Nicotine'} addiction",
+                "{wkp 'Major_depressive_episode'}, probably F33.1 (self diagnosed)",
+                "{wkp 'Attention_deficit_hyperactivity_disorder'}"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "150.0mg"
+                    "Dosage": "150-300mg"
                 }
+            ],
+            "Effects": [
+                "{sev 'light'} weird {xeff 'stimulation'} when taken in high doses (300mg)",
+                "{sev 'light'} {xeff 'depression-reduction'}; feeling more active",
+                "{sev 'light'} hyperactivity reduction"
+            ],
+            "Adverse": [
+                "{sev 'moderate'} {xeff 'constipation'} when consumed in high doses"
+            ],
+            "Notes": [
+                "Don't combine Bupropion with other stimulants/ADHD-Meds, there is already a high seziure risk without them and you won't have a good time",
+                "Pretty good to get away from {sev 'Nicotine'}",
+                "Moderatly useful against {wkp 'Major_depressive_episode'}s, would not recommend if you want to take stimulants"
             ],
             "Sources": [
                 "Bupropion Neuraxpharm 150mg/300mg XR tablets"
@@ -281,6 +300,9 @@
         },
         {
             "Name": "Atomoxetine",
+            "Salts": [
+                "hydrochloride"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
@@ -412,6 +434,9 @@
         },
         {
             "Name": "Caffeine",
+            "Salts": [
+                "Freebase"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
@@ -482,7 +507,6 @@
         },
         {
             "Name": "Cocaine",
-            "Indication": "{sev 'moderate'} to {sev 'strong'} {wkp 'Pain'}",
             "Routes": [
                 {
                     "Name": "insufflated",
@@ -505,7 +529,7 @@
             ],
             "Notes":[
                 "comedown is a bit annoying",
-                "not worth the high cost in europe; try {sub 'Amphetamine'} or {sub 'mephedrone'} instead"
+                "not worth the high cost in europe"
             ]
         },
         {
@@ -550,6 +574,9 @@
         },
         {
             "Name": "Acetylcysteine",
+            "Indication": [
+                "antioxidant while using {sub 'mephedrone'}"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
@@ -711,6 +738,9 @@
             ],
             "Notes":[
                 "Very {sev 'strong'} {xeff 'nausea'}, even multiple hours after the ingestion"
+            ],
+            "Sources": [
+                "DNM Germany: 1ml Morphine HCl CF Ampoules 10mg/ml"
             ]
         },
         {
@@ -739,6 +769,9 @@
                 {
                     "Name": "oral",
                     "Dosage": "1.5-30g"
+                },
+                {
+                    "Name": "transdermal"
                 }
             ],
             "Effects": [
@@ -753,6 +786,12 @@
             ],
             "Notes": [
                 "decent substance in lower doses"
+            ],
+            "Sources": [
+                "Beer",
+                "Wine",
+                "Estreva gel",
+                "Gynokadin gel"
             ]
         },
         {
@@ -771,6 +810,7 @@
                 "{sev 'strong'} {xeff 'sedation'}",
                 "{sev 'moderate'} {xeff 'anxiety-suppression'}",
                 "{sev 'moderate'} {xeff 'memory-suppression'}",
+                "{sev 'moderate'} {xeff 'thought-deceleration'}",
                 "{sev 'light'} {xeff 'muscle-relaxation'}"
             ],
             "Sources": [
@@ -781,7 +821,8 @@
             "Name": "Lorazepam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{wkp 'Anxiety_disorder'}"
+                "{wkp 'Anxiety_disorder'}",
+                "Insomnia"
             ],
             "Routes":[
                 {
@@ -816,11 +857,14 @@
             ],
             "Effects":[
                 "{sev 'moderate'} {xeff 'anxiety-suppression'}",
-                "{sev 'light'} {xeff 'sedation'}",
+                "{sev 'light'} {xeff 'sedation'}; less than other benzos",
                 "{sev 'light'} {xeff 'sleepiness'}"
             ],
             "Sources": [
                 "Galenika Rivotril 2mg Tablet"
+            ],
+            "Notes": [
+                "Higher abuse potential than other benzos"
             ]
         },
         {
@@ -851,6 +895,9 @@
                     "Dosage": "7.5mg"
                 }
             ],
+            "Effects": [
+                "stronger {xeff 'memory-suppression'} than other benzos"
+            ],
             "Sources": [
                 "Galenika Flormidal 15mg Tablet"
             ]
@@ -875,6 +922,9 @@
             ],
             "Sources": [
                 "Hemofarm Diazepam HF 10mg Tablet"
+            ],
+            "Notes": [
+                "Weird metabolization and the strange duration make this a unfavorable benzo"
             ]
         },
         {
@@ -886,13 +936,28 @@
             "Routes": [
                 {
                     "Name": "Oral",
-                    "Dosage": "10mg"
+                    "Dosage": "2.5-10mg"
+                },
+                {
+                    "Name": "sublingual",
+                    "Dosage": "2.5-5mg"
                 }
             ],
             "Effects": [
                 "{sev 'strong'} {xeff 'sedation'} and {sev 'strong'} {xeff 'sleepiness'}",
-                "{sev 'light'} {xeff 'nausea'} and {sev 'moderate'} {xeff 'dizziness'}; feeling slightly drunk",
-                "{sev 'light'} {xeff 'dream-potentiation'}"
+                "{sev 'light'} {xeff 'nausea'} and {sev 'moderate'} {xeff 'dizziness'} when taken in high doses; feeling slightly drunk",
+                "{sev 'light'} {xeff 'dream-potentiation'}",
+                "dose dependant open/closed eye hallucinations; stronger when {sub 'venlafaxine'} is taken",
+                "Extremly fast onset when taken sublingual"
+            ],
+            "Notes": [
+                "Very good sleep-aid when {sub 'melatonin'} isn't enough anymore.",
+                "Very little hangover effects, even when taken in the middle of the night",
+                "Can even be pretty effective when taken in doses as low as 2.5mg",
+                "Tastes very bitter"
+            ],
+            "Sources": [ 
+                "Zolpidem tablets BP 10mg"
             ]
         },
         {
@@ -906,6 +971,9 @@
             ],
             "Sources": [
                 "Zop Tablets Zopiclone Tablets IP 7.5mg"
+            ],
+            "Notes":[
+                "too much hangover effects on the next morning to be taken regulary"
             ]
         },
         {
@@ -936,6 +1004,7 @@
         },
         {
             "Name": "Neomycin",
+            "Indication": "fresh self harm wound",
             "Routes": [
                 {
                     "Name": "transdermal"
@@ -947,6 +1016,7 @@
         },
         {
             "Name": "Clostebol acetate",
+            "Indication": "fresh self harm wound",
             "Routes": [
                 {
                     "Name": "transdermal"
@@ -1143,7 +1213,8 @@
                 "{sev 'light'} {xeff 'decreased-libido'}"
             ],
             "Notes": [
-                "stronger sleep aid than {sub 'melatonin'}, useful when {sub 'melatonin'} is insufficient."
+                "stronger sleep aid than {sub 'melatonin'}, useful when {sub 'melatonin'} is insufficient.",
+                "moderate hangover"
             ],
             "Sources": [
                 "German Pharmacy: SchlafTabs-Ratiopharm",
@@ -1192,6 +1263,9 @@
             ],
             "Source": [
                 "Promethazin-neuraxpharm 25mg tablet"
+            ],
+            "Notes":[
+                "too much hangover effects on the next morning to be taken regulary"
             ]
         },
         {
@@ -1283,7 +1357,12 @@
         },
         {
             "Name": "Venlafaxine",
-            "Indication": "{wkp 'Major_depressive_episode'}, probably F33.1 (self diagnosed)",
+           "Indication": [
+                "unstable mood",
+                "{wkp 'Major_depressive_episode'}, probably F33.1 (self diagnosed)",
+                "random suicidal breakdowns",
+                "{wkp 'Anxiety_disorder'}"
+            ],
             "Salts": [
                 "hydrochloride"
             ],
@@ -1292,6 +1371,38 @@
                     "Name": "Oral",
                     "Dosage": "75mg"
                 } 
+            ],
+            "DEffects": [
+                {
+                    "Condition": "Effects in the first few days",
+                    "Effects": [
+                        "{sev 'moderate'} {xeff 'emotion-suppression'}; everything feels numb",
+                        "{sev 'moderate'} {xeff 'depression-reduction'}; everything feels kinda okay",
+                        "{sev 'light'} {xeff 'anxiety-suppression'}",
+                        "less hyperactivity"
+                    ]
+                },
+                {
+                      "Condition": "Side-effects in the first few days",
+                      "Effects": [
+                        "{sev 'strong'} pupil dilation",
+                        "{sev 'moderate'} {xeff 'nausea'}/Dizziness; got much better on the second/third day",
+                        "{sev 'moderate'} Loss of appetite; got better on the third day",
+                        "Various GI problems",
+                        "{xeff 'orgasm-suppression'}",
+                        "jaw feels slightly tense",
+                        "{sev 'light'} {xeff 'confusion'}/disassociating sometimes?",
+                        "{sev 'light'} {xeff 'sedation'}",
+                        "{sev 'light'} {xeff 'sleepiness'}",
+                        "{sev 'light'} insomnia",
+                        "{sev 'light'} {xeff 'thought-deceleration'}",
+                        "{wkp 'Hyperhidrosis'}; started on day 4",
+                        "very {sev 'light'} open/closed eye hallucinations; {sev 'moderate'} when {sub 'zolpidem'} (2.5mg) is taken"
+                    ]
+                }
+            ],
+            "Sources": [
+                "Venlafaxin Aurobindo 75mg XR capsules"
             ]
         },
         {
@@ -1380,7 +1491,7 @@
                 }
             ],
             "Effects": [
-                "{wkp 'Erection's} are easier to get and more intense"
+                "{wkp 'Erection'}s are easier to get and more intense"
             ]
         },
         {
@@ -1512,8 +1623,7 @@
                     "Dosage": "0.125mg"
                 },
                 {
-                    "Name": "insufflated",
-                    "Dosage": ""
+                    "Name": "insufflated"
                 }
             ],
             "Notes":[
@@ -1522,7 +1632,10 @@
         },
         {
             "Name": "Pregabalin",
-            "Indication": "{xeff 'anxiety'}",
+            "Indication":[
+                "{xeff 'anxiety'}",
+                "{wkp 'Anxiety_disorder'}"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
@@ -1530,7 +1643,7 @@
                 },
                 {
                     "Name": "insufflated",
-                    "Dosage": "100mg"
+                    "Dosage": "50-100mg"
                 }
             ],
             "Effects": [
@@ -1755,6 +1868,7 @@
             "Notes": [
                 "My favorite sleep aid, hangover is non existent and the availability is very good",
                 "Doses over 0.5mg make no sense",
+                "Seems to hit harder and faster rectally",
                 "Ineffective while on stimulants"
             ],
             "Sources": [
@@ -1775,6 +1889,12 @@
                 {
                     "Name": "smoked"
                 }
+            ],
+            "Notes":[
+                "vaped via a ceramic coil vape"
+            ],
+            "Sources": [
+                "NL RC Vendor: 5-MeO-DMT"
             ]
         },
         {
