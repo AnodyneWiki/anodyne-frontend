@@ -399,6 +399,7 @@
 	{ "Title": "Ketoprofen", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic" ] },
 	{ "Title": "Metacetamol" },
 	{ "Title": "Diclofenac", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic" ] },
+	{ "Title": "Flurbiprofen", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic", "Antipyretics" ] },
 
 	{ "Title": "Acetanilide" },
 	{ "Title": "Paracetamol", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic" ] },
