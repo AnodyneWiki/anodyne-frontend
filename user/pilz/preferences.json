@@ -16,18 +16,25 @@
     "Psyche": {
         "Interests": [
             "{wkp 'Pharmacology'}",
+            "Psychedelics",
             "{wkp 'Compounding'}",
             "{wkp 'train'}s",
             "networking",
             "declarative configuration of computers"
         ],
         "Attributes": [
-          "{wkp 'asperger syndrome'} (diagnosed F84.5G)",
-          "{wkp 'transsexual'} (diagnosed F64.0G)",
-          "{wkp 'attention deficit hyperactivity disorder'} (diagnosed F90.0F)",
+          "{wkp 'asperger syndrome'} (diagnosed F84.5G); diagnosed as a child",
+          "{wkp 'transsexual'} (diagnosed F64.0G); on HRT since 04/2023",
+          "{wkp 'attention deficit hyperactivity disorder'} (diagnosed F90.0F); self medicating since 09/2025",
           "{wkp 'Mixed anxiety–depressive disorder'} (diagnosed F41.2F)",
           "{wkp 'Social_rejection#Rejection_sensitivity'} (self diagnosed)",
-          "{wkp 'Major_depressive_episode'}, probably F33.1 (self diagnosed)"
+          "{wkp 'Major_depressive_episode'}, probably F33.1 (since 04/2026); before that F33.0 (since 2022/2023) (self diagnosed), self medicated with {sub 'ketamine'} and {sub 'venlafaxine'}",
+          "Various sleeping issues/{wkp 'insomnia'} (self diagnosed); self medicated with {sub 'melatonin'}, {sub 'Magnesium'} bisglycinate, {sub 'Tryptophan'} and other sleep aids",
+          "reaccuring {xeff 'suicidal-ideation'}; since ~2024",
+          "{wkp 'Self-harm'} (cutting/hitting); since 10/2025; ",
+          "Arachnoid cyst, no symptoms (G93.0, diagnosed in 2019)",
+          "{wkp 'Nocturnal_enuresis'} (F98.0); stopped when got 14",
+          "GI tract issues"
         ]
     },
     "RoutesOfAdministration": [
@@ -286,7 +293,7 @@
                 "{xeff 'stimulation'}; very helpful aginst ADHD",
                 "{xeff 'motivation-enhancement'}",
                 "sometimes {xeff 'sleepiness'}; caffeine while using {sub 'Methylphenidate'} helps against that",
-                "{sev 'light'} {xeff 'decreased-libido'}"
+                "{sev 'light'} {xeff 'decreased-libido'} or  {xeff 'increased-libido'}"
             ],
             "Notes": [
                 "Good ADHD-Medication",
@@ -380,8 +387,8 @@
                 "Best ADHD-Medication ive tried"
             ],
             "Sources": [
-                "Elvanse Capusles",
-                "Lisdexamphetamin ratiopharm capsules"
+                "Elvanse capusles",
+                "Lisdexamphetamin-ratiopharm capsules"
             ]
         },
         {
@@ -422,11 +429,19 @@
                     "Dosage": "50mg"
                 }
             ],
-            "Effects":[
+            "Effects": [
                 "{sev 'light'} {xeff 'cognitive-euphoria'}",
                 "{xeff 'sedation'}",
                 "{sev 'light'} {xeff 'increased-libido'}",
                 "{sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}"
+            ],
+            "DEffects": [
+                {
+                    "Route": "Insufflated",
+                    "Effects": [
+                        "{sev 'intense'} Nose Burn"
+                    ]
+                }
             ],
             "Notes":[
                 "Burns even more than {sub '2,5-Dimethoxy-4-bromophenethylamine'} when consumed via insufflated"
@@ -449,14 +464,16 @@
             ],
             "Effects": [
                 "{xeff 'stimulation'}",
-                "{xeff 'wakefulness'}",
-                "{xeff 'restless-legs'} in higher doses"
+                "{xeff 'wakefulness'}"
             ],
             "Adverse": [
-                "{sev 'strong'} {xeff 'anxiety'} at high doses"
+                "{sev 'strong'} {xeff 'anxiety'} at high doses",
+                "{xeff 'restless-legs'} in higher doses",
+                "sometimes {sev 'light'} {xeff 'sleepiness'}"
             ],
             "Sources": [
                 "Coffee",
+                "Energy drink",
                 "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets",
                 "Bulk.com 200mg caffeine tablets",
                 "Slovakian pharmacy: Caffetin tablets"
@@ -494,6 +511,10 @@
                 "{xeff 'stimulation'}",
                 "{xeff 'compulsive-redosing'}"
             ],
+            "Adverse": [
+                "{xeff 'nausea'}",
+                "{xeff 'appetite-suppression'}'"
+            ],
             "Notes": [
                 "Extremly addictive but boring substance",
                 "Most fun in the form of cigarettes",
@@ -503,6 +524,24 @@
                 "Siberia Snus",
                 "Vape",
                 "cigarette"
+            ]
+        },
+        {
+            "Name": "Menthol",
+            "Routes": [
+                {
+                    "Name": "Inhaled"
+                },
+                {
+                    "Name": "Vaporized"
+                },
+                {
+                    "Name": "Smoked"
+                }
+            ],
+            "Effects": [
+                "cooling sensation",
+                "reduces smoking irritation"
             ]
         },
         {
@@ -525,7 +564,7 @@
                 "{xeff 'mouth-numbing'}"
             ],
             "Adverse":[
-                "{sev 'strong'} {xeff 'compulsive-redosing'}"
+                "{sev 'moderate'} {xeff 'compulsive-redosing'}"
             ],
             "Notes":[
                 "comedown is a bit annoying",
@@ -570,6 +609,22 @@
             ],
             "Sources": [
                 "German Amazon"
+            ]
+        },
+        {
+            "Name": "3,4-Dihydroxyphenylalanine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "100mg"
+                }
+            ],
+            "Effects": [
+                "{xeff 'stimulation'}",
+                "{xeff 'motivation-enhancement'}"
+            ],
+            "Sources": [
+                "polish chemical online shop: Levodopa"
             ]
         },
         {
@@ -631,11 +686,17 @@
             "Effects": [
                 "{sev 'strong'} {xeff 'pain-relief'}",
                 "{sev 'strong'} {xeff 'cognitive-euphoria'}",
-                "{sev 'light'} {xeff 'sedation'}",
+                "{sev 'light'} {xeff 'sedation'}"
+            ],
+            "Adverse": [
                 "{sev 'light'} {xeff 'thought-deceleration'}"
             ],
-            "Sources":[
+            "Sources": [
                 "Crushed Oxycodonhydrochlorid Puren 30 mg XR tablet found in the Herrngarten in {wkp 'Darmstadt'}"
+            ],
+            "Notes": [
+                "Less nausea and more euphoria than other opioids",
+                "Proably one of the most addictive substances ive consumed (other than stimulants)"
             ]
         },
         {
@@ -675,11 +736,11 @@
             "Effects": [
                 "{sev 'strong'} {xeff 'pain-relief'}",
                 "{sev 'strong'} {xeff 'cognitive-euphoria'}",
-                "{sev 'light'} {xeff 'sedation'}",
-                "{sev 'light'} {xeff 'thought-deceleration'}"
+                "{sev 'light'} {xeff 'sedation'}"
             ],
             "Adverse": [
-                "{sev 'moderate'} {xeff 'nausea'}"
+                "{sev 'moderate'} {xeff 'nausea'}",
+                "{sev 'light'} {xeff 'thought-deceleration'}"
             ],
             "Sources":[
                 "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"
@@ -696,7 +757,7 @@
             ],
             "Effects": [
                 "{sev 'light'} {xeff 'stimulation'}; very good for doing computer stuff",
-                "{xeff 'sedation'}",
+                "{sev 'light'} {xeff 'sedation'}",
                 "{xeff 'pain-relief'}",
                 "{xeff 'cognitive-euphoria'}",
                 "{sev 'light'} {xeff 'increased-libido'}"
@@ -734,7 +795,8 @@
                 "{sev 'moderate'} {xeff 'thought-deceleration'}"
             ],
             "Adverse": [
-                "{sev 'strong'} {xeff 'nausea'}"
+                "{sev 'strong'} {xeff 'nausea'}",
+                "{wkp 'Vomiting'}"
             ],
             "Notes":[
                 "Very {sev 'strong'} {xeff 'nausea'}, even multiple hours after the ingestion"
@@ -754,9 +816,12 @@
             "Effects": [
                 "{sev 'light'} {xeff 'cognitive-euphoria'} and {sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}",
                 "{sev 'moderate'} {xeff 'increased-libido'}",
+                "{xeff 'double-vision'}; feels like being drunk",
+                "{xeff 'stimulation'} when consumed in lower doses"
+            ],
+            "Adverse": [
                 "{sev 'strong'} {xeff 'sedation'} and {sev 'strong'} {xeff 'sleepiness'} when consumed in high doses",
-                "{xeff 'stimulation'} when consumed in lower doses",
-                "{xeff 'double-vision'}; feels like being drunk"
+                "{xeff 'nausea'} when consumed in high doses"
             ],
             "Notes":[
                 "passed out at around 2/3ml",
@@ -782,6 +847,7 @@
             ],
             "Adverse":[
                 "{xeff 'nausea'} when consumed in high doses",
+                "{wkp 'Vomiting'}",
                 "Partial {xeff 'memory-suppression'} when consumed in high doses"
             ],
             "Notes": [
@@ -810,8 +876,10 @@
                 "{sev 'strong'} {xeff 'sedation'}",
                 "{sev 'moderate'} {xeff 'anxiety-suppression'}",
                 "{sev 'moderate'} {xeff 'memory-suppression'}",
-                "{sev 'moderate'} {xeff 'thought-deceleration'}",
                 "{sev 'light'} {xeff 'muscle-relaxation'}"
+            ],
+            "Adverse": [
+                "{sev 'moderate'} {xeff 'thought-deceleration'}"
             ],
             "Sources": [
                 "Ksalol 1mg Alprazolam tablet"
@@ -833,7 +901,9 @@
             "Effects":[
                 "{sev 'strong'} {xeff 'anxiety-suppression'}",
                 "{sev 'moderate'} {xeff 'sedation'}",
-                "{sev 'moderate'} {xeff 'sleepiness'}",
+                "{sev 'moderate'} {xeff 'sleepiness'}"
+            ],
+            "Adverse": [
                 "{sev 'light'} {xeff 'thought-deceleration'}"
             ],
             "Notes":[
@@ -895,8 +965,14 @@
                     "Dosage": "7.5mg"
                 }
             ],
-            "Effects": [
+            "Effects":[
+                "{sev 'moderate'} {xeff 'anxiety-suppression'}",
+                "{sev 'moderate'} {xeff 'sedation'}",
+                "{sev 'moderate'} {xeff 'sleepiness'}",
                 "stronger {xeff 'memory-suppression'} than other benzos"
+            ],
+            "Adverse": [
+                "{sev 'moderate'} {xeff 'thought-deceleration'}"
             ],
             "Sources": [
                 "Galenika Flormidal 15mg Tablet"
@@ -917,8 +993,10 @@
             "Effects": [
                 "{sev 'strong'} {xeff 'anxiety-suppression'}",
                 "{sev 'moderate'} {xeff 'sedation'}",
-                "{sev 'light'} {xeff 'sleepiness'}",
-                "{sev 'light'} {xeff 'thought-deceleration'}"
+                "{sev 'moderate'} {xeff 'sleepiness'}"
+            ],
+            "Adverse": [
+                "{sev 'moderate'} {xeff 'thought-deceleration'}"
             ],
             "Sources": [
                 "Hemofarm Diazepam HF 10mg Tablet"
@@ -945,16 +1023,18 @@
             ],
             "Effects": [
                 "{sev 'strong'} {xeff 'sedation'} and {sev 'strong'} {xeff 'sleepiness'}",
-                "{sev 'light'} {xeff 'nausea'} and {sev 'moderate'} {xeff 'dizziness'} when taken in high doses; feeling slightly drunk",
                 "{sev 'light'} {xeff 'dream-potentiation'}",
                 "dose dependant open/closed eye hallucinations; stronger when {sub 'venlafaxine'} is taken",
                 "Extremly fast onset when taken sublingual"
             ],
+            "Adverse": [
+                "{sev 'light'} {xeff 'nausea'} and {sev 'moderate'} {xeff 'dizziness'} when taken in high doses; feeling slightly drunk",
+                "Tastes very bitter"
+            ],
             "Notes": [
                 "Very good sleep-aid when {sub 'melatonin'} isn't enough anymore.",
                 "Very little hangover effects, even when taken in the middle of the night",
-                "Can even be pretty effective when taken in doses as low as 2.5mg",
-                "Tastes very bitter"
+                "Can even be pretty effective when taken in doses as low as 2.5mg"
             ],
             "Sources": [ 
                 "Zolpidem tablets BP 10mg"
@@ -968,6 +1048,13 @@
                     "Name": "Oral",
                     "Dosage": "~3.5mg"
                 }
+            ],
+            "Effects": [
+                "{xeff 'sedation'}",
+                "{xeff 'sleepiness'}"
+            ],
+            "Adverse": [
+                "hangover when taken as a sleep aid"
             ],
             "Sources": [
                 "Zop Tablets Zopiclone Tablets IP 7.5mg"
@@ -1086,7 +1173,7 @@
                 }
             ],
             "Sources":[
-                "Estreva gel",
+                "German pharmacy: Estreva gel",
                 "Gynokadin gel"
             ]
         },
@@ -1104,7 +1191,7 @@
                 "Might also increase libido and breast size like {sub 'Progesterone'}"
             ],
             "Sources": [
-                "German Pharmacy"
+                "German Pharmacy: custom made capsules"
             ]
         },
         {
@@ -1179,8 +1266,10 @@
             "Effects":[
                 "{xeff 'sleepiness'}",
                 "{xeff 'sedation'}",
-                "{xeff 'motivation-suppression'}",
                 "{sev 'light'} {xeff 'decreased-libido'}"
+            ],
+            "Adverse": [
+                "{xeff 'motivation-suppression'}"
             ],
             "Notes":[
                 "Less hangover than {sub 'Doxylamine'}",
@@ -1209,12 +1298,14 @@
             "Effects": [
                 "{sev 'strong'} {xeff 'sleepiness'}",
                 "{sev 'moderate'} {xeff 'sedation'}",
-                "{xeff 'motivation-suppression'}",
                 "{sev 'light'} {xeff 'decreased-libido'}"
             ],
+            "Adverse": [
+                "{xeff 'motivation-suppression'}",
+                "{sev 'moderate'} hangover"
+            ],
             "Notes": [
-                "stronger sleep aid than {sub 'melatonin'}, useful when {sub 'melatonin'} is insufficient.",
-                "moderate hangover"
+                "stronger sleep aid than {sub 'melatonin'}, useful when {sub 'melatonin'} is insufficient."
             ],
             "Sources": [
                 "German Pharmacy: SchlafTabs-Ratiopharm",
@@ -1223,7 +1314,10 @@
         },
         {
             "Name": "Hydroxyzine",
-            "Indication": "Hyperactivity before a flight",
+            "Indication": [
+                "Hyperactivity before a flight",
+                "{wkp 'Anxiety_disorder'}"
+            ],
             "Salts": [
                 "hydrochloride"
             ],
@@ -1237,16 +1331,21 @@
             "Effects": [
                 "{sev 'moderate'} {xeff 'anxiety-suppression'}",
                 "{sev 'light'} {xeff 'sedation'}",
-                "{sev 'light'} {xeff 'sleepiness'}",
+                "{sev 'light'} {xeff 'sleepiness'}"
+            ],
+            "Adverse": [
                 "{sev 'light'} {xeff 'thought-deceleration'}"
             ],
             "Source": [
                 "Turkish pharmacy: Atarax 25mg tablets"
-            ]
+            ],
+            "Notes": [
+                "good non addictive alternative to benzodiazepines"
+            ] 
         },
         {
             "Name": "Promethazine",
-            "Indication": "{wkp 'Insomnia'}",
+            "Indication": "{wkp 'Insomnia'}, acute {sev 'light'} discomfort/panic",
             "Salts": [
                 "hydrochloride"
             ],
@@ -1257,15 +1356,15 @@
                 }
             ],
             "Effects": [
-                "{sev 'strong'} {xeff 'sleepiness'}",
-                "{sev 'strong'} {xeff 'sedation'}",
+                "{sev 'moderate'} {xeff 'sleepiness'}",
+                "{sev 'moderate'} {xeff 'sedation'}"
+            ],
+            "Adverse": [
+                "{sev 'light'} hangover",
                 "{sev 'light'} {xeff 'motivation-suppression'}"
             ],
             "Source": [
                 "Promethazin-neuraxpharm 25mg tablet"
-            ],
-            "Notes":[
-                "too much hangover effects on the next morning to be taken regulary"
             ]
         },
         {
@@ -1293,11 +1392,17 @@
             ],
             "Effects": [
                 "{sev 'strong'} {xeff 'sedation'} to the point of barely passing out",
-                "{xeff 'sleepiness'}"
+                "{sev 'strong'} {xeff 'sleepiness'}",
+                "{sev 'strong'} {xeff 'thought-deceleration'}",
+                "{sev 'light'} {xeff 'anxiety-suppression'}"
+            ],
+            "Adverse": [
+                "{sev 'strong'} hangover when taken as a sleep aid",
+                "feeling fried and unable to do anything for 18 hours"
             ],
             "Notes": [
                 "Helpful as a tripkiller",
-                "Very effective as a sleep aid; but has a hangover"
+                "Very effective as a sleep aid"
             ],
             "Sources": [
                 "Quetiapin-neuraxpharm 50mg tablets"
@@ -1356,8 +1461,17 @@
             ]
         },
         {
+            "Name": "Octenidine",
+            "Indication": "antisepectic wound treatment",
+            "Routes": [
+                {
+                "Name": "Dermal"
+                }
+            ]
+        },
+        {
             "Name": "Venlafaxine",
-           "Indication": [
+            "Indication": [
                 "unstable mood",
                 "{wkp 'Major_depressive_episode'}, probably F33.1 (self diagnosed)",
                 "random suicidal breakdowns",
@@ -1369,8 +1483,8 @@
             "Routes": [
                 {
                     "Name": "Oral",
-                    "Dosage": "75mg"
-                } 
+                    "Dosage": "75-150mg"
+                }
             ],
             "DEffects": [
                 {
@@ -1383,11 +1497,11 @@
                     ]
                 },
                 {
-                      "Condition": "Side-effects in the first few days",
+                      "Condition": "Adverse-effects in the first few days",
                       "Effects": [
                         "{sev 'strong'} pupil dilation",
                         "{sev 'moderate'} {xeff 'nausea'}/Dizziness; got much better on the second/third day",
-                        "{sev 'moderate'} Loss of appetite; got better on the third day",
+                        "{sev 'moderate'} {xeff 'appetite-suppression'}; got better on the third day",
                         "Various GI problems",
                         "{xeff 'orgasm-suppression'}",
                         "jaw feels slightly tense",
@@ -1399,7 +1513,24 @@
                         "{wkp 'Hyperhidrosis'}; started on day 4",
                         "very {sev 'light'} open/closed eye hallucinations; {sev 'moderate'} when {sub 'zolpidem'} (2.5mg) is taken"
                     ]
+                },
+                {
+                    "Condition": "Effects after 7 Days",
+                    "Effects": [
+                        "{sev 'moderate'} to {sev 'strong'} {xeff 'anxiety-suppression'}; also seems to help with rejection sensitive dysphoria",
+                        "{sev 'moderate'} {xeff 'depression-reduction'}; feeling way more active and less doomed",
+                        "{sev 'light'} sleep issues",
+                        "{sev 'light'} aggressive/unhinged behavior",
+                        "self harm and suicidal ideation",
+                        "sometimes {sev 'light'} to {sev 'moderate'} {xeff 'nausea'} attacks; especially after eating too much food",
+                        "{xeff 'appetite-enhancement'} or Loss of appetite",
+                        "{sev 'light'} {xeff 'emotion-suppression'}; it feels like i can't feel as much emotions"
+                    ]
                 }
+            ],
+            "Notes": [
+                "150mg/day seem to much for me",
+                "Effects stabilized after 5-7 days"
             ],
             "Sources": [
                 "Venlafaxin Aurobindo 75mg XR capsules"
@@ -1466,6 +1597,19 @@
             ]
         },
         {
+            "Name": "Domperidone",
+            "Indication": "{xeff 'nausea'}",
+            "Routes": [
+                {
+                "Name": "Oral",
+                "Dosage": "10mg"
+                }
+            ],
+            "Sources": [
+                "Italian pharmacy: Domperidone Teva 10mg tablets"
+            ]
+        },
+        {
             "Name": "Sildenafil",
             "Salts": [
                 "Citrate"
@@ -1474,7 +1618,7 @@
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "22-50mg"
+                    "Dosage": "22-75mg"
                 }
             ],
             "Effects": [
@@ -1542,7 +1686,7 @@
                 "Might help with pain better than {sub 'Ibuprofen'}"
             ],
             "Sources": [
-                "Polish Pharmacy: Ketonal"
+                "Polish Pharmacy: Ketonal 50mg Capsules"
             ]
         },
         {
@@ -1654,17 +1798,19 @@
                 "{sev 'light'} {xeff 'pain-relief'}",
                 "{sev 'light'} {xeff 'emotion-suppression'}; might be helpful with autism or overwhelming emotions"
             ],
+            "Adverse": [
+                "Might cause {xeff 'memory-suppression'} when consumed regularly at higher doses"
+            ],
             "Notes": [
                 "Consuming ~120mg daliy from 1-2026 till 6-2026 because of stress and {xeff 'anxiety'}",
                 "Snorting pregabalin is not worth it, but it will have a stronger peak and shorter duration",
-                "Improves sleep quality",
-                "Might cause {xeff 'memory-suppression'} when consumed regularly at higher doses"
+                "Improves sleep quality"
             ],
             "Sources": [
-                "Pregabalin Aurobindo 200mg capsules",
                 "Pregabalin Vivanta 200mg capsules",
-                "Pregabalin Aurobindo 50mg capsules",
+                "Pregabalin Aurobindo 200mg capsules",
                 "Pregabalin Aurobindo 75mg capsules",
+                "Pregabalin Aurobindo 50mg capsules",
                 "Powder from chinese vendor"
             ]
         },
@@ -1685,13 +1831,14 @@
                 "{xeff 'environmental-cubism'}/{xeff 'visual-stretching'}; it felt like my door was moving with music",
                 "{xeff 'perspective-hallucination'}; allowed me to reflect on my life from a different perspective",
                 "{xeff 'tactile-suppression'} + {xeff 'pain-relief'}",
-                "{xeff 'thought-deceleration'}, {xeff 'confusion'}, {xeff 'analysis-suppression'}; sometimes feeling stupid",
                 "{xeff 'increased-sense-of-humor'}",
                 "{sev 'moderate'} {xeff 'anxiety-suppression'}",
                 "{sev 'moderate'} {xeff 'motivation-enhancement'} and {xeff 'depression-reduction'} in the days after using {sub 'Ketamine'}"
             ],
             "Adverse": [
-                "{xeff 'nausea'} when consumed in high doses"
+                "{xeff 'nausea'} when consumed in high doses",
+                "{wkp 'Vomiting'}",
+                "{xeff 'thought-deceleration'}, {xeff 'confusion'}, {xeff 'analysis-suppression'}; sometimes feeling stupid"
             ],
             "Sources": [
                 "S-Ketamine: DNM Germany"
@@ -1712,6 +1859,9 @@
                 "{xeff 'auditory-distortion'}",
                 "{xeff 'time-distortion'}"
             ],
+            "Adverse": [
+                "{xeff 'thought-deceleration'} after use"
+            ],
             "Sources": [
                 "Corner shop (Frankfurt Bahnhofviertel): Exotic Whip"
             ]
@@ -1724,9 +1874,11 @@
                 }
             ],
             "Effects": [
-                "{sev 'moderate'} {xeff 'headache'}",
                 "{sev 'moderate'} {xeff 'increased-heart-rate'}",
                 "{sev 'light'} {xeff 'cognitive-euphoria'}"
+            ],
+            "Adverse": [
+                "{sev 'moderate'} {xeff 'headache'}"
             ],
             "Sources": [
                 "self synthesized at home"
@@ -1783,6 +1935,12 @@
             ],
             "Sources": [
                 "German Amazon"
+            ]
+        },
+        {
+            "Name": "Valerian root extract",
+            "Notes":[
+                "Unsure about the effects"
             ]
         },
         {
@@ -1944,7 +2102,9 @@
                 "{xeff 'drifting'}",
                 "{xeff 'geometry'}",
                 "{xeff 'colour-enhancement'}",
-                "{sev 'light'} {xeff 'stimulation'}",
+                "{sev 'light'} {xeff 'stimulation'}"
+            ],
+            "Adverse": [
                 "{sev 'light'} {xeff 'nausea'} that fades away after the comeup"
             ],
             "Notes": [
@@ -2007,7 +2167,7 @@
             ],
             "Notes": [
                 "Very interesting closed eye visuals",
-                "Barely any {xeff 'anxiety'} compared to other psychedelics"
+                "Barely any {xeff 'anxiety'} red to other psychedelics"
             ]
         },
         {
@@ -2042,6 +2202,7 @@
             ],
             "Adverse": [
                 "{sev 'light'} {xeff 'anxiety'}",
+                "{wkp 'Vomiting'}",
                 "{sev 'moderate'} {xeff 'nausea'} that fades away after the comeup"
             ],
             "Notes": [
