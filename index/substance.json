@@ -1887,6 +1887,25 @@
 
 	{ "Title": "Xylometazoline", "Classes": [ "Nasal Decongestant" ] },
 	{ "Title": "Oxymetazoline", "Classes": [ "Nasal Decongestant" ] },
-	{ "Title": "Tramazoline", "Classes": [ "Nasal Decongestant" ] }
-]
+	{ "Title": "Tramazoline", "Classes": [ "Nasal Decongestant" ] },
+
+	{ "Title": "(7S)-6,7-Dihydro-4,7-dimethyl-5H-cyclopenta(c)pyridine" },
+	{ "Title": "Gamma-Aminobutyric-Acid" },
+	{ "Title": "Pentanoic-Acid" },
+	{ "Title": "Isovaleric-Acid" },
+	{ "Title": "(-)-Valerenic acid" },
+	{ "Title": "Bornyl acetate" },
+	{ "Title": "Paynantheine" },
+	{ "Title": "Corynantheidine" },
+	{ "Title": "Speciogynine" },
+	{ "Title": "Mitraphylline" },
+	{ "Title": "Rhynchophylline" },
+	{ "Title": "(-)-Mitralactonal" },
+	{ "Title": "Mitragynaline" },
+
+	{ "Title": "Buspirone" },
+	{ "Title": "Ipsapirone" },
+	{ "Title": "Lithium" },
+	{ "Title": "Thiocolchicoside" }
+]	
 }
