@@ -391,16 +391,17 @@
 	{ "Title": "Acetylcysteine", "Abr": "NAC" },
 	{ "Title": "Taurine" },
 
+	{ "Title": "Propyphenazone", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic", "Antipyretics" ] },
 	{ "Title": "Acetylsalicylic acid", "Abr": "ASA", "Classes": [ "Nonsteroidal anti-inflammatory drug" ] },
-	{ "Title": "Ibuprofen", "Classes": [ "Nonsteroidal anti-inflammatory drug" ] },
-	{ "Title": "Ibuprofen Lysine", "Classes": [ "Nonsteroidal anti-inflammatory drug" ] },
-	{ "Title": "Dexibuprofen", "Classes": [ "Nonsteroidal anti-inflammatory drug" ] },
-	{ "Title": "Ketoprofen", "Classes": [ "Nonsteroidal anti-inflammatory drug" ] },
+	{ "Title": "Ibuprofen", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic" ] },
+	{ "Title": "Ibuprofen Lysine", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic" ] },
+	{ "Title": "Dexibuprofen", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic" ] },
+	{ "Title": "Ketoprofen", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic" ] },
 	{ "Title": "Metacetamol" },
-	{ "Title": "Diclofenac", "Classes": [ "Nonsteroidal anti-inflammatory drug" ] },
+	{ "Title": "Diclofenac", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic" ] },
 
 	{ "Title": "Acetanilide" },
-	{ "Title": "Paracetamol", "Classes": [ "Nonsteroidal anti-inflammatory drug" ] },
+	{ "Title": "Paracetamol", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic" ] },
 
 	{ "Title": "Aniracetam" },
 	{ "Title": "Coluracetam" },
@@ -1491,9 +1492,11 @@
 
 	{ "Title": "Minoxidil" },
 
-	{ "Title": "Bilastine" },
-	{ "Title": "Cetirizine" },
-	{ "Title": "Fexofenadine" },
+	{ "Title": "Bilastine", "Classes": [ "Antihistamine" ] },
+	{ "Title": "Cetirizine", "Classes": [ "Antihistamine" ] },
+	{ "Title": "Fexofenadine", "Classes": [ "Antihistamine" ]  },
+	{ "Title": "Loratadine", "Classes": [ "Antihistamine" ] },
+	{ "Title": "Azelastine", "Classes": [ "Antihistamine" ] },
 
 	{ "Title": "Modafinil", "Classes": [ "Eugeroic" ] },
 	{ "Title": "Flmodafinil", "Classes": [ "Eugeroic" ] },
@@ -1501,12 +1504,12 @@
 
 	{ "Title": "Hydroxyzine" },
 
-	{ "Title": "Diphenhydramine", "Abr": "DPH" },
+	{ "Title": "Diphenhydramine", "Abr": "DPH", "Classes": [ "Antihistamine" ] },
 	{ "Title": "Dimenhydrinate" },
 	{ "Title": "Benzydamine" },
 	{ "Title": "Fezolamine" },
 	{ "Title": "Chlorphenamine", "Abr": [ "CP", "CPM" ] },
-	{ "Title": "Doxylamine" },
+	{ "Title": "Doxylamine", "Classes": [ "Antihistamine" ]  },
 
 	{ "Title": "Sulpiride", "Brand": [ "Dogmatil" ] },
 	{ "Title": "Sultopride", "Brand": [ "Barnetil", "Barnotil", "Topral" ] },
@@ -1573,6 +1576,7 @@
 	{ "Title": "Prednisolone" },
 	{ "Title": "Budesonide" },
 	{ "Title": "Aldosterone", "Classes": [ "Mineralocorticoid" ] },
+	{ "Title": "Mometasone Furoate" },
 
 	{ "Title": "Rocuronium bromide" },
 	{ "Title": "Batrachotoxin", "Abr": "BTX", "Classes": [ "Neurotoxin", "Sodium channel opener" ] },
@@ -1667,6 +1671,7 @@
 	{ "Title": "Testosterone", "Classes": [ "Androgen" ] },
 	{ "Title": "Dihydrotestosterone", "Abr": "DHT", "Classes": [ "Androgen" ] },
 	{ "Title": "Androstenedione", "Abr": "A4", "Classes": [ "Androgen" ] },
+	{ "Title": "Clostebol acetate" },
 
 	{ "Title": "Nandrolone", "Classes": [ "Androgen" ], "HasEsters": true },
 	{ "Title": "Nandrolone phenylpropionate", "Abr": "NPP", "EsterOf": "Nadrolone" },
@@ -1811,6 +1816,8 @@
 	{ "Title": "Benzylpenicillin", "Classes": [ "Antibiotic" ] },
 	{ "Title": "Amoxicillin", "Classes": [ "Antibiotic" ] },
 	{ "Title": "Phenoxymethylpenicillin", "Classes": [ "Antibiotic" ] },
+	{ "Title": "Neomycin", "Classes": [ "Antibiotic" ] },
+	{ "Title": "Furagin", "Classes": [ "Antibiotic" ] },
 
 	{ "Title": "Perfluorooctanoic acid", "Abr": "PFOA" },
 
@@ -1856,7 +1863,7 @@
 	{ "Title": "Toxiferine" , "Classes": [ "Neurotoxin", "Nicotinic antagonist" ] },
 	
 	{ "Title": "Ampyrone" , "Classes": [ "Analgesic", "Antipyretics" ] },
-	{ "Title": "Metamizole" , "Classes": [ "Analgesic", "Antipyretics", "CYP3A4 inducer" ] },
+	{ "Title": "Metamizole" , "Classes": [ "Analgesic", "Antipyretics", "CYP3A4 inducer", "Nonsteroidal anti-inflammatory drug" ] },
 	{ "Title": "Fenadiazole" , "Classes": [ "Sedative" ] },
 
 	{ "Title": "Octenidine", "Classes": [ "Antiseptic" ] },
@@ -1875,6 +1882,10 @@
 	{ "Title": "Carbon", "Classes": [ "Absorbant" ] },
 	{ "Title": "Magnesium", "Classes": [ "Nutrient" ] },
 	{ "Title": "Bicarbonate" },
-	{ "Title": "Xenon", "Classes": [ "N-Methyl-D-aspartic acid receptor antagonist" ] }
+	{ "Title": "Xenon", "Classes": [ "N-Methyl-D-aspartic acid receptor antagonist" ] },
+
+	{ "Title": "Xylometazoline", "Classes": [ "Nasal Decongestant" ] },
+	{ "Title": "Oxymetazoline", "Classes": [ "Nasal Decongestant" ] },
+	{ "Title": "Tramazoline", "Classes": [ "Nasal Decongestant" ] }
 ]
 }
