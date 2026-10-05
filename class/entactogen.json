@@ -1,6 +1,57 @@
 {
   "Name": "entactogen",
   "Entries": [
-
+    {
+      "Title": "6,7-Methylenedioxy-2-aminotetralin",
+      "Abr": "MDAT"
+    },
+    {
+      "Title": "4-Fluoromethamphetamine",
+      "Abr": "4-FMA"
+    },
+    {
+      "Title": "3-Fluoroethamphetamine",
+      "Abr": "3-FEA"
+    },
+    {
+      "Title": "4-Methylthioamphetamine",
+      "Abr": "4-MTA"
+    },
+    {
+      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
+      "Abr": "Lys-MDMA"
+    },
+    {
+      "Title": "3,4-Methylenedioxyamphetamine",
+      "Abr": "MDA"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-3-methylaminobutane",
+      "Abr": "Homo-MDMA"
+    },
+    {
+      "Title": "3,4-Methylenedioxymephenidine",
+      "Abr": "UWA-001"
+    },
+    {
+      "Title": "α-Ethyltryptamine",
+      "Abr": "αET"
+    },
+    {
+      "Title": "α,N-Dimethyl-β-ketotryptamine",
+      "Abr": "βk-NM-αMT"
+    },
+    {
+      "Title": "α,N-Dimethyl-5-fluoro-β-ketotryptamine",
+      "Abr": "βk-5F-NM-αMT"
+    },
+    {
+      "Title": "α,N-Dimethyl-5-chloro-β-ketotryptamine",
+      "Abr": "βk-5Cl-NM-αMT"
+    },
+    {
+      "Title": "α,N-Dimethyl-5-bromo-β-ketotryptamine",
+      "Abr": "βk-5Br-NM-αMT"
+    }
   ]
 }

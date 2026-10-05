@@ -1,0 +1,32 @@
+{
+  "Name": "antibiotic",
+  "Entries": [
+    {
+      "Title": "Clindamycin"
+    },
+    {
+      "Title": "Tyrothricin"
+    },
+    {
+      "Title": "Isoniazid"
+    },
+    {
+      "Title": "Doxycycline"
+    },
+    {
+      "Title": "Benzylpenicillin"
+    },
+    {
+      "Title": "Amoxicillin"
+    },
+    {
+      "Title": "Phenoxymethylpenicillin"
+    },
+    {
+      "Title": "Neomycin"
+    },
+    {
+      "Title": "Furagin"
+    }
+  ]
+}

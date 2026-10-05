@@ -1,0 +1,30 @@
+{
+  "Name": "neurotransmitter",
+  "Entries": [
+    {
+      "Title": "Acetylcholine",
+      "Abr": "ACh"
+    },
+    {
+      "Title": "Dopamine",
+      "Abr": "DA"
+    },
+    {
+      "Title": "Octopamine",
+      "Abr": "OCT"
+    },
+    {
+      "Title": "Epinine"
+    },
+    {
+      "Title": "Tyramine"
+    },
+    {
+      "Title": "Meta-Tyramine"
+    },
+    {
+      "Title": "Serotonin",
+      "Abr": "5-HT"
+    }
+  ]
+}

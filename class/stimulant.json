@@ -53,7 +53,10 @@
     },
     {
       "Title": "4-Methylamphetamine",
-      "Abr": "4-MA",
+      "Abr": [
+        "4-MA",
+        "4MA"
+      ],
       "MW": "149.23 g/mol"
     },
     {
@@ -118,7 +121,7 @@
     },
     {
       "Title": "Cocaine",
-      "Abr": "",
+      "Abr": "Coke",
       "MW": "303.35 g/mol"
     },
     {
@@ -173,7 +176,10 @@
     },
     {
       "Title": "Mephedrine",
-      "Abr": "4-MMA",
+      "Abr": [
+        "4-MMA",
+        "4MMA"
+      ],
       "MW": "163.26 g/mol"
     },
     {
@@ -243,7 +249,7 @@
     },
     {
       "Title": "Pyrovalerone",
-      "Abr": "",
+      "Abr": "O-2371",
       "MW": "245.36 g/mol"
     },
     {
@@ -288,7 +294,10 @@
     },
     {
       "Title": "α-Pyrrolidinopentiophenone",
-      "Abr": "α-PVP",
+      "Abr": [
+        "α-PVP",
+        "O-2387"
+      ],
       "MW": "231.33 g/mol"
     },
     {
@@ -303,13 +312,449 @@
     },
     {
       "Title": "Amphetamine",
-      "Abr": "",
+      "Abr": "Speed",
       "MW": "135.21 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-fluoroamphetamine",
       "Abr": "DOF",
       "MW": "213.25 g/mol"
+    },
+    {
+      "Title": "1,4-Dimethylamylamine",
+      "Abr": "1,4-DMAA"
+    },
+    {
+      "Title": "Octodrine"
+    },
+    {
+      "Title": "Phenpromethamine",
+      "Abr": "BMMPEA"
+    },
+    {
+      "Title": "β-Methylamphetamine",
+      "Abr": [
+        "BMA",
+        "βMA"
+      ]
+    },
+    {
+      "Title": "β,N,N-Trimethylphenethylamine",
+      "Abr": "DMPPA"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylmethamphetamine",
+      "Abr": [
+        "Beatrice",
+        "N-methyl-DOM",
+        "MDO-D",
+        "MDOM"
+      ]
+    },
+    {
+      "Title": "Benzphetamine"
+    },
+    {
+      "Title": "Clobenzorex"
+    },
+    {
+      "Title": "2-Aminotetralin",
+      "Abr": "2-AT"
+    },
+    {
+      "Title": "2-Amino-1,2-dihydronaphthalene",
+      "Abr": "2-ADN"
+    },
+    {
+      "Title": "Lorcaserin"
+    },
+    {
+      "Title": "Pentylenetetrazol"
+    },
+    {
+      "Title": "Dextroamphetamine"
+    },
+    {
+      "Title": "Levoamphetamine"
+    },
+    {
+      "Title": "N,N-Dimethylphenethylamine",
+      "Abr": "N,N-DMPEA"
+    },
+    {
+      "Title": "β-Phenylmethamphetamine"
+    },
+    {
+      "Title": "4-Phenylmethamphetamine",
+      "Abr": [
+        "BPMA"
+      ]
+    },
+    {
+      "Title": "N-Formylamphetamine"
+    },
+    {
+      "Title": "N-Hydroxyamphetamine",
+      "Abr": [
+        "NOHA",
+        "N-OH-A"
+      ]
+    },
+    {
+      "Title": "N-Hydroxymethamphetamine",
+      "Abr": [
+        "NOHMA",
+        "N-OH-MA"
+      ]
+    },
+    {
+      "Title": "N-Acetylamphetamine"
+    },
+    {
+      "Title": "α-Pyrrolidinopentiothiophenone"
+    },
+    {
+      "Title": "4'-Methoxy-α-pyrrolidinopropiophenone",
+      "Abr": [
+        "4-MeO-α-PPP",
+        "MOPPP"
+      ]
+    },
+    {
+      "Title": "4'-Methoxy-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "4-MeO-α-PVP",
+        "MOPVP",
+        "O-2417"
+      ]
+    },
+    {
+      "Title": "3',4'-Dimethoxy-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "DMPV",
+        "3,4-DMPV",
+        "DMPVP",
+        "O-2512"
+      ]
+    },
+    {
+      "Title": "3'-Methyl-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "3-Me-PVP",
+        "3-Me-α-PVP",
+        "O-2480"
+      ]
+    },
+    {
+      "Title": "Dextromethamphetamine"
+    },
+    {
+      "Title": "Levomethamphetamine"
+    },
+    {
+      "Title": "Propylamphetamine",
+      "Abr": "PA"
+    },
+    {
+      "Title": "Isopropylamphetamine",
+      "Abr": "IA"
+    },
+    {
+      "Title": "2-Naphthylaminopropane",
+      "Abr": "NAP"
+    },
+    {
+      "Title": "β-Hydroxymethamphetamine"
+    },
+    {
+      "Title": "2-Fluoromethamphetamine",
+      "Abr": "2-FMA"
+    },
+    {
+      "Title": "2-Fluoroamphetamine",
+      "Abr": "2-FA"
+    },
+    {
+      "Title": "3-Fluoroamphetamine",
+      "Abr": "3-FA"
+    },
+    {
+      "Title": "4-Fluoroamphetamine",
+      "Abr": "4-FA"
+    },
+    {
+      "Title": "4-Fluoromethamphetamine",
+      "Abr": "4-FMA"
+    },
+    {
+      "Title": "3-Fluoroethamphetamine",
+      "Abr": "3-FEA"
+    },
+    {
+      "Title": "Lisdexamphetamine",
+      "Abr": "Vyvanse"
+    },
+    {
+      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxyamphetamine",
+      "Abr": "Lys-MDA"
+    },
+    {
+      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
+      "Abr": "Lys-MDMA"
+    },
+    {
+      "Title": "Mefenorex"
+    },
+    {
+      "Title": "Flucetorex"
+    },
+    {
+      "Title": "Benfluorex"
+    },
+    {
+      "Title": "Tiflorex"
+    },
+    {
+      "Title": "Morforex"
+    },
+    {
+      "Title": "Fenproporex"
+    },
+    {
+      "Title": "Acridorex"
+    },
+    {
+      "Title": "Fenethylline"
+    },
+    {
+      "Title": "ZDCM-04"
+    },
+    {
+      "Title": "Phenatine"
+    },
+    {
+      "Title": "Mesocarb",
+      "Abr": "MLR-1017"
+    },
+    {
+      "Title": "Bromantane"
+    },
+    {
+      "Title": "3,4-Methylenedioxyphenylaminobutane",
+      "Abr": "Homo-MDA"
+    },
+    {
+      "Title": "Pipradrol"
+    },
+    {
+      "Title": "Dexmethylphenidate",
+      "Abr": "d-MPH"
+    },
+    {
+      "Title": "3-Chloromethylphenidate",
+      "Abr": "3-Cl-MPH"
+    },
+    {
+      "Title": "3-Bromomethylphenidate",
+      "Abr": "3-Br-MPH"
+    },
+    {
+      "Title": "3-Methylmethylphenidate",
+      "Abr": "3-Me-MPH"
+    },
+    {
+      "Title": "4-Fluoromethylphenidate",
+      "Abr": "4-FMPH"
+    },
+    {
+      "Title": "Phenylpiperazine",
+      "Abr": [
+        "PP",
+        "PP-1"
+      ]
+    },
+    {
+      "Title": "2-Methylphenylpiperazine",
+      "Abr": "oMPP"
+    },
+    {
+      "Title": "4-Methylphenylpiperazine",
+      "Abr": "4-MPP"
+    },
+    {
+      "Title": "2,3-Dimethylphenylpiperazine",
+      "Abr": "2,3-DMPP"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromophenylpiperazine",
+      "Abr": "2C-B-PP"
+    },
+    {
+      "Title": "2-Benzylpiperidine",
+      "Abr": "2-BZPD"
+    },
+    {
+      "Title": "Phacetoperane"
+    },
+    {
+      "Title": "1-Benzylpiperazine",
+      "Abr": [
+        "BZP",
+        "1-BZP"
+      ]
+    },
+    {
+      "Title": "2-Benzylpiperazine",
+      "Abr": "2-BZP"
+    },
+    {
+      "Title": "Methylbenzylpiperazine",
+      "Abr": "MBZP"
+    },
+    {
+      "Title": "3-Methylbenzylpiperazine",
+      "Abr": "3-MBZP"
+    },
+    {
+      "Title": "4-Methylbenzylpiperazine",
+      "Abr": "4-MBZP"
+    },
+    {
+      "Title": "3,4-Methylenedioxybenzylpiperazine",
+      "Abr": "MDBZP"
+    },
+    {
+      "Title": "2,5-dimethoxy-4-bromobenzylpiperazine",
+      "Abr": "2C-B-BZP"
+    },
+    {
+      "Title": "Piberaline",
+      "Abr": "EGYT-475"
+    },
+    {
+      "Title": "Benzoylpiperazine",
+      "Abr": "BZOP"
+    },
+    {
+      "Title": "Diethylpropion"
+    },
+    {
+      "Title": "Bupropion"
+    },
+    {
+      "Title": "N-Methylbupropion"
+    },
+    {
+      "Title": "Clephedrone",
+      "Abr": "4-CMC"
+    },
+    {
+      "Title": "α-Methylphenethylpyrrolidine",
+      "Abr": [
+        "MPEP"
+      ]
+    },
+    {
+      "Title": "4'-Fluoro-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "FPVP",
+        "O-2370"
+      ]
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "MDPV",
+        "MDPK"
+      ]
+    },
+    {
+      "Title": "3,4-Ethylenemethcathinone"
+    },
+    {
+      "Title": "3',4'-Ethylene-α-pyrrolidinopentiophenone"
+    },
+    {
+      "Title": "3',4'-Dichloro-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "3,4-DCPV",
+        "DCPVP",
+        "O-2390"
+      ]
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-pyrrolidinohexiophenone",
+      "Abr": "MDPHP"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-pyrrolidinoisohexanophenone",
+      "Abr": "MDPiHP"
+    },
+    {
+      "Title": "3'-Methyl-4'-Fluoro-α-Pyrrolidinovalerophenone",
+      "Abr": "MFPVP"
+    },
+    {
+      "Title": "Zylofuramine"
+    },
+    {
+      "Title": "α-Cyclopropyl-3,4-methylenedioxymethamphetamine",
+      "Abr": "UWA-101"
+    },
+    {
+      "Title": "Cocaethylene"
+    },
+    {
+      "Title": "Para-Chlorophenyltropane",
+      "Abr": "RTI-31"
+    },
+    {
+      "Title": "Tolpane",
+      "Abr": "RTI-32"
+    },
+    {
+      "Title": "Bromopane",
+      "Abr": "RTI-51"
+    },
+    {
+      "Title": "Iometopane",
+      "Abr": "RTI-55"
+    },
+    {
+      "Title": "2-β-Carbomethoxy-3-β-(4-fluorophenyl)tropane",
+      "Abr": "WIN-35428"
+    },
+    {
+      "Title": "2β-Carbomethoxy-3β-(3-methyl-4-chlorophenyl)tropane",
+      "Abr": "RTI-112"
+    },
+    {
+      "Title": "Tesofensine"
+    },
+    {
+      "Title": "Brasofensine"
+    },
+    {
+      "Title": "Troparil"
+    },
+    {
+      "Title": "Dimethocaine"
+    },
+    {
+      "Title": "Procaine"
+    },
+    {
+      "Title": "Alfetamine"
+    },
+    {
+      "Title": "5-Fluoro-tryptamine",
+      "Abr": "5-Fluoro-T"
+    },
+    {
+      "Title": "Nikethamide"
+    },
+    {
+      "Title": "3-FPO"
     }
   ],
   "Subjective Effects": {

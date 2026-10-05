@@ -1,0 +1,100 @@
+{
+  "Name": "prodrug",
+  "Entries": [
+    {
+      "Title": "1-Valeryl-D-lysergic acid diethylamide",
+      "Abr": [
+        "1V-LSD",
+        "Valerie"
+      ]
+    },
+    {
+      "Title": "Benzphetamine"
+    },
+    {
+      "Title": "Clobenzorex"
+    },
+    {
+      "Title": "Dimethylamphetamine",
+      "Abr": "Metrotonin"
+    },
+    {
+      "Title": "Ibopamine"
+    },
+    {
+      "Title": "Butylamphetamine",
+      "Abr": "BA"
+    },
+    {
+      "Title": "Lisdexamphetamine",
+      "Abr": "Vyvanse"
+    },
+    {
+      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxyamphetamine",
+      "Abr": "Lys-MDA"
+    },
+    {
+      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
+      "Abr": "Lys-MDMA"
+    },
+    {
+      "Title": "Mefenorex"
+    },
+    {
+      "Title": "Morforex"
+    },
+    {
+      "Title": "Fenproporex"
+    },
+    {
+      "Title": "Amphecloral"
+    },
+    {
+      "Title": "Fenethylline"
+    },
+    {
+      "Title": "ZDCM-04"
+    },
+    {
+      "Title": "Cafedrine"
+    },
+    {
+      "Title": "Theodrenaline"
+    },
+    {
+      "Title": "4-Fluoroselegiline"
+    },
+    {
+      "Title": "Rasagiline"
+    },
+    {
+      "Title": "Diethylpropion"
+    },
+    {
+      "Title": "Psilacetin",
+      "Abr": "4-AcO-DMT"
+    },
+    {
+      "Title": "Baeocystin",
+      "Abr": "4-PO-NMT"
+    },
+    {
+      "Title": "Codeine"
+    },
+    {
+      "Title": "Diacetylmorphine",
+      "Abr": "Heroin"
+    },
+    {
+      "Title": "Spironolactone"
+    },
+    {
+      "Title": "Estradiol enantate",
+      "Abr": "EEN"
+    },
+    {
+      "Title": "1-Methyl-4-phenylpyridinium",
+      "Abr": "MPTP"
+    }
+  ]
+}

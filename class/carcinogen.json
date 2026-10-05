@@ -1,0 +1,15 @@
+{
+  "Name": "carcinogen",
+  "Entries": [
+    {
+      "Title": "2-Naphthylamine"
+    },
+    {
+      "Title": "Benzyl chloride"
+    },
+    {
+      "Title": "Carbon tetrachloride",
+      "Abr": "Carbon tet"
+    }
+  ]
+}

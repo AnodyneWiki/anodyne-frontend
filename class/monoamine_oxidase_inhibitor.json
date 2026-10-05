@@ -30,6 +30,53 @@
       "Title": "Selegiline",
       "Abr": "",
       "MW": "187.28 g/mol"
+    },
+    {
+      "Title": "Encyprate",
+      "Abr": "MO-1255"
+    },
+    {
+      "Title": "α-Methylbenzylamine",
+      "Abr": "α-PEA"
+    },
+    {
+      "Title": "2-Naphthylaminopropane",
+      "Abr": "NAP"
+    },
+    {
+      "Title": "Pheniprazine"
+    },
+    {
+      "Title": "Metfendrazine"
+    },
+    {
+      "Title": "Clorgyline"
+    },
+    {
+      "Title": "Pargyline"
+    },
+    {
+      "Title": "Amiflamine"
+    },
+    {
+      "Title": "Desmethyldeprenyl",
+      "Abr": "DMS"
+    },
+    {
+      "Title": "Deprenyl"
+    },
+    {
+      "Title": "4-Fluoroselegiline"
+    },
+    {
+      "Title": "3,4-Dichloroamphetamine",
+      "Abr": "3,4-DCA"
+    },
+    {
+      "Title": "Rasagiline"
+    },
+    {
+      "Title": "Tranylcypromine"
     }
   ]
 }

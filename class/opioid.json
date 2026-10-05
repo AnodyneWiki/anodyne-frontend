@@ -135,6 +135,280 @@
       "Title": "Tramadol",
       "Abr": "",
       "MW": "263.37 g/mol"
+    },
+    {
+      "Title": "Brorphine"
+    },
+    {
+      "Title": "Levomethorphan",
+      "Abr": "LVM"
+    },
+    {
+      "Title": "Cyclazocine"
+    },
+    {
+      "Title": "Dezocine"
+    },
+    {
+      "Title": "Pentazocine"
+    },
+    {
+      "Title": "Levallorphan"
+    },
+    {
+      "Title": "Thebaine"
+    },
+    {
+      "Title": "Codeinone"
+    },
+    {
+      "Title": "Codeine-6-glucuronide"
+    },
+    {
+      "Title": "Dihydromorphine"
+    },
+    {
+      "Title": "Moxaverine"
+    },
+    {
+      "Title": "Oxymorphone"
+    },
+    {
+      "Title": "N-Phenethylnoroxymorphone",
+      "Abr": "PHM"
+    },
+    {
+      "Title": "3-Monoacetylmorphine",
+      "Abr": "3-MAM"
+    },
+    {
+      "Title": "6-Monoacetylmorphine",
+      "Abr": "6-MAM"
+    },
+    {
+      "Title": "Mitragynine"
+    },
+    {
+      "Title": "7-Hydroxymitragynine"
+    },
+    {
+      "Title": "Speciociliatine"
+    },
+    {
+      "Title": "Desmetramadol",
+      "Abr": [
+        "Desmetramadol",
+        "O-DSMT"
+      ]
+    },
+    {
+      "Title": "Methiodone",
+      "Abr": [
+        "IC-26",
+        "WIN 1161-3"
+      ]
+    },
+    {
+      "Title": "Phenaridine"
+    },
+    {
+      "Title": "Mefentanyl",
+      "Abr": "3-MF"
+    },
+    {
+      "Title": "Butyrylfentanyl"
+    },
+    {
+      "Title": "Isobutyrylfentanyl"
+    },
+    {
+      "Title": "Remifentanil"
+    },
+    {
+      "Title": "Acetylfentanyl"
+    },
+    {
+      "Title": "Acrylfentanyl"
+    },
+    {
+      "Title": "Furanylfentanyl",
+      "Abr": [
+        "Fu-F"
+      ]
+    },
+    {
+      "Title": "Cyclopropylfentanyl"
+    },
+    {
+      "Title": "Cyclopentylfentanyl"
+    },
+    {
+      "Title": "β-Methylfentanyl"
+    },
+    {
+      "Title": "α-Methylfentanyl"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-methylfentanyl",
+      "Abr": [
+        "N-(MDA)-Fentanyl"
+      ]
+    },
+    {
+      "Title": "2',5'-Dimethoxy-4'-bromo-fentanyl",
+      "Abr": [
+        "N-(2C-B)-Fentanyl"
+      ]
+    },
+    {
+      "Title": "N-(2C-B-FLY)-Fentanyl"
+    },
+    {
+      "Title": "Beta-Hydroxy-3-methylfentanyl"
+    },
+    {
+      "Title": "Prodine"
+    },
+    {
+      "Title": "Desmethylprodine",
+      "Abr": "MPPP"
+    },
+    {
+      "Title": "Desnitazene"
+    },
+    {
+      "Title": "Menitazene"
+    },
+    {
+      "Title": "Enitazene"
+    },
+    {
+      "Title": "Propylnitazene",
+      "Abr": "PPZ"
+    },
+    {
+      "Title": "Flunitazene"
+    },
+    {
+      "Title": "Etocyanozene"
+    },
+    {
+      "Title": "Etoacetazene"
+    },
+    {
+      "Title": "Etomethazene"
+    },
+    {
+      "Title": "Metodesnitazene"
+    },
+    {
+      "Title": "Etodesnitazene"
+    },
+    {
+      "Title": "Clonitazene"
+    },
+    {
+      "Title": "Bronitazene"
+    },
+    {
+      "Title": "Isotodesnitazene"
+    },
+    {
+      "Title": "Isotonitazene"
+    },
+    {
+      "Title": "N-Desethyletonitazene"
+    },
+    {
+      "Title": "N-Desethylisotonitazene"
+    },
+    {
+      "Title": "N-Desethylprotonitazene"
+    },
+    {
+      "Title": "Etonitazene"
+    },
+    {
+      "Title": "Fluetonitazene"
+    },
+    {
+      "Title": "Etoetonitazene"
+    },
+    {
+      "Title": "N,N-Dimethyletonitazene"
+    },
+    {
+      "Title": "Metonitazene"
+    },
+    {
+      "Title": "Protodesnitazene"
+    },
+    {
+      "Title": "Protonitazene"
+    },
+    {
+      "Title": "Butonitazene"
+    },
+    {
+      "Title": "Isobutonitazene"
+    },
+    {
+      "Title": "Secbutonitazene"
+    },
+    {
+      "Title": "Protonitazepyne"
+    },
+    {
+      "Title": "Etonitazepyne"
+    },
+    {
+      "Title": "Fluetonitazepyne"
+    },
+    {
+      "Title": "Etodesnitazepyne"
+    },
+    {
+      "Title": "Metonitazepyne"
+    },
+    {
+      "Title": "Isotonitazepyne"
+    },
+    {
+      "Title": "Etonitazepipne"
+    },
+    {
+      "Title": "Etodesnitazepipne"
+    },
+    {
+      "Title": "U-47700"
+    },
+    {
+      "Title": "U-48800"
+    },
+    {
+      "Title": "U-49900"
+    },
+    {
+      "Title": "Bromadoline",
+      "Abr": "U-47931E"
+    },
+    {
+      "Title": "AH-7921"
+    },
+    {
+      "Title": "Nalbuphine"
+    },
+    {
+      "Title": "Leu-enkephalin"
+    },
+    {
+      "Title": "Met-enkephalin"
+    },
+    {
+      "Title": "Endomorphin-1"
+    },
+    {
+      "Title": "Endomorphin-2"
     }
   ]
 }

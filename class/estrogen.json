@@ -1,0 +1,94 @@
+{
+  "Name": "estrogen",
+  "Entries": [
+    {
+      "Title": "Estradiol acetate",
+      "Abr": "EA"
+    },
+    {
+      "Title": "Estradiol benzoate",
+      "Abr": "EB"
+    },
+    {
+      "Title": "Estradiol cypionate",
+      "Abr": "EC"
+    },
+    {
+      "Title": "Estradiol dipropionate",
+      "Abr": "EDP"
+    },
+    {
+      "Title": "Estradiol enantate",
+      "Abr": "EEN"
+    },
+    {
+      "Title": "Estradiol undecylate",
+      "Abr": "EU"
+    },
+    {
+      "Title": "Estradiol valerate",
+      "Abr": "EV"
+    },
+    {
+      "Title": "Estradiol benzoate butyrate",
+      "Abr": "EBB"
+    },
+    {
+      "Title": "Estradiol butyrylacetate",
+      "Abr": "EBA"
+    },
+    {
+      "Title": "Estradiol dibutyrate",
+      "Abr": "EDBu"
+    },
+    {
+      "Title": "Estradiol dienantate",
+      "Abr": "EDE"
+    },
+    {
+      "Title": "Estradiol diundecylate",
+      "Abr": "EDE"
+    },
+    {
+      "Title": "Estradiol diundecylenate"
+    },
+    {
+      "Title": "Estradiol furoate",
+      "Abr": "EF"
+    },
+    {
+      "Title": "Estradiol hemisuccinate"
+    },
+    {
+      "Title": "Estradiol hexahydrobenzoate",
+      "Abr": "EHHB"
+    },
+    {
+      "Title": "Estradiol palmitate"
+    },
+    {
+      "Title": "Estradiol phenylpropionate",
+      "Abr": "EPP"
+    },
+    {
+      "Title": "Estradiol pivalate",
+      "Abr": "E2-TMA"
+    },
+    {
+      "Title": "Estradiol propionate",
+      "Abr": "EP"
+    },
+    {
+      "Title": "Estradiol propoxyphenylpropionate",
+      "Abr": "EPPP"
+    },
+    {
+      "Title": "Estradiol stearate",
+      "Abr": "E2-17-St"
+    },
+    {
+      "Title": "Estradiol sulfate",
+      "Abr": "E2S"
+    }
+  ]
+}

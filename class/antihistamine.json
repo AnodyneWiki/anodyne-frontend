@@ -1,0 +1,27 @@
+{
+  "Name": "antihistamine",
+  "Entries": [
+    {
+      "Title": "Bilastine"
+    },
+    {
+      "Title": "Cetirizine"
+    },
+    {
+      "Title": "Fexofenadine"
+    },
+    {
+      "Title": "Loratadine"
+    },
+    {
+      "Title": "Azelastine"
+    },
+    {
+      "Title": "Diphenhydramine",
+      "Abr": "DPH"
+    },
+    {
+      "Title": "Doxylamine"
+    }
+  ]
+}

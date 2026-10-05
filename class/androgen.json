@@ -1,0 +1,19 @@
+{
+  "Name": "androgen",
+  "Entries": [
+    {
+      "Title": "Testosterone"
+    },
+    {
+      "Title": "Dihydrotestosterone",
+      "Abr": "DHT"
+    },
+    {
+      "Title": "Androstenedione",
+      "Abr": "A4"
+    },
+    {
+      "Title": "Nandrolone"
+    }
+  ]
+}

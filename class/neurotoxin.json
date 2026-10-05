@@ -1,0 +1,102 @@
+{
+  "Name": "neurotoxin",
+  "Entries": [
+    {
+      "Title": "Caramboxin"
+    },
+    {
+      "Title": "3,4-Dihydroxyphenylacetaldehyde",
+      "Abr": "DOPAL"
+    },
+    {
+      "Title": "α-Methyldopamine",
+      "Abr": "α-Me-DA"
+    },
+    {
+      "Title": "Oxidopamine",
+      "Abr": "6-OHDA"
+    },
+    {
+      "Title": "4,5-Dihydroxytryptamine",
+      "Abr": "4,5-DHT"
+    },
+    {
+      "Title": "5,6-Dihydroxytryptamine",
+      "Abr": "5,6-DHT"
+    },
+    {
+      "Title": "5,7-Dihydroxytryptamine",
+      "Abr": "5,7-DHT"
+    },
+    {
+      "Title": "3,4-Dichloroamphetamine",
+      "Abr": "3,4-DCA"
+    },
+    {
+      "Title": "Harmane"
+    },
+    {
+      "Title": "4-Hydroxy-5-methoxytryptamine",
+      "Abr": "4-HO-5-MeO-T"
+    },
+    {
+      "Title": "Batrachotoxin",
+      "Abr": "BTX"
+    },
+    {
+      "Title": "Tetraethyllead"
+    },
+    {
+      "Title": "Chlorpyrifos"
+    },
+    {
+      "Title": "Tert-Butyl-bicyclophosphate",
+      "Abr": "TBPO"
+    },
+    {
+      "Title": "Tetramethylenedisulfotetramine",
+      "Abr": "TETS"
+    },
+    {
+      "Title": "Saxitoxin"
+    },
+    {
+      "Title": "Neosaxitoxin"
+    },
+    {
+      "Title": "Domoic acid"
+    },
+    {
+      "Title": "Hexane"
+    },
+    {
+      "Title": "Paraquat"
+    },
+    {
+      "Title": "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+      "Abr": "MPP+"
+    },
+    {
+      "Title": "Tetrodotoxin"
+    },
+    {
+      "Title": "Anatoxin-a",
+      "Abr": "VFDF"
+    },
+    {
+      "Title": "Penitrem A",
+      "Abr": "Tremortin"
+    },
+    {
+      "Title": "Ciguatoxin 1",
+      "Abr": "CTX-1"
+    },
+    {
+      "Title": "N-(2-Chloroethyl)-N-ethyl-2-bromobenzylamine",
+      "Abr": "DSP-4"
+    },
+    {
+      "Title": "Toxiferine"
+    }
+  ]
+}

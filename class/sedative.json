@@ -1,0 +1,47 @@
+{
+  "Name": "sedative",
+  "Entries": [
+    {
+      "Title": "Pellotine",
+      "Abr": "Peyotline"
+    },
+    {
+      "Title": "Anhalonidine"
+    },
+    {
+      "Title": "Methaqualone",
+      "Abr": "Quaalude"
+    },
+    {
+      "Title": "Methoxyqualone"
+    },
+    {
+      "Title": "Mecloqualone"
+    },
+    {
+      "Title": "Mebroqualone"
+    },
+    {
+      "Title": "Methylmethaqualone",
+      "Abr": "MMQ"
+    },
+    {
+      "Title": "Afloqualone"
+    },
+    {
+      "Title": "Etaqualone"
+    },
+    {
+      "Title": "Nitromethaqualone"
+    },
+    {
+      "Title": "Cloroqualone"
+    },
+    {
+      "Title": "Diproqualone"
+    },
+    {
+      "Title": "Fenadiazole"
+    }
+  ]
+}

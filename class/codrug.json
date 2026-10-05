@@ -1,0 +1,32 @@
+{
+  "Name": "codrug",
+  "Entries": [
+    {
+      "Title": "Lisdexamphetamine",
+      "Abr": "Vyvanse"
+    },
+    {
+      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxyamphetamine",
+      "Abr": "Lys-MDA"
+    },
+    {
+      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
+      "Abr": "Lys-MDMA"
+    },
+    {
+      "Title": "Amphecloral"
+    },
+    {
+      "Title": "Fenethylline"
+    },
+    {
+      "Title": "ZDCM-04"
+    },
+    {
+      "Title": "Cafedrine"
+    },
+    {
+      "Title": "Theodrenaline"
+    }
+  ]
+}
