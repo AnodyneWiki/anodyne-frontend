@@ -14,6 +14,30 @@
         "LSA"
       ],
       "MW": "268.31 g/mol"
+    },
+    {
+      "Title": "Dihydroergotamine",
+      "Abr": [
+        "DHE"
+      ],
+      "MW": "583.7 g/mol"
+    },
+    {
+      "Title": "Cabergoline",
+      "MW": "451.6 g/mol"
+    },
+    {
+      "Title": "Lisuride",
+      "MW": "338.4 g/mol"
+    },
+    {
+      "Title": "N-desmethyllysergic acid diethylamide",
+      "Abr": [
+        "Nor-LSD",
+        "norLSD",
+        "H-LAD"
+      ],
+      "MW": "309.4 g/mol"
     }
   ],
   "Children": [

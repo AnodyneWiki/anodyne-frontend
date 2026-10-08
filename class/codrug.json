@@ -3,30 +3,43 @@
   "Entries": [
     {
       "Title": "Lisdexamphetamine",
-      "Abr": "Vyvanse"
+      "Abr": [
+        "Vyvanse"
+      ],
+      "MW": "263.38 g/mol"
     },
     {
       "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxyamphetamine",
-      "Abr": "Lys-MDA"
+      "Abr": [
+        "Lys-MDA"
+      ]
     },
     {
       "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
-      "Abr": "Lys-MDMA"
+      "Abr": [
+        "Lys-MDMA"
+      ],
+      "MW": "321.4 g/mol"
     },
     {
-      "Title": "Amphecloral"
+      "Title": "Amphecloral",
+      "MW": "264.6 g/mol"
     },
     {
-      "Title": "Fenethylline"
+      "Title": "Fenethylline",
+      "MW": "341.4 g/mol"
     },
     {
-      "Title": "ZDCM-04"
+      "Title": "ZDCM-04",
+      "MW": "435.9 g/mol"
     },
     {
-      "Title": "Cafedrine"
+      "Title": "Cafedrine",
+      "MW": "357.4 g/mol"
     },
     {
-      "Title": "Theodrenaline"
+      "Title": "Theodrenaline",
+      "MW": "375.4 g/mol"
     }
   ]
 }

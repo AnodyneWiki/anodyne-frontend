@@ -2,7 +2,8 @@
   "Name": "antiemetic",
   "Entries": [
     {
-      "Title": "Benzylamine"
+      "Title": "Benzylamine",
+      "MW": "107.15 g/mol"
     }
   ]
 }

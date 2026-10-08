@@ -222,10 +222,12 @@
       "MW": "307.4 g/mol"
     },
     {
-      "Title": "Chloral hydrate"
+      "Title": "Chloral hydrate",
+      "MW": "165.40 g/mol"
     },
     {
-      "Title": "Chlorobutanol"
+      "Title": "Chlorobutanol",
+      "MW": "177.45 g/mol"
     }
   ]
 }

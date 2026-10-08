@@ -1,0 +1,30 @@
+{
+  "Name": "naphthylaminopropane",
+  "Entries": [
+    {
+      "Title": "Methylnaphthidate",
+      "Abr": [
+        "HDMP-28"
+      ],
+      "MW": "283.4 g/mol"
+    },
+    {
+      "Title": "Ethylnaphthidate",
+      "Abr": [
+        "HDEP-28"
+      ],
+      "MW": "297.4 g/mol"
+    },
+    {
+      "Title": "Naphthylmetrazine",
+      "Abr": [
+        "PAL-704"
+      ],
+      "MW": "227.30 g/mol"
+    },
+    {
+      "Title": "Naphyrone",
+      "MW": "281.4 g/mol"
+    }
+  ]
+}

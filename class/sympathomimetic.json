@@ -2,171 +2,240 @@
   "Name": "sympathomimetic",
   "Entries": [
     {
-      "Title": "Tuaminoheptane"
+      "Title": "Tuaminoheptane",
+      "MW": "115.22 g/mol"
     },
     {
-      "Title": "Isometheptene"
+      "Title": "Isometheptene",
+      "MW": "141.25 g/mol"
     },
     {
-      "Title": "Heptaminol"
+      "Title": "Heptaminol",
+      "MW": "145.24 g/mol"
     },
     {
-      "Title": "Iproheptine"
+      "Title": "Iproheptine",
+      "MW": "171.32 g/mol"
     },
     {
-      "Title": "Octodrine"
+      "Title": "Octodrine",
+      "MW": "129.24 g/mol"
     },
     {
       "Title": "2,5-Dimethoxyamphetamine",
-      "Abr": "2,5-DMA"
+      "Abr": [
+        "2,5-DMA"
+      ],
+      "MW": "195.26 g/mol"
     },
     {
-      "Title": "Salbutamol"
+      "Title": "Salbutamol",
+      "MW": "239.31 g/mol"
     },
     {
-      "Title": "Colterol"
+      "Title": "Colterol",
+      "MW": "225.28 g/mol"
     },
     {
-      "Title": "Bitolterol"
+      "Title": "Bitolterol",
+      "MW": "461.5 g/mol"
     },
     {
-      "Title": "Fenoterol"
+      "Title": "Fenoterol",
+      "MW": "303.35 g/mol"
     },
     {
-      "Title": "Pentylenetetrazol"
+      "Title": "Pentylenetetrazol",
+      "MW": "138.17 g/mol"
     },
     {
       "Title": "Pholedrine",
-      "Abr": "4-HMA"
+      "Abr": [
+        "4-HMA"
+      ],
+      "MW": "165.23 g/mol"
     },
     {
-      "Title": "Epinine"
+      "Title": "Epinine",
+      "MW": "167.20 g/mol"
     },
     {
-      "Title": "Ibopamine"
+      "Title": "Ibopamine",
+      "MW": "307.4 g/mol"
     },
     {
       "Title": "N,N-Dimethyldopamine",
-      "Abr": "DMDA"
+      "Abr": [
+        "DMDA"
+      ],
+      "MW": "181.23 g/mol"
     },
     {
-      "Title": "Adrenalone"
+      "Title": "Adrenalone",
+      "MW": "181.19 g/mol"
     },
     {
-      "Title": "Synephrine"
+      "Title": "Synephrine",
+      "MW": "167.20 g/mol"
     },
     {
-      "Title": "Tyramine"
+      "Title": "Tyramine",
+      "MW": "137.18 g/mol"
     },
     {
-      "Title": "Meta-Tyramine"
+      "Title": "Meta-Tyramine",
+      "MW": "137.18 g/mol"
     },
     {
-      "Title": "Hordenine"
+      "Title": "Hordenine",
+      "MW": "165.23 g/mol"
     },
     {
-      "Title": "Gepefrine"
+      "Title": "Gepefrine",
+      "MW": "151.21 g/mol"
     },
     {
       "Title": "4-Hydroxyamphetamine",
-      "Abr": "4-HA"
+      "Abr": [
+        "4-HA"
+      ],
+      "MW": "151.21 g/mol"
     },
     {
-      "Title": "Phenylethanolamine"
+      "Title": "Phenylethanolamine",
+      "MW": "137.18 g/mol"
     },
     {
-      "Title": "Arbutamine"
+      "Title": "Arbutamine",
+      "MW": "317.4 g/mol"
     },
     {
       "Title": "Phenylpropanolamine",
-      "Abr": "PPA"
+      "Abr": [
+        "PPA"
+      ],
+      "MW": "151.21 g/mol"
     },
     {
-      "Title": "Meta-Hydroxynorephedrine"
+      "Title": "Meta-Hydroxynorephedrine",
+      "MW": "167.20 g/mol"
     },
     {
       "Title": "Metaraminol",
-      "Abr": "Metaradrine"
+      "Abr": [
+        "Metaradrine"
+      ],
+      "MW": "167.20 g/mol"
     },
     {
-      "Title": "Para-Hydroxynorephedrine"
+      "Title": "Para-Hydroxynorephedrine",
+      "MW": "167.20 g/mol"
     },
     {
-      "Title": "Pseudoephedrine"
+      "Title": "Pseudoephedrine",
+      "MW": "165.23 g/mol"
     },
     {
-      "Title": "Ephedrine"
+      "Title": "Ephedrine",
+      "MW": "165.23 g/mol"
     },
     {
-      "Title": "Methylephedrine"
+      "Title": "Methylephedrine",
+      "MW": "179.26 g/mol"
     },
     {
-      "Title": "Methylpseudoephedrine"
+      "Title": "Methylpseudoephedrine",
+      "MW": "179.26 g/mol"
     },
     {
       "Title": "4-Fluoroephedrine",
-      "Abr": "4-FEP"
+      "Abr": [
+        "4-FEP"
+      ],
+      "MW": "183.22 g/mol"
     },
     {
       "Title": "Oxilofrine",
-      "Abr": "4-HEP"
+      "Abr": [
+        "4-HEP"
+      ],
+      "MW": "181.23 g/mol"
     },
     {
-      "Title": "Corbadrine"
+      "Title": "Corbadrine",
+      "MW": "183.20 g/mol"
     },
     {
-      "Title": "Methoxamine"
+      "Title": "Methoxamine",
+      "MW": "211.26 g/mol"
     },
     {
-      "Title": "Hexapradol"
+      "Title": "Hexapradol",
+      "MW": "283.4 g/mol"
     },
     {
-      "Title": "Ritodrine"
+      "Title": "Ritodrine",
+      "MW": "287.35 g/mol"
     },
     {
-      "Title": "Isoxsuprine"
+      "Title": "Isoxsuprine",
+      "MW": "301.4 g/mol"
     },
     {
-      "Title": "Ethylnorepinephrine"
+      "Title": "Ethylnorepinephrine",
+      "MW": "197.23 g/mol"
     },
     {
-      "Title": "Dioxifedrine"
+      "Title": "Dioxifedrine",
+      "MW": "197.23 g/mol"
     },
     {
-      "Title": "Dioxethedrin"
+      "Title": "Dioxethedrin",
+      "MW": "211.26 g/mol"
     },
     {
-      "Title": "Isoetarine"
+      "Title": "Isoetarine",
+      "MW": "239.31 g/mol"
     },
     {
-      "Title": "Oxyfedrine"
+      "Title": "Oxyfedrine",
+      "MW": "313.4 g/mol"
     },
     {
-      "Title": "Alifedrine"
+      "Title": "Alifedrine",
+      "MW": "289.4 g/mol"
     },
     {
-      "Title": "Tinofedrine"
+      "Title": "Tinofedrine",
+      "MW": "355.5 g/mol"
     },
     {
-      "Title": "Cinnamedrine"
+      "Title": "Cinnamedrine",
+      "MW": "281.4 g/mol"
     },
     {
-      "Title": "Etafedrine"
+      "Title": "Etafedrine",
+      "MW": "193.28 g/mol"
     },
     {
-      "Title": "Phenylephrine"
+      "Title": "Phenylephrine",
+      "MW": "167.20 g/mol"
     },
     {
-      "Title": "Isoprenaline"
+      "Title": "Isoprenaline",
+      "MW": "211.26 g/mol"
     },
     {
-      "Title": "Cafedrine"
+      "Title": "Cafedrine",
+      "MW": "357.4 g/mol"
     },
     {
-      "Title": "Theodrenaline"
+      "Title": "Theodrenaline",
+      "MW": "375.4 g/mol"
     },
     {
-      "Title": "Rimiterol"
+      "Title": "Rimiterol",
+      "MW": "223.27 g/mol"
     }
   ]
 }

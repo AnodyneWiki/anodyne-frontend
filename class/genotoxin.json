@@ -2,7 +2,8 @@
   "Name": "genotoxin",
   "Entries": [
     {
-      "Title": "Ethylbenzene"
+      "Title": "Ethylbenzene",
+      "MW": "106.16 g/mol"
     }
   ]
 }

@@ -3,12 +3,16 @@
   "Entries": [
     {
       "Title": "1-Naphthylaminopropane",
-      "Abr": "1-NAP",
+      "Abr": [
+        "1-NAP"
+      ],
       "MW": "185.26 g/mol"
     },
     {
       "Title": "3,4-Dimethoxyphenethylamine",
-      "Abr": "DMPEA",
+      "Abr": [
+        "DMPEA"
+      ],
       "MW": "181.23 g/mol"
     },
     {
@@ -33,50 +37,73 @@
     },
     {
       "Title": "Encyprate",
-      "Abr": "MO-1255"
+      "Abr": [
+        "MO-1255"
+      ],
+      "MW": "219.28 g/mol"
     },
     {
       "Title": "α-Methylbenzylamine",
-      "Abr": "α-PEA"
+      "Abr": [
+        "α-PEA"
+      ],
+      "MW": "121.18 g/mol"
     },
     {
       "Title": "2-Naphthylaminopropane",
-      "Abr": "NAP"
+      "Abr": [
+        "NAP"
+      ]
     },
     {
-      "Title": "Pheniprazine"
+      "Title": "Pheniprazine",
+      "MW": "150.22 g/mol"
     },
     {
-      "Title": "Metfendrazine"
+      "Title": "Metfendrazine",
+      "MW": "164.25 g/mol"
     },
     {
-      "Title": "Clorgyline"
+      "Title": "Clorgyline",
+      "MW": "272.17 g/mol"
     },
     {
-      "Title": "Pargyline"
+      "Title": "Pargyline",
+      "MW": "159.23 g/mol"
     },
     {
-      "Title": "Amiflamine"
+      "Title": "Amiflamine",
+      "MW": "192.30 g/mol"
     },
     {
       "Title": "Desmethyldeprenyl",
-      "Abr": "DMS"
+      "Abr": [
+        "DMS"
+      ],
+      "MW": "173.25 g/mol"
     },
     {
-      "Title": "Deprenyl"
+      "Title": "Deprenyl",
+      "MW": "187.28 g/mol"
     },
     {
-      "Title": "4-Fluoroselegiline"
+      "Title": "4-Fluoroselegiline",
+      "MW": "205.27 g/mol"
     },
     {
       "Title": "3,4-Dichloroamphetamine",
-      "Abr": "3,4-DCA"
+      "Abr": [
+        "3,4-DCA"
+      ],
+      "MW": "204.09 g/mol"
     },
     {
-      "Title": "Rasagiline"
+      "Title": "Rasagiline",
+      "MW": "171.24 g/mol"
     },
     {
-      "Title": "Tranylcypromine"
+      "Title": "Tranylcypromine",
+      "MW": "133.19 g/mol"
     }
   ]
 }

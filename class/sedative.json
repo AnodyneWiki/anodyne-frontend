@@ -3,42 +3,60 @@
   "Entries": [
     {
       "Title": "Pellotine",
-      "Abr": "Peyotline"
+      "Abr": [
+        "Peyotline"
+      ],
+      "MW": "237.29 g/mol"
     },
     {
-      "Title": "Anhalonidine"
+      "Title": "Anhalonidine",
+      "MW": "223.27 g/mol"
     },
     {
       "Title": "Methaqualone",
-      "Abr": "Quaalude"
+      "Abr": [
+        "Quaalude"
+      ],
+      "MW": "250.29 g/mol"
     },
     {
-      "Title": "Methoxyqualone"
+      "Title": "Methoxyqualone",
+      "MW": "266.29 g/mol"
     },
     {
-      "Title": "Mecloqualone"
+      "Title": "Mecloqualone",
+      "MW": "270.71 g/mol"
     },
     {
-      "Title": "Mebroqualone"
+      "Title": "Mebroqualone",
+      "MW": "315.16 g/mol"
     },
     {
       "Title": "Methylmethaqualone",
-      "Abr": "MMQ"
+      "Abr": [
+        "MMQ"
+      ],
+      "MW": "264.32 g/mol"
     },
     {
-      "Title": "Afloqualone"
+      "Title": "Afloqualone",
+      "MW": "283.30 g/mol"
     },
     {
-      "Title": "Etaqualone"
+      "Title": "Etaqualone",
+      "MW": "264.32 g/mol"
     },
     {
-      "Title": "Nitromethaqualone"
+      "Title": "Nitromethaqualone",
+      "MW": "311.29 g/mol"
     },
     {
-      "Title": "Cloroqualone"
+      "Title": "Cloroqualone",
+      "MW": "319.2 g/mol"
     },
     {
-      "Title": "Diproqualone"
+      "Title": "Diproqualone",
+      "MW": "234.25 g/mol"
     },
     {
       "Title": "Fenadiazole"

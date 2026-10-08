@@ -2,13 +2,16 @@
   "Name": "phytoestrogen",
   "Entries": [
     {
-      "Title": "Naringenin"
+      "Title": "Naringenin",
+      "MW": "272.25 g/mol"
     },
     {
-      "Title": "Genistein"
+      "Title": "Genistein",
+      "MW": "270.24 g/mol"
     },
     {
-      "Title": "Daidzein"
+      "Title": "Daidzein",
+      "MW": "254.24 g/mol"
     }
   ]
 }

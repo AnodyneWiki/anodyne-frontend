@@ -18,7 +18,10 @@
     },
     {
       "Title": "1-Pentyl-3-(1-naphthoyl)indole",
-      "Abr": "JWH-018"
+      "Abr": [
+        "JWH-018"
+      ],
+      "MW": "341.4 g/mol"
     }
   ]
 }

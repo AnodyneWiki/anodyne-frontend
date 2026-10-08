@@ -2,14 +2,19 @@
   "Name": "carcinogen",
   "Entries": [
     {
-      "Title": "2-Naphthylamine"
+      "Title": "2-Naphthylamine",
+      "MW": "143.18 g/mol"
     },
     {
-      "Title": "Benzyl chloride"
+      "Title": "Benzyl chloride",
+      "MW": "126.58 g/mol"
     },
     {
       "Title": "Carbon tetrachloride",
-      "Abr": "Carbon tet"
+      "Abr": [
+        "Carbon tet"
+      ],
+      "MW": "153.8 g/mol"
     }
   ]
 }

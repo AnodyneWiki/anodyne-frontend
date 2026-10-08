@@ -3,7 +3,10 @@
   "Entries": [
     {
       "Title": "Bestatin",
-      "Abr": "Ubenimex"
+      "Abr": [
+        "Ubenimex"
+      ],
+      "MW": "308.37 g/mol"
     }
   ]
 }

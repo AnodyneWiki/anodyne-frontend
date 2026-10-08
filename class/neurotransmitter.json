@@ -3,28 +3,43 @@
   "Entries": [
     {
       "Title": "Acetylcholine",
-      "Abr": "ACh"
+      "Abr": [
+        "ACh"
+      ],
+      "MW": "146.21 g/mol"
     },
     {
       "Title": "Dopamine",
-      "Abr": "DA"
+      "Abr": [
+        "DA"
+      ],
+      "MW": "153.18 g/mol"
     },
     {
       "Title": "Octopamine",
-      "Abr": "OCT"
+      "Abr": [
+        "OCT"
+      ],
+      "MW": "153.18 g/mol"
     },
     {
-      "Title": "Epinine"
+      "Title": "Epinine",
+      "MW": "167.20 g/mol"
     },
     {
-      "Title": "Tyramine"
+      "Title": "Tyramine",
+      "MW": "137.18 g/mol"
     },
     {
-      "Title": "Meta-Tyramine"
+      "Title": "Meta-Tyramine",
+      "MW": "137.18 g/mol"
     },
     {
       "Title": "Serotonin",
-      "Abr": "5-HT"
+      "Abr": [
+        "5-HT"
+      ],
+      "MW": "176.21 g/mol"
     }
   ]
 }

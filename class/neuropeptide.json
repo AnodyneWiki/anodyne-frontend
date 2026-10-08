@@ -2,16 +2,23 @@
   "Name": "neuropeptide",
   "Entries": [
     {
-      "Title": "Leu-enkephalin"
+      "Title": "Leu-enkephalin",
+      "MW": "555.6 g/mol"
     },
     {
-      "Title": "Met-enkephalin"
+      "Title": "Met-enkephalin",
+      "MW": "573.7 g/mol"
     },
     {
-      "Title": "Endomorphin-1"
+      "Title": "Endomorphin-1",
+      "MW": "610.7 g/mol"
     },
     {
-      "Title": "Endomorphin-2"
+      "Title": "Endomorphin-2",
+      "MW": "571.7 g/mol"
+    },
+    {
+      "Title": "Oxytocin"
     }
   ]
 }

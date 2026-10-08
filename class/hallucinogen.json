@@ -2,10 +2,12 @@
   "Name": "hallucinogen",
   "Entries": [
     {
-      "Title": "Ketazocine"
+      "Title": "Ketazocine",
+      "MW": "285.4 g/mol"
     },
     {
-      "Title": "Ethylketazocine"
+      "Title": "Ethylketazocine",
+      "MW": "299.4 g/mol"
     }
   ]
 }

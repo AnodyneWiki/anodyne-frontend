@@ -3,12 +3,16 @@
   "Entries": [
     {
       "Title": "2β-Carboisopropoxy-3β-(4-iodophenyl)tropane",
-      "Abr": "RTI-121",
+      "Abr": [
+        "RTI-121"
+      ],
       "MW": "413.3 g/mol"
     },
     {
       "Title": "2β-Propanoyl-3β-(2-naphthyl)-tropane",
-      "Abr": "WF-23",
+      "Abr": [
+        "WF-23"
+      ],
       "MW": "307.4 g/mol"
     },
     {
@@ -28,12 +32,16 @@
     },
     {
       "Title": "3,4-Methylenedioxyamphetamine",
-      "Abr": "MDA",
+      "Abr": [
+        "MDA"
+      ],
       "MW": "179.22 g/mol"
     },
     {
       "Title": "3-Ethylmethcathinone",
-      "Abr": "3-EMC",
+      "Abr": [
+        "3-EMC"
+      ],
       "MW": "191.27 g/mol"
     },
     {
@@ -43,12 +51,16 @@
     },
     {
       "Title": "3-Methylamphetamine",
-      "Abr": "3-MA",
+      "Abr": [
+        "3-MA"
+      ],
       "MW": "149.23 g/mol"
     },
     {
       "Title": "4-Methylaminorex",
-      "Abr": "4-MAR",
+      "Abr": [
+        "4-MAR"
+      ],
       "MW": "176.21 g/mol"
     },
     {
@@ -61,7 +73,9 @@
     },
     {
       "Title": "4-Methylmethylphenidate",
-      "Abr": "4-MMPH",
+      "Abr": [
+        "4-MMPH"
+      ],
       "MW": "247.33 g/mol"
     },
     {
@@ -71,17 +85,23 @@
     },
     {
       "Title": "5-Dihydrobenzofuranpyrovalerone",
-      "Abr": "5-DBFPV",
+      "Abr": [
+        "5-DBFPV"
+      ],
       "MW": "273.37 g/mol"
     },
     {
       "Title": "5-Fluoro-α-ethyltryptamine",
-      "Abr": "5-Fluoro-αET",
+      "Abr": [
+        "5-Fluoro-αET"
+      ],
       "MW": "206.26 g/mol"
     },
     {
       "Title": "5-Fluoro-α-methyltryptamine",
-      "Abr": "5-Fluoro-αMT",
+      "Abr": [
+        "5-Fluoro-αMT"
+      ],
       "MW": "192.23 g/mol"
     },
     {
@@ -91,22 +111,30 @@
     },
     {
       "Title": "7-Chloro-α-methyltryptamine",
-      "Abr": "7-Chloro-αMT",
+      "Abr": [
+        "7-Chloro-αMT"
+      ],
       "MW": "208.69 g/mol"
     },
     {
       "Title": "Aminorex",
-      "Abr": "AR",
+      "Abr": [
+        "AR"
+      ],
       "MW": "162.19 g/mol"
     },
     {
       "Title": "Brophedrone",
-      "Abr": "3-BMC",
+      "Abr": [
+        "3-BMC"
+      ],
       "MW": "242.11 g/mol"
     },
     {
       "Title": "Butylamphetamine",
-      "Abr": "BA",
+      "Abr": [
+        "BA"
+      ],
       "MW": "191.31 g/mol"
     },
     {
@@ -116,12 +144,16 @@
     },
     {
       "Title": "Clophedrone",
-      "Abr": "3-CMC",
+      "Abr": [
+        "3-CMC"
+      ],
       "MW": "197.66 g/mol"
     },
     {
       "Title": "Cocaine",
-      "Abr": "Coke",
+      "Abr": [
+        "Coke"
+      ],
       "MW": "303.35 g/mol"
     },
     {
@@ -131,32 +163,44 @@
     },
     {
       "Title": "Desoxypipradrol",
-      "Abr": "2-DPMP",
+      "Abr": [
+        "2-DPMP"
+      ],
       "MW": "251.4 g/mol"
     },
     {
       "Title": "Dichloropane",
-      "Abr": "RTI-111",
+      "Abr": [
+        "RTI-111"
+      ],
       "MW": "314.2 g/mol"
     },
     {
       "Title": "Dimethylamphetamine",
-      "Abr": "Metrotonin",
+      "Abr": [
+        "Metrotonin"
+      ],
       "MW": "163.26 g/mol"
     },
     {
       "Title": "Ethamphetamine",
-      "Abr": "EA",
+      "Abr": [
+        "EA"
+      ],
       "MW": "163.26 g/mol"
     },
     {
       "Title": "Ethylphenidate",
-      "Abr": "EPH",
+      "Abr": [
+        "EPH"
+      ],
       "MW": "247.33 g/mol"
     },
     {
       "Title": "Flophedrone",
-      "Abr": "3-FMC",
+      "Abr": [
+        "3-FMC"
+      ],
       "MW": "181.21 g/mol"
     },
     {
@@ -166,7 +210,9 @@
     },
     {
       "Title": "Isopropylphenidate",
-      "Abr": "IPH",
+      "Abr": [
+        "IPH"
+      ],
       "MW": "261.36 g/mol"
     },
     {
@@ -184,17 +230,23 @@
     },
     {
       "Title": "Metaphedrine",
-      "Abr": "3-MMA",
+      "Abr": [
+        "3-MMA"
+      ],
       "MW": "163.26 g/mol"
     },
     {
       "Title": "Metaphedrone",
-      "Abr": "3-MMC",
+      "Abr": [
+        "3-MMC"
+      ],
       "MW": "177.24 g/mol"
     },
     {
       "Title": "Methamphetamine",
-      "Abr": "MA",
+      "Abr": [
+        "MA"
+      ],
       "MW": "149.23 g/mol"
     },
     {
@@ -209,17 +261,23 @@
     },
     {
       "Title": "Methylhexanamine",
-      "Abr": "1,3-DMAA",
+      "Abr": [
+        "1,3-DMAA"
+      ],
       "MW": "115.22 g/mol"
     },
     {
       "Title": "Methylphenidate",
-      "Abr": "MPH",
+      "Abr": [
+        "MPH"
+      ],
       "MW": "233.31 g/mol"
     },
     {
       "Title": "N-Ethyl-nor-pentedrone",
-      "Abr": "NEP",
+      "Abr": [
+        "NEP"
+      ],
       "MW": "205.30 g/mol"
     },
     {
@@ -229,12 +287,16 @@
     },
     {
       "Title": "Ortetamine",
-      "Abr": "2-MA",
+      "Abr": [
+        "2-MA"
+      ],
       "MW": "149.23 g/mol"
     },
     {
       "Title": "Orthophedrone",
-      "Abr": "2-MMC",
+      "Abr": [
+        "2-MMC"
+      ],
       "MW": "177.24 g/mol"
     },
     {
@@ -244,12 +306,16 @@
     },
     {
       "Title": "Propylphenidate",
-      "Abr": "PPH",
+      "Abr": [
+        "PPH"
+      ],
       "MW": "261.36 g/mol"
     },
     {
       "Title": "Pyrovalerone",
-      "Abr": "O-2371",
+      "Abr": [
+        "O-2371"
+      ],
       "MW": "245.36 g/mol"
     },
     {
@@ -274,22 +340,30 @@
     },
     {
       "Title": "α,N-Dimethyltryptamine",
-      "Abr": "NM-αMT",
+      "Abr": [
+        "NM-αMT"
+      ],
       "MW": "188.27 g/mol"
     },
     {
       "Title": "α-Ethyltryptamine",
-      "Abr": "αET",
+      "Abr": [
+        "αET"
+      ],
       "MW": "188.27 g/mol"
     },
     {
       "Title": "α-Pyrrolidinohexiophenone",
-      "Abr": "α-PHP",
+      "Abr": [
+        "α-PHP"
+      ],
       "MW": "245.36 g/mol"
     },
     {
       "Title": "α-Pyrrolidinoisohexanophenone",
-      "Abr": "α-PiHP",
+      "Abr": [
+        "α-PiHP"
+      ],
       "MW": "245.36 g/mol"
     },
     {
@@ -307,29 +381,42 @@
     },
     {
       "Title": "β-Methylphenethylamine",
-      "Abr": "BMPEA",
+      "Abr": [
+        "BMPEA"
+      ],
       "MW": "135.21 g/mol"
     },
     {
       "Title": "Amphetamine",
-      "Abr": "Speed",
+      "Abr": [
+        "Speed"
+      ],
       "MW": "135.21 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-fluoroamphetamine",
-      "Abr": "DOF",
+      "Abr": [
+        "DOF"
+      ],
       "MW": "213.25 g/mol"
     },
     {
       "Title": "1,4-Dimethylamylamine",
-      "Abr": "1,4-DMAA"
+      "Abr": [
+        "1,4-DMAA"
+      ],
+      "MW": "115.22 g/mol"
     },
     {
-      "Title": "Octodrine"
+      "Title": "Octodrine",
+      "MW": "129.24 g/mol"
     },
     {
       "Title": "Phenpromethamine",
-      "Abr": "BMMPEA"
+      "Abr": [
+        "BMMPEA"
+      ],
+      "MW": "149.23 g/mol"
     },
     {
       "Title": "β-Methylamphetamine",
@@ -340,7 +427,10 @@
     },
     {
       "Title": "β,N,N-Trimethylphenethylamine",
-      "Abr": "DMPPA"
+      "Abr": [
+        "DMPPA"
+      ],
+      "MW": "163.26 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-methylmethamphetamine",
@@ -352,73 +442,95 @@
       ]
     },
     {
-      "Title": "Benzphetamine"
+      "Title": "Benzphetamine",
+      "MW": "239.35 g/mol"
     },
     {
-      "Title": "Clobenzorex"
+      "Title": "Clobenzorex",
+      "MW": "259.77 g/mol"
     },
     {
       "Title": "2-Aminotetralin",
-      "Abr": "2-AT"
+      "Abr": [
+        "2-AT"
+      ],
+      "MW": "147.22 g/mol"
     },
     {
       "Title": "2-Amino-1,2-dihydronaphthalene",
-      "Abr": "2-ADN"
+      "Abr": [
+        "2-ADN"
+      ],
+      "MW": "145.20 g/mol"
     },
     {
-      "Title": "Lorcaserin"
+      "Title": "Lorcaserin",
+      "MW": "195.69 g/mol"
     },
     {
-      "Title": "Pentylenetetrazol"
+      "Title": "Pentylenetetrazol",
+      "MW": "138.17 g/mol"
     },
     {
-      "Title": "Dextroamphetamine"
+      "Title": "Dextroamphetamine",
+      "MW": "135.21 g/mol"
     },
     {
       "Title": "Levoamphetamine"
     },
     {
       "Title": "N,N-Dimethylphenethylamine",
-      "Abr": "N,N-DMPEA"
+      "Abr": [
+        "N,N-DMPEA"
+      ],
+      "MW": "149.23 g/mol"
     },
     {
-      "Title": "β-Phenylmethamphetamine"
+      "Title": "β-Phenylmethamphetamine",
+      "MW": "225.33 g/mol"
     },
     {
       "Title": "4-Phenylmethamphetamine",
       "Abr": [
         "BPMA"
-      ]
+      ],
+      "MW": "225.33 g/mol"
     },
     {
-      "Title": "N-Formylamphetamine"
+      "Title": "N-Formylamphetamine",
+      "MW": "163.22 g/mol"
     },
     {
       "Title": "N-Hydroxyamphetamine",
       "Abr": [
         "NOHA",
         "N-OH-A"
-      ]
+      ],
+      "MW": "151.21 g/mol"
     },
     {
       "Title": "N-Hydroxymethamphetamine",
       "Abr": [
         "NOHMA",
         "N-OH-MA"
-      ]
+      ],
+      "MW": "165.23 g/mol"
     },
     {
-      "Title": "N-Acetylamphetamine"
+      "Title": "N-Acetylamphetamine",
+      "MW": "177.24 g/mol"
     },
     {
-      "Title": "α-Pyrrolidinopentiothiophenone"
+      "Title": "α-Pyrrolidinopentiothiophenone",
+      "MW": "237.36 g/mol"
     },
     {
       "Title": "4'-Methoxy-α-pyrrolidinopropiophenone",
       "Abr": [
         "4-MeO-α-PPP",
         "MOPPP"
-      ]
+      ],
+      "MW": "233.31 g/mol"
     },
     {
       "Title": "4'-Methoxy-α-pyrrolidinopentiophenone",
@@ -435,7 +547,8 @@
         "3,4-DMPV",
         "DMPVP",
         "O-2512"
-      ]
+      ],
+      "MW": "291.4 g/mol"
     },
     {
       "Title": "3'-Methyl-α-pyrrolidinopentiophenone",
@@ -443,236 +556,359 @@
         "3-Me-PVP",
         "3-Me-α-PVP",
         "O-2480"
-      ]
+      ],
+      "MW": "245.36 g/mol"
     },
     {
-      "Title": "Dextromethamphetamine"
+      "Title": "Dextromethamphetamine",
+      "MW": "149.23 g/mol"
     },
     {
-      "Title": "Levomethamphetamine"
+      "Title": "Levomethamphetamine",
+      "MW": "149.23 g/mol"
     },
     {
       "Title": "Propylamphetamine",
-      "Abr": "PA"
+      "Abr": [
+        "PA"
+      ],
+      "MW": "177.29 g/mol"
     },
     {
       "Title": "Isopropylamphetamine",
-      "Abr": "IA"
+      "Abr": [
+        "IA"
+      ],
+      "MW": "177.29 g/mol"
     },
     {
       "Title": "2-Naphthylaminopropane",
-      "Abr": "NAP"
+      "Abr": [
+        "NAP"
+      ]
     },
     {
-      "Title": "β-Hydroxymethamphetamine"
+      "Title": "β-Hydroxymethamphetamine",
+      "MW": "165.23 g/mol"
     },
     {
       "Title": "2-Fluoromethamphetamine",
-      "Abr": "2-FMA"
+      "Abr": [
+        "2-FMA"
+      ],
+      "MW": "167.22 g/mol"
     },
     {
       "Title": "2-Fluoroamphetamine",
-      "Abr": "2-FA"
+      "Abr": [
+        "2-FA"
+      ],
+      "MW": "153.20 g/mol"
     },
     {
       "Title": "3-Fluoroamphetamine",
-      "Abr": "3-FA"
+      "Abr": [
+        "3-FA"
+      ],
+      "MW": "153.20 g/mol"
     },
     {
       "Title": "4-Fluoroamphetamine",
-      "Abr": "4-FA"
+      "Abr": [
+        "4-FA"
+      ],
+      "MW": "153.20 g/mol"
     },
     {
       "Title": "4-Fluoromethamphetamine",
-      "Abr": "4-FMA"
+      "Abr": [
+        "4-FMA"
+      ],
+      "MW": "167.22 g/mol"
     },
     {
       "Title": "3-Fluoroethamphetamine",
-      "Abr": "3-FEA"
+      "Abr": [
+        "3-FEA"
+      ],
+      "MW": "181.25 g/mol"
     },
     {
       "Title": "Lisdexamphetamine",
-      "Abr": "Vyvanse"
+      "Abr": [
+        "Vyvanse"
+      ],
+      "MW": "263.38 g/mol"
     },
     {
       "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxyamphetamine",
-      "Abr": "Lys-MDA"
+      "Abr": [
+        "Lys-MDA"
+      ]
     },
     {
       "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
-      "Abr": "Lys-MDMA"
+      "Abr": [
+        "Lys-MDMA"
+      ],
+      "MW": "321.4 g/mol"
     },
     {
-      "Title": "Mefenorex"
+      "Title": "Mefenorex",
+      "MW": "211.73 g/mol"
     },
     {
-      "Title": "Flucetorex"
+      "Title": "Flucetorex",
+      "MW": "394.4 g/mol"
     },
     {
-      "Title": "Benfluorex"
+      "Title": "Benfluorex",
+      "MW": "351.4 g/mol"
     },
     {
-      "Title": "Tiflorex"
+      "Title": "Tiflorex",
+      "MW": "263.32 g/mol"
     },
     {
-      "Title": "Morforex"
+      "Title": "Morforex",
+      "MW": "248.36 g/mol"
     },
     {
-      "Title": "Fenproporex"
+      "Title": "Fenproporex",
+      "MW": "188.27 g/mol"
     },
     {
-      "Title": "Acridorex"
+      "Title": "Acridorex",
+      "MW": "340.5 g/mol"
     },
     {
-      "Title": "Fenethylline"
+      "Title": "Fenethylline",
+      "MW": "341.4 g/mol"
     },
     {
-      "Title": "ZDCM-04"
+      "Title": "ZDCM-04",
+      "MW": "435.9 g/mol"
     },
     {
-      "Title": "Phenatine"
+      "Title": "Phenatine",
+      "MW": "240.30 g/mol"
     },
     {
       "Title": "Mesocarb",
-      "Abr": "MLR-1017"
+      "Abr": [
+        "MLR-1017"
+      ],
+      "MW": "322.4 g/mol"
     },
     {
-      "Title": "Bromantane"
+      "Title": "Bromantane",
+      "MW": "306.24 g/mol"
     },
     {
       "Title": "3,4-Methylenedioxyphenylaminobutane",
-      "Abr": "Homo-MDA"
+      "Abr": [
+        "Homo-MDA"
+      ],
+      "MW": "193.24 g/mol"
     },
     {
-      "Title": "Pipradrol"
+      "Title": "Pipradrol",
+      "MW": "267.4 g/mol"
     },
     {
       "Title": "Dexmethylphenidate",
-      "Abr": "d-MPH"
+      "Abr": [
+        "d-MPH"
+      ],
+      "MW": "233.31 g/mol"
     },
     {
       "Title": "3-Chloromethylphenidate",
-      "Abr": "3-Cl-MPH"
+      "Abr": [
+        "3-Cl-MPH"
+      ],
+      "MW": "267.75 g/mol"
     },
     {
       "Title": "3-Bromomethylphenidate",
-      "Abr": "3-Br-MPH"
+      "Abr": [
+        "3-Br-MPH"
+      ],
+      "MW": "312.20 g/mol"
     },
     {
       "Title": "3-Methylmethylphenidate",
-      "Abr": "3-Me-MPH"
+      "Abr": [
+        "3-Me-MPH"
+      ],
+      "MW": "247.33 g/mol"
     },
     {
       "Title": "4-Fluoromethylphenidate",
-      "Abr": "4-FMPH"
+      "Abr": [
+        "4-FMPH"
+      ],
+      "MW": "251.30 g/mol"
     },
     {
       "Title": "Phenylpiperazine",
       "Abr": [
         "PP",
         "PP-1"
-      ]
+      ],
+      "MW": "162.23 g/mol"
     },
     {
       "Title": "2-Methylphenylpiperazine",
-      "Abr": "oMPP"
+      "Abr": [
+        "oMPP"
+      ],
+      "MW": "176.26 g/mol"
     },
     {
       "Title": "4-Methylphenylpiperazine",
-      "Abr": "4-MPP"
+      "Abr": [
+        "4-MPP"
+      ],
+      "MW": "176.26 g/mol"
     },
     {
       "Title": "2,3-Dimethylphenylpiperazine",
-      "Abr": "2,3-DMPP"
+      "Abr": [
+        "2,3-DMPP"
+      ],
+      "MW": "190.28 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-bromophenylpiperazine",
-      "Abr": "2C-B-PP"
+      "Abr": [
+        "2C-B-PP"
+      ],
+      "MW": "301.18 g/mol"
     },
     {
       "Title": "2-Benzylpiperidine",
-      "Abr": "2-BZPD"
+      "Abr": [
+        "2-BZPD"
+      ],
+      "MW": "175.27 g/mol"
     },
     {
-      "Title": "Phacetoperane"
+      "Title": "Phacetoperane",
+      "MW": "233.31 g/mol"
     },
     {
       "Title": "1-Benzylpiperazine",
       "Abr": [
         "BZP",
         "1-BZP"
-      ]
+      ],
+      "MW": "176.26 g/mol"
     },
     {
       "Title": "2-Benzylpiperazine",
-      "Abr": "2-BZP"
+      "Abr": [
+        "2-BZP"
+      ],
+      "MW": "176.26 g/mol"
     },
     {
       "Title": "Methylbenzylpiperazine",
-      "Abr": "MBZP"
+      "Abr": [
+        "MBZP"
+      ],
+      "MW": "190.28 g/mol"
     },
     {
       "Title": "3-Methylbenzylpiperazine",
-      "Abr": "3-MBZP"
+      "Abr": [
+        "3-MBZP"
+      ],
+      "MW": "190.28 g/mol"
     },
     {
       "Title": "4-Methylbenzylpiperazine",
-      "Abr": "4-MBZP"
+      "Abr": [
+        "4-MBZP"
+      ],
+      "MW": "190.28 g/mol"
     },
     {
       "Title": "3,4-Methylenedioxybenzylpiperazine",
-      "Abr": "MDBZP"
+      "Abr": [
+        "MDBZP"
+      ],
+      "MW": "220.27 g/mol"
     },
     {
       "Title": "2,5-dimethoxy-4-bromobenzylpiperazine",
-      "Abr": "2C-B-BZP"
+      "Abr": [
+        "2C-B-BZP"
+      ],
+      "MW": "315.21 g/mol"
     },
     {
       "Title": "Piberaline",
-      "Abr": "EGYT-475"
+      "Abr": [
+        "EGYT-475"
+      ],
+      "MW": "281.35 g/mol"
     },
     {
       "Title": "Benzoylpiperazine",
-      "Abr": "BZOP"
+      "Abr": [
+        "BZOP"
+      ],
+      "MW": "190.24 g/mol"
     },
     {
-      "Title": "Diethylpropion"
+      "Title": "Diethylpropion",
+      "MW": "205.30 g/mol"
     },
     {
-      "Title": "Bupropion"
+      "Title": "Bupropion",
+      "MW": "239.74 g/mol"
     },
     {
-      "Title": "N-Methylbupropion"
+      "Title": "N-Methylbupropion",
+      "MW": "253.77 g/mol"
     },
     {
       "Title": "Clephedrone",
-      "Abr": "4-CMC"
+      "Abr": [
+        "4-CMC"
+      ],
+      "MW": "197.66 g/mol"
     },
     {
       "Title": "α-Methylphenethylpyrrolidine",
       "Abr": [
         "MPEP"
-      ]
+      ],
+      "MW": "189.30 g/mol"
     },
     {
       "Title": "4'-Fluoro-α-pyrrolidinopentiophenone",
       "Abr": [
         "FPVP",
         "O-2370"
-      ]
+      ],
+      "MW": "249.32 g/mol"
     },
     {
       "Title": "3',4'-Methylenedioxy-α-pyrrolidinopentiophenone",
       "Abr": [
         "MDPV",
         "MDPK"
-      ]
+      ],
+      "MW": "275.34 g/mol"
     },
     {
       "Title": "3,4-Ethylenemethcathinone"
     },
     {
-      "Title": "3',4'-Ethylene-α-pyrrolidinopentiophenone"
+      "Title": "3',4'-Ethylene-α-pyrrolidinopentiophenone",
+      "MW": "257.37 g/mol"
     },
     {
       "Title": "3',4'-Dichloro-α-pyrrolidinopentiophenone",
@@ -680,81 +916,123 @@
         "3,4-DCPV",
         "DCPVP",
         "O-2390"
-      ]
+      ],
+      "MW": "300.2 g/mol"
     },
     {
       "Title": "3',4'-Methylenedioxy-α-pyrrolidinohexiophenone",
-      "Abr": "MDPHP"
+      "Abr": [
+        "MDPHP"
+      ]
     },
     {
       "Title": "3',4'-Methylenedioxy-α-pyrrolidinoisohexanophenone",
-      "Abr": "MDPiHP"
+      "Abr": [
+        "MDPiHP"
+      ]
     },
     {
       "Title": "3'-Methyl-4'-Fluoro-α-Pyrrolidinovalerophenone",
-      "Abr": "MFPVP"
+      "Abr": [
+        "MFPVP"
+      ]
     },
     {
-      "Title": "Zylofuramine"
+      "Title": "Zylofuramine",
+      "MW": "219.32 g/mol"
     },
     {
       "Title": "α-Cyclopropyl-3,4-methylenedioxymethamphetamine",
-      "Abr": "UWA-101"
+      "Abr": [
+        "UWA-101"
+      ]
     },
     {
-      "Title": "Cocaethylene"
+      "Title": "Cocaethylene",
+      "MW": "317.4 g/mol"
     },
     {
       "Title": "Para-Chlorophenyltropane",
-      "Abr": "RTI-31"
+      "Abr": [
+        "RTI-31"
+      ]
     },
     {
       "Title": "Tolpane",
-      "Abr": "RTI-32"
+      "Abr": [
+        "RTI-32"
+      ]
     },
     {
       "Title": "Bromopane",
-      "Abr": "RTI-51"
+      "Abr": [
+        "RTI-51"
+      ]
     },
     {
       "Title": "Iometopane",
-      "Abr": "RTI-55"
+      "Abr": [
+        "RTI-55"
+      ],
+      "MW": "385.24 g/mol"
     },
     {
       "Title": "2-β-Carbomethoxy-3-β-(4-fluorophenyl)tropane",
-      "Abr": "WIN-35428"
+      "Abr": [
+        "WIN-35428"
+      ],
+      "MW": "277.33 g/mol"
     },
     {
       "Title": "2β-Carbomethoxy-3β-(3-methyl-4-chlorophenyl)tropane",
-      "Abr": "RTI-112"
+      "Abr": [
+        "RTI-112"
+      ],
+      "MW": "307.8 g/mol"
     },
     {
-      "Title": "Tesofensine"
+      "Title": "Tesofensine",
+      "MW": "328.3 g/mol"
     },
     {
-      "Title": "Brasofensine"
+      "Title": "Brasofensine",
+      "MW": "327.2 g/mol"
     },
     {
-      "Title": "Troparil"
+      "Title": "Troparil",
+      "MW": "259.34 g/mol"
     },
     {
-      "Title": "Dimethocaine"
+      "Title": "Dimethocaine",
+      "MW": "278.39 g/mol"
     },
     {
-      "Title": "Procaine"
+      "Title": "Procaine",
+      "MW": "236.31 g/mol"
     },
     {
-      "Title": "Alfetamine"
+      "Title": "Alfetamine",
+      "MW": "161.24 g/mol"
     },
     {
       "Title": "5-Fluoro-tryptamine",
-      "Abr": "5-Fluoro-T"
+      "Abr": [
+        "5-Fluoro-T"
+      ]
     },
     {
       "Title": "Nikethamide"
     },
     {
       "Title": "3-FPO"
+    },
+    {
+      "Title": "Pseudoephedrine",
+      "MW": "165.23 g/mol"
+    },
+    {
+      "Title": "Ephedrine",
+      "MW": "165.23 g/mol"
     }
   ],
   "Subjective Effects": {

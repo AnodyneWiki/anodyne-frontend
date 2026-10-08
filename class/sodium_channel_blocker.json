@@ -2,22 +2,28 @@
   "Name": "sodium channel blocker",
   "Entries": [
     {
-      "Title": "Dimethocaine"
+      "Title": "Dimethocaine",
+      "MW": "278.39 g/mol"
     },
     {
-      "Title": "Lidocaine"
+      "Title": "Lidocaine",
+      "MW": "234.34 g/mol"
     },
     {
-      "Title": "Benzocaine"
+      "Title": "Benzocaine",
+      "MW": "165.19 g/mol"
     },
     {
-      "Title": "Tetracaine"
+      "Title": "Tetracaine",
+      "MW": "264.36 g/mol"
     },
     {
-      "Title": "Procaine"
+      "Title": "Procaine",
+      "MW": "236.31 g/mol"
     },
     {
-      "Title": "Disopyramide"
+      "Title": "Disopyramide",
+      "MW": "339.5 g/mol"
     },
     {
       "Title": "Tetrodotoxin"

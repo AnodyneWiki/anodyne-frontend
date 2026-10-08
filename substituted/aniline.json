@@ -3,7 +3,9 @@
   "Entries": [
     {
       "Title": "Aniline",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "93.13 g/mol"
     },
     {
@@ -30,42 +32,58 @@
     },
     {
       "Title": "Metamizole",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "311.36 g/mol"
     },
     {
       "Title": "Avizafone",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "430.9 g/mol"
     },
     {
       "Title": "Rilmazafone",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "475.3 g/mol"
     },
     {
-      "Title": "Clonazafone Desglycyl",
-      "Abr": [],
+      "Title": "Clonazafone desglycyl",
+      "Abr": [
+
+      ],
       "MW": "333.72 g/mol"
     },
     {
       "Title": "Metacetamol",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "151.16 g/mol"
     },
     {
       "Title": "Ampyrone",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "203.24 g/mol"
     },
     {
       "Title": "Doxycycline",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "444.4 g/mol"
     },
     {
       "Title": "Lidocaine",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "234.34 g/mol"
     },
     {
@@ -101,6 +119,380 @@
         "JWH-210"
       ],
       "MW": "369.5 g/mol"
+    },
+    {
+      "Title": "Entacapone",
+      "MW": "305.29 g/mol"
+    },
+    {
+      "Title": "Propyphenazone",
+      "MW": "230.31 g/mol"
+    },
+    {
+      "Title": "Diclofenac",
+      "MW": "296.1 g/mol"
+    },
+    {
+      "Title": "Nefiracetam",
+      "MW": "246.30 g/mol"
+    },
+    {
+      "Title": "Phenylbutazone",
+      "MW": "308.4 g/mol"
+    },
+    {
+      "Title": "Dimethocaine",
+      "MW": "278.39 g/mol"
+    },
+    {
+      "Title": "Benzocaine",
+      "MW": "165.19 g/mol"
+    },
+    {
+      "Title": "Tetracaine",
+      "MW": "264.36 g/mol"
+    },
+    {
+      "Title": "Procaine",
+      "MW": "236.31 g/mol"
+    },
+    {
+      "Title": "Isotryptamine",
+      "MW": "160.22 g/mol"
+    },
+    {
+      "Title": "N,N-Dimethylisotryptamine",
+      "Abr": [
+        "isoDMT"
+      ],
+      "MW": "188.27 g/mol"
+    },
+    {
+      "Title": "α-Methylisotryptamine",
+      "Abr": [
+        "isoAMT"
+      ],
+      "MW": "174.24 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N,N-dimethylisotryptamine",
+      "Abr": [
+        "5-MeO-isoDMT"
+      ],
+      "MW": "218.29 g/mol"
+    },
+    {
+      "Title": "6-Methoxy-N,N-dimethylisotryptamine",
+      "Abr": [
+        "6-MeO-isoDMT"
+      ],
+      "MW": "218.29 g/mol"
+    },
+    {
+      "Title": "Zalsupindole",
+      "Abr": [
+        "DLX-001",
+        "AAZ-A-154"
+      ],
+      "MW": "232.32 g/mol"
+    },
+    {
+      "Title": "(S)-5-fluoro-6-chloro-α-methylisotryptamine",
+      "Abr": [
+        "Ro60-0175",
+        "(S)-5-F-6-Cl-isoAMT"
+      ],
+      "MW": "226.68 g/mol"
+    },
+    {
+      "Title": "Naratriptan",
+      "MW": "335.5 g/mol"
+    },
+    {
+      "Title": "Ondansetron",
+      "MW": "293.4 g/mol"
+    },
+    {
+      "Title": "Sufentanyl",
+      "MW": "386.6 g/mol"
+    },
+    {
+      "Title": "Remifentanil",
+      "MW": "376.4 g/mol"
+    },
+    {
+      "Title": "3-Hydroxyphenazepam",
+      "MW": "365.61 g/mol"
+    },
+    {
+      "Title": "Alprazolam",
+      "Abr": [
+        "Xanax"
+      ],
+      "MW": "308.8 g/mol"
+    },
+    {
+      "Title": "4'-Chlorodiazepam",
+      "Abr": [
+        "Ro5-4864"
+      ],
+      "MW": "319.2 g/mol"
+    },
+    {
+      "Title": "Adinazolam",
+      "MW": "351.8 g/mol"
+    },
+    {
+      "Title": "Bromazolam",
+      "MW": "353.2 g/mol"
+    },
+    {
+      "Title": "Cinazepam",
+      "MW": "465.7 g/mol"
+    },
+    {
+      "Title": "Cinolazepam",
+      "MW": "357.8 g/mol"
+    },
+    {
+      "Title": "Clobazam",
+      "MW": "300.74 g/mol"
+    },
+    {
+      "Title": "Clonazepam",
+      "MW": "315.71 g/mol"
+    },
+    {
+      "Title": "Clonazolam",
+      "MW": "353.8 g/mol"
+    },
+    {
+      "Title": "Clorazepate",
+      "MW": "314.72 g/mol"
+    },
+    {
+      "Title": "Diazepam",
+      "Abr": [
+        "Valium"
+      ],
+      "MW": "284.74 g/mol"
+    },
+    {
+      "Title": "Diclazepam",
+      "MW": "319.2 g/mol"
+    },
+    {
+      "Title": "Difludiazepam",
+      "MW": "320.72 g/mol"
+    },
+    {
+      "Title": "Estazolam",
+      "MW": "294.74 g/mol"
+    },
+    {
+      "Title": "Flualprazolam",
+      "MW": "326.8 g/mol"
+    },
+    {
+      "Title": "Flubromazepam",
+      "MW": "333.15 g/mol"
+    },
+    {
+      "Title": "Flubromazolam",
+      "MW": "371.2 g/mol"
+    },
+    {
+      "Title": "Nitrazepam",
+      "MW": "281.27 g/mol"
+    },
+    {
+      "Title": "Flunitrazepam",
+      "MW": "313.28 g/mol"
+    },
+    {
+      "Title": "Desmethylflunitrazepam",
+      "MW": "299.26 g/mol"
+    },
+    {
+      "Title": "Flunitrazolam",
+      "MW": "337.31 g/mol"
+    },
+    {
+      "Title": "Flurazepam",
+      "MW": "387.9 g/mol"
+    },
+    {
+      "Title": "Gidazepam",
+      "MW": "387.2 g/mol"
+    },
+    {
+      "Title": "Loprazolam",
+      "MW": "464.9 g/mol"
+    },
+    {
+      "Title": "Lorazepam",
+      "MW": "321.2 g/mol"
+    },
+    {
+      "Title": "Lormetazepam",
+      "MW": "335.2 g/mol"
+    },
+    {
+      "Title": "Meclonazepam",
+      "MW": "329.74 g/mol"
+    },
+    {
+      "Title": "Nifoxipam",
+      "MW": "315.26 g/mol"
+    },
+    {
+      "Title": "Nitrazolam",
+      "MW": "319.32 g/mol"
+    },
+    {
+      "Title": "Nordazepam",
+      "MW": "270.71 g/mol"
+    },
+    {
+      "Title": "Norflurazepam",
+      "MW": "288.70 g/mol"
+    },
+    {
+      "Title": "Oxazepam",
+      "MW": "286.71 g/mol"
+    },
+    {
+      "Title": "Phenazepam",
+      "MW": "349.61 g/mol"
+    },
+    {
+      "Title": "Quazepam",
+      "MW": "386.8 g/mol"
+    },
+    {
+      "Title": "Temazepam",
+      "MW": "300.74 g/mol"
+    },
+    {
+      "Title": "Tetrazepam",
+      "MW": "288.77 g/mol"
+    },
+    {
+      "Title": "Triazolam",
+      "MW": "343.2 g/mol"
+    },
+    {
+      "Title": "Rilmazolam",
+      "MW": "400.3 g/mol"
+    },
+    {
+      "Title": "Pinazepam",
+      "MW": "308.8 g/mol"
+    },
+    {
+      "Title": "Clonazafone",
+      "MW": "390.8 g/mol"
+    },
+    {
+      "Title": "Midazolam",
+      "MW": "325.8 g/mol"
+    },
+    {
+      "Title": "Climazolam",
+      "Abr": [
+        "Ro21-3982"
+      ],
+      "MW": "342.2 g/mol"
+    },
+    {
+      "Title": "Imidazenil",
+      "MW": "399.2 g/mol"
+    },
+    {
+      "Title": "Olanzapine",
+      "MW": "312.4 g/mol"
+    },
+    {
+      "Title": "Promethazine",
+      "MW": "284.4 g/mol"
+    },
+    {
+      "Title": "Clomipramine",
+      "MW": "314.9 g/mol"
+    },
+    {
+      "Title": "JWH-193",
+      "Abr": [
+        "JWH-193"
+      ],
+      "MW": "398.5 g/mol"
+    },
+    {
+      "Title": "JWH-198",
+      "Abr": [
+        "JWH-198"
+      ],
+      "MW": "414.5 g/mol"
+    },
+    {
+      "Title": "JWH-200",
+      "Abr": [
+        "JWH-200"
+      ],
+      "MW": "384.5 g/mol"
+    },
+    {
+      "Title": "Pravadoline",
+      "Abr": [
+        "WIN 48,098"
+      ],
+      "MW": "378.5 g/mol"
+    },
+    {
+      "Title": "6-Bromopravadoline",
+      "Abr": [
+        "WIN 54,461"
+      ],
+      "MW": "457.4 g/mol"
+    },
+    {
+      "Title": "Mifepristone",
+      "MW": "429.6 g/mol"
+    },
+    {
+      "Title": "Dutasteride",
+      "MW": "528.5 g/mol"
+    },
+    {
+      "Title": "Chlorhexidine",
+      "MW": "505.4 g/mol"
+    },
+    {
+      "Title": "2,4-Dinitrophenol",
+      "Abr": [
+        "DNP"
+      ],
+      "MW": "184.11 g/mol"
+    },
+    {
+      "Title": "Efavirenz",
+      "MW": "315.67 g/mol"
+    },
+    {
+      "Title": "Neostigmine",
+      "MW": "223.29 g/mol"
+    },
+    {
+      "Title": "Bemethyl",
+      "MW": "178.26 g/mol"
+    },
+    {
+      "Title": "Pantoprazole",
+      "MW": "383.4 g/mol"
+    },
+    {
+      "Title": "Fabomotizole",
+      "MW": "307.4 g/mol"
     }
   ],
   "Parents": [

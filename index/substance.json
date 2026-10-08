@@ -1,7 +1,7 @@
 {
 "Name": "Substance",
 "Entries": [
-	{ "Title": "Oxytocin", "NoBuild": true },
+	{ "Title": "Oxytocin", "Classes":[ "Hormone", "Neuropeptide" ], "NoBuild": true },
 	{ "Title": "α-Endorphin", "NoBuild": true },
 	{ "Title": "β-Endorphin", "NoBuild": true },
 	{ "Title": "γ-Endorphin", "NoBuild": true },
@@ -13,7 +13,7 @@
 	{ "Title": "Water" },
 	{ "Title": "Ammonia" },
 
-	{ "Title": "Daridorexant" },
+	{ "Title": "Daridorexant"},
 	{ "Title": "Ketanserin", "Abr": [ "R-41468", "R41468", "R-41,468", "KJK-945", "R-49945", "R49945" ] },
 
 	{ "Title": "Vasopressin", "NoBuild": true },
@@ -251,10 +251,10 @@
 	{ "Title": "Hydrastinine" },
 	{ "Title": "Lophophine" },
 
-	{ "Title": "Clonidine" },
+	{ "Title": "Clonidine", "Classes": [ "Anxiolytic" ] },
 	{ "Title": "Dexmedetomidine" },
 
-	{ "Title": "Propranolol" },
+	{ "Title": "Propranolol", "Classes": [ "Beta blocker" ] },
 
 	{ "Title": "Carisoprodol" },
 
@@ -389,7 +389,7 @@
 	{ "Title": "Cysteine", "Abr": "Cys" },
 	{ "Title": "Selenocysteine", "Abr": "Sec" },
 	{ "Title": "Acetylcysteine", "Abr": "NAC" },
-	{ "Title": "Taurine" },
+	{ "Title": "Taurine", "Classes": [ "Nutrient" ] },
 
 	{ "Title": "Propyphenazone", "Classes": [ "Nonsteroidal anti-inflammatory drug", "Analgesic", "Antipyretics" ] },
 	{ "Title": "Acetylsalicylic acid", "Abr": "ASA", "Classes": [ "Nonsteroidal anti-inflammatory drug" ] },
@@ -475,8 +475,8 @@
 	{ "Title": "Metaraminol", "Abr": "Metaradrine", "Classes": [ "Sympathomimetic" ] },
 	{ "Title": "Para-Hydroxynorephedrine", "Classes": [ "Sympathomimetic" ] },
 
-	{ "Title": "Pseudoephedrine", "Classes": [ "Sympathomimetic" ] },
-	{ "Title": "Ephedrine", "Classes": [ "Sympathomimetic" ] },
+	{ "Title": "Pseudoephedrine", "Classes": [ "Sympathomimetic", "Stimulant" ] },
+	{ "Title": "Ephedrine", "Classes": [ "Sympathomimetic", "Stimulant" ] },
 	{ "Title": "Thioephedrine", "Search": "CID21115028" },
 	{ "Title": "Methylephedrine", "Search": "CID4374", "Classes": [ "Sympathomimetic" ] },
 	{ "Title": "Methylpseudoephedrine", "Classes": [ "Sympathomimetic" ] },
@@ -1329,7 +1329,7 @@
 	{ "Title": "Bromoketamine", "System": "2-Bromodeschloroketamine", "Abr": ["2-Br-2'-Oxo-PCM", "2-Br-DCK"] },
 	{ "Title": "Fluoroketamine", "System": "2-Fluorodeschloroketamine", "Abr": "2-FDCK" },
 	{ "Title": "3-Fluorodeschloroketamine", "Abr": "3-FDCK" },
-	{ "Title": "Ketamine", "Ltitle": "Arketamine", "Dtitle": "Esketamine", "Abr": ["2-Cl-2'-Oxo-PCM", "K"] },
+	{ "Title": "Ketamine", "Ltitle": "Arketamine", "Dtitle": "Esketamine", "Abr": ["2-Cl-2'-Oxo-PCM", "K"], "Classes": [ "Antidepressant", "Anaesthetic" ] },
 	{ "Title": "Ethketamine", "System": "N-Ethylnorketamine", "Abr": ["NENK", "2-Cl-2'-Oxo-PCE"] },
 	{ "Title": "Eticyclidine", "Abr": "PCE" },
 	{ "Title": "Dieticyclidine", "Abr": "PCDE" },
@@ -1532,21 +1532,21 @@
 	{ "Title": "Setiptiline" },
 
 	{ "Title": "Tametraline", "Abr": [ "CP-24,441" ] },
-	{ "Title": "Dasotraline", "Classes": [ "Serotonin reuptake inhibitor" ] },
-	{ "Title": "Sertraline", "Classes": [ "Serotonin reuptake inhibitor" ] },
+	{ "Title": "Dasotraline", "Classes": [ "Serotonin reuptake inhibitor", "Antidepressant", "Serotonergic antidepressant" ] },
+	{ "Title": "Sertraline", "Classes": [ "Serotonin reuptake inhibitor", "Antidepressant", "Serotonergic antidepressant" ] },
 	{ "Title": "Norfluoxetine", "Dtitle": "Seproxetine", "Classes": [ "Serotonin reuptake inhibitor" ] },
-	{ "Title": "Fluoxetine", "Classes": [ "Serotonin reuptake inhibitor" ] },
+	{ "Title": "Fluoxetine", "Classes": [ "Serotonin reuptake inhibitor", "Antidepressant", "Serotonergic antidepressant" ] },
 	{ "Title": "Atomoxetine" },
-	{ "Title": "Fluvoxamine", "Classes": [ "Serotonin reuptake inhibitor" ] },
+	{ "Title": "Fluvoxamine", "Classes": [ "Serotonin reuptake inhibitor", "Antidepressant", "Serotonergic antidepressant"] },
 	{ "Title": "Duloxetine", "Classes": [ "Serotonin-norepinephrine reuptake inhibitor" ] },
-	{ "Title": "Paroxetine", "Classes": [ "Serotonin reuptake inhibitor" ] },
-	{ "Title": "Venlafaxine", "Classes": [ "Serotonin-norepinephrine reuptake inhibitor" ] },
+	{ "Title": "Paroxetine", "Classes": [ "Serotonin reuptake inhibitor", "Antidepressant", "Serotonergic antidepressant" ] },
+	{ "Title": "Venlafaxine", "Classes": [ "Serotonin-norepinephrine reuptake inhibitor", "Antidepressant", "Serotonergic antidepressant" ] },
 	{ "Title": "Clomipramine" },
-	{ "Title": "Escitalopram" },
+	{ "Title": "Escitalopram", "Classes": [ "Serotonin-norepinephrine reuptake inhibitor", "Antidepressant", "Serotonergic antidepressant" ] },
 
 	{ "Title": "Tapentadol" },
 
-	{ "Title": "Agomelatine" },
+	{ "Title": "Agomelatine", "Classes":[ "Antidepressant" ] },
 
 	{ "Title": "Cannabidiol", "Abr": "CBD" },
 	{ "Title": "Δ-8-tetrahydrocannabinol", "Abr": "Δ-8-THC" },

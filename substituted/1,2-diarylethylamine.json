@@ -84,6 +84,21 @@
       "Title": "Apomorphine",
       "MW": "267.32 g/mol",
       "Abr": null
+    },
+    {
+      "Title": "Aporphine",
+      "MW": "235.32 g/mol"
+    },
+    {
+      "Title": "Fluorolintane",
+      "Abr": [
+        "2-FPPP"
+      ],
+      "MW": "269.4 g/mol"
+    },
+    {
+      "Title": "Indapyrophenidone",
+      "MW": "305.4 g/mol"
     }
   ],
   "First": {

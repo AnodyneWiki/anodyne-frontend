@@ -3,32 +3,44 @@
   "Entries": [
     {
       "Title": "4-Propionoyloxy-N,N-dimethyltryptamine",
-      "Abr": "4-PrO-DMT",
+      "Abr": [
+        "4-PrO-DMT"
+      ],
       "MW": "260.33 g/mol"
     },
     {
       "Title": "5-Bromo-N,N-dimethyltryptamine",
-      "Abr": "5-Bromo-DMT",
+      "Abr": [
+        "5-Bromo-DMT"
+      ],
       "MW": "267.16 g/mol"
     },
     {
       "Title": "5-Chloro-N,N-dimethyltryptamine",
-      "Abr": "5-Chloro-DMT",
+      "Abr": [
+        "5-Chloro-DMT"
+      ],
       "MW": "222.71 g/mol"
     },
     {
       "Title": "5-Fluoro-N,N-dimethyltryptamine",
-      "Abr": "5-Fluoro-DMT",
+      "Abr": [
+        "5-Fluoro-DMT"
+      ],
       "MW": "206.26 g/mol"
     },
     {
       "Title": "5-Nitro-N,N-dimethyltryptamine",
-      "Abr": "5-Nitro-DMT",
+      "Abr": [
+        "5-Nitro-DMT"
+      ],
       "MW": "233.27 g/mol"
     },
     {
       "Title": "Bufotenin",
-      "Abr": "5-HO-DMT",
+      "Abr": [
+        "5-HO-DMT"
+      ],
       "MW": "204.27 g/mol"
     },
     {
@@ -56,22 +68,30 @@
     },
     {
       "Title": "Psilacetin",
-      "Abr": "4-AcO-DMT",
+      "Abr": [
+        "4-AcO-DMT"
+      ],
       "MW": "246.30 g/mol"
     },
     {
       "Title": "Psilocin",
-      "Abr": "4-HO-DMT",
+      "Abr": [
+        "4-HO-DMT"
+      ],
       "MW": "204.27 g/mol"
     },
     {
       "Title": "Psilocybin",
-      "Abr": "4-PO-DMT",
+      "Abr": [
+        "4-PO-DMT"
+      ],
       "MW": "284.25 g/mol"
     },
     {
       "Title": "Serotonin",
-      "Abr": "5-HT",
+      "Abr": [
+        "5-HT"
+      ],
       "MW": "176.21 g/mol"
     },
     {
@@ -96,37 +116,51 @@
     },
     {
       "Title": "5,7-Dihydroxytryptamine",
-      "Abr": "5,7-DHT",
+      "Abr": [
+        "5,7-DHT"
+      ],
       "MW": "192.21 g/mol"
     },
     {
       "Title": "4,5-Dihydroxytryptamine",
-      "Abr": "4,5-DHT",
+      "Abr": [
+        "4,5-DHT"
+      ],
       "MW": "192.21 g/mol"
     },
     {
       "Title": "5,6-Dihydroxytryptamine",
-      "Abr": "5,6-DHT",
+      "Abr": [
+        "5,6-DHT"
+      ],
       "MW": "192.21 g/mol"
     },
     {
       "Title": "Psilomethoxin",
-      "Abr": "4-HO-5-MeO-DMT",
+      "Abr": [
+        "4-HO-5-MeO-DMT"
+      ],
       "MW": "234.29 g/mol"
     },
     {
       "Title": "Diethyltryptamine",
-      "Abr": "DET",
+      "Abr": [
+        "DET"
+      ],
       "MW": "216.32 g/mol"
     },
     {
       "Title": "Diisopropyltryptamine",
-      "Abr": "DiPT",
+      "Abr": [
+        "DiPT"
+      ],
       "MW": "244.37 g/mol"
     },
     {
       "Title": "Dipropyltryptamine",
-      "Abr": "DPT",
+      "Abr": [
+        "DPT"
+      ],
       "MW": "244.37 g/mol"
     },
     {
@@ -145,27 +179,37 @@
     },
     {
       "Title": "Methylisopropyltryptamine",
-      "Abr": "MiPT",
+      "Abr": [
+        "MiPT"
+      ],
       "MW": "216.32 g/mol"
     },
     {
       "Title": "Methylpropyltryptamine",
-      "Abr": "MPT",
+      "Abr": [
+        "MPT"
+      ],
       "MW": "216.32 g/mol"
     },
     {
       "Title": "Ethocin",
-      "Abr": "4-HO-DET",
+      "Abr": [
+        "4-HO-DET"
+      ],
       "MW": "232.32 g/mol"
     },
     {
       "Title": "Iprocin",
-      "Abr": "4-HO-DiPT",
+      "Abr": [
+        "4-HO-DiPT"
+      ],
       "MW": "260.37 g/mol"
     },
     {
       "Title": "Deprocin",
-      "Abr": "4-HO-DPT",
+      "Abr": [
+        "4-HO-DPT"
+      ],
       "MW": "260.37 g/mol"
     },
     {
@@ -175,17 +219,23 @@
     },
     {
       "Title": "Metocin",
-      "Abr": "4-HO-MET",
+      "Abr": [
+        "4-HO-MET"
+      ],
       "MW": "218.29 g/mol"
     },
     {
       "Title": "Miprocin",
-      "Abr": "4-HO-MiPT",
+      "Abr": [
+        "4-HO-MiPT"
+      ],
       "MW": "232.32 g/mol"
     },
     {
       "Title": "Meprocin",
-      "Abr": "4-HO-MPT",
+      "Abr": [
+        "4-HO-MPT"
+      ],
       "MW": "232.32 g/mol"
     },
     {
@@ -202,12 +252,16 @@
     },
     {
       "Title": "5-Methoxy-N,N-diallyltryptamine",
-      "Abr": "5-MeO-DALT",
+      "Abr": [
+        "5-MeO-DALT"
+      ],
       "MW": "270.37 g/mol"
     },
     {
       "Title": "5-Methoxy-N,N-diisopropyltryptamine",
-      "Abr": "5-MeO-DiPT",
+      "Abr": [
+        "5-MeO-DiPT"
+      ],
       "MW": "274.4 g/mol"
     },
     {
@@ -226,57 +280,79 @@
     },
     {
       "Title": "5-Methoxy-N-ethyl-N-isopropyltryptamine",
-      "Abr": "5-MeO-EiPT",
+      "Abr": [
+        "5-MeO-EiPT"
+      ],
       "MW": "260.37 g/mol"
     },
     {
       "Title": "5-Methoxy-N-methyl-N-allyltryptamine",
-      "Abr": "5-MeO-MALT",
+      "Abr": [
+        "5-MeO-MALT"
+      ],
       "MW": "244.33 g/mol"
     },
     {
       "Title": "5-Hydroxy-N,N-diethyltryptamine",
-      "Abr": "5-HO-DET",
+      "Abr": [
+        "5-HO-DET"
+      ],
       "MW": "232.32 g/mol"
     },
     {
       "Title": "5-hydroxy-N,N-diisopropyltryptamine",
-      "Abr": "5-HO-DiPT",
+      "Abr": [
+        "5-HO-DiPT"
+      ],
       "MW": "260.37 g/mol"
     },
     {
       "Title": "7-Chlorotryptamine",
-      "Abr": "7-Chloro-T",
+      "Abr": [
+        "7-Chloro-T"
+      ],
       "MW": "194.66 g/mol"
     },
     {
       "Title": "5-Fluoro-N,N-diethyltryptamine",
-      "Abr": "5-Fluoro-DET",
+      "Abr": [
+        "5-Fluoro-DET"
+      ],
       "MW": "234.31 g/mol"
     },
     {
       "Title": "Bretisilocin",
-      "Abr": "5-Fluoro-MET",
+      "Abr": [
+        "5-Fluoro-MET"
+      ],
       "MW": "220.29 g/mol"
     },
     {
       "Title": "5-Fluoro-N-ethyl-N-propyltryptamine",
-      "Abr": "5-Fluoro-EPT",
+      "Abr": [
+        "5-Fluoro-EPT"
+      ],
       "MW": "248.34 g/mol"
     },
     {
       "Title": "5-Methoxy-7-fluoro-N-methyl-N-ethyltryptamine",
-      "Abr": "5-MeO-7-F-MET",
+      "Abr": [
+        "5-MeO-7-F-MET"
+      ],
       "MW": "250.31 g/mol"
     },
     {
       "Title": "6-Fluoro-N,N-diethyltryptamine",
-      "Abr": "6-Fluoro-DET",
+      "Abr": [
+        "6-Fluoro-DET"
+      ],
       "MW": "234.31 g/mol"
     },
     {
       "Title": "6-Methoxy-N,N-dimethyltryptamine",
-      "Abr": "6-MeO-DMT",
+      "Abr": [
+        "6-MeO-DMT"
+      ],
       "MW": "218.29 g/mol"
     },
     {
@@ -286,27 +362,37 @@
     },
     {
       "Title": "5-(Trifluoromethyl)-N,N-dimethyltryptamine",
-      "Abr": "5-TFM-DMT",
+      "Abr": [
+        "5-TFM-DMT"
+      ],
       "MW": "256.27 g/mol"
     },
     {
       "Title": "5-(Trifluoromethoxy)-N,N-dimethyltryptamine",
-      "Abr": "5-TFMO-DMT",
+      "Abr": [
+        "5-TFMO-DMT"
+      ],
       "MW": "256.27 g/mol"
     },
     {
       "Title": "Norpsilocin",
-      "Abr": "4-HO-NMT",
+      "Abr": [
+        "4-HO-NMT"
+      ],
       "MW": "190.24 g/mol"
     },
     {
       "Title": "Aeruginascin",
-      "Abr": "4-PO-TMT",
-      "MW": "298.27 g/mol"
+      "Abr": [
+        "4-PO-TMT"
+      ],
+      "MW": "299.28 g/mol"
     },
     {
       "Title": "4-Hydroxytryptamine",
-      "Abr": "4-HO-T",
+      "Abr": [
+        "4-HO-T"
+      ],
       "MW": "176.21 g/mol"
     },
     {
@@ -417,6 +503,195 @@
         "4-Bromo-DMT"
       ],
       "MW": "267.16 g/mol"
+    },
+    {
+      "Title": "N,N-Piperidyltryptamine",
+      "Abr": [
+        "pip-T"
+      ],
+      "MW": "228.33 g/mol"
+    },
+    {
+      "Title": "β-Keto-N,N-piperidyltryptamine",
+      "Abr": [
+        "βk-pip-T"
+      ],
+      "MW": "242.32 g/mol"
+    },
+    {
+      "Title": "4-Hydroxy-N,N-piperidyltryptamine",
+      "Abr": [
+        "4-HO-pip-T"
+      ],
+      "MW": "244.33 g/mol"
+    },
+    {
+      "Title": "5-Hydroxy-N,N-piperidyltryptamine",
+      "Abr": [
+        "5-HO-pip-T"
+      ],
+      "MW": "244.33 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N,N-piperidyltryptamine",
+      "Abr": [
+        "5-MeO-pip-T"
+      ],
+      "MW": "258.36 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-2-methyl-N,N-piperidyltryptamine",
+      "Abr": [
+        "5-MeO-2-Me-pip-T"
+      ],
+      "MW": "272.4 g/mol"
+    },
+    {
+      "Title": "N,N-Morpholinyltryptamine",
+      "Abr": [
+        "mor-T"
+      ],
+      "MW": "230.31 g/mol"
+    },
+    {
+      "Title": "β-Keto-N,N-morpholinyltryptamine",
+      "Abr": [
+        "βk-mor-T"
+      ],
+      "MW": "244.29 g/mol"
+    },
+    {
+      "Title": "5-Hydroxy-N,N-morpholinyltryptamine",
+      "Abr": [
+        "5-HO-mor-T"
+      ],
+      "MW": "246.30 g/mol"
+    },
+    {
+      "Title": "4-Methoxy-N,N-morpholinyltryptamine",
+      "Abr": [
+        "4-MeO-mor-T"
+      ],
+      "MW": "260.33 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N,N-morpholinyltryptamine",
+      "Abr": [
+        "5-MeO-mor-T"
+      ],
+      "MW": "260.33 g/mol"
+    },
+    {
+      "Title": "N,N-Pyrrolidinyltryptamine",
+      "Abr": [
+        "pyr-T"
+      ],
+      "MW": "214.31 g/mol"
+    },
+    {
+      "Title": "β-Keto-N,N-pyrrolidinyltryptamine",
+      "Abr": [
+        "βk-pyr-T"
+      ],
+      "MW": "228.29 g/mol"
+    },
+    {
+      "Title": "4-Hydroxy-N,N-pyrrolidinyltryptamine",
+      "Abr": [
+        "4-HO-pyr-T"
+      ],
+      "MW": "230.31 g/mol"
+    },
+    {
+      "Title": "5-Hydroxy-N,N-pyrrolidinyltryptamine",
+      "Abr": [
+        "5-HO-pyr-T"
+      ],
+      "MW": "230.31 g/mol"
+    },
+    {
+      "Title": "6-Hydroxy-N,N-pyrrolidinyltryptamine",
+      "Abr": [
+        "6-HO-pyr-T"
+      ],
+      "MW": "230.31 g/mol"
+    },
+    {
+      "Title": "7-Hydroxy-N,N-pyrrolidinyltryptamine",
+      "Abr": [
+        "7-HO-pyr-T"
+      ],
+      "MW": "230.31 g/mol"
+    },
+    {
+      "Title": "4-Methoxy-N,N-pyrrolidinyltryptamine",
+      "Abr": [
+        "4-MeO-pyr-T"
+      ],
+      "MW": "244.33 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N,N-pyrrolidinyltryptamine",
+      "Abr": [
+        "5-MeO-pyr-T"
+      ],
+      "MW": "244.33 g/mol"
+    },
+    {
+      "Title": "6-Methoxy-N,N-pyrrolidinyltryptamine",
+      "Abr": [
+        "6-MeO-pyr-T"
+      ],
+      "MW": "244.33 g/mol"
+    },
+    {
+      "Title": "7-Methoxy-N,N-pyrrolidinyltryptamine",
+      "Abr": [
+        "7-MeO-pyr-T"
+      ],
+      "MW": "244.33 g/mol"
+    },
+    {
+      "Title": "4-Fluoro-5-methoxy-N,N-pyrrolidinyltryptamine",
+      "Abr": [
+        "4-F-5-MeO-pyr-T"
+      ],
+      "MW": "262.32 g/mol"
+    },
+    {
+      "Title": "Ethacetin",
+      "Abr": [
+        "4-AcO-DET"
+      ],
+      "MW": "274.36 g/mol"
+    },
+    {
+      "Title": "Ipracetin",
+      "Abr": [
+        "4-AcO-DiPT"
+      ],
+      "MW": "302.4 g/mol"
+    },
+    {
+      "Title": "Metacetin",
+      "Abr": [
+        "4-AcO-MET"
+      ],
+      "MW": "260.33 g/mol"
+    },
+    {
+      "Title": "Mipracetin",
+      "Abr": [
+        "4-AcO-MiPT"
+      ],
+      "MW": "274.36 g/mol"
+    },
+    {
+      "Title": "Norbaeocystin",
+      "Abr": [
+        "4-PO-T"
+      ],
+      "MW": "256.19 g/mol"
     }
   ],
   "Parents": [

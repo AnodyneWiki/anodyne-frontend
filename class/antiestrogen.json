@@ -3,7 +3,10 @@
   "Entries": [
     {
       "Title": "Cyproterone acetate",
-      "Abr": "CPA"
+      "Abr": [
+        "CPA"
+      ],
+      "MW": "416.9 g/mol"
     }
   ]
 }

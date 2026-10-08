@@ -2,7 +2,12 @@
   "Name": "beta blocker",
   "Entries": [
     {
-      "Title": "Butaxamine"
+      "Title": "Butaxamine",
+      "MW": "267.36 g/mol"
+    },
+    {
+      "Title": "Propranolol",
+      "MW": "259.34 g/mol"
     }
   ]
 }

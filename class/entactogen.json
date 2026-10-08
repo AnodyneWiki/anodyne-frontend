@@ -3,55 +3,94 @@
   "Entries": [
     {
       "Title": "6,7-Methylenedioxy-2-aminotetralin",
-      "Abr": "MDAT"
+      "Abr": [
+        "MDAT"
+      ],
+      "MW": "191.23 g/mol"
     },
     {
       "Title": "4-Fluoromethamphetamine",
-      "Abr": "4-FMA"
+      "Abr": [
+        "4-FMA"
+      ],
+      "MW": "167.22 g/mol"
     },
     {
       "Title": "3-Fluoroethamphetamine",
-      "Abr": "3-FEA"
+      "Abr": [
+        "3-FEA"
+      ],
+      "MW": "181.25 g/mol"
     },
     {
       "Title": "4-Methylthioamphetamine",
-      "Abr": "4-MTA"
+      "Abr": [
+        "4-MTA"
+      ],
+      "MW": "181.30 g/mol"
     },
     {
       "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
-      "Abr": "Lys-MDMA"
+      "Abr": [
+        "Lys-MDMA"
+      ],
+      "MW": "321.4 g/mol"
     },
     {
       "Title": "3,4-Methylenedioxyamphetamine",
-      "Abr": "MDA"
+      "Abr": [
+        "MDA"
+      ],
+      "MW": "179.22 g/mol"
     },
     {
       "Title": "3,4-Methylenedioxy-3-methylaminobutane",
-      "Abr": "Homo-MDMA"
+      "Abr": [
+        "Homo-MDMA"
+      ],
+      "MW": "207.27 g/mol"
     },
     {
       "Title": "3,4-Methylenedioxymephenidine",
-      "Abr": "UWA-001"
+      "Abr": [
+        "UWA-001"
+      ],
+      "MW": "255.31 g/mol"
     },
     {
       "Title": "α-Ethyltryptamine",
-      "Abr": "αET"
+      "Abr": [
+        "αET"
+      ],
+      "MW": "188.27 g/mol"
     },
     {
       "Title": "α,N-Dimethyl-β-ketotryptamine",
-      "Abr": "βk-NM-αMT"
+      "Abr": [
+        "βk-NM-αMT"
+      ],
+      "MW": "202.25 g/mol"
     },
     {
       "Title": "α,N-Dimethyl-5-fluoro-β-ketotryptamine",
-      "Abr": "βk-5F-NM-αMT"
+      "Abr": [
+        "βk-5F-NM-αMT"
+      ],
+      "MW": "220.24 g/mol"
     },
     {
       "Title": "α,N-Dimethyl-5-chloro-β-ketotryptamine",
-      "Abr": "βk-5Cl-NM-αMT"
+      "Abr": [
+        "βk-5Cl-NM-αMT"
+      ],
+      "MW": "236.70 g/mol"
     },
     {
       "Title": "α,N-Dimethyl-5-bromo-β-ketotryptamine",
-      "Abr": "βk-5Br-NM-αMT"
+      "Abr": [
+        "βk-5Br-NM-αMT"
+      ],
+      "MW": "281.15 g/mol"
     }
   ]
 }

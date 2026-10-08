@@ -3,7 +3,10 @@
   "Entries": [
     {
       "Title": "Estradiol sulfamate",
-      "Abr": "E2MATE"
+      "Abr": [
+        "E2MATE"
+      ],
+      "MW": "351.5 g/mol"
     }
   ]
 }

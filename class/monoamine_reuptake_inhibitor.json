@@ -3,11 +3,16 @@
   "Entries": [
     {
       "Title": "4,5-Dihydroxytryptamine",
-      "Abr": "4,5-DHT"
+      "Abr": [
+        "4,5-DHT"
+      ],
+      "MW": "192.21 g/mol"
     },
     {
       "Title": "4-Hydroxy-5-methoxytryptamine",
-      "Abr": "4-HO-5-MeO-T"
+      "Abr": [
+        "4-HO-5-MeO-T"
+      ]
     }
   ]
 }

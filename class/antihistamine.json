@@ -2,26 +2,35 @@
   "Name": "antihistamine",
   "Entries": [
     {
-      "Title": "Bilastine"
+      "Title": "Bilastine",
+      "MW": "463.6 g/mol"
     },
     {
-      "Title": "Cetirizine"
+      "Title": "Cetirizine",
+      "MW": "388.9 g/mol"
     },
     {
-      "Title": "Fexofenadine"
+      "Title": "Fexofenadine",
+      "MW": "501.7 g/mol"
     },
     {
-      "Title": "Loratadine"
+      "Title": "Loratadine",
+      "MW": "382.9 g/mol"
     },
     {
-      "Title": "Azelastine"
+      "Title": "Azelastine",
+      "MW": "381.9 g/mol"
     },
     {
       "Title": "Diphenhydramine",
-      "Abr": "DPH"
+      "Abr": [
+        "DPH"
+      ],
+      "MW": "255.35 g/mol"
     },
     {
-      "Title": "Doxylamine"
+      "Title": "Doxylamine",
+      "MW": "270.37 g/mol"
     }
   ]
 }

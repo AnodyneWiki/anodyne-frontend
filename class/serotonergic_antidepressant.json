@@ -3,6 +3,34 @@
   "Entries": [
     {
       "Title": "3-Hydroxy-N,N-dimethylphenethylamine"
+    },
+    {
+      "Title": "Dasotraline",
+      "MW": "292.2 g/mol"
+    },
+    {
+      "Title": "Sertraline",
+      "MW": "306.2 g/mol"
+    },
+    {
+      "Title": "Fluoxetine",
+      "MW": "309.33 g/mol"
+    },
+    {
+      "Title": "Fluvoxamine",
+      "MW": "318.33 g/mol"
+    },
+    {
+      "Title": "Paroxetine",
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "Venlafaxine",
+      "MW": "277.4 g/mol"
+    },
+    {
+      "Title": "Escitalopram",
+      "MW": "324.4 g/mol"
     }
   ]
 }

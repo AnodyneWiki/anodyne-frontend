@@ -3,12 +3,16 @@
   "Entries": [
     {
       "Title": "Bisphenol A",
-      "Abr": "BPA",
+      "Abr": [
+        "BPA"
+      ],
       "MW": "228.29 g/mol"
     },
     {
       "Title": "Bisphenol S",
-      "Abr": "BPS",
+      "Abr": [
+        "BPS"
+      ],
       "MW": "250.27 g/mol"
     },
     {
@@ -28,12 +32,16 @@
     },
     {
       "Title": "Bisphenol A diglycidyl ether",
-      "Abr": "BADGE",
+      "Abr": [
+        "BADGE"
+      ],
       "MW": "340.4 g/mol"
     },
     {
       "Title": "Bisphenol AF",
-      "Abr": "BPAF",
+      "Abr": [
+        "BPAF"
+      ],
       "MW": "336.23 g/mol"
     },
     {
@@ -43,12 +51,16 @@
     },
     {
       "Title": "Bisphenol F diglycidyl ether",
-      "Abr": "BFDGE",
+      "Abr": [
+        "BFDGE"
+      ],
       "MW": "312.4 g/mol"
     },
     {
       "Title": "3,4-Dihydroxyphenylacetaldehyde",
-      "Abr": "DOPAL",
+      "Abr": [
+        "DOPAL"
+      ],
       "MW": "152.15 g/mol"
     },
     {
@@ -75,6 +87,402 @@
       "Title": "Papaverine",
       "Abr": null,
       "MW": "339.4 g/mol"
+    },
+    {
+      "Title": "Homovanillyl alcohol",
+      "MW": "168.19 g/mol"
+    },
+    {
+      "Title": "Acetylsalicylic acid",
+      "Abr": [
+        "ASA"
+      ],
+      "MW": "180.16 g/mol"
+    },
+    {
+      "Title": "Elemicin",
+      "MW": "208.25 g/mol"
+    },
+    {
+      "Title": "Piperine",
+      "MW": "285.34 g/mol"
+    },
+    {
+      "Title": "Benzofuranylpropylaminopentane",
+      "Abr": [
+        "BPAP"
+      ],
+      "MW": "245.36 g/mol"
+    },
+    {
+      "Title": "Warfarin",
+      "MW": "308.3 g/mol"
+    },
+    {
+      "Title": "Cannabidiol",
+      "Abr": [
+        "CBD"
+      ],
+      "MW": "314.5 g/mol"
+    },
+    {
+      "Title": "Δ-8-tetrahydrocannabinol",
+      "Abr": [
+        "Δ-8-THC"
+      ],
+      "MW": "314.5 g/mol"
+    },
+    {
+      "Title": "Δ-9-tetrahydrocannabinol",
+      "Abr": [
+        "THC"
+      ],
+      "MW": "314.5 g/mol"
+    },
+    {
+      "Title": "Hexahydrocannabinol",
+      "Abr": [
+        "HHC"
+      ],
+      "MW": "316.5 g/mol"
+    },
+    {
+      "Title": "10-Hydroxyhexahydrocannabinol",
+      "Abr": [
+        "10-OH-HHC"
+      ],
+      "MW": "332.5 g/mol"
+    },
+    {
+      "Title": "Estrone",
+      "Abr": [
+        "E1"
+      ],
+      "MW": "270.4 g/mol"
+    },
+    {
+      "Title": "Estradiol",
+      "Abr": [
+        "E2"
+      ],
+      "MW": "272.4 g/mol"
+    },
+    {
+      "Title": "Estradiol acetate",
+      "Abr": [
+        "EA"
+      ],
+      "MW": "314.4 g/mol"
+    },
+    {
+      "Title": "Estradiol benzoate",
+      "Abr": [
+        "EB"
+      ],
+      "MW": "376.5 g/mol"
+    },
+    {
+      "Title": "Estradiol cypionate",
+      "Abr": [
+        "EC"
+      ],
+      "MW": "396.6 g/mol"
+    },
+    {
+      "Title": "Estradiol dipropionate",
+      "Abr": [
+        "EDP"
+      ],
+      "MW": "384.5 g/mol"
+    },
+    {
+      "Title": "Estradiol enantate",
+      "Abr": [
+        "EEN"
+      ],
+      "MW": "384.6 g/mol"
+    },
+    {
+      "Title": "Estradiol undecylate",
+      "Abr": [
+        "EU"
+      ],
+      "MW": "440.7 g/mol"
+    },
+    {
+      "Title": "Estradiol valerate",
+      "Abr": [
+        "EV"
+      ],
+      "MW": "356.5 g/mol"
+    },
+    {
+      "Title": "Estradiol butyrylacetate",
+      "Abr": [
+        "EBA"
+      ],
+      "MW": "384.5 g/mol"
+    },
+    {
+      "Title": "Estradiol dibutyrate",
+      "Abr": [
+        "EDBu"
+      ],
+      "MW": "412.6 g/mol"
+    },
+    {
+      "Title": "Estradiol dienantate",
+      "Abr": [
+        "EDE"
+      ],
+      "MW": "496.7 g/mol"
+    },
+    {
+      "Title": "Estradiol diundecylate",
+      "Abr": [
+        "EDE"
+      ],
+      "MW": "608.9 g/mol"
+    },
+    {
+      "Title": "Estradiol diundecylenate",
+      "MW": "604.9 g/mol"
+    },
+    {
+      "Title": "Estradiol furoate",
+      "Abr": [
+        "EF"
+      ],
+      "MW": "366.4 g/mol"
+    },
+    {
+      "Title": "Estradiol hemisuccinate",
+      "MW": "372.5 g/mol"
+    },
+    {
+      "Title": "Estradiol hexahydrobenzoate",
+      "Abr": [
+        "EHHB"
+      ],
+      "MW": "382.5 g/mol"
+    },
+    {
+      "Title": "Estradiol phenylpropionate",
+      "Abr": [
+        "EPP"
+      ],
+      "MW": "404.5 g/mol"
+    },
+    {
+      "Title": "Estradiol pivalate",
+      "Abr": [
+        "E2-TMA"
+      ],
+      "MW": "356.5 g/mol"
+    },
+    {
+      "Title": "Estradiol propionate",
+      "Abr": [
+        "EP"
+      ],
+      "MW": "328.4 g/mol"
+    },
+    {
+      "Title": "Estradiol propoxyphenylpropionate",
+      "Abr": [
+        "EPPP"
+      ],
+      "MW": "462.6 g/mol"
+    },
+    {
+      "Title": "Estradiol sulfate",
+      "Abr": [
+        "E2S"
+      ],
+      "MW": "370.5 g/mol"
+    },
+    {
+      "Title": "Estradiol sulfamate",
+      "Abr": [
+        "E2MATE"
+      ],
+      "MW": "351.5 g/mol"
+    },
+    {
+      "Title": "Estriol",
+      "Abr": [
+        "E3"
+      ],
+      "MW": "288.4 g/mol"
+    },
+    {
+      "Title": "Estetrol",
+      "Abr": [
+        "E4"
+      ],
+      "MW": "304.4 g/mol"
+    },
+    {
+      "Title": "17β-Dihydroequilin",
+      "MW": "270.4 g/mol"
+    },
+    {
+      "Title": "Hippulin",
+      "MW": "268.3 g/mol"
+    },
+    {
+      "Title": "Aminoestradiol",
+      "MW": "271.4 g/mol"
+    },
+    {
+      "Title": "Methylestradiol",
+      "MW": "286.4 g/mol"
+    },
+    {
+      "Title": "11β-Chloromethylestradiol",
+      "MW": "320.9 g/mol"
+    },
+    {
+      "Title": "16α-Lactone-estradiol",
+      "Abr": [
+        "16α-LE2"
+      ],
+      "MW": "328.4 g/mol"
+    },
+    {
+      "Title": "8β-Vinylestradiol",
+      "Abr": [
+        "8β-VE2"
+      ],
+      "MW": "298.4 g/mol"
+    },
+    {
+      "Title": "Ethinylestradiol",
+      "Abr": [
+        "EE"
+      ],
+      "MW": "296.4 g/mol"
+    },
+    {
+      "Title": "Estramustine",
+      "MW": "440.4 g/mol"
+    },
+    {
+      "Title": "Equilin",
+      "MW": "268.3 g/mol"
+    },
+    {
+      "Title": "Equilenin",
+      "MW": "266.3 g/mol"
+    },
+    {
+      "Title": "Cyclodiol",
+      "MW": "298.4 g/mol"
+    },
+    {
+      "Title": "Cyclotriol",
+      "MW": "314.4 g/mol"
+    },
+    {
+      "Title": "Diethylstilbestrol",
+      "Abr": [
+        "DES"
+      ],
+      "MW": "268.3 g/mol"
+    },
+    {
+      "Title": "Diarylpropionitrile",
+      "Abr": [
+        "DPN"
+      ],
+      "MW": "239.27 g/mol"
+    },
+    {
+      "Title": "Benzestrol",
+      "MW": "298.4 g/mol"
+    },
+    {
+      "Title": "Allenolic acid",
+      "MW": "216.23 g/mol"
+    },
+    {
+      "Title": "Methallenestril",
+      "MW": "286.4 g/mol"
+    },
+    {
+      "Title": "Moxestrol",
+      "MW": "326.4 g/mol"
+    },
+    {
+      "Title": "Carbestrol",
+      "MW": "274.35 g/mol"
+    },
+    {
+      "Title": "Doisynolic acid",
+      "MW": "288.4 g/mol"
+    },
+    {
+      "Title": "Doisynoestrol",
+      "MW": "298.4 g/mol"
+    },
+    {
+      "Title": "Dienestrol",
+      "MW": "266.3 g/mol"
+    },
+    {
+      "Title": "Hexestrol",
+      "MW": "270.4 g/mol"
+    },
+    {
+      "Title": "Butestrol",
+      "MW": "242.31 g/mol"
+    },
+    {
+      "Title": "Zeranol",
+      "MW": "322.4 g/mol"
+    },
+    {
+      "Title": "Erteberel",
+      "MW": "282.3 g/mol"
+    },
+    {
+      "Title": "Hexolame",
+      "MW": "371.6 g/mol"
+    },
+    {
+      "Title": "Paroxypropione",
+      "MW": "150.17 g/mol"
+    },
+    {
+      "Title": "Naringenin",
+      "MW": "272.25 g/mol"
+    },
+    {
+      "Title": "Genistein",
+      "MW": "270.24 g/mol"
+    },
+    {
+      "Title": "Daidzein",
+      "MW": "254.24 g/mol"
+    },
+    {
+      "Title": "Anethole trithione",
+      "MW": "240.4 g/mol"
+    },
+    {
+      "Title": "Resiniferatoxin",
+      "Abr": [
+        "RTX"
+      ],
+      "MW": "628.7 g/mol"
+    },
+    {
+      "Title": "Doxycycline",
+      "MW": "444.4 g/mol"
+    },
+    {
+      "Title": "Phenoxymethylpenicillin",
+      "MW": "350.4 g/mol"
     }
   ],
   "First": {

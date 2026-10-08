@@ -3,12 +3,16 @@
   "Entries": [
     {
       "Title": "Baclofen",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "213.66 g/mol"
     },
     {
       "Title": "Baflofen",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "197.21 g/mol"
     },
     {
@@ -53,13 +57,50 @@
     },
     {
       "Title": "Statine",
-      "Abr": "Sta",
+      "Abr": [
+        "Sta"
+      ],
       "MW": "175.23 g/mol"
     },
     {
       "Title": "Tyrothricin",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "1228.4 g/mol"
+    },
+    {
+      "Title": "Histidine",
+      "Abr": [
+        "His"
+      ],
+      "MW": "155.15 g/mol"
+    },
+    {
+      "Title": "Glutamic acid",
+      "Abr": [
+        "Glu"
+      ],
+      "MW": "147.13 g/mol"
+    },
+    {
+      "Title": "Asparagine",
+      "Abr": [
+        "Asn"
+      ],
+      "MW": "132.12 g/mol"
+    },
+    {
+      "Title": "Picamilon",
+      "MW": "208.21 g/mol"
+    },
+    {
+      "Title": "JQ1",
+      "MW": "457.0 g/mol"
+    },
+    {
+      "Title": "4-Methylpregabalin",
+      "MW": "173.25 g/mol"
     }
   ],
   "First": {

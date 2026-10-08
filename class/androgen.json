@@ -2,18 +2,26 @@
   "Name": "androgen",
   "Entries": [
     {
-      "Title": "Testosterone"
+      "Title": "Testosterone",
+      "MW": "288.4 g/mol"
     },
     {
       "Title": "Dihydrotestosterone",
-      "Abr": "DHT"
+      "Abr": [
+        "DHT"
+      ],
+      "MW": "290.4 g/mol"
     },
     {
       "Title": "Androstenedione",
-      "Abr": "A4"
+      "Abr": [
+        "A4"
+      ],
+      "MW": "286.4 g/mol"
     },
     {
-      "Title": "Nandrolone"
+      "Title": "Nandrolone",
+      "MW": "274.4 g/mol"
     }
   ]
 }

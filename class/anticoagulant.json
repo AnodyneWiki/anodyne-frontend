@@ -3,10 +3,13 @@
   "Entries": [
     {
       "Title": "Heparin",
-      "Abr": "UFH"
+      "Abr": [
+        "UFH"
+      ]
     },
     {
-      "Title": "Dalteparin"
+      "Title": "Dalteparin",
+      "MW": "1134.9 g/mol"
     }
   ]
 }

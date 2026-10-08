@@ -3,92 +3,152 @@
   "Entries": [
     {
       "Title": "Estradiol acetate",
-      "Abr": "EA"
+      "Abr": [
+        "EA"
+      ],
+      "MW": "314.4 g/mol"
     },
     {
       "Title": "Estradiol benzoate",
-      "Abr": "EB"
+      "Abr": [
+        "EB"
+      ],
+      "MW": "376.5 g/mol"
     },
     {
       "Title": "Estradiol cypionate",
-      "Abr": "EC"
+      "Abr": [
+        "EC"
+      ],
+      "MW": "396.6 g/mol"
     },
     {
       "Title": "Estradiol dipropionate",
-      "Abr": "EDP"
+      "Abr": [
+        "EDP"
+      ],
+      "MW": "384.5 g/mol"
     },
     {
       "Title": "Estradiol enantate",
-      "Abr": "EEN"
+      "Abr": [
+        "EEN"
+      ],
+      "MW": "384.6 g/mol"
     },
     {
       "Title": "Estradiol undecylate",
-      "Abr": "EU"
+      "Abr": [
+        "EU"
+      ],
+      "MW": "440.7 g/mol"
     },
     {
       "Title": "Estradiol valerate",
-      "Abr": "EV"
+      "Abr": [
+        "EV"
+      ],
+      "MW": "356.5 g/mol"
     },
     {
       "Title": "Estradiol benzoate butyrate",
-      "Abr": "EBB"
+      "Abr": [
+        "EBB"
+      ]
     },
     {
       "Title": "Estradiol butyrylacetate",
-      "Abr": "EBA"
+      "Abr": [
+        "EBA"
+      ],
+      "MW": "384.5 g/mol"
     },
     {
       "Title": "Estradiol dibutyrate",
-      "Abr": "EDBu"
+      "Abr": [
+        "EDBu"
+      ],
+      "MW": "412.6 g/mol"
     },
     {
       "Title": "Estradiol dienantate",
-      "Abr": "EDE"
+      "Abr": [
+        "EDE"
+      ],
+      "MW": "496.7 g/mol"
     },
     {
       "Title": "Estradiol diundecylate",
-      "Abr": "EDE"
+      "Abr": [
+        "EDE"
+      ],
+      "MW": "608.9 g/mol"
     },
     {
-      "Title": "Estradiol diundecylenate"
+      "Title": "Estradiol diundecylenate",
+      "MW": "604.9 g/mol"
     },
     {
       "Title": "Estradiol furoate",
-      "Abr": "EF"
+      "Abr": [
+        "EF"
+      ],
+      "MW": "366.4 g/mol"
     },
     {
-      "Title": "Estradiol hemisuccinate"
+      "Title": "Estradiol hemisuccinate",
+      "MW": "372.5 g/mol"
     },
     {
       "Title": "Estradiol hexahydrobenzoate",
-      "Abr": "EHHB"
+      "Abr": [
+        "EHHB"
+      ],
+      "MW": "382.5 g/mol"
     },
     {
       "Title": "Estradiol palmitate"
     },
     {
       "Title": "Estradiol phenylpropionate",
-      "Abr": "EPP"
+      "Abr": [
+        "EPP"
+      ],
+      "MW": "404.5 g/mol"
     },
     {
       "Title": "Estradiol pivalate",
-      "Abr": "E2-TMA"
+      "Abr": [
+        "E2-TMA"
+      ],
+      "MW": "356.5 g/mol"
     },
     {
       "Title": "Estradiol propionate",
-      "Abr": "EP"
+      "Abr": [
+        "EP"
+      ],
+      "MW": "328.4 g/mol"
     },
     {
       "Title": "Estradiol propoxyphenylpropionate",
-      "Abr": "EPPP"
+      "Abr": [
+        "EPPP"
+      ],
+      "MW": "462.6 g/mol"
     },
     {
       "Title": "Estradiol stearate",
-      "Abr": "E2-17-St"
+      "Abr": [
+        "E2-17-St"
+      ]
     },
     {
       "Title": "Estradiol sulfate",
-      "Abr": "E2S"
+      "Abr": [
+        "E2S"
+      ],
+      "MW": "370.5 g/mol"
     }
   ]
 }

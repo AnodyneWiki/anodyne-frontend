@@ -2,7 +2,8 @@
   "Name": "cyp2d6 inhibitors",
   "Entries": [
     {
-      "Title": "Metoclopramide"
+      "Title": "Metoclopramide",
+      "MW": "299.79 g/mol"
     }
   ]
 }

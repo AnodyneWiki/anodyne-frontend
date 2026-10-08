@@ -5,6 +5,25 @@
       "Title": "Memantine",
       "Abr": null,
       "MW": "179.30 g/mol"
+    },
+    {
+      "Title": "Tiletamine",
+      "MW": "223.34 g/mol"
+    },
+    {
+      "Title": "Benocyclidine",
+      "Abr": [
+        "BTCP"
+      ],
+      "MW": "299.5 g/mol"
+    },
+    {
+      "Title": "Finasteride",
+      "MW": "372.5 g/mol"
+    },
+    {
+      "Title": "Neomycin",
+      "MW": "614.6 g/mol"
     }
   ],
   "Parent": "cycloalkylamine",
@@ -14,7 +33,7 @@
   "First": {
     "Title": "Cyclohexylamine",
     "Abr": "",
-    "MW": "121.18 g/mol"
+    "MW": "99.17 g/mol"
   },
   "Analogues": [
     "aniline",

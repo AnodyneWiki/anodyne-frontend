@@ -2,31 +2,40 @@
   "Name": "antibiotic",
   "Entries": [
     {
-      "Title": "Clindamycin"
+      "Title": "Clindamycin",
+      "MW": "425.0 g/mol"
     },
     {
-      "Title": "Tyrothricin"
+      "Title": "Tyrothricin",
+      "MW": "1228.4 g/mol"
     },
     {
-      "Title": "Isoniazid"
+      "Title": "Isoniazid",
+      "MW": "137.14 g/mol"
     },
     {
-      "Title": "Doxycycline"
+      "Title": "Doxycycline",
+      "MW": "444.4 g/mol"
     },
     {
-      "Title": "Benzylpenicillin"
+      "Title": "Benzylpenicillin",
+      "MW": "334.4 g/mol"
     },
     {
-      "Title": "Amoxicillin"
+      "Title": "Amoxicillin",
+      "MW": "365.4 g/mol"
     },
     {
-      "Title": "Phenoxymethylpenicillin"
+      "Title": "Phenoxymethylpenicillin",
+      "MW": "350.4 g/mol"
     },
     {
-      "Title": "Neomycin"
+      "Title": "Neomycin",
+      "MW": "614.6 g/mol"
     },
     {
-      "Title": "Furagin"
+      "Title": "Furagin",
+      "MW": "264.19 g/mol"
     }
   ]
 }

@@ -3,7 +3,10 @@
   "Entries": [
     {
       "Title": "α-Methyl-p-tyrosine",
-      "Abr": "AMPT"
+      "Abr": [
+        "AMPT"
+      ],
+      "MW": "195.21 g/mol"
     }
   ]
 }
