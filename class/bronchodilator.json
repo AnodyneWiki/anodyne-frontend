@@ -1,0 +1,19 @@
+{
+  "Name": "bronchodilator",
+  "Entries": [
+    {
+      "Title": "2-Methoxyamphetamine",
+      "Abr": [
+        "OMA"
+      ],
+      "MW": "165.23 g/mol"
+    },
+    {
+      "Title": "Methoxyphenamine",
+      "Abr": [
+        "OMMA"
+      ],
+      "MW": "179.26 g/mol"
+    }
+  ]
+}

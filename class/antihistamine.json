@@ -1,0 +1,36 @@
+{
+  "Name": "antihistamine",
+  "Entries": [
+    {
+      "Title": "Bilastine",
+      "MW": "463.6 g/mol"
+    },
+    {
+      "Title": "Cetirizine",
+      "MW": "388.9 g/mol"
+    },
+    {
+      "Title": "Fexofenadine",
+      "MW": "501.7 g/mol"
+    },
+    {
+      "Title": "Loratadine",
+      "MW": "382.9 g/mol"
+    },
+    {
+      "Title": "Azelastine",
+      "MW": "381.9 g/mol"
+    },
+    {
+      "Title": "Diphenhydramine",
+      "Abr": [
+        "DPH"
+      ],
+      "MW": "255.35 g/mol"
+    },
+    {
+      "Title": "Doxylamine",
+      "MW": "270.37 g/mol"
+    }
+  ]
+}

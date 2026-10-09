@@ -138,6 +138,152 @@
       "Title": "Benzydamine",
       "Abr": null,
       "MW": "309.4 g/mol"
+    },
+    {
+      "Title": "1-Aminotetralin",
+      "Abr": [
+        "1-AT"
+      ],
+      "MW": "147.22 g/mol"
+    },
+    {
+      "Title": "Benserazide",
+      "MW": "257.24 g/mol"
+    },
+    {
+      "Title": "Aniracetam",
+      "MW": "219.24 g/mol"
+    },
+    {
+      "Title": "Encyprate",
+      "Abr": [
+        "MO-1255"
+      ],
+      "MW": "219.28 g/mol"
+    },
+    {
+      "Title": "α-Methylbenzylamine",
+      "Abr": [
+        "α-PEA"
+      ],
+      "MW": "121.18 g/mol"
+    },
+    {
+      "Title": "Isoethcathinone",
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Ditazole",
+      "MW": "324.4 g/mol"
+    },
+    {
+      "Title": "2-Amino-4,5-diphenyloxazole",
+      "MW": "236.27 g/mol"
+    },
+    {
+      "Title": "Rosuvastatin",
+      "MW": "481.5 g/mol"
+    },
+    {
+      "Title": "Methaqualone",
+      "Abr": [
+        "Quaalude"
+      ],
+      "MW": "250.29 g/mol"
+    },
+    {
+      "Title": "Methoxyqualone",
+      "MW": "266.29 g/mol"
+    },
+    {
+      "Title": "Mecloqualone",
+      "MW": "270.71 g/mol"
+    },
+    {
+      "Title": "Mebroqualone",
+      "MW": "315.16 g/mol"
+    },
+    {
+      "Title": "Methylmethaqualone",
+      "Abr": [
+        "MMQ"
+      ],
+      "MW": "264.32 g/mol"
+    },
+    {
+      "Title": "Afloqualone",
+      "MW": "283.30 g/mol"
+    },
+    {
+      "Title": "Etaqualone",
+      "MW": "264.32 g/mol"
+    },
+    {
+      "Title": "Nitromethaqualone",
+      "MW": "311.29 g/mol"
+    },
+    {
+      "Title": "Cloroqualone",
+      "MW": "319.2 g/mol"
+    },
+    {
+      "Title": "Diproqualone",
+      "MW": "234.25 g/mol"
+    },
+    {
+      "Title": "Brorphine",
+      "MW": "400.3 g/mol"
+    },
+    {
+      "Title": "U-47700",
+      "MW": "329.3 g/mol"
+    },
+    {
+      "Title": "U-49900",
+      "MW": "357.3 g/mol"
+    },
+    {
+      "Title": "Chlordiazepoxide",
+      "MW": "299.75 g/mol"
+    },
+    {
+      "Title": "Bretazenil",
+      "MW": "418.3 g/mol"
+    },
+    {
+      "Title": "Flumazenil",
+      "MW": "303.29 g/mol"
+    },
+    {
+      "Title": "Zolpidem",
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "Pagoclone",
+      "MW": "407.9 g/mol"
+    },
+    {
+      "Title": "Azelastine",
+      "MW": "381.9 g/mol"
+    },
+    {
+      "Title": "Metoclopramide",
+      "MW": "299.79 g/mol"
+    },
+    {
+      "Title": "Sertraline",
+      "MW": "306.2 g/mol"
+    },
+    {
+      "Title": "8-Phenyltheophylline",
+      "MW": "256.26 g/mol"
+    },
+    {
+      "Title": "Sildenafil",
+      "Abr": [
+        "Viagra"
+      ],
+      "MW": "474.6 g/mol"
     }
   ],
   "First": {

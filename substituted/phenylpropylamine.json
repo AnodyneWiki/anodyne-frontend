@@ -3,7 +3,9 @@
   "Entries": [
     {
       "Title": "3,4-Methylenedioxy-3-methylaminobutane",
-      "Abr": "Homo-MDMA",
+      "Abr": [
+        "Homo-MDMA"
+      ],
       "MW": "207.27 g/mol"
     },
     {
@@ -47,7 +49,9 @@
     },
     {
       "Title": "Tapentadol",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "221.34 g/mol"
     },
     {
@@ -67,6 +71,154 @@
         "O-DSMT"
       ],
       "MW": "249.35 g/mol"
+    },
+    {
+      "Title": "3,3-Diphenylcyclobutanamine",
+      "MW": "223.31 g/mol"
+    },
+    {
+      "Title": "3-(4-{2-[Bis(4-fluorophenyl)methoxy]ethyl}-1-piperazinyl)-1-phenylpropyl decanoate",
+      "Abr": [
+        "DBL-583"
+      ],
+      "MW": "620.8 g/mol"
+    },
+    {
+      "Title": "TCB-2",
+      "Abr": [
+        "TCB-2"
+      ],
+      "MW": "272.14 g/mol"
+    },
+    {
+      "Title": "Biperiden",
+      "MW": "311.5 g/mol"
+    },
+    {
+      "Title": "Procyclidine",
+      "MW": "287.4 g/mol"
+    },
+    {
+      "Title": "Phenylpiracetam",
+      "MW": "218.25 g/mol"
+    },
+    {
+      "Title": "Iometopane",
+      "Abr": [
+        "RTI-55"
+      ],
+      "MW": "385.24 g/mol"
+    },
+    {
+      "Title": "2-β-Carbomethoxy-3-β-(4-fluorophenyl)tropane",
+      "Abr": [
+        "WIN-35428"
+      ],
+      "MW": "277.33 g/mol"
+    },
+    {
+      "Title": "Dichloropane",
+      "Abr": [
+        "RTI-111"
+      ],
+      "MW": "314.2 g/mol"
+    },
+    {
+      "Title": "2β-Carbomethoxy-3β-(3-methyl-4-chlorophenyl)tropane",
+      "Abr": [
+        "RTI-112"
+      ],
+      "MW": "307.8 g/mol"
+    },
+    {
+      "Title": "2β-Carboisopropoxy-3β-(4-iodophenyl)tropane",
+      "Abr": [
+        "RTI-121"
+      ],
+      "MW": "413.3 g/mol"
+    },
+    {
+      "Title": "Tesofensine",
+      "MW": "328.3 g/mol"
+    },
+    {
+      "Title": "Brasofensine",
+      "MW": "327.2 g/mol"
+    },
+    {
+      "Title": "Troparil",
+      "MW": "259.34 g/mol"
+    },
+    {
+      "Title": "Loperamide",
+      "MW": "477.0 g/mol"
+    },
+    {
+      "Title": "Disopyramide",
+      "MW": "339.5 g/mol"
+    },
+    {
+      "Title": "Tramadol",
+      "MW": "263.37 g/mol"
+    },
+    {
+      "Title": "Methadone",
+      "MW": "309.4 g/mol"
+    },
+    {
+      "Title": "Pethidine",
+      "MW": "247.33 g/mol"
+    },
+    {
+      "Title": "Prodine",
+      "MW": "261.36 g/mol"
+    },
+    {
+      "Title": "Desmethylprodine",
+      "Abr": [
+        "MPPP"
+      ],
+      "MW": "247.33 g/mol"
+    },
+    {
+      "Title": "Tianeptine",
+      "MW": "437.0 g/mol"
+    },
+    {
+      "Title": "4'-Chlorodeschloroalprazolam",
+      "MW": "308.8 g/mol"
+    },
+    {
+      "Title": "Pazinaclone",
+      "MW": "478.9 g/mol"
+    },
+    {
+      "Title": "Chlorphenamine",
+      "Abr": [
+        "CP",
+        "CPM"
+      ],
+      "MW": "274.79 g/mol"
+    },
+    {
+      "Title": "Haloperidol",
+      "MW": "375.9 g/mol"
+    },
+    {
+      "Title": "Mianserin",
+      "MW": "264.4 g/mol"
+    },
+    {
+      "Title": "Setiptiline",
+      "MW": "261.4 g/mol"
+    },
+    {
+      "Title": "Paroxetine",
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "Agomelatine",
+      "MW": "243.30 g/mol"
     }
   ],
   "Parent": "arylalkylamine",

@@ -1,0 +1,40 @@
+{
+  "Name": "serotonin reuptake inhibitor",
+  "Entries": [
+    {
+      "Title": "5,6-Dihydroxytryptamine",
+      "Abr": [
+        "5,6-DHT"
+      ],
+      "MW": "192.21 g/mol"
+    },
+    {
+      "Title": "Trazodone",
+      "MW": "371.9 g/mol"
+    },
+    {
+      "Title": "Dasotraline",
+      "MW": "292.2 g/mol"
+    },
+    {
+      "Title": "Sertraline",
+      "MW": "306.2 g/mol"
+    },
+    {
+      "Title": "Norfluoxetine",
+      "MW": "295.30 g/mol"
+    },
+    {
+      "Title": "Fluoxetine",
+      "MW": "309.33 g/mol"
+    },
+    {
+      "Title": "Fluvoxamine",
+      "MW": "318.33 g/mol"
+    },
+    {
+      "Title": "Paroxetine",
+      "MW": "329.4 g/mol"
+    }
+  ]
+}

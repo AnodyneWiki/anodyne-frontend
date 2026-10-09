@@ -1,0 +1,25 @@
+{
+  "Name": "anticholinergic",
+  "Entries": [
+    {
+      "Title": "Biperiden",
+      "MW": "311.5 g/mol"
+    },
+    {
+      "Title": "Procyclidine",
+      "MW": "287.4 g/mol"
+    },
+    {
+      "Title": "Atropine",
+      "MW": "289.4 g/mol"
+    },
+    {
+      "Title": "Homatropine",
+      "MW": "275.34 g/mol"
+    },
+    {
+      "Title": "Butylscopolamine",
+      "MW": "360.5 g/mol"
+    }
+  ]
+}

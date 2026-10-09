@@ -44,7 +44,7 @@
     {
       "Title": "Tadalafil",
       "Abr": null,
-      "MW": "389.4"
+      "MW": "389.4 g/mol"
     },
     {
       "Title": "Speciociliatine",
@@ -60,6 +60,10 @@
       "Title": "Yohimbine",
       "Abr": null,
       "MW": "354.4 g/mol"
+    },
+    {
+      "Title": "7-Hydroxymitragynine",
+      "MW": "414.5 g/mol"
     }
   ],
   "First": {

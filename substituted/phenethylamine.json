@@ -3,7 +3,9 @@
   "Entries": [
     {
       "Title": "3,5-Dimethoxy-4-ethoxyphenethylamine",
-      "Abr": "3C-E",
+      "Abr": [
+        "3C-E"
+      ],
       "MW": "225.28 g/mol"
     },
     {
@@ -13,17 +15,23 @@
     },
     {
       "Title": "Mescaline",
-      "Abr": "TMPEA",
+      "Abr": [
+        "TMPEA"
+      ],
       "MW": "211.26 g/mol"
     },
     {
       "Title": "3,4-Methylenedioxyphenethylamine",
-      "Abr": "MDPEA",
+      "Abr": [
+        "MDPEA"
+      ],
       "MW": "165.19 g/mol"
     },
     {
       "Title": "Omberacetam",
-      "Abr": "",
+      "Abr": [
+        "GVS-111"
+      ],
       "MW": "318.4 g/mol"
     },
     {
@@ -68,7 +76,9 @@
     },
     {
       "Title": "Homarylamine",
-      "Abr": "MDMPEA",
+      "Abr": [
+        "MDMPEA"
+      ],
       "MW": "179.22 g/mol"
     },
     {
@@ -78,7 +88,9 @@
     },
     {
       "Title": "Methylphenethylamine",
-      "Abr": "NMPEA",
+      "Abr": [
+        "NMPEA"
+      ],
       "MW": "135.21 g/mol"
     },
     {
@@ -107,7 +119,9 @@
     },
     {
       "Title": "Phenpromethamine",
-      "Abr": "BMMPEA",
+      "Abr": [
+        "BMMPEA"
+      ],
       "MW": "149.23 g/mol"
     },
     {
@@ -190,6 +204,800 @@
       "Title": "Triprolidine",
       "Abr": null,
       "MW": "278.4 g/mol"
+    },
+    {
+      "Title": "β-Methylphenethylamine",
+      "Abr": [
+        "BMPEA"
+      ],
+      "MW": "135.21 g/mol"
+    },
+    {
+      "Title": "3,4-Dimethoxyphenethylamine",
+      "Abr": [
+        "DMPEA"
+      ],
+      "MW": "181.23 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromophenethylamine",
+      "Abr": [
+        "2C-B"
+      ],
+      "MW": "260.13 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chlorophenethylamine",
+      "Abr": [
+        "2C-C"
+      ],
+      "MW": "215.67 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-fluorophenethylamine",
+      "Abr": [
+        "2C-F"
+      ],
+      "MW": "199.22 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylphenethylamine",
+      "Abr": [
+        "2C-D"
+      ],
+      "MW": "195.26 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethylphenethylamine",
+      "Abr": [
+        "2C-E"
+      ],
+      "MW": "209.28 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodophenethylamine",
+      "Abr": [
+        "2C-I"
+      ],
+      "MW": "307.13 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propylphenethylamine",
+      "Abr": [
+        "2C-P"
+      ],
+      "MW": "223.31 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-3,4-dimethylphenethylamine",
+      "Abr": [
+        "2C-G"
+      ],
+      "MW": "209.28 g/mol"
+    },
+    {
+      "Title": "2C-G-5",
+      "Abr": [
+        "2C-G-5"
+      ],
+      "MW": "247.33 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-nitrophenethylamine",
+      "Abr": [
+        "2C-N"
+      ],
+      "MW": "226.23 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylselenophenethylamine",
+      "Abr": [
+        "2C-Se"
+      ],
+      "MW": "274.23 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylthiophenethylamine",
+      "Abr": [
+        "2C-T"
+      ],
+      "MW": "227.33 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethylthiophenethylamine",
+      "Abr": [
+        "2C-T-2"
+      ],
+      "MW": "241.35 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-trifluoromethylphenethylamine",
+      "Abr": [
+        "2C-TFM"
+      ],
+      "MW": "249.23 g/mol"
+    },
+    {
+      "Title": "2C-B-FLY",
+      "Abr": [
+        "2C-B-FLY"
+      ],
+      "MW": "284.15 g/mol"
+    },
+    {
+      "Title": "Pentamethoxyphenethylamine",
+      "Abr": [
+        "PeMPEA"
+      ],
+      "MW": "271.31 g/mol"
+    },
+    {
+      "Title": "N-Benzylphenethylamine",
+      "Abr": [
+        "NB"
+      ],
+      "MW": "211.30 g/mol"
+    },
+    {
+      "Title": "N-(2-Methoxybenzyl)phenethylamine",
+      "Abr": [
+        "NBOMe"
+      ],
+      "MW": "241.33 g/mol"
+    },
+    {
+      "Title": "N-(3-Methoxybenzyl)phenethylamine",
+      "Abr": [
+        "NB3OMe"
+      ],
+      "MW": "241.33 g/mol"
+    },
+    {
+      "Title": "N-(4-Methoxybenzyl)phenethylamine",
+      "Abr": [
+        "NB4OMe"
+      ],
+      "MW": "241.33 g/mol"
+    },
+    {
+      "Title": "N-(2-Hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "NBOH"
+      ],
+      "MW": "227.30 g/mol"
+    },
+    {
+      "Title": "N-(2-Fluorobenzyl)phenethylamine",
+      "Abr": [
+        "NBF"
+      ],
+      "MW": "229.29 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-benzylphenethylamine",
+      "Abr": [
+        "25H-NB"
+      ],
+      "MW": "271.35 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-benzylphenethylamine",
+      "Abr": [
+        "25B-NB"
+      ],
+      "MW": "350.2 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-benzylphenethylamine",
+      "Abr": [
+        "25C-NB"
+      ],
+      "MW": "305.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-benzylphenethylamine",
+      "Abr": [
+        "25I-NB"
+      ],
+      "MW": "397.25 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25H-NBF"
+      ],
+      "MW": "289.34 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25B-NBF"
+      ],
+      "MW": "368.2 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25C-NBF"
+      ],
+      "MW": "323.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25I-NBF"
+      ],
+      "MW": "415.24 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methyl-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25D-NBF"
+      ],
+      "MW": "303.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethyl-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25E-NBF"
+      ],
+      "MW": "317.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propyl-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25P-NBF"
+      ],
+      "MW": "331.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25H-NBOH"
+      ],
+      "MW": "287.35 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25B-NBOH"
+      ],
+      "MW": "366.2 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methyl-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25D-NBOH"
+      ],
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NBOH"
+      ],
+      "MW": "321.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethyl-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25E-NBOH"
+      ],
+      "MW": "315.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propyl-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25P-NBOH"
+      ],
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NBOH"
+      ],
+      "MW": "413.25 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-isopropylthio-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25T4-NBOH"
+      ],
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propylthio-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25T7-NBOH"
+      ],
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25H-NBOMe"
+      ],
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25B-NBOMe"
+      ],
+      "MW": "380.3 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NBOMe"
+      ],
+      "MW": "335.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NBOMe"
+      ],
+      "MW": "427.3 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methyl-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25D-NBOMe"
+      ],
+      "MW": "315.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethyl-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25E-NBOMe"
+      ],
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propyl-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25P-NBOMe"
+      ],
+      "MW": "343.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-nitro-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25N-NBOMe"
+      ],
+      "MW": "346.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethylthio-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25T2-NBOMe"
+      ],
+      "MW": "361.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-isopropylthio-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25T4-NBOMe"
+      ],
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propylthio-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25T7-NBOMe"
+      ],
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25H-NB3OMe"
+      ],
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25B-NB3OMe"
+      ],
+      "MW": "380.3 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NB3OMe"
+      ],
+      "MW": "335.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NB3OMe"
+      ],
+      "MW": "427.3 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(4-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25H-NB4OMe"
+      ],
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(4-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NB4OMe"
+      ],
+      "MW": "335.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(4-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NB4OMe"
+      ],
+      "MW": "427.3 g/mol"
+    },
+    {
+      "Title": "Tetrahydroisoquinoline",
+      "Abr": [
+        "TIQ",
+        "THIQ",
+        "AMPH-CR"
+      ],
+      "MW": "133.19 g/mol"
+    },
+    {
+      "Title": "Lorcaserin",
+      "MW": "195.69 g/mol"
+    },
+    {
+      "Title": "Allylescaline",
+      "Abr": [
+        "AL"
+      ],
+      "MW": "237.29 g/mol"
+    },
+    {
+      "Title": "Benzscaline",
+      "Abr": [
+        "4-BzlO-3,5-DMPEA",
+        "BZ"
+      ],
+      "MW": "287.35 g/mol"
+    },
+    {
+      "Title": "Pellotine",
+      "Abr": [
+        "Peyotline"
+      ],
+      "MW": "237.29 g/mol"
+    },
+    {
+      "Title": "Anhalamine",
+      "MW": "209.24 g/mol"
+    },
+    {
+      "Title": "Anhalidine",
+      "MW": "223.27 g/mol"
+    },
+    {
+      "Title": "Anhalinine",
+      "MW": "223.27 g/mol"
+    },
+    {
+      "Title": "Anhalonidine",
+      "MW": "223.27 g/mol"
+    },
+    {
+      "Title": "Gigantine",
+      "MW": "237.29 g/mol"
+    },
+    {
+      "Title": "Hydrastinine",
+      "MW": "207.23 g/mol"
+    },
+    {
+      "Title": "N-Arachidonoyl dopamine",
+      "Abr": [
+        "NADA"
+      ],
+      "MW": "439.6 g/mol"
+    },
+    {
+      "Title": "Oxidopamine",
+      "Abr": [
+        "6-OHDA"
+      ],
+      "MW": "169.18 g/mol"
+    },
+    {
+      "Title": "Ibopamine",
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "N,N-Dimethyldopamine",
+      "Abr": [
+        "DMDA"
+      ],
+      "MW": "181.23 g/mol"
+    },
+    {
+      "Title": "Adrenalone",
+      "MW": "181.19 g/mol"
+    },
+    {
+      "Title": "Deoxyepinephrine",
+      "Abr": [
+        "Adrenaline"
+      ],
+      "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Meta-Tyramine",
+      "MW": "137.18 g/mol"
+    },
+    {
+      "Title": "Hordenine",
+      "MW": "165.23 g/mol"
+    },
+    {
+      "Title": "3-Methoxytyramine",
+      "Abr": [
+        "3-MT"
+      ],
+      "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Tropicamide",
+      "MW": "284.35 g/mol"
+    },
+    {
+      "Title": "2-Benzyl-1-ethylaminebenzimidazole",
+      "MW": "251.33 g/mol"
+    },
+    {
+      "Title": "Desnitazene",
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "Nitazene",
+      "MW": "352.4 g/mol"
+    },
+    {
+      "Title": "Menitazene",
+      "MW": "366.5 g/mol"
+    },
+    {
+      "Title": "Enitazene",
+      "MW": "380.5 g/mol"
+    },
+    {
+      "Title": "Propylnitazene",
+      "Abr": [
+        "PPZ"
+      ],
+      "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "t-Butylnitazene",
+      "MW": "408.5 g/mol"
+    },
+    {
+      "Title": "Acetoxynitazene",
+      "MW": "410.5 g/mol"
+    },
+    {
+      "Title": "Methionitazene",
+      "MW": "398.5 g/mol"
+    },
+    {
+      "Title": "Ethylthionitazene",
+      "MW": "412.6 g/mol"
+    },
+    {
+      "Title": "Flunitazene",
+      "MW": "370.4 g/mol"
+    },
+    {
+      "Title": "Etocyanozene",
+      "MW": "376.5 g/mol"
+    },
+    {
+      "Title": "Etoacetazene",
+      "MW": "393.5 g/mol"
+    },
+    {
+      "Title": "Etomethazene",
+      "MW": "365.5 g/mol"
+    },
+    {
+      "Title": "Metodesnitazene",
+      "MW": "337.5 g/mol"
+    },
+    {
+      "Title": "Etodesnitazene",
+      "MW": "351.5 g/mol"
+    },
+    {
+      "Title": "Desnitroclonitazene",
+      "MW": "341.9 g/mol"
+    },
+    {
+      "Title": "Clonitazene",
+      "MW": "386.9 g/mol"
+    },
+    {
+      "Title": "Bronitazene",
+      "MW": "431.3 g/mol"
+    },
+    {
+      "Title": "Isotodesnitazene",
+      "MW": "365.5 g/mol"
+    },
+    {
+      "Title": "Isotonitazene",
+      "MW": "410.5 g/mol"
+    },
+    {
+      "Title": "N-Desethyletonitazene",
+      "MW": "368.4 g/mol"
+    },
+    {
+      "Title": "N-Desethylisotonitazene",
+      "MW": "382.5 g/mol"
+    },
+    {
+      "Title": "N-Desethylprotonitazene",
+      "MW": "382.5 g/mol"
+    },
+    {
+      "Title": "Etonitazene",
+      "MW": "396.5 g/mol"
+    },
+    {
+      "Title": "Fluetonitazene",
+      "MW": "414.5 g/mol"
+    },
+    {
+      "Title": "Etoetonitazene",
+      "MW": "440.5 g/mol"
+    },
+    {
+      "Title": "N,N-Dimethyletonitazene",
+      "MW": "368.4 g/mol"
+    },
+    {
+      "Title": "Etotriflazene",
+      "MW": "419.5 g/mol"
+    },
+    {
+      "Title": "6-Methyldesnitroetonitazene",
+      "MW": "365.5 g/mol"
+    },
+    {
+      "Title": "Metonitazene",
+      "MW": "382.5 g/mol"
+    },
+    {
+      "Title": "Dimetonitazene",
+      "MW": "412.5 g/mol"
+    },
+    {
+      "Title": "Protodesnitazene",
+      "MW": "365.5 g/mol"
+    },
+    {
+      "Title": "Protonitazene",
+      "MW": "410.5 g/mol"
+    },
+    {
+      "Title": "Butonitazene",
+      "MW": "424.5 g/mol"
+    },
+    {
+      "Title": "Isobutonitazene",
+      "MW": "424.5 g/mol"
+    },
+    {
+      "Title": "Secbutonitazene",
+      "MW": "424.5 g/mol"
+    },
+    {
+      "Title": "Protonitazepyne",
+      "MW": "408.5 g/mol"
+    },
+    {
+      "Title": "Etonitazepyne",
+      "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "Fluetonitazepyne",
+      "MW": "412.5 g/mol"
+    },
+    {
+      "Title": "Etodesnitazepyne",
+      "MW": "349.5 g/mol"
+    },
+    {
+      "Title": "Metonitazepyne",
+      "MW": "380.4 g/mol"
+    },
+    {
+      "Title": "Isotonitazepyne",
+      "MW": "408.5 g/mol"
+    },
+    {
+      "Title": "Etonitazepipne",
+      "MW": "408.5 g/mol"
+    },
+    {
+      "Title": "Etodesnitazepipne",
+      "MW": "363.5 g/mol"
+    },
+    {
+      "Title": "U-48800",
+      "MW": "343.3 g/mol"
+    },
+    {
+      "Title": "Bromazepam",
+      "MW": "316.15 g/mol"
+    },
+    {
+      "Title": "Pyrazolam",
+      "MW": "354.20 g/mol"
+    },
+    {
+      "Title": "Zapizolam",
+      "MW": "330.2 g/mol"
+    },
+    {
+      "Title": "Lopirazepam",
+      "MW": "322.1 g/mol"
+    },
+    {
+      "Title": "KRM-II-81",
+      "MW": "351.4 g/mol"
+    },
+    {
+      "Title": "Primidone",
+      "MW": "218.25 g/mol"
+    },
+    {
+      "Title": "Phenibut",
+      "MW": "179.22 g/mol"
+    },
+    {
+      "Title": "Baclofen",
+      "MW": "213.66 g/mol"
+    },
+    {
+      "Title": "Loratadine",
+      "MW": "382.9 g/mol"
+    },
+    {
+      "Title": "MN-25",
+      "Abr": [
+        "UR-12"
+      ],
+      "MW": "439.6 g/mol"
+    },
+    {
+      "Title": "N-(1-Adamantyl)-1-pentyl-1H-indazole-3-carboxamide",
+      "Abr": [
+        "APINACA",
+        "AKB48"
+      ],
+      "MW": "365.5 g/mol"
+    },
+    {
+      "Title": "Benzylpenicillin",
+      "MW": "334.4 g/mol"
+    },
+    {
+      "Title": "Amoxicillin",
+      "MW": "365.4 g/mol"
     }
   ],
   "Parent": "arylalkylamine",
@@ -209,7 +1017,9 @@
   ],
   "First": {
     "Title": "Phenethylamine",
-    "Abr": "PEA",
+    "Abr": [
+      "PEA"
+    ],
     "MW": "121.18 g/mol"
   },
   "Wikipedia": "Substituted phenethylamine"

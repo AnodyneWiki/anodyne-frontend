@@ -1,0 +1,15 @@
+{
+  "Name": "anticoagulant",
+  "Entries": [
+    {
+      "Title": "Heparin",
+      "Abr": [
+        "UFH"
+      ]
+    },
+    {
+      "Title": "Dalteparin",
+      "MW": "1134.9 g/mol"
+    }
+  ]
+}

@@ -130,6 +130,38 @@
       "Title": "Tramadol",
       "Abr": "",
       "MW": "263.37 g/mol"
+    },
+    {
+      "Title": "Ketamine",
+      "Abr": [
+        "2-Cl-2'-Oxo-PCM",
+        "K"
+      ],
+      "MW": "237.72 g/mol"
+    },
+    {
+      "Title": "Dasotraline",
+      "MW": "292.2 g/mol"
+    },
+    {
+      "Title": "Fluvoxamine",
+      "MW": "318.33 g/mol"
+    },
+    {
+      "Title": "Paroxetine",
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "Venlafaxine",
+      "MW": "277.4 g/mol"
+    },
+    {
+      "Title": "Escitalopram",
+      "MW": "324.4 g/mol"
+    },
+    {
+      "Title": "Agomelatine",
+      "MW": "243.30 g/mol"
     }
   ],
   "Subjective Effects": {

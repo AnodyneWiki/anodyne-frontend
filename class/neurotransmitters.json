@@ -1,0 +1,30 @@
+{
+  "Name": "neurotransmitters",
+  "Entries": [
+    {
+      "Title": "Norepinephrine",
+      "Abr": [
+        "NE"
+      ],
+      "MW": "169.18 g/mol"
+    },
+    {
+      "Title": "Epinephrine",
+      "Abr": [
+        "Adrenaline"
+      ],
+      "MW": "183.20 g/mol"
+    },
+    {
+      "Title": "Deoxyepinephrine",
+      "Abr": [
+        "Adrenaline"
+      ],
+      "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Histamine",
+      "MW": "111.15 g/mol"
+    }
+  ]
+}

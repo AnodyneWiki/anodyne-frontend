@@ -301,8 +301,12 @@
                 "Social interactions can feel difficult"
             ],
             "Sources": [
-                "Kinecteen tablets",
-                "Medikinet capsules"
+                "German pharmacy: Kinecteen 18mg tablets",
+                "German pharmacy: Kinecteen 27mg tablets",
+                "German pharmacy: Medikinet 5 mg tablets",
+                "German pharmacy: Medikinet retard 5mg capsules",
+                "German pharmacy: Medikinet retard 10mg capsules",
+                "German pharmacy: Medikinet retard 20mg capsules"
             ]
         },
         {
@@ -1938,7 +1942,8 @@
             ]
         },
         {
-            "Name": "Valerian root extract",
+            "Name": "Valerian",
+            "Composite": true,
             "Notes":[
                 "Unsure about the effects"
             ]

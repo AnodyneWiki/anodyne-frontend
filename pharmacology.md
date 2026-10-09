@@ -66,7 +66,7 @@ In the <a class=logo href={{trunc 1 $pre | upper | printf "https://en.wikipedia.
 {{$off := 0}}{{range $active := $v.Actives}}{{$apiPath := printf "/api/substance/%s" (replace "_" "%20" (lower $active))}}{{$apiFile := httpInclude $apiPath}}{{$aars := fromJson $apiFile}}<div id="annotation_300x220" style="position:absolute; left:{{add 300 $off}}px; top:20px; line-height:110%;">
 <img width=150 src='/structure/{{replace " " "_" (lower $active)}}.svg'><br><span style="text-align: center;"><a href='/substance/{{replace " " "_" (lower $active)}}'>{{$active}}</a></span>
 </div>{{$off = add 200 $off}}{{end}}
-<div id="annotation_220x242" style="position:absolute; left:220px; top:42px; font-size:12px; font-size:12; line-height:14px;"><span class=plainspan>{{/*<a href="https://anodyne.wiki/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a>*/}}</span><br><div class="arrow"></div><br><span class=plainspan>{{/*<a href="https://anodyne.wiki/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a>*/}}</span></div>
+<div id="annotation_220x242" style="position:absolute; left:220px; top:42px; font-size:12px; font-size:12; line-height:14px;"><span class=plainspan>{{/*<a href="/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a>*/}}</span><br><div class="arrow"></div><br><span class=plainspan>{{/*<a href="/substance/Flavin-containing_monooxygenase_3" title="Flavin-containing monooxygenase 3">FMO3</a>*/}}</span></div>
 <div id="annotation_480x330" style="position:absolute; left:480px; top:130px; font-size:12px; font-size:12; line-height:14px;"></div></div>
 </div>
 </div>

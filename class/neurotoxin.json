@@ -1,0 +1,130 @@
+{
+  "Name": "neurotoxin",
+  "Entries": [
+    {
+      "Title": "Caramboxin",
+      "MW": "255.22 g/mol"
+    },
+    {
+      "Title": "3,4-Dihydroxyphenylacetaldehyde",
+      "Abr": [
+        "DOPAL"
+      ],
+      "MW": "152.15 g/mol"
+    },
+    {
+      "Title": "α-Methyldopamine",
+      "Abr": [
+        "α-Me-DA"
+      ],
+      "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Oxidopamine",
+      "Abr": [
+        "6-OHDA"
+      ],
+      "MW": "169.18 g/mol"
+    },
+    {
+      "Title": "4,5-Dihydroxytryptamine",
+      "Abr": [
+        "4,5-DHT"
+      ],
+      "MW": "192.21 g/mol"
+    },
+    {
+      "Title": "5,6-Dihydroxytryptamine",
+      "Abr": [
+        "5,6-DHT"
+      ],
+      "MW": "192.21 g/mol"
+    },
+    {
+      "Title": "5,7-Dihydroxytryptamine",
+      "Abr": [
+        "5,7-DHT"
+      ],
+      "MW": "192.21 g/mol"
+    },
+    {
+      "Title": "3,4-Dichloroamphetamine",
+      "Abr": [
+        "3,4-DCA"
+      ],
+      "MW": "204.09 g/mol"
+    },
+    {
+      "Title": "Harmane",
+      "MW": "182.22 g/mol"
+    },
+    {
+      "Title": "4-Hydroxy-5-methoxytryptamine",
+      "Abr": [
+        "4-HO-5-MeO-T"
+      ]
+    },
+    {
+      "Title": "Batrachotoxin",
+      "Abr": [
+        "BTX"
+      ],
+      "MW": "538.7 g/mol"
+    },
+    {
+      "Title": "Tetraethyllead"
+    },
+    {
+      "Title": "Chlorpyrifos"
+    },
+    {
+      "Title": "Tert-Butyl-bicyclophosphate",
+      "Abr": "TBPO"
+    },
+    {
+      "Title": "Tetramethylenedisulfotetramine",
+      "Abr": "TETS"
+    },
+    {
+      "Title": "Saxitoxin"
+    },
+    {
+      "Title": "Neosaxitoxin"
+    },
+    {
+      "Title": "Domoic acid"
+    },
+    {
+      "Title": "Hexane"
+    },
+    {
+      "Title": "Paraquat"
+    },
+    {
+      "Title": "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+      "Abr": "MPP+"
+    },
+    {
+      "Title": "Tetrodotoxin"
+    },
+    {
+      "Title": "Anatoxin-a",
+      "Abr": "VFDF"
+    },
+    {
+      "Title": "Penitrem A",
+      "Abr": "Tremortin"
+    },
+    {
+      "Title": "Ciguatoxin 1",
+      "Abr": "CTX-1"
+    },
+    {
+      "Title": "N-(2-Chloroethyl)-N-ethyl-2-bromobenzylamine",
+      "Abr": "DSP-4"
+    },
+    {
+      "Title": "Toxiferine"
+    }
+  ]
+}
