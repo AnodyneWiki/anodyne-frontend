@@ -669,11 +669,12 @@
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "7.2mg"
+                    "Dosage": "4-7.2mg"
                 }
             ],
             "Sources":[
-                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"
+                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet",
+                "Tilidin AL comp. 50 mg/4 mg XR tablet"
             ]
         },
         {
@@ -747,7 +748,8 @@
                 "{sev 'light'} {xeff 'thought-deceleration'}"
             ],
             "Sources":[
-                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"
+                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet",
+                "Tilidin AL comp. 50 mg/4 mg XR tablet"
             ]
         },
         {
@@ -1417,7 +1419,11 @@
             "Salts": [
                 "sodium monohydrate"
             ],
-            "Indication": "{sev 'moderate'} pain",
+            "Indication": [
+                "{sev 'moderate'} pain",
+                "pain caused by selfharm",
+                "neck tension"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
@@ -1469,8 +1475,38 @@
             "Indication": "antisepectic wound treatment",
             "Routes": [
                 {
-                "Name": "Dermal"
+                    "Name": "Dermal"
                 }
+            ]
+        },
+        {
+            "Name": "2-Butoxyethyl 3-pyridinecarboxylate",
+            "Indication": [
+                "Selfharm thoughs",
+                "neck tension"
+            ],
+            "Routes": [
+                {
+                    "Name": "Dermal"
+                }
+            ],
+            "Sources": [
+                "German pharmacy: Finalgon"
+            ]
+        },
+        {
+            "Name": "Nonivamide",
+            "Indication": [
+                "Selfharm thoughs",
+                "neck tension"
+            ],
+            "Routes": [
+                {
+                    "Name": "Dermal"
+                }
+            ],
+            "Sources": [
+                "German pharmacy: Finalgon"
             ]
         },
         {
@@ -1691,6 +1727,21 @@
             ],
             "Sources": [
                 "Polish Pharmacy: Ketonal 50mg Capsules"
+            ]
+        },
+        {
+            "Name": "Diclofenac",
+            "Indication": "neck tension",
+            "Salts": [
+                "Sodium"
+            ],
+            "Routes": [
+                {
+                    "Name": "Dermal"
+                }
+            ],
+            "Sources": [
+                "German pharmacy: Diclo-ratiopharm Schmerzgel"
             ]
         },
         {

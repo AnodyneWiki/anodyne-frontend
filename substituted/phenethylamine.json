@@ -998,6 +998,14 @@
     {
       "Title": "Amoxicillin",
       "MW": "365.4 g/mol"
+    },
+    {
+      "Title": "Xylometazoline",
+      "MW": "244.37 g/mol"
+    },
+    {
+      "Title": "Oxymetazoline",
+      "MW": "260.37 g/mol"
     }
   ],
   "Parent": "arylalkylamine",

@@ -483,6 +483,31 @@
     {
       "Title": "Phenoxymethylpenicillin",
       "MW": "350.4 g/mol"
+    },
+    {
+      "Title": "2,4-Dichlorophenoxyacetic acid",
+      "Abr": [
+        "2,4-D"
+      ],
+      "MW": "221.03 g/mol"
+    },
+    {
+      "Title": "2,4,5-Trichlorophenoxyacetic acid",
+      "Abr": [
+        "2,4,5-T"
+      ],
+      "MW": "255.5 g/mol"
+    },
+    {
+      "Title": "2,3,7,8-Tetrachlorodibenzodioxin",
+      "Abr": [
+        "TCDD"
+      ],
+      "MW": "322.0 g/mol"
+    },
+    {
+      "Title": "Fenadiazole",
+      "MW": "162.15 g/mol"
     }
   ],
   "First": {

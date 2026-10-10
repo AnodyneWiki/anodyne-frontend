@@ -24,6 +24,10 @@
     {
       "Title": "Neomycin",
       "MW": "614.6 g/mol"
+    },
+    {
+      "Title": "Tetrodotoxin",
+      "MW": "319.27 g/mol"
     }
   ],
   "Parent": "cycloalkylamine",

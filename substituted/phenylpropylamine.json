@@ -219,6 +219,17 @@
     {
       "Title": "Agomelatine",
       "MW": "243.30 g/mol"
+    },
+    {
+      "Title": "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
+      "Abr": [
+        "MPP+"
+      ],
+      "MW": "173.25 g/mol"
+    },
+    {
+      "Title": "Thiocolchicoside",
+      "MW": "563.6 g/mol"
     }
   ],
   "Parent": "arylalkylamine",

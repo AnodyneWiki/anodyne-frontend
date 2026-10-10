@@ -692,6 +692,26 @@
         "4-PO-T"
       ],
       "MW": "256.19 g/mol"
+    },
+    {
+      "Title": "Strychnine",
+      "MW": "334.4 g/mol"
+    },
+    {
+      "Title": "Brucine",
+      "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "Toxiferine",
+      "MW": "614.8 g/mol"
+    },
+    {
+      "Title": "Mitraphylline",
+      "MW": "368.4 g/mol"
+    },
+    {
+      "Title": "Rhynchophylline",
+      "MW": "384.5 g/mol"
     }
   ],
   "Parents": [
