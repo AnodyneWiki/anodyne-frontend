@@ -1523,7 +1523,7 @@
             "Routes": [
                 {
                     "Name": "Oral",
-                    "Dosage": "75-150mg"
+                    "Dosage": "37.5-150mg"
                 }
             ],
             "DEffects": [
@@ -1577,6 +1577,31 @@
             ]
         },
         {
+            "Name": "Mirtazapine",
+            "Indication": "{xeff 'depression'}",
+            "Salts": [
+                "Freebase"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "15mg"
+                }
+             ],
+            "Effects": [
+                "{sev 'strong'} {xeff 'sedation'}; passed out ~1h after ingestion and sleeped for 11h",
+                "{sev 'strong'} {xeff 'sleepiness'}",
+                "{sev 'moderate'} hangover in the morning",
+                "{sev 'light'}/{sev 'moderate'} {xeff 'depression-reduction'}; feeling more active"
+            ],
+            "Notes": [
+                "Taken as california rocket fuel, in combination with {sub 'venlafaxine'}"
+            ],
+            "Sources": [
+                "German pharmacy: Mirtazapin Aurobindo 15mg tablets"
+            ]
+        },
+        {
             "Name": "Benzocaine",
             "Indication": "{wkp 'Sore_throat'}",
             "Salts":[
@@ -1600,6 +1625,19 @@
             ],
             "Sources": [
                 "German Pharmacy: Dolo-Dobendan"
+            ]
+        },
+        {
+            "Name": "Esomeprazole",
+            "Indication": "prophylactic stomach protection after taking a multiple NSAIDs and {sub 'venlafaxine'}",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "40mg"
+                }
+            ],
+            "Sources": [
+                "Found on the ground in Milano, Italy: Lucen 40mg tablets"
             ]
         },
         {
