@@ -129,7 +129,8 @@
                 "1ml syringe"
             ],
             "Sites": [
-                "Vastus lateralis"
+                "Vastus lateralis",
+                "Deltoid muscle"
             ]
         }
     ],
@@ -1586,11 +1587,16 @@
                 {
                     "Name": "oral",
                     "Dosage": "15mg"
+                },
+                {
+                    "Name": "sublingual",
+                    "Dosage": "15mg"
                 }
              ],
             "Effects": [
                 "{sev 'strong'} {xeff 'sedation'}; passed out ~1h after ingestion and sleeped for 11h",
                 "{sev 'strong'} {xeff 'sleepiness'}",
+                "{sev 'moderate'} {xeff 'dream-potentiation'}; dreams feel more real, comfortable and occur more often",
                 "{sev 'moderate'} hangover in the morning",
                 "{sev 'light'}/{sev 'moderate'} {xeff 'depression-reduction'}; feeling more active"
             ],
@@ -1704,6 +1710,23 @@
             ]
         },
         {
+            "Name": "Bremelanotide",
+            "Indication": "Sexual disfunction after taking {sub 'venlafaxine'}",
+            "Routes": [
+                {
+                    "Name": "subcutaneous",
+                    "Dosage": "1.8mg"
+                }
+            ],
+            "Effects": [
+                "{wkp 'Erection'}s are easier to get and more intense",
+                "{sev 'light'} {xeff 'increased-libido'}"
+            ],
+            "Sources": [
+                "Powder from chinese vendor"
+            ]
+        },
+        {
             "Name": "Tadalafil",
             "Indication": "{sev 'light'} {wkp 'Erectile_dysfunction'}",
             "Routes": [
@@ -1745,7 +1768,7 @@
                 "{sev 'light'} {xeff 'pain-relief'}"
             ],
             "Sources": [
-                "German pharmacy"
+                "German pharmacy: generic tablets"
             ]
         },
         {
