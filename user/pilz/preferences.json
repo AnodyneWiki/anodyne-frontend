@@ -1160,6 +1160,9 @@
                 {
                     "Name": "subcutaneous",
                     "Dosage": "5-10mg"
+                },
+                {
+                    "Name": "insufflated"
                 }
             ]
         },
@@ -1514,7 +1517,7 @@
             "Name": "Venlafaxine",
             "Indication": [
                 "unstable mood",
-                "{wkp 'Major_depressive_episode'}, probably F33.1 (self diagnosed)",
+                "{wkp 'Major_depressive_episode'}",
                 "random suicidal breakdowns",
                 "{wkp 'Anxiety_disorder'}"
             ],
@@ -1562,7 +1565,7 @@
                         "{sev 'moderate'} {xeff 'depression-reduction'}; feeling way more active and less doomed",
                         "{sev 'light'} sleep issues",
                         "{sev 'light'} aggressive/unhinged behavior",
-                        "self harm and suicidal ideation",
+                        "self harm and {xeff 'suicidal-ideation'}",
                         "sometimes {sev 'light'} to {sev 'moderate'} {xeff 'nausea'} attacks; especially after eating too much food",
                         "{xeff 'appetite-enhancement'} or Loss of appetite",
                         "{sev 'light'} {xeff 'emotion-suppression'}; it feels like i can't feel as much emotions"
@@ -1578,8 +1581,41 @@
             ]
         },
         {
+            "Name": "Sertraline",
+            "Indication": "{wkp 'Major_depressive_episode'}",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "25-300mg"
+                }
+            ],
+            "DEffects": [
+              {
+                "Condition": "Effects after taking 300mg (+ 1g Tryptophan a few hours later)",
+                "Effects": [
+                    "{xeff 'diarrhea'}",
+                    "self harm and {xeff 'suicidal-ideation'}",
+                    "{xeff 'wakefulness'}; woke up constantly during the night",
+                    "{xeff 'stimulation'}",
+                    "{sev 'strong'} pupil dilation",
+                    "{sev 'moderate'} {xeff 'nausea'}/Dizziness",
+                    "Open/closed eye visuals",
+                    "{sev 'light'} {xeff 'sedation'}",
+                    "{sev 'light'} {xeff 'sleepiness'}",
+                    "{sev 'light'} {xeff 'thought-deceleration'}"
+                ]
+              }  
+            ],
+            "Sources": [
+                "German pharmacy: Sertralin Amarox 50 mg tablets"
+            ]
+        },
+        {
             "Name": "Mirtazapine",
-            "Indication": "{xeff 'depression'}",
+            "Indication": "{wkp 'Major_depressive_episode'}",
             "Salts": [
                 "Freebase"
             ],
@@ -1601,7 +1637,8 @@
                 "{sev 'light'}/{sev 'moderate'} {xeff 'depression-reduction'}; feeling more active"
             ],
             "Notes": [
-                "Taken as california rocket fuel, in combination with {sub 'venlafaxine'}"
+                "Taken as california rocket fuel, in combination with {sub 'venlafaxine'}",
+                "tried smoking it but had no effects; the boiling point was probably too high"
             ],
             "Sources": [
                 "German pharmacy: Mirtazapin Aurobindo 15mg tablets"
