@@ -1,0 +1,24 @@
+{
+  "Entries": [
+    {
+      "Title": "Diclofenac",
+      "Abr": "",
+      "MW": "296.1 g/mol"
+    },
+    {
+      "Title": "Paracetamol",
+      "Abr": "",
+      "MW": "151.16 g/mol"
+    },
+    {
+      "Title": "Ketoprofen",
+      "Abr": null,
+      "MW": "254.28 g/mol"
+    },
+    {
+      "Title": "Dexibuprofen",
+      "Abr": null,
+      "MW": "206.28 g/mol"
+    }
+  ]
+}

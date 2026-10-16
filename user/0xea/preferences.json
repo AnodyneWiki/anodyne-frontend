@@ -1,13 +1,15 @@
-{ 
+{
   "Title": "0xea",
   "Name": [
     "Xea",
     "Christie"
   ],
-  "About": "{p}Hyia~!,{Ep}{p}I am the creator of AnodyneWiki.{Ep}{p}I spend a year moderating PsychonautWiki before a falling out with the rest of the moderation team.{Ep}{p}{user 'a1ko'} is my beloved wife.{Ep}{p}Feel free to chat me up! <3{Ep}",
+  "About": "{p}Hyia~!,{Ep}{p}I am the creator of AnodyneWiki.{Ep}{p}I spend a year moderating PsychonautWiki before a falling out with the rest of the moderation team.{Ep}{p}{user 'a1ko'} is my partner.{Ep}{p}Feel free to chat me up! <3{Ep}",
   "Birth": "2005-02",
   "Location": "Germany",
-  "Weight": [ "2026: 74kg" ],
+  "Weight": [
+    "2026: 74kg"
+  ],
   "Links": [
     {
       "Name": "Email",
@@ -60,130 +62,15 @@
     "Attributes": [
       "{wkp 'autism spectrum disorder' 'autism'} (diagnosed)",
       "{wkp 'transsexual'} ({wkp 'Trans woman' 'male to female'} since May 2023; injecting {sub 'estradiol'} esters weekly)",
-      "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'})",
-      "prior phases of intense fear of {wkp 'Abandonment (emotional)' 'abandonment'} mitigated via heavy intravenous substance-use.",
+      "reoccuring {xeff 'mania' 'manic'} episodes (24 hours to 1 month; {xeff 'appetite suppression'}, {wkp 'delusions of grandeur'}, {xeff 'wakefulness'}, {xeff 'disinhibition'}, {xeff 'ego inflation'})",
+      "{wkp 'borderline personality disorder'} (undiagnosed; suggested by former friend; family history; clingy attachment style; intense fear of {wkp 'Abandonment (emotional)' 'abandonment'} mitigated via intravenous substance-use/dependance; angry outbursts; lack of stable identity; {wkp 'impulsivity'}; {wkp 'dissociation'})",
       "{wkp 'self-destructive behaviour'} (self-punshing, head-banging, cutting, injecting, intentional overdose)",
       "reaccuring {xeff 'suicidal ideation'} (since ~2018)",
-      "{roa 'intravenous'} {wkp 'stimulant use disorder'} (since februrary 2024; longest period of abstinence 113 days; periods of {xeff 'wakefulness'} up to +7 days, psychological breakdown and severe episodes of {wkp 'stimulant psychosis'})",
+      "{roa 'intravenous'} {wkp 'stimulant use disorder'} (since december 2023; longest period of abstinence 113 days; periods of {xeff 'wakefulness'} up to +7 days, psychological breakdown and severe episodes of {wkp 'stimulant psychosis'})",
       "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'reduplicative paramnesia'}, {wkp 'delusional parasitosis'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'}, {wkp 'gang stalking'}, {wkp 'truman show delusion'}, {wkp 'messiah complex'}, {wkp 'reduplicative paramnesia'}, {wkp 'pathological jealousy'}, {wkp 'scrupulosity'}, {wkp 'erotomania'}, {wkp 'reincarnation'})"
     ]
   },
-  "RoutesOfAdministration": [
-    {
-      "Name": "Intravenous",
-      "Paraphernalia": [
-        "5ml luer-lock syringe with venous catheter",
-        "1ml insulin syringe",
-        "1ml luer-lock syringe",
-        "3ml luer-lock syringe",
-        "5ml luer-lock syringe with butterfly needle",
-        "10ml luer-lock syringe with butterfly needle",
-        "5ml luer-lock syringe",
-        "0.3ml insulin syringe",
-        "injector pen (needs to find vein entirely by feel)"
-      ],
-      "Sites": [
-        "{wkp 'median cubital vein'}",
-        "{wkp 'cephalic vein'}",
-        "{wkp 'dorsal metacarpal vein'}",
-        "{wkp 'femoral vein'}",
-        "{wkp 'small saphenous vein'}",
-        "{wkp 'dorsal venous arch'}",
-        "{wkp 'great saphenous vein'}"
-      ]
-    },
-    {
-      "Name": "Inhaled",
-      "Paraphernalia": [
-        "{wkp 'metered-dose Inhaler'}",
-        "balloon",
-        "vaporizer",
-        "{wkp 'drug pipe#Methamphetamine pipe' 'base pipe'}",
-        "{wkp 'chasing the dragon' 'foily'}",
-        "straight \"crack\" pipe",
-        "volatile fumes",
-        "{wkp 'smoking' 'combusted'}"
-      ],
-      "Sites": [
-        "{wkp 'lung'}"
-      ]
-    },
-    {
-      "Name": "Subcutaneous",
-      "Paraphernalia": [
-        "{wkp 'injector pen'}",
-        "1ml insulin syringe",
-        "0.3ml insulin syringe",
-        "1ml syringe"
-      ],
-      "Sites": [
-        "stomach",
-        "thigh",
-        "upper arm"
-      ]
-    },
-    {
-      "Name": "Intrarectal",
-      "Paraphernalia": [
-        "1ml syringe",
-        "5ml syringe",
-        "1ml insulin syringe (with the needle carefully broken off and remaining stump ground down)",
-        "{wkp 'suppository'}"
-      ],
-      "Sites": [
-        "rectum"
-      ]
-    },
-    {
-      "Name": "Intramuscular",
-      "Paraphernalia": [
-        "1ml syringe",
-        "{wkp 'injector pen'} (using needles with cut down spacer, giving the needle a more appropriate length)",
-        "1ml insulin syringe"
-      ],
-      "Sites": [
-        "{wkp 'deltoid muscle'}",
-        "{wkp 'vastus lateralis muscle'}",
-        "{wkp 'vastus intermedius muscle'}"
-      ]
-    },
-    {
-      "Name": "Intranasal",
-      "Paraphernalia": [
-        "mirror-plate, tube and a razor-blade or clean credit-card.",
-        "intranasal atomizer attached to syringe.",
-        "{wkp 'nasal spray'}"
-      ],
-      "Sites": [
-        "{wkp 'nostril'}"
-      ]
-    },
-    {
-      "Name": "Transdermal",
-      "Paraphernalia": [
-        "{wkp 'dermal patch'}",
-        "{wkp 'topical medication#Gel' 'gel'}"
-      ],
-      "Sites": [
-        "upper arm",
-        "stomach"
-      ]
-    },
-    {
-      "Name": "Oral",
-      "Paraphernalia": [
-        "{wkp 'capsule (pharmacy)' 'capsule'}",
-        "solution",
-        "{wkp 'tablet (pharmacy)' 'tablet'}",
-        "powder"
-      ],
-      "Sites": [
-        "mouth"
-      ]
-    }
-  ],
-  "Preferences": [
-  ],
+  "Preferences": [],
   "Synergy": [
     {
       "Substances": [
@@ -196,7 +83,9 @@
       "Note": "bicarbonate raising urinary pH decreases amphetamine excretion"
     }
   ],
-  "TriedSubstances": [
+  "SubstanceMatrixCellW": "60px",
+  "SubstanceMatrixCellH": "60px",
+  "Substances": [
     {
       "Name": "Salbutamol",
       "Routes": [
@@ -254,7 +143,9 @@
           "Duration": "2.5 hours"
         }
       ],
-      "Sources": [ "2C-B: DNM Germany" ],
+      "Sources": [
+        "2C-B: DNM Germany"
+      ],
       "Effects": [
         "{xeff 'time-distortion?s=time-dilation' 'time dilation'}",
         "{xeff 'internal hallucination'}",
@@ -273,6 +164,7 @@
         "{xeff 'nausea?s=vomiting' 'vomiting'}"
       ],
       "Notes": [
+        "had ~2x bad trips",
         "intense experience when intravenously injected",
         "\"this felt like ages, felt very peaceful not having to think about a <next dose> but just being in a state of wonder which stains itself as long as I want\""
       ]
@@ -295,7 +187,9 @@
           "Dosage": "0.06-0.96mg"
         }
       ],
-      "Sources": [ "25C-NBOMe: DNM Germany" ],
+      "Sources": [
+        "25C-NBOMe: DNM Germany"
+      ],
       "Effects": [
         "{xeff 'internal hallucination'}",
         "{xeff 'geometry'}",
@@ -335,7 +229,9 @@
           "Duration": "8 hours"
         }
       ],
-      "Sources": [ "25I-NBOMe: DNM Germany" ],
+      "Sources": [
+        "25I-NBOMe: DNM Germany"
+      ],
       "Effects": [
         "{xeff 'internal hallucination'}",
         "{xeff 'colour-enhancement' 'color enhancement'}",
@@ -724,7 +620,7 @@
         }
       ],
       "Notes": [
-         "requires gentle heating to fully dissolve (regardless of acidic conditions)"
+        "requires gentle heating to fully dissolve (regardless of acidic conditions)"
       ]
     },
     {
@@ -732,18 +628,59 @@
       "Routes": [
         {
           "Name": "Intravenous",
-          "Dosage": "100-120mg"
+          "Dosage": "30-120mg",
+          "Onset": "5-10 seconds",
+          "Duration": "30-120 minutes"
         }
       ],
       "Salts": [
         "Hydrochloride?"
       ],
-      "Sources": [ "3-FA: Research-chemical-vendor Netherlands" ],
+      "Sources": [
+        "3-FA: Research-chemical-vendor Netherlands"
+      ],
       "Effects": [
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'focus enhancement'}",
+        "{sev 'strong'} {xeff 'increased music appreciation'}",
         "{sev 'strong'} {xeff 'jaw clenching'}",
         "{sev 'moderate'} {xeff 'visual acuity suppression'}",
+        "relief of {xeff 'constipation'}",
+        "{sev 'strong'} {xeff 'increased heart rate'}",
+        "{sev 'moderate'} {xeff 'compulsive redosing'}",
         "{xeff 'psychosis'}"
+      ],
+      "Notes": [
+        "surprisingly pleasant and useful stimulant"
+      ]
+    },
+    {
+      "Name": "Flophedrone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "50-100"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "20-100mg",
+          "Duration": "1 hour"
+        }
+      ],
+      "Salts": [
+        "Hydrochloride"
+      ],
+      "Sources": [
+        "3-FMC: Research-chemical-vendor Netherlands"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'compulsive redosing'}",
+        "{sev 'strong'} {xeff 'increased bodily temperature'}"
+      ],
+      "Notes": [
+        "unpleasant"
       ]
     },
     {
@@ -761,7 +698,9 @@
       "Salts": [
         "Hydrochloride?"
       ],
-      "Sources": [ "3-FEA: Research-chemical-vendor Netherlands" ],
+      "Sources": [
+        "3-FEA: Research-chemical-vendor Netherlands"
+      ],
       "Notes": [
         "barely active even when intravenously administered"
       ]
@@ -831,11 +770,50 @@
           "Dosage": "45mg"
         }
       ],
+      "Classes": [
+        "Entactogen"
+      ],
       "Salts": [
         "Hydrochloride?"
       ],
       "Sources": [
         "MEAI: Research-chemical-vendor Netherlands"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'sedation'}"
+      ]
+    },
+    {
+      "Name": "6-(2-Aminopropyl)benzofuran",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "25mg",
+          "Onset": "~30 seconds",
+          "Comeup": "5 minutes",
+          "Duration": "30-90 minutes"
+        }
+      ],
+      "Classes": [
+        "Entactogen",
+        "Psychedelic"
+      ],
+      "Salts": [
+        "Succinate"
+      ],
+      "Effects": [
+        "{xeff 'psychosis'} (related visual alterations, flickering and textures being perceived in fragments which iterate 5-10x per second)",
+        "{sev 'light'} {xeff 'Sedation'}",
+        "{sev 'moderate'} {xeff 'Anxiety'}"
+      ],
+      "DEffects": [
+        {
+          "Route": "Intravenous",
+          "Effects": [
+            "{xeff 'anxiety'}",
+            "{xeff 'sedation'}"
+          ]
+        }
       ]
     },
     {
@@ -855,6 +833,10 @@
           "Comeup": "1-5 minutes",
           "Duration": "30-60 minutes"
         }
+      ],
+      "Classes": [
+        "Entactogen",
+        "Stimulant"
       ],
       "Salts": [
         "Hydrochloride"
@@ -876,8 +858,6 @@
             "{xeff 'irritability'}"
           ]
         }
-      ],
-      "Notes": [
       ]
     },
     {
@@ -894,6 +874,9 @@
           "Onset": "1 hour",
           "Dosage": "50-150mg"
         }
+      ],
+      "Classes": [
+        "Stimulant"
       ],
       "Salts": [
         "Dimesylate"
@@ -990,6 +973,11 @@
           "Dosage": "15-20mg"
         }
       ],
+      "Classes": [
+        "Entactogen",
+        "Stimulant",
+        "Sympathomimetic"
+      ],
       "Salts": [
         "Hydrochloride"
       ],
@@ -1020,6 +1008,27 @@
       ]
     },
     {
+      "Name": "2-Chloromethcathinone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "~70mg"
+        }
+      ],
+      "Classes": [
+        "Stimulant"
+      ],
+      "Salts": [
+        "Hydrochloride?"
+      ],
+      "Sources": [
+        "2-CMC 250mg tablets: Research-chemical-vendor Netherland"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}"
+      ]
+    },
+    {
       "Name": "Clophedrone",
       "Routes": [
         {
@@ -1027,8 +1036,12 @@
           "Dosage": "21-150mg"
         }
       ],
+      "Classes": [
+        "Entactogen",
+        "Stimulant"
+      ],
       "Salts": [
-        "Hydrochloride"
+        "Hydrochloride?"
       ],
       "Sources": [
         "3-CMC: Research-chemical-vendor Netherland"
@@ -1040,48 +1053,24 @@
       ]
     },
     {
-      "Name": "Brephedrone",
+      "Name": "Clephedrone",
       "Routes": [
-        {
-          "Name": "Insufflated",
-          "Dosage": "15mg"
-        }
-      ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Notes": [ 
-        "effective dosing not reached"
-      ]
-    },
-    {
-      "Name": "Flophedrone",
-      "Routes": [
-        {
-          "Name": "Insufflated",
-          "Dosage": "50-100"
-        },
         {
           "Name": "Intravenous",
-          "Dosage": "20-100mg",
-          "Duration": "1 hour"
+          "Dosage": "75mg"
         }
       ],
+      "Classes": [
+        "Entactogen",
+        "Stimulant"
+      ],
       "Salts": [
-        "Hydrochloride"
+        "Hydrochloride?"
       ],
       "Sources": [
-        "3-FMC: Research-chemical-vendor Netherlands"
+        "4-CMC: Research-chemical-vendor"
       ],
-      "Effects": [
-        "{sev 'moderate'} {xeff 'stimulation'}",
-        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
-        "{sev 'strong'} {xeff 'compulsive redosing'}",
-        "{sev 'strong'} {xeff 'increased bodily temperature'}"
-      ],
-      "Notes": [
-        "unpleasant"
-      ]
+      "Effects": []
     },
     {
       "Name": "Bupropion",
@@ -1094,6 +1083,10 @@
           "Name": "Intravenous",
           "Dosage": "300mg"
         }
+      ],
+      "Classes": [
+        "Sympathomimetic",
+        "Stimulant"
       ],
       "Salts": [
         "Hydrochloride"
@@ -1109,6 +1102,29 @@
             "{sev 'moderate'} {xeff 'cognitive euphoria'}"
           ]
         }
+      ]
+    },
+    {
+      "Name": "Brephedrone",
+      "Routes": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "15mg"
+        },
+        {
+          "Name": "Intravenous",
+          "Dosage": "60mg"
+        }
+      ],
+      "Sources": [
+        "4-BMC: Research-chemical-vendor Netherlands",
+        "4-BMC: Research-chemical-vendor"
+      ],
+      "Salts": [
+        "Hydrochloride?"
+      ],
+      "Effects": [
+        "{rev} {xeff 'constipation'}"
       ]
     },
     {
@@ -1139,6 +1155,11 @@
           "Name": "Vaporized",
           "Dosage": "5-30mg"
         }
+      ],
+      "Classes": [
+        "Entactogen",
+        "Stimulant",
+        "Sympathomimetic"
       ],
       "Salts": [
         "Hydrochloride"
@@ -1204,8 +1225,7 @@
           ]
         }
       ],
-      "Notes": [
-      ]
+      "Notes": []
     },
     {
       "Name": "4-Methylpentedrone",
@@ -1220,6 +1240,11 @@
           "Onset": "15 seconds",
           "Duration": "2-3 hours"
         }
+      ],
+      "Classes": [
+        "Entactogen",
+        "Stimulant",
+        "Sympathomimetic"
       ],
       "Salts": [
         "Hydrochloride"
@@ -1355,6 +1380,10 @@
           "Dosage": "45mg"
         }
       ],
+      "Classes": [
+        "Stimulant",
+        "Sympathomimetic"
+      ],
       "Salts": [
         "Hydrochloride"
       ],
@@ -1369,23 +1398,13 @@
         "{sev 'moderate'} {xeff 'increased blood pressure'}",
         "relief of {xeff 'constipation'}",
         "{xeff 'psychosis'}",
-        "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)",
-        "disrupts neurotransmitter synthesis with repeated high dosage use leading to neurotransmitter depletion (incase this compound suddenly stops having any rewarding effects, under no circumstances start escalating dosages instead make sure you are well nurished, don't have a {sub 'pyridoxine' 'vitamin-b6'} deficiency)"
-      ],
-      "DEffects": [
-        {
-          "Route": "Intravenous",
-          "Effects": [
-            "feels like being trampeled on the floor by my {sub 'dopamine'}"
-          ]
-        }
+        "{xeff 'time-distortion?s=time-compression' 'time compression'} (perception of music and other human beings comically speed up)"
       ],
       "DEffects": [
         {
           "Dosage": "+500mg incremental",
           "Effects": [
-            "{xeff 'increased bodily temperature'}",
-            "{wkp 'acidosis'} (risking {wkp 'kidney failure'} and {wkp 'rhabdomyolysis'}) take {sub 'bicarbonate'} to raise bodily pH and aid breaking down compound)"
+            "{xeff 'increased bodily temperature'}"
           ]
         },
         {
@@ -1399,6 +1418,43 @@
       ],
       "Notes": [
         "quite tweaky"
+      ]
+    },
+    {
+      "Name": "N-Ethyl-nor-hexedrone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "10-120mg",
+          "Onset": "5-15 seconds",
+          "Comeup": "~1 minute"
+        }
+      ],
+      "Classes": [
+        "Stimulant",
+        "Sympathomimetic"
+      ],
+      "Salts": [
+        "Hydrochloride?"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'intense'} {xeff 'compulsive redosing'}",
+        "{sev 'strong'} {xeff 'depression reduction'}",
+        "{sev 'moderate'} {xeff 'increased heart rate'}",
+        "{sev 'strong'} {xeff 'increased blood pressure'}",
+        "{xeff 'dry mouth'}",
+        "{xeff 'muscle tension'}",
+        "{xeff 'vasoconstriction'}",
+        "{sev 'strong'} {xeff 'focus enhancement'}",
+        "{sev 'strong'} {xeff 'wakefulness'}",
+        "{sev 'strong'} {xeff 'motivation enhancement'}",
+        "{sev 'moderate'} {xeff 'appetite suppression'}",
+        "{sev 'strong'} {xeff 'increased music appreciation'}",
+        "{sev 'light'} {xeff 'Irritability'}"
+      ],
+      "Notes": [
+        "somewhat smoother than {sub 'NEP'}"
       ]
     },
     {
@@ -1431,17 +1487,23 @@
         {
           "Name": "Intravenous",
           "Dosage": "5-100mg"
+        },
+        {
+          "Name": "Vaporized"
         }
       ],
       "Salts": [
         "Citrate"
       ],
       "Sources": [
-        "α-Pyrrolidinobutyrophenone: Research-chemical-vendor Netherlands (questionable purity and identity; mislabeled bag)"
+        "α-Pyrrolidinobutyrophenone: Research-chemical-vendor Netherlands (questionable purity and identity; came in mislabeled plastic bag; only part goes into solution despite acidic conditions and boiling the solution)"
       ],
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'anxiety'}"
+      ],
+      "Notes": [
+        "uncertain and unpleasant activity"
       ]
     },
     {
@@ -1462,6 +1524,11 @@
           "Dosage": "10mg"
         }
       ],
+      "Classes": [
+        "Stimulant",
+        "Sympathomimetic",
+        "Dissociative"
+      ],
       "Salts": [
         "Hydrochloride"
       ],
@@ -1478,24 +1545,28 @@
         "{sev 'moderate'} {xeff 'depression reduction'}",
         "{sev 'intense'} subjective locomotor-activity increase",
         "{sev 'moderate'} {xeff 'thought loops'}",
-        "{sev 'intense'} {xeff 'paranoia'} (thinking I was being chased; prepared to kill or defendmyself at all times; auditory filtering pipeline; cameras)",
         "{xeff 'peripheral information misinterpretation'} (waving and movements all around me)",
         "{xeff 'delusion'} (paranoid, persecutory, {wkp 'delusions of grandeur'}, time-travel)",
         "{xeff 'personal meaning enhancement'}",
-        "{sev 'intense'} {xeff 'suicidal ideation'}"
+        "{sev 'intense'} {xeff 'suicidal ideation'}",
+        "{sev 'intense'} {xeff 'paranoia'}",
+        "{xeff 'unspeakable horrors'}",
+        "{xeff 'feelings of impending doom'}",
+        "{sev 'intense'} {xeff 'auditory hallucination'} (voices, complex distressing alternative scenarios)"
       ],
       "DEffects": [
         {
           "Route": "Intravenous",
-          "Dose": "25mg",
+          "Dosage": "+25mg",
           "Effects": [
             "{xeff 'psychosis'}"
           ]
         },
         {
           "Route": "Intravenous",
-          "Dose": ">50mg",
+          "Dosage": "+50mg",
           "Effects": [
+            "{xeff 'tinnitus'}",
             "when dosed too frequently multi-hour peroids of strong dissociation"
           ]
         }
@@ -1634,6 +1705,26 @@
       ]
     },
     {
+      "Name": "3,4-Methylenedioxy-α-pyrrolidinopentiophenone",
+      "Routes": [
+        {
+          "Name": "Intravenous",
+          "Dosage": "10mg"
+        }
+      ],
+      "Sources": [
+        "MDPV: Goerlitzer park (untrustworthy source; was unable to secure sample for chemical identification)"
+      ],
+      "Salts": [
+        "Citrate?"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'light'} {xeff 'increased libido'}"
+      ]
+    },
+    {
       "Name": "3,4-Methylenedioxy-α-pyrrolidinohexiophenone",
       "Routes": [
         {
@@ -1641,7 +1732,8 @@
           "Duration": "~3-5 hours"
         },
         {
-          "Name": "Intravenous"
+          "Name": "Intravenous",
+          "Dosage": "15mg"
         },
         {
           "Name": "Vaporized"
@@ -1655,13 +1747,27 @@
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
+        "{sev 'strong'} {xeff 'focus enhancement'}",
         "{sev 'light'} {xeff 'empathy affection and sociability enhancement'}",
+        "{sev 'moderate'} {xeff 'paranoia'}",
         "{sev 'strong'} {xeff 'anxiety'}",
         "{sev 'intense'} {xeff 'thought loops'}",
         "{xeff 'psychosis'}",
-        "{xeff 'delusion'} ({wkp 'thought broadcasting'})"
+        "{xeff 'feelings of impending doom'}",
+        "{xeff 'delusion'} ({wkp 'thought broadcasting'})",
+        "{wkp 'punding'} (more than half a day spend compulsively sorting, packing up and cleaning in a needlessly repetitive and obsessive manner)"
       ],
-      "Odor": "vaporized freebase distinctive disgusting mushroom-like"
+      "Odor": "vaporized freebase distinctive disgusting mushroom-like",
+      "DEffects": [
+        {
+          "Route": "Intravenous",
+          "Dose": ">50mg",
+          "Effects": [
+            "{xeff 'tinnitus'}",
+            "when dosed too frequently multi-hour peroids of strong dissociation"
+          ]
+        }
+      ]
     },
     {
       "Name": "Methylphenidate",
@@ -1756,7 +1862,7 @@
         "Freebase",
         "Citrate"
       ],
-      "Effects": [ 
+      "Effects": [
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{sev 'strong'} {xeff 'compulsive redosing'}"
       ],
@@ -1924,6 +2030,27 @@
       ]
     },
     {
+      "Name": "Flurbiprofen",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "8.75-26.25mg",
+          "Onset": "30 seconds",
+          "Comeup": "1-5 minutes",
+          "Duration": "1-3 hours"
+        }
+      ],
+      "Sources": [
+        "Dexcel Pharma Dosis Spray: Flurbiprofen 8.75mg per spray"
+      ],
+      "Indication": [
+        "soar throat"
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'pain relief'}"
+      ]
+    },
+    {
       "Name": "Acetylsalicylic acid",
       "Routes": [
         {
@@ -1976,7 +2103,8 @@
         "{xeff 'analysis suppression'}",
         "{xeff 'cognitive fatigue'}",
         "{xeff 'appetite enhancement'}",
-        "{xeff 'motivation suppression'}"
+        "{xeff 'motivation suppression'}",
+        "coincided {sev 'intense'} blatter pain"
       ],
       "Notes": "quite pleasant antipsychotic"
     },
@@ -2021,7 +2149,7 @@
         "{xeff 'unspeakable horrors'}"
       ],
       "Notes": [
-        "bad trip"
+        "had 1x bad trip"
       ]
     },
     {
@@ -2095,9 +2223,7 @@
       ],
       "Effects": [
         "{xeff 'empathy-affection-and-sociability-enhancement' 'enhanced communication'}",
-        "increased abstraction (broke communication down to a fluid simplified interface)"
-      ],
-      "Notes": [
+        "increased abstraction (broke communication down to a fluid simplified interface)",
         "made me more concious of how dissociation influences my perception of reality",
         "vulnerable animalistic perception of organic living beings",
         "enabled understanding repressed part of myself"
@@ -2220,7 +2346,7 @@
           "Onset": "~1 hour"
         }
       ],
-      "Salts":  [
+      "Salts": [
         "Succinate"
       ],
       "Effects": [
@@ -2718,8 +2844,7 @@
           "Name": "Transdermal"
         }
       ],
-      "Salts": [
-      ],
+      "Salts": [],
       "Indication": [
         "{wkp 'opioid withdrawal'}",
         "pain",
@@ -2957,7 +3082,7 @@
             "{sev 'moderate'} {xeff 'motivation enhancement'} (weirdly helps with productivity and tedious physical work)",
             "{xeff 'dizziness'}",
             "{sev 'strong'} {xeff 'motor control loss'} (struggle to type correctly)"
-         ]
+          ]
         },
         {
           "Route": "Intravenous",
@@ -3021,16 +3146,23 @@
         "2-Methyl-AP-237: Research-chemical-vendor Netherlands"
       ],
       "Effects": [
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{sev 'light'} {xeff 'sedation'}",
         "{xeff 'nausea'}",
+        "{xeff 'vomiting'}",
         "{sev 'strong'} {rev} {wkp 'opioid withdrawal'}",
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
-        "{xeff 'irritability'}"
+        "{xeff 'irritability'}",
+        "{xeff 'sweating'}"
       ],
       "After": [
+        "{wkp 'opioid withdrawal'}",
+        "{xeff 'irritability'}",
+        "{xeff 'anxiety'}",
+        "{wkp 'paranoia'}"
       ],
       "Notes": [
-        "Did not meaningfully seam to substitute for {sub 'fentanyl'} during state of dependence"
+        "Did not meaningfully seam to substitute for {sub 'fentanyl'} during dependence"
       ]
     },
     {
@@ -3100,7 +3232,9 @@
           "Comeup": "1-5 minutes"
         }
       ],
-      "Salts": [ "Hemifumarate" ],
+      "Salts": [
+        "Hemifumarate"
+      ],
       "Indication": "{xeff 'psychosis'}",
       "Effects": [
         "{sev 'moderate'} {xeff 'sedation'}",
@@ -3288,6 +3422,9 @@
       "Notes": [
         "similar to {sub 'ketamine'} but more potent",
         "mind melting dissociative effects"
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'Language suppression'}"
       ]
     },
     {
@@ -3347,8 +3484,7 @@
       "Salts": [
         "Hydrochloride"
       ],
-      "Dosages": [
-      ],
+      "Dosages": [],
       "Effects": [
         "{sev 'light'} {xeff 'anxiety suppression'}",
         "{xeff 'mania'}"
@@ -3375,11 +3511,16 @@
         "{sev 'moderate'} {xeff 'mania'}",
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
         "{sev 'strong'} {xeff 'physical disconnection'}",
+        "{sev 'strong'} {xeff 'spatial disorientation'}",
+        "{sev 'strong'} {xeff 'visual disconnection'}",
+        "{sev 'moderate'} {xeff 'visual agnosia'}",
         "{sev 'strong'} {xeff 'pain relief'}",
         "{sev 'light'} {rev} {wkp 'opioid withdrawal'}",
         "{xeff 'physical fatigue'}",
         "{sev 'light'} {xeff 'suicidal ideation'}",
-        "revelations and interesting thought exploration"
+        "revelations and interesting thought exploration",
+        "traveling through vivid complex yet internal landscapes",
+        "{sev 'strong'} {xeff 'Language suppression'}"
       ]
     },
     {
@@ -3550,8 +3691,7 @@
           "Dosage": "1g-10g"
         }
       ],
-      "Dosages": [
-      ],
+      "Dosages": [],
       "Notes": "uncertain activity"
     },
     {
@@ -4006,6 +4146,18 @@
       "Notes": ""
     },
     {
+      "Name": "Phenoxymethylpenicillin",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Indication": "antibiotic course",
+      "Effects": [
+        "strong allergic reaction"
+      ]
+    },
+    {
       "Name": "Clindamycin",
       "Routes": [
         {
@@ -4015,6 +4167,43 @@
       "Indication": "antibiotic wound course used for infected eyelid",
       "Effects": [
         "{wkp 'anaphylaxis'}"
+      ]
+    },
+    {
+      "Name": "Amoxicillin",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "437.5-875mg"
+        }
+      ],
+      "Indication": [
+        "antibiotic treatment of bacterial infection"
+      ],
+      "Sources": [
+        "AAA-Pharma: Amoxicilin/Clavulansaeure 875/125mg"
+      ],
+      "Classes": [
+        "Antibiotic"
+      ]
+    },
+    {
+      "Name": "Clavulanic acid",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "62.5-125mg"
+        }
+      ],
+      "Classes": [
+        "Antibiotic"
+      ],
+      "Salts": [],
+      "Indication": [
+        "Addon to Antibiotic treatment"
+      ],
+      "Sources": [
+        "AAA-Pharma: Amoxicilin/Clavulansaeure 875/125mg"
       ]
     },
     {
@@ -4197,6 +4386,119 @@
       ]
     }
   ],
-  "SubstanceMatrixCellW": "60px",
-  "SubstanceMatrixCellH": "60px"
+  "Routes": [
+    {
+      "Name": "Intravenous",
+      "Paraphernalia": [
+        "5ml luer-lock syringe with venous catheter",
+        "1ml insulin syringe",
+        "1ml luer-lock syringe",
+        "3ml luer-lock syringe",
+        "5ml luer-lock syringe with butterfly needle",
+        "10ml luer-lock syringe with butterfly needle",
+        "5ml luer-lock syringe",
+        "0.3ml insulin syringe",
+        "injector pen (needs to find vein entirely by feel)"
+      ],
+      "Sites": [
+        "{wkp 'median cubital vein'}",
+        "{wkp 'cephalic vein'}",
+        "{wkp 'dorsal metacarpal vein'}",
+        "{wkp 'femoral vein'}",
+        "{wkp 'small saphenous vein'}",
+        "{wkp 'dorsal venous arch'}",
+        "{wkp 'great saphenous vein'}"
+      ]
+    },
+    {
+      "Name": "Inhaled",
+      "Paraphernalia": [
+        "{wkp 'metered-dose Inhaler'}",
+        "balloon",
+        "vaporizer",
+        "{wkp 'drug pipe#Methamphetamine pipe' 'base pipe'}",
+        "{wkp 'chasing the dragon' 'foily'}",
+        "straight \"crack\" pipe",
+        "volatile fumes",
+        "{wkp 'smoking' 'combusted'}"
+      ],
+      "Sites": [
+        "{wkp 'lung'}"
+      ]
+    },
+    {
+      "Name": "Subcutaneous",
+      "Paraphernalia": [
+        "{wkp 'injector pen'}",
+        "1ml insulin syringe",
+        "0.3ml insulin syringe",
+        "1ml syringe"
+      ],
+      "Sites": [
+        "stomach",
+        "thigh",
+        "upper arm"
+      ]
+    },
+    {
+      "Name": "Intrarectal",
+      "Paraphernalia": [
+        "1ml syringe",
+        "5ml syringe",
+        "1ml insulin syringe (with the needle carefully broken off and remaining stump ground down)",
+        "{wkp 'suppository'}"
+      ],
+      "Sites": [
+        "rectum"
+      ]
+    },
+    {
+      "Name": "Intramuscular",
+      "Paraphernalia": [
+        "1ml syringe",
+        "{wkp 'injector pen'} (using needles with cut down spacer, giving the needle a more appropriate length)",
+        "1ml insulin syringe"
+      ],
+      "Sites": [
+        "{wkp 'deltoid muscle'}",
+        "{wkp 'vastus lateralis muscle'}",
+        "{wkp 'vastus intermedius muscle'}"
+      ]
+    },
+    {
+      "Name": "Intranasal",
+      "Paraphernalia": [
+        "mirror-plate, tube and a razor-blade or clean credit-card.",
+        "intranasal atomizer attached to syringe.",
+        "{wkp 'nasal spray'}"
+      ],
+      "Sites": [
+        "{wkp 'nostril'}"
+      ]
+    },
+    {
+      "Name": "Transdermal",
+      "Paraphernalia": [
+        "{wkp 'dermal patch'}",
+        "{wkp 'topical medication#Gel' 'gel'}"
+      ],
+      "Sites": [
+        "upper arm",
+        "stomach"
+      ]
+    },
+    {
+      "Name": "Oral",
+      "Paraphernalia": [
+        "{wkp 'capsule (pharmacy)' 'capsule'}",
+        "solution",
+        "{wkp 'tablet (pharmacy)' 'tablet'}",
+        "powder"
+      ],
+      "Sites": [
+        "mouth"
+      ]
+    }
+  ]
 }
+

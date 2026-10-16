@@ -1,0 +1,30 @@
+{
+  "Entries": [
+    {
+      "Title": "7-Amino-6,7,8,9-tetrahydro-5H-benzocycloheptene",
+      "Abr": [
+        "7-AB"
+      ],
+      "MW": "161.24 g/mol"
+    },
+    {
+      "Title": "Cyanide",
+      "Abr": [
+
+      ],
+      "MW": "26.017 g/mol"
+    },
+    {
+      "Title": "Brucine",
+      "Abr": [
+
+      ],
+      "MW": "394.5 g/mol"
+    },
+    {
+      "Title": "Strychnine",
+      "Abr": null,
+      "MW": "334.4 g/mol"
+    }
+  ]
+}

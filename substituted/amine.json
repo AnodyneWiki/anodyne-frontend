@@ -54,6 +54,13 @@
       "Title": "Isobutylamine",
       "Abr": null,
       "MW": "73.14 g/mol"
+    },
+    {
+      "Title": "Clavulanic acid",
+      "Abr": [
+        "RX-10100"
+      ],
+      "MW": "199.16 g/mol"
     }
   ],
   "Children": [

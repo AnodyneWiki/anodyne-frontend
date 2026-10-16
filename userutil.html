@@ -31,26 +31,29 @@
 </table></div></div>{{end}}
 {{end}}
 
-{{define "UserRoa" -}}
-{{if .RoutesOfAdministration}}<div class=collapser><h2 contenteditable=false>Routes of Administration Ranklist<span class=collapseButton>&nbsp;{{template "exnd" .Collapse}}</span></h2>
+{{define "UserRoa" -}}{{$v := . -}}
+{{with $routes := default $v.RoutesOfAdministration $v.Routes}}<div class=collapser><h2 contenteditable=false>Routes of Administration Ranklist<span class=collapseButton>&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
 <div class=collapserContent><table><tr><th>Route of Administration</th><th>Site</th><th>Paraphernalia</th></tr>
-{{range .RoutesOfAdministration}}<tr><td><em>{{if lower .Name | replace " " "_" | printf "administration/%s.json" | fileExists }}{{template "lroa" .Name}}</em></a>{{else}}{{.Name}}{{end}}</b></td><td>{{if .Sites}}<ul>{{range .Sites}}<li>{{template "user" .}}</li>{{end}}</ul>{{end}}</td><td>{{if .Paraphernalia}}<ul>{{range .Paraphernalia}}<li>{{template "user" .}}</li>{{end}}</ul>{{end}}</td></tr>{{end}}
+{{range $routes}}<tr><td><em>{{if lower .Name | replace " " "_" | printf "administration/%s.json" | fileExists }}{{template "lroa" .Name}}</em></a>{{else}}{{.Name}}{{end}}</b></td><td>{{if .Sites}}<ul>{{range .Sites}}<li>{{template "user" .}}</li>{{end}}</ul>{{end}}</td><td>{{if .Paraphernalia}}<ul>{{range .Paraphernalia}}<li>{{template "user" .}}</li>{{end}}</ul>{{end}}</td></tr>{{end}}
 </table></div></div>{{end}}
 {{end}}
 
 {{define "UserClasses"}}{{$v := . -}}
 <h2 contenteditable=false>Substance Index</h2>
-<div class="ranklist">
-{{range $sub := $v.TriedSubstances}}
+<div style="padding-bottom: 0.5em" class="ranklist">
+{{range $sub := default $v.TriedSubstances $v.Substances}}
 {{template "fnoterow" (dict "v" $v "utrd" (dict "trd" $sub) "External" (default false $v.External))}}
 {{end -}}
+</div>
 {{end}}
 
 {{define "UserMatrix"}}{{$v := . -}}
-<div class=collapser><h2 contenteditable=false class=full-width>Substance Matrix{{if eq $v.Editable "false"}} ({{len $v.TriedSubstances}}){{end}}<span class=collapseButton>&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
+<div class=collapser><h2 contenteditable=false class=full-width>Substance Matrix{{if eq $v.Editable "false"}} ({{len (default $v.TriedSubstances $v.Substances)}}){{end}}<span class=collapseButton>&nbsp;{{template "exnd" $v.Collapse}}</span></h2>
 <div class="collapserContent anodyneUserMatrixStruct" style="max-width: repeat({{default "12" $v.SubstanceMatrixMaxCols}}, {{default "60px" $v.SubstanceMatrixCellW}});">
-{{range $i, $sub := $v.TriedSubstances -}}
-<div><img class=trdmatimg style='width: {{default "60px" $v.SubstanceMatrixCellW}}; height:{{default "60px" $v.SubstanceMatrixCellH}};' alt='' src="/structure/{{lower $sub.Name | replace " " "_"}}{{if lower $sub.Name | replace " " "_" | printf "/structure/%s.svg" | fileExists}}.svg{{else if lower $sub.Name | replace " " "_" | printf "/structure/%s.jpg" | fileExists}}.jpg{{end}}" ></div>{{end -}}
+{{range $i, $sub := default $v.TriedSubstances $v.Substances -}}
+{{if and (lower $sub.Name | replace " " "_" | printf "/structure/%s.svg" | fileExists | not) (lower $sub.Name | replace " " "_" | printf "/structure/%s.jpg" | fileExists | not)}}
+{{else}}
+<div><img class=trdmatimg style='width: {{default "60px" $v.SubstanceMatrixCellW}}; height:{{default "60px" $v.SubstanceMatrixCellH}};' alt='' src="/structure/{{lower $sub.Name | replace " " "_"}}{{if lower $sub.Name | replace " " "_" | printf "/structure/%s.svg" | fileExists}}.svg{{else if lower $sub.Name | replace " " "_" | printf "/structure/%s.jpg" | fileExists}}.jpg{{end}}" ></div>{{end}}{{end -}}
 </div></div>
 {{end}}
 

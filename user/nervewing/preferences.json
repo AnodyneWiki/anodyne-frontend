@@ -1,10 +1,12 @@
-{ 
+{
   "Title": "nervewing",
   "Name": [
     "Nervewing"
   ],
   "About": "{p}Psychoactive chemicals blogger #1 erowid experience vaults contributor former dissociatiive chemist bug and invertebrate enthusiast{Ep}{p}{a 'https://nervewing.blogspot.com'}{Ep}",
   "Location": "United states",
+  "Birth": "1996-01",
+  "BirthApproximate": true,
   "Links": [
     {
       "Name": "Email",
@@ -26,15 +28,12 @@
   "Psyche": {
     "Interests": [
       "synthesis",
-      "invertebrates"
+      "zoology"
     ],
-    "Attributes": [
-    ]
+    "Attributes": []
   },
-  "RoutesOfAdministration": [
-  ],
-  "Preferences": [
-  ],
+  "RoutesOfAdministration": [],
+  "Preferences": [],
   "TriedSubstances": [
     {
       "Name": "Caffeine"
@@ -73,16 +72,31 @@
       "Name": "Dimethyltryptamine"
     },
     {
-      "Name": "AMT"
+      "Name": "4-Propionoyloxy-N,N-dimethyltryptamine"
     },
     {
-      "Name": "4-HO-DPT"
+      "Name": "Psilacetin"
+    },
+    {
+      "Name": "Iprocin"
+    },
+    {
+      "Name": "α-Methyltryptamine"
+    },
+    {
+      "Name": "Metacetin"
+    },
+    {
+      "Name": "Miprocin"
+    },
+    {
+      "Name": "Deprocin"
     },
     {
       "Name": "4-AcO-DPT"
     },
     {
-      "Name": "DiPT"
+      "Name": "Diisopropyltryptamine"
     },
     {
       "Name": "5-MeO-DPT"
@@ -91,13 +105,13 @@
       "Name": "Dipropyltrytamine"
     },
     {
-      "Name": "5-MeO-DALT"
+      "Name": "5-Methoxy-N,N-diallyltryptamine"
+    },
+    {
+      "Name": "MALT"
     },
     {
       "Name": "5-MeO-DMT"
-    },
-    {
-      "Name": "DOB"
     },
     {
       "Name": "Lysergic acid",
@@ -107,6 +121,12 @@
     },
     {
       "Name": "Lysergic acid diethylamide"
+    },
+    {
+      "Name": "1F-LSD"
+    },
+    {
+      "Name": "1-Valeryl-D-lysergic acid diethylamide"
     },
     {
       "Name": "Lysergic acid 2,4-dimethylazetidide"
@@ -124,16 +144,22 @@
       "Name": "ALD-52"
     },
     {
-      "Name": "4-AcO-DMT"
+      "Name": "Deschloroketamine"
     },
     {
       "Name": "Ketamine"
     },
     {
-      "Name": "2F-DCK"
+      "Name": "Fluoroketamine"
     },
     {
-      "Name": "O-PCE"
+      "Name": "Bromoketamine"
+    },
+    {
+      "Name": "3F-DCK"
+    },
+    {
+      "Name": "Eticyclidone"
     },
     {
       "Name": "3-Me-PCE"
@@ -142,19 +168,19 @@
       "Name": "3-HO-PCE"
     },
     {
-      "Name": "3-MeO-PCE"
+      "Name": "3-Methoxyeticyclidine"
     },
     {
-      "Name": "MXE"
+      "Name": "Methoxetamine"
     },
     {
-      "Name": "FXE"
+      "Name": "Fluorexetamine"
     },
     {
       "Name": "MXM"
     },
     {
-      "Name": "MXP"
+      "Name": "Methoxphenidine"
     },
     {
       "Name": "Psilocin",
@@ -166,13 +192,7 @@
       "Name": "Cocaine"
     },
     {
-      "Name": "DPH"
-    },
-    {
-      "Name": "4-AcO-MET"
-    },
-    {
-      "Name": "4-HO-MiPT"
+      "Name": "Diphenhydramine"
     },
     {
       "Name": "Allylescaline"
@@ -181,16 +201,16 @@
       "Name": "Hydroxyzine"
     },
     {
-      "Name": "3-MeO-PCP"
+      "Name": "3-Methoxyphencyclidine"
     },
     {
-      "Name": "5-MeO-MiPT"
+      "Name": "5-Methoxy-N-methyl-N-isopropyltryptamine"
     },
     {
       "Name": "Mescaline"
     },
     {
-      "Name": "Escaline"
+      "Name": "3,5-Dimethoxy-4-ethoxyphenethylamine"
     },
     {
       "Name": "Bromomescaline"
@@ -199,22 +219,22 @@
       "Name": "2,5-Dimethoxy-4-bromophenethylamine"
     },
     {
-      "Name": "2C-P"
+      "Name": "2,5-Dimethoxy-4-propylphenethylamine"
     },
     {
       "Name": "2,5-Dimethoxy-4-iodo-N-(2-hydroxybenzyl)phenethylamine"
     },
     {
-      "Name": "2C-E"
+      "Name": "2,5-Dimethoxy-4-ethylphenethylamine"
     },
     {
-      "Name": "2C-C"
+      "Name": "2,5-Dimethoxy-4-chlorophenethylamine"
     },
     {
       "Name": "2,5-Dimethoxy-4-iodophenethylamine"
     },
     {
-      "Name": "2C-D"
+      "Name": "2,5-Dimethoxy-4-methylphenethylamine"
     },
     {
       "Name": "2C-B-FLY"
@@ -229,7 +249,16 @@
       "Name": "2,5-Dimethoxy-4-chloro-N-(2-methoxybenzyl)phenethylamine"
     },
     {
-      "Name": "3C-E"
+      "Name": "3,5-Dimethoxy-4-ethoxyphenethylamine"
+    },
+    {
+      "Name": "3C-P"
+    },
+    {
+      "Name": "2,4,5-Trimethoxyamphetamine"
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-bromoamphetamine"
     },
     {
       "Name": "Amphetamine"
@@ -239,6 +268,24 @@
     },
     {
       "Name": "3-Fluoroamphetamine"
+    },
+    {
+      "Name": "Methamphetamine"
+    },
+    {
+      "Name": "Propylhexedrine"
+    },
+    {
+      "Name": "3,4-Methylenedioxymethamphetamine"
+    },
+    {
+      "Name": "6-APB"
+    },
+    {
+      "Name": "5-APDB"
+    },
+    {
+      "Name": "Prolintane"
     },
     {
       "Name": "Cathinone",
@@ -256,25 +303,10 @@
       "Name": "N-Ethylhexedrone"
     },
     {
+      "Name": "α-Pyrrolidinoisohexanophenone"
+    },
+    {
       "Name": "α-Pyrrolidino-2-phenylacetophenone"
-    },
-    {
-      "Name": "Methamphetamine"
-    },
-    {
-      "Name": "Propylhexedrine"
-    },
-    {
-      "Name": "3,4-Methylenedioxymethamphetamine"
-    },
-    {
-      "Name": "Prolintane"
-    },
-    {
-      "Name": "6-APB"
-    },
-    {
-      "Name": "5-APDB"
     },
     {
       "Name": "Methylphenidate"
@@ -319,19 +351,16 @@
       "Name": "Promethazine"
     },
     {
-      "Name": "4-AcO-DET"
+      "Name": "Ethacetin"
     },
     {
-      "Name": "4-HO-MET"
+      "Name": "Metocin"
     },
     {
       "Name": "Methallylescaline"
     },
     {
       "Name": "DALT"
-    },
-    {
-      "Name": "DCK"
     },
     {
       "Name": "Phenylpiracetam"
@@ -348,35 +377,29 @@
     {
       "Name": "Armodafinil"
     },
-	{
+    {
       "Name": "Passionflower (Passiflora sp.)"
     },
     {
-      "Name": "4-HO-EPT"
+      "Name": "Eprocin"
     },
     {
-      "Name": "4-HO-DET"
+      "Name": "Ethocin"
     },
     {
       "Name": "Salvia (Salvia divinorum)"
     },
     {
-      "Name": "AL-LAD"
+      "Name": "6-Allyl-6-norlysergic acid diethylamide"
     },
     {
-      "Name": "4-AcO-MiPT"
+      "Name": "Mipracetin"
     },
     {
-      "Name": "DOM"
+      "Name": "2,5-Dimethoxy-4-methylamphetamine"
     },
     {
-      "Name": "MET"
-    },
-    {
-      "Name": "Kratom"
-    },
-    {
-      "Name": "Cannabis"
+      "Name": "Methionine"
     },
     {
       "Name": "7-Hydroxymitragynine"
@@ -409,16 +432,10 @@
       "Name": "4-AcO-EPT"
     },
     {
-      "Name": "MXPr"
+      "Name": "Methoxpropamine"
     },
     {
-      "Name": "4-PrO-DMT"
-    },
-    {
-      "Name": "4-HO-DiPT"
-    },
-    {
-      "Name": "α-PCYP"
+      "Name": "α-Pyrrolidinocyclohexanophenone"
     },
     {
       "Name": "BOD"
@@ -430,19 +447,28 @@
       "Name": "4-HO-MALT"
     },
     {
-      "Name": "5-MeO-MALT"
+      "Name": "5-Methoxy-N-methyl-N-allyltryptamine"
     },
     {
-      "Name": "1cP-LSD"
+      "Name": "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide"
     },
     {
       "Name": "PCM"
     },
     {
-      "Name": "PCP"
+      "Name": "Rolicyclidine"
     },
     {
-      "Name": "3-HO-PCP"
+      "Name": "Tolicyclidine"
+    },
+    {
+      "Name": "3-Methoxyrolicyclidine"
+    },
+    {
+      "Name": "Phencyclidine"
+    },
+    {
+      "Name": "3-Hydroxyphencyclidine"
     },
     {
       "Name": "3F-PCP"
@@ -451,19 +477,13 @@
       "Name": "4F-MPH"
     },
     {
-      "Name": "1F-LSD"
-    },
-    {
       "Name": "5-MeO-MET"
     },
     {
-      "Name": "3-Me-PCP"
+      "Name": "3-Methylphencyclidine"
     },
     {
-      "Name": "MXiPr"
-    },
-    {
-      "Name": "Δ8-THC"
+      "Name": "Methoxisopropamine"
     },
     {
       "Name": "Zolpidem"
@@ -556,7 +576,7 @@
       "Name": "Flubromazolam"
     },
     {
-      "Name": "DMXE"
+      "Name": "Deoxymethoxetamine"
     },
     {
       "Name": "BTCP"
@@ -565,7 +585,7 @@
       "Name": "O-DSMT"
     },
     {
-      "Name": "MPT"
+      "Name": "Methylpropyltryptamine"
     },
     {
       "Name": "IPPH"
@@ -577,13 +597,13 @@
       "Name": "Doxylamine"
     },
     {
-      "Name": "2-FMA"
+      "Name": "2-Fluoromethamphetamine"
     },
     {
-      "Name": "DOF"
+      "Name": "2,5-Dimethoxy-4-fluoroamphetamine"
     },
     {
-      "Name": "DOiP"
+      "Name": "2,5-Dimethoxy-4-isopropylamphetamine"
     },
     {
       "Name": "3,4-DCMP (aka 3,4-CTMP)"
@@ -592,22 +612,16 @@
       "Name": "βk-2C-B"
     },
     {
-      "Name": "HXE"
+      "Name": "Hydroxetamine"
     },
     {
-      "Name": "DOPr"
+      "Name": "2,5-Dimethoxy-4-propylamphetamine"
     },
     {
-      "Name": "1cP-AL-LAD"
+      "Name": "1-Cyclopropionyl-6-allyl-6-nor-lysergic acid diethylamide"
     },
     {
-      "Name": "Dihydrocodeine"
-    },
-    {
-      "Name": "MiPT"
-    },
-    {
-      "Name": "1V-LSD"
+      "Name": "Methylisopropyltryptamine"
     },
     {
       "Name": "4-HO-PiPT"
@@ -631,34 +645,25 @@
       "Name": "Dexoxadrol"
     },
     {
-      "Name": "3C-P"
-    },
-    {
-      "Name": "α-PiHP"
-    },
-    {
       "Name": "Baclofen"
     },
     {
       "Name": "PiPT"
     },
     {
-      "Name": "MALT"
-    },
-    {
-      "Name": "Δ10-THC"
-    },
-    {
-      "Name": "CBN"
-    },
-    {
       "Name": "Banisteriopsis caapi"
     },
     {
-      "Name": "HHC"
+      "Name": "Hexahydrocannabinol"
     },
     {
-      "Name": "2B-DCK"
+      "Name": "Δ8-tetrahydrocannabinol"
+    },
+    {
+      "Name": "Δ-10-tetrahydrocannabinol"
+    },
+    {
+      "Name": "CBN"
     },
     {
       "Name": "4-MetMP"
@@ -667,13 +672,10 @@
       "Name": "Emylcamate"
     },
     {
-      "Name": "DOC"
+      "Name": "2,5-Dimethoxy-4-chloroamphetamine"
     },
     {
       "Name": "Lemborexant"
-    },
-    {
-      "Name": "TMA-2"
     },
     {
       "Name": "Tapentadol"
@@ -683,7 +685,7 @@
     },
     {
       "Name": "Muscimol",
-      "Sources": [ 
+      "Sources": [
         "As a decarboxylated Amanita muscaria extract"
       ]
     },
@@ -691,7 +693,7 @@
       "Name": "O-PCiPr"
     },
     {
-      "Name": "NEP"
+      "Name": "N-Ethyl-nor-pentedrone"
     },
     {
       "Name": "3'-MXP"
@@ -706,13 +708,16 @@
       "Name": "1D-LSD"
     },
     {
-      "Name": "GBL"
+      "Name": "γ-Butyrolactone"
     },
     {
       "Name": "TPP"
     },
     {
-      "Name": "2-Methyl-AP-237"
+      "Name": "2-Methylbucinnazine"
+    },
+    {
+      "Name": "Tramadol"
     },
     {
       "Name": "Dextromethorphan"
@@ -722,6 +727,9 @@
     },
     {
       "Name": "Codeine"
+    },
+    {
+      "Name": "Dihydrocodeine"
     },
     {
       "Name": "Oxycodone"
@@ -736,13 +744,7 @@
       "Name": "Buprenorphine"
     },
     {
-      "Name": "3F-DCK"
-    },
-    {
       "Name": "4-HO-MsBT"
-    },
-    {
-      "Name": "Tramadol"
     },
     {
       "Name": "3-MeO-PCiPr"
@@ -763,16 +765,7 @@
       "Name": "P2AP"
     },
     {
-      "Name": "PCPy"
-    },
-    {
-      "Name": "3-Me-PCPy"
-    },
-    {
-      "Name": "3-MeO-PCPy"
-    },
-    {
-      "Name": "3-Cl-PCP"
+      "Name": "3-Chlorophencyclidine"
     },
     {
       "Name": "3,4-MD-PCP"
@@ -812,8 +805,15 @@
     },
     {
       "Name": "2-FXiPr"
+    },
+    {
+      "Name": "Kratom"
+    },
+    {
+      "Name": "Cannabis"
     }
   ],
-  "SubstanceMatrixCellW": "60px",
-  "SubstanceMatrixCellH": "60px"
+  "SubstanceMatrixCellW": "50px",
+  "SubstanceMatrixCellH": "50px"
 }
+

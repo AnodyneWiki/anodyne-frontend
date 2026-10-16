@@ -25,7 +25,8 @@ FreakLog is a fully open source continuation fork of the now closed-source and i
 
 Simple CLI logging utility for psychoactive substances with support for anodyne's public logger.
 
-- [Log-py](https://github.com/AnodyneWiki/log-py)
+- [Logpy](https://github.com/AnodyneWiki/log-py)
+- [Logpy-Interactive-Expansion-Fork](https://github.com/Im-0xea/log-py)
 
 ### Dkinplot
 

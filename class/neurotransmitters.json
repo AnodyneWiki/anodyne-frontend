@@ -1,0 +1,29 @@
+{
+  "Entries": [
+    {
+      "Title": "Acetylcholine",
+      "Abr": "ACh",
+      "MW": "146.21 g/mol"
+    },
+    {
+      "Title": "Epinephrine",
+      "Abr": "Adrenaline",
+      "MW": "183.20 g/mol"
+    },
+    {
+      "Title": "Histamine",
+      "Abr": "",
+      "MW": "111.15 g/mol"
+    },
+    {
+      "Title": "Norepinephrine",
+      "Abr": "NE",
+      "MW": "169.18 g/mol"
+    },
+    {
+      "Title": "Octopamine",
+      "Abr": "OCT",
+      "MW": "153.18 g/mol"
+    }
+  ]
+}

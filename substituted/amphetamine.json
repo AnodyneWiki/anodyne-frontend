@@ -2,6 +2,13 @@
   "Name": "amphetamine",
   "Entries": [
     {
+      "Title": "Amphetamine",
+      "Abr": [
+        "Speed"
+      ],
+      "MW": "135.21 g/mol"
+    },
+    {
       "Title": "2,3-Methylenedioxyamphetamine",
       "Abr": "2,3-MDA",
       "MW": "179.22 g/mol"
@@ -795,6 +802,13 @@
         "2-FA"
       ],
       "MW": "153.20 g/mol"
+    },
+    {
+      "Title": "2,4,5-Trimethoxyamphetamine",
+      "Abr": [
+        "TMA-2"
+      ],
+      "MW": "225.28 g/mol"
     }
   ],
   "Parent": "phenethylamine",
@@ -810,13 +824,6 @@
     "2-benzylpyrrolidine",
     "morphinan"
   ],
-  "First": {
-    "Title": "Amphetamine",
-    "Abr": [
-      "Speed"
-    ],
-    "MW": "135.21 g/mol"
-  },
   "Analogues": [
     "thiopropamine"
   ],

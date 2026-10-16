@@ -1,6 +1,10 @@
 {
   "Name": "deliriant",
   "Entries": [
-
+    {
+      "Title": "Quinuclidinyl Benzilate",
+      "Abr": "QNB",
+      "MW": "337.4 g/mol"
+    }
   ]
 }

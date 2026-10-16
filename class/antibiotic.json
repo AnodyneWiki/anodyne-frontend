@@ -1,0 +1,35 @@
+{
+  "Entries": [
+    {
+      "Title": "Doxycycline",
+      "Abr": [
+
+      ],
+      "MW": "444.4 g/mol"
+    },
+    {
+      "Title": "Tyrothricin",
+      "Abr": [
+
+      ],
+      "MW": "1228.4 g/mol"
+    },
+    {
+      "Title": "Clindamycin",
+      "Abr": [
+
+      ],
+      "MW": "425.0 g/mol"
+    },
+    {
+      "Title": "Phenoxymethylpenicillin",
+      "Abr": null,
+      "MW": "350.4 g/mol"
+    },
+    {
+      "Title": "Amoxicillin",
+      "Abr": null,
+      "MW": "365.4 g/mol"
+    }
+  ]
+}

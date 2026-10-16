@@ -1,0 +1,106 @@
+{
+  "Entries": [
+    {
+      "Title": "3,4-Dihydroxyphenylacetaldehyde",
+      "Abr": "DOPAL",
+      "MW": "152.15 g/mol"
+    },
+    {
+      "Title": "4,5-Dihydroxytryptamine",
+      "Abr": "4,5-DHT",
+      "MW": "192.21 g/mol"
+    },
+    {
+      "Title": "5,6-Dihydroxytryptamine",
+      "Abr": "5,6-DHT",
+      "MW": "192.21 g/mol"
+    },
+    {
+      "Title": "5,7-Dihydroxytryptamine",
+      "Abr": "5,7-DHT",
+      "MW": "192.21 g/mol"
+    },
+    {
+      "Title": "Batrachotoxin",
+      "Abr": "BTX",
+      "MW": "538.7 g/mol"
+    },
+    {
+      "Title": "Caramboxin",
+      "Abr": "",
+      "MW": "255.22 g/mol"
+    },
+    {
+      "Title": "Chlorpyrifos",
+      "Abr": "",
+      "MW": "350.6 g/mol"
+    },
+    {
+      "Title": "Ciguatoxin 1",
+      "Abr": "CTX-1",
+      "MW": "1111.3 g/mol"
+    },
+    {
+      "Title": "Domoic acid",
+      "Abr": "",
+      "MW": "311.33 g/mol"
+    },
+    {
+      "Title": "Hexane",
+      "Abr": "",
+      "MW": "86.18 g/mol"
+    },
+    {
+      "Title": "Neosaxitoxin",
+      "Abr": "",
+      "MW": "315.29 g/mol"
+    },
+    {
+      "Title": "Oxidopamine",
+      "Abr": "6-OHDA",
+      "MW": "169.18 g/mol"
+    },
+    {
+      "Title": "Saxitoxin",
+      "Abr": "",
+      "MW": "299.29 g/mol"
+    },
+    {
+      "Title": "Tert-Butyl-bicyclophosphate",
+      "Abr": "",
+      "MW": "206.18 g/mol"
+    },
+    {
+      "Title": "Tetraethyllead",
+      "Abr": "",
+      "MW": "323 g/mol"
+    },
+    {
+      "Title": "Tetramethylenedisulfotetramine",
+      "Abr": "TETS",
+      "MW": "240.3 g/mol"
+    },
+    {
+      "Title": "Toxiferine",
+      "Abr": "",
+      "MW": "614.8 g/mol"
+    },
+    {
+      "Title": "Harmane",
+      "Abr": null,
+      "MW": "182.22 g/mol"
+    },
+    {
+      "Title": "Paraquat",
+      "Abr": null,
+      "MW": "186.25 g/mol"
+    },
+    {
+      "Title": "Penitrem A",
+      "Abr": [
+        "Tremortin"
+      ],
+      "MW": "634.2 g/mol"
+    }
+  ]
+}

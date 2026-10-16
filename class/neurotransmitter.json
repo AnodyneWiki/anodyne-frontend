@@ -1,0 +1,21 @@
+{
+  "Entries": [
+    {
+      "Title": "Tyramine",
+      "Abr": "",
+      "MW": "137.18 g/mol"
+    },
+    {
+      "Title": "Epinine",
+      "Abr": "",
+      "MW": "167.20 g/mol"
+    },
+    {
+      "Title": "Dopamine",
+      "Abr": [
+        "DA"
+      ],
+      "MW": "153.18 g/mol"
+    }
+  ]
+}

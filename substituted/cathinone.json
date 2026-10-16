@@ -410,6 +410,27 @@
         "MDPIPEP"
       ],
       "MW": "317.4 g/mol"
+    },
+    {
+      "Title": "2-Chloromethcathinone",
+      "Abr": [
+        "2-CMC"
+      ],
+      "MW": "197.66 g/mol"
+    },
+    {
+      "Title": "N-Cyclohexylmethylone",
+      "Abr": [
+        "Cyputylone"
+      ],
+      "MW": "275.34 g/mol"
+    },
+    {
+      "Title": "Benzedrone",
+      "Abr": [
+        "4-MBC"
+      ],
+      "MW": "253.34 g/mol"
     }
   ],
   "Parents": [

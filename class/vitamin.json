@@ -1,0 +1,32 @@
+{
+  "Entries": [
+    {
+      "Title": "Pantothenic acid",
+      "Abr": [
+        "vitamin B5"
+      ],
+      "MW": "219.23 g/mol"
+    },
+    {
+      "Title": "Niacin",
+      "Abr": [
+        "vitamin B3"
+      ],
+      "MW": "123.11 g/mol"
+    },
+    {
+      "Title": "Thiamine",
+      "Abr": [
+        "vitamin B1"
+      ],
+      "MW": "265.36 g/mol"
+    },
+    {
+      "Title": "Ascorbic acid",
+      "Abr": [
+        "vitamin C"
+      ],
+      "MW": "176.12 g/mol"
+    }
+  ]
+}
