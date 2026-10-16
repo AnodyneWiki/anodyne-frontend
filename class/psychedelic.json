@@ -3,152 +3,212 @@
   "Entries": [
     {
       "Title": "1-Butanoyl-d-lysergic acid diethylamide",
-      "Abr": "1B-LSD",
+      "Abr": [
+        "1B-LSD"
+      ],
       "MW": "393.5 g/mol"
     },
     {
       "Title": "1-Cyclopropionyl-6-allyl-6-nor-lysergic acid diethylamide",
-      "Abr": "1cP-AL-LAD",
+      "Abr": [
+        "1cP-AL-LAD"
+      ],
       "MW": "417.5 g/mol"
     },
     {
       "Title": "2,4,5-Triethoxyamphetamine",
-      "Abr": "EEE",
+      "Abr": [
+        "EEE"
+      ],
       "MW": "267.36 g/mol"
     },
     {
       "Title": "2,4,5-Trimethoxyamphetamine",
-      "Abr": "TMA-2",
+      "Abr": [
+        "TMA-2"
+      ],
       "MW": "225.28 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-3,4-dimethylphenethylamine",
-      "Abr": "2C-G",
+      "Abr": [
+        "2C-G"
+      ],
       "MW": "209.28 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-bromoamphetamine",
-      "Abr": "DOB",
+      "Abr": [
+        "DOB"
+      ],
       "MW": "274.15 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-bromophenethylamine",
-      "Abr": "2C-B",
+      "Abr": [
+        "2C-B"
+      ],
       "MW": "260.13 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-butylamphetamine",
-      "Abr": "DOBU",
+      "Abr": [
+        "DOBU"
+      ],
       "MW": "251.36 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-chloroamphetamine",
-      "Abr": "DOC",
+      "Abr": [
+        "DOC"
+      ],
       "MW": "229.70 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-chlorophenethylamine",
-      "Abr": "2C-C",
+      "Abr": [
+        "2C-C"
+      ],
       "MW": "215.67 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-ethylamphetamine",
-      "Abr": "DOET",
+      "Abr": [
+        "DOET"
+      ],
       "MW": "223.31 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-ethylphenethylamine",
-      "Abr": "2C-E",
+      "Abr": [
+        "2C-E"
+      ],
       "MW": "209.28 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-ethylthioamphetamine",
-      "Abr": "Aleph-2",
+      "Abr": [
+        "Aleph-2"
+      ],
       "MW": "255.38 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-fluorophenethylamine",
-      "Abr": "2C-F",
+      "Abr": [
+        "2C-F"
+      ],
       "MW": "199.22 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-iodoamphetamine",
-      "Abr": "DOI",
+      "Abr": [
+        "DOI"
+      ],
       "MW": "321.15 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-iodophenethylamine",
-      "Abr": "2C-I",
+      "Abr": [
+        "2C-I"
+      ],
       "MW": "307.13 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-isopropylamphetamine",
-      "Abr": "DOIP",
+      "Abr": [
+        "DOIP"
+      ],
       "MW": "237.34 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-isopropylthioamphetamine",
-      "Abr": "Aleph-4",
+      "Abr": [
+        "Aleph-4"
+      ],
       "MW": "269.40 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-methylamphetamine",
-      "Abr": "DOM",
+      "Abr": [
+        "DOM"
+      ],
       "MW": "209.28 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-methylphenethylamine",
-      "Abr": "2C-D",
+      "Abr": [
+        "2C-D"
+      ],
       "MW": "195.26 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-methylthioamphetamine",
-      "Abr": "Aleph-1",
+      "Abr": [
+        "Aleph-1"
+      ],
       "MW": "241.35 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-methylthiophenethylamine",
-      "Abr": "2C-T",
+      "Abr": [
+        "2C-T"
+      ],
       "MW": "227.33 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-nitroamphetamine",
-      "Abr": "DON",
+      "Abr": [
+        "DON"
+      ],
       "MW": "240.26 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-nitrophenethylamine",
-      "Abr": "2C-N",
+      "Abr": [
+        "2C-N"
+      ],
       "MW": "226.23 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-phenylthioamphetamine",
-      "Abr": "Aleph-6",
+      "Abr": [
+        "Aleph-6"
+      ],
       "MW": "303.4 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-propylamphetamine",
-      "Abr": "DOPR",
+      "Abr": [
+        "DOPR"
+      ],
       "MW": "237.34 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-propylphenethylamine",
-      "Abr": "2C-P",
+      "Abr": [
+        "2C-P"
+      ],
       "MW": "223.31 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-propylthioamphetamine",
-      "Abr": "Aleph-7",
+      "Abr": [
+        "Aleph-7"
+      ],
       "MW": "269.40 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-trifluoromethylamphetamine",
-      "Abr": "DOTFM",
+      "Abr": [
+        "DOTFM"
+      ],
       "MW": "263.26 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-trifluoromethylphenethylamine",
-      "Abr": "2C-TFM",
+      "Abr": [
+        "2C-TFM"
+      ],
       "MW": "249.23 g/mol"
     },
     {
@@ -198,42 +258,58 @@
     },
     {
       "Title": "2C-B-FLY",
-      "Abr": "2C-B-FLY",
+      "Abr": [
+        "2C-B-FLY"
+      ],
       "MW": "284.15 g/mol"
     },
     {
       "Title": "3,4-Dimethoxyamphetamine",
-      "Abr": "3,4-DMA",
+      "Abr": [
+        "3,4-DMA"
+      ],
       "MW": "195.26 g/mol"
     },
     {
       "Title": "3,5-Dimethoxy-4-ethoxyphenethylamine",
-      "Abr": "3C-E",
+      "Abr": [
+        "3C-E"
+      ],
       "MW": "225.28 g/mol"
     },
     {
       "Title": "3,5-Dimethoxy-4-trideuteromethoxyphenethylamine",
-      "Abr": "4-D",
+      "Abr": [
+        "4-D"
+      ],
       "MW": "214.28 g/mol"
     },
     {
       "Title": "5-(Trifluoromethoxy)-N,N-dimethyltryptamine",
-      "Abr": "5-TFMO-DMT",
+      "Abr": [
+        "5-TFMO-DMT"
+      ],
       "MW": "256.27 g/mol"
     },
     {
       "Title": "5-(Trifluoromethyl)-N,N-dimethyltryptamine",
-      "Abr": "5-TFM-DMT",
+      "Abr": [
+        "5-TFM-DMT"
+      ],
       "MW": "256.27 g/mol"
     },
     {
       "Title": "5-Fluoro-N-ethyl-N-propyltryptamine",
-      "Abr": "5-Fluoro-EPT",
+      "Abr": [
+        "5-Fluoro-EPT"
+      ],
       "MW": "248.34 g/mol"
     },
     {
       "Title": "5-Fluoro-α-methyltryptamine",
-      "Abr": "5-Fluoro-αMT",
+      "Abr": [
+        "5-Fluoro-αMT"
+      ],
       "MW": "192.23 g/mol"
     },
     {
@@ -243,37 +319,52 @@
     },
     {
       "Title": "5-Methoxy-7-fluoro-N-methyl-N-ethyltryptamine",
-      "Abr": "5-MeO-7-F-MET",
+      "Abr": [
+        "5-MeO-7-F-MET"
+      ],
       "MW": "250.31 g/mol"
     },
     {
       "Title": "5-Methoxy-α-methyltryptamine",
-      "Abr": "5-MeO-αMT",
+      "Abr": [
+        "5-MeO-αMT"
+      ],
       "MW": "204.27 g/mol"
     },
     {
       "Title": "Aeruginascin",
-      "Abr": "4-PO-TMT",
-      "MW": "298.27 g/mol"
+      "Abr": [
+        "4-PO-TMT"
+      ],
+      "MW": "299.28 g/mol"
     },
     {
       "Title": "Bretisilocin",
-      "Abr": "5-Fluoro-MET",
+      "Abr": [
+        "5-Fluoro-MET"
+      ],
       "MW": "220.29 g/mol"
     },
     {
       "Title": "Bromo-dragonfly",
-      "Abr": "Bromo-dragonfly",
+      "Abr": [
+        "Bromo-dragonfly"
+      ],
       "MW": "294.14 g/mol"
     },
     {
       "Title": "Bufotenin",
-      "Abr": "5-HO-DMT",
+      "Abr": [
+        "5-HO-DMT"
+      ],
       "MW": "204.27 g/mol"
     },
     {
       "Title": "Dimethyltryptamine",
-      "Abr": "DMT",
+      "Abr": [
+        "DMT",
+        "N,N-DMT"
+      ],
       "MW": "188.27 g/mol"
     },
     {
@@ -283,33 +374,692 @@
     },
     {
       "Title": "Lysergic acid",
-      "Abr": "LSA",
+      "Abr": [
+        "LSA"
+      ],
       "MW": "268.31 g/mol"
     },
     {
       "Title": "Lysergic acid diethylamide",
-      "Abr": "LSD",
+      "Abr": [
+        "LSD",
+        "LSD-25"
+      ],
       "MW": "323.4 g/mol"
     },
     {
       "Title": "Mescaline",
-      "Abr": "TMPEA",
+      "Abr": [
+        "TMPEA"
+      ],
       "MW": "211.26 g/mol"
     },
     {
       "Title": "Monomethyltryptamine",
-      "Abr": "NMT",
+      "Abr": [
+        "NMT"
+      ],
       "MW": "174.24 g/mol"
     },
     {
       "Title": "TCB-2",
-      "Abr": "TCB-2",
+      "Abr": [
+        "TCB-2"
+      ],
       "MW": "272.14 g/mol"
     },
     {
       "Title": "α-Methyltryptamine",
-      "Abr": "αMT",
+      "Abr": [
+        "αMT"
+      ],
       "MW": "174.24 g/mol"
+    },
+    {
+      "Title": "Ergine",
+      "Abr": [
+        "LAA",
+        "LA-111"
+      ],
+      "MW": "267.33 g/mol"
+    },
+    {
+      "Title": "Lysergic acid dimethylamide",
+      "Abr": [
+        "DAM",
+        "DAM-57"
+      ],
+      "MW": "295.4 g/mol"
+    },
+    {
+      "Title": "Lysergic acid ethylamide",
+      "Abr": [
+        "LAE",
+        "LAE-32"
+      ],
+      "MW": "295.4 g/mol"
+    },
+    {
+      "Title": "Lysergic acid 2,4-dimethylazetidide",
+      "Abr": [
+        "LSZ",
+        "LA-Az"
+      ],
+      "MW": "335.4 g/mol"
+    },
+    {
+      "Title": "Lysergic acid dipropylamide",
+      "Abr": [
+        "LSDP",
+        "LSDPr",
+        "LADP",
+        "LPP",
+        "DPL"
+      ],
+      "MW": "351.5 g/mol"
+    },
+    {
+      "Title": "Lysergic acid diallylamide",
+      "Abr": [
+        "LDA",
+        "DAL"
+      ],
+      "MW": "347.5 g/mol"
+    },
+    {
+      "Title": "N-desmethyllysergic acid diethylamide",
+      "Abr": [
+        "Nor-LSD",
+        "norLSD",
+        "H-LAD"
+      ],
+      "MW": "309.4 g/mol"
+    },
+    {
+      "Title": "6-Allyl-6-norlysergic acid diethylamide",
+      "Abr": [
+        "AL-LAD",
+        "ALLAD"
+      ],
+      "MW": "349.5 g/mol"
+    },
+    {
+      "Title": "1-(1,2-dimethylcyclobutanecarbonyl)-6-allyl-6-norlysergic acid diethylamide",
+      "Abr": [
+        "AL-LAD",
+        "ALLAD"
+      ]
+    },
+    {
+      "Title": "Lysergic acid fluorodiethylamide",
+      "Abr": [
+        "F-LSD"
+      ],
+      "MW": "341.4 g/mol"
+    },
+    {
+      "Title": "1-Valeryl-D-lysergic acid diethylamide",
+      "Abr": [
+        "1V-LSD",
+        "Valerie"
+      ],
+      "MW": "407.5 g/mol"
+    },
+    {
+      "Title": "1-Propanoyl-lysergic acid diethylamide",
+      "Abr": [
+        "1P-LSD"
+      ],
+      "MW": "379.5 g/mol"
+    },
+    {
+      "Title": "1-(3-(Trimethylsilyl)propionyl)-lysergic acid diethylamide",
+      "Abr": [
+        "1S-LSD"
+      ],
+      "MW": "451.7 g/mol"
+    },
+    {
+      "Title": "1-(Ferrocenecarbonyl)-lysergic acid diethylamide",
+      "Abr": [
+        "1Fe-LSD"
+      ],
+      "MW": "535.5 g/mol"
+    },
+    {
+      "Title": "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide",
+      "Abr": [
+        "1cP-LSD"
+      ],
+      "MW": "391.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylselenophenethylamine",
+      "Abr": [
+        "2C-Se"
+      ],
+      "MW": "274.23 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethylthiophenethylamine",
+      "Abr": [
+        "2C-T-2"
+      ],
+      "MW": "241.35 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methylphenylcyclopropylamine",
+      "Abr": [
+        "DMCPA"
+      ],
+      "MW": "207.27 g/mol"
+    },
+    {
+      "Title": "3,4,5-Trimethoxytranylcypromine",
+      "Abr": [
+        "TMT",
+        "MCPA"
+      ],
+      "MW": "223.27 g/mol"
+    },
+    {
+      "Title": "β-Hydroxy-4-bromo-2,5-dimethoxyphenylamine",
+      "Abr": [
+        "βOH-2C-B"
+      ]
+    },
+    {
+      "Title": "3,4,5-Trimethoxyamphetamine",
+      "Abr": [
+        "TMA",
+        "TMA-1",
+        "3,4,5-TMA"
+      ],
+      "MW": "225.28 g/mol"
+    },
+    {
+      "Title": "3,5-Dimethoxy-4-allyloxyamphetamine",
+      "Abr": [
+        "3C-AL",
+        "3C-allylescaline"
+      ],
+      "MW": "251.32 g/mol"
+    },
+    {
+      "Title": "3,4,5-Trimethoxymethamphetamine",
+      "Abr": [
+        "Methyl-TMA",
+        "N-methyl-TMA",
+        "TMMA"
+      ],
+      "MW": "239.31 g/mol"
+    },
+    {
+      "Title": "N-(2-Methoxybenzyl)-5-methoxytryptamine",
+      "Abr": [
+        "5-MeO-T-NBOMe"
+      ],
+      "MW": "310.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-benzylphenethylamine",
+      "Abr": [
+        "25B-NB"
+      ],
+      "MW": "350.2 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-benzylphenethylamine",
+      "Abr": [
+        "25C-NB"
+      ],
+      "MW": "305.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-benzylphenethylamine",
+      "Abr": [
+        "25I-NB"
+      ],
+      "MW": "397.25 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25B-NBF"
+      ],
+      "MW": "368.2 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25C-NBF"
+      ],
+      "MW": "323.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25I-NBF"
+      ],
+      "MW": "415.24 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25H-NBOH"
+      ],
+      "MW": "287.35 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25B-NBOH"
+      ],
+      "MW": "366.2 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methyl-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25D-NBOH"
+      ],
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NBOH"
+      ],
+      "MW": "321.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethyl-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25E-NBOH"
+      ],
+      "MW": "315.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propyl-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25P-NBOH"
+      ],
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NBOH"
+      ],
+      "MW": "413.25 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25H-NBOMe"
+      ],
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25B-NBOMe"
+      ],
+      "MW": "380.3 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NBOMe"
+      ],
+      "MW": "335.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NBOMe"
+      ],
+      "MW": "427.3 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-methyl-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25D-NBOMe"
+      ],
+      "MW": "315.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethyl-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25E-NBOMe"
+      ],
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethylthio-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25T2-NBOMe"
+      ],
+      "MW": "361.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-isopropylthio-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25T4-NBOMe"
+      ],
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propylthio-N-(2-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25T7-NBOMe"
+      ],
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NB3OMe"
+      ],
+      "MW": "335.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NB3OMe"
+      ],
+      "MW": "427.3 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-chloro-N-(4-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25C-NB4OMe"
+      ],
+      "MW": "335.8 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-iodo-N-(4-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25I-NB4OMe"
+      ],
+      "MW": "427.3 g/mol"
+    },
+    {
+      "Title": "Allylescaline",
+      "Abr": [
+        "AL"
+      ],
+      "MW": "237.29 g/mol"
+    },
+    {
+      "Title": "Benzscaline",
+      "Abr": [
+        "4-BzlO-3,5-DMPEA",
+        "BZ"
+      ],
+      "MW": "287.35 g/mol"
+    },
+    {
+      "Title": "Tomscaline",
+      "Abr": [
+        "TMPEA"
+      ]
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-ethoxyamphetamine",
+      "Abr": [
+        "MEM"
+      ],
+      "MW": "239.31 g/mol"
+    },
+    {
+      "Title": "Methyltyramine",
+      "Abr": [
+        "NMT"
+      ]
+    },
+    {
+      "Title": "N-Ethyltryptamine",
+      "Abr": [
+        "NET",
+        "NETP"
+      ],
+      "MW": "188.27 g/mol"
+    },
+    {
+      "Title": "Methylethyltryptamine",
+      "Abr": [
+        "MET"
+      ],
+      "MW": "202.30 g/mol"
+    },
+    {
+      "Title": "3-Methoxy-4-methylamphetamine",
+      "Abr": [
+        "MMA"
+      ],
+      "MW": "179.26 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-N-propargylamphetamine",
+      "Abr": [
+        "MDPL"
+      ],
+      "MW": "217.26 g/mol"
+    },
+    {
+      "Title": "N1-Tert-butoxycarbonyldimethyltryptamine",
+      "Abr": [
+        "NBoc-DMT",
+        "NB-DMT"
+      ],
+      "MW": "288.4 g/mol"
+    },
+    {
+      "Title": "Diethyltryptamine",
+      "Abr": [
+        "DET"
+      ],
+      "MW": "216.32 g/mol"
+    },
+    {
+      "Title": "Diisopropyltryptamine",
+      "Abr": [
+        "DiPT"
+      ],
+      "MW": "244.37 g/mol"
+    },
+    {
+      "Title": "Ethylpropyltryptamine",
+      "Abr": [
+        "EPT"
+      ],
+      "MW": "230.35 g/mol"
+    },
+    {
+      "Title": "Methylisopropyltryptamine",
+      "Abr": [
+        "MiPT"
+      ],
+      "MW": "216.32 g/mol"
+    },
+    {
+      "Title": "Dipropyltryptamine",
+      "Abr": [
+        "DPT"
+      ],
+      "MW": "244.37 g/mol"
+    },
+    {
+      "Title": "Psilocin",
+      "Abr": [
+        "4-HO-DMT"
+      ],
+      "MW": "204.27 g/mol"
+    },
+    {
+      "Title": "Ethocin",
+      "Abr": [
+        "4-HO-DET"
+      ],
+      "MW": "232.32 g/mol"
+    },
+    {
+      "Title": "Iprocin",
+      "Abr": [
+        "4-HO-DiPT"
+      ],
+      "MW": "260.37 g/mol"
+    },
+    {
+      "Title": "Deprocin",
+      "Abr": [
+        "4-HO-DPT"
+      ],
+      "MW": "260.37 g/mol"
+    },
+    {
+      "Title": "Metocin",
+      "Abr": [
+        "4-HO-MET"
+      ],
+      "MW": "218.29 g/mol"
+    },
+    {
+      "Title": "Miprocin",
+      "Abr": [
+        "4-HO-MiPT"
+      ],
+      "MW": "232.32 g/mol"
+    },
+    {
+      "Title": "Meprocin",
+      "Abr": [
+        "4-HO-MPT"
+      ],
+      "MW": "232.32 g/mol"
+    },
+    {
+      "Title": "Psilacetin",
+      "Abr": [
+        "4-AcO-DMT"
+      ],
+      "MW": "246.30 g/mol"
+    },
+    {
+      "Title": "Ethacetin",
+      "Abr": [
+        "4-AcO-DET"
+      ],
+      "MW": "274.36 g/mol"
+    },
+    {
+      "Title": "Ipracetin",
+      "Abr": [
+        "4-AcO-DiPT"
+      ],
+      "MW": "302.4 g/mol"
+    },
+    {
+      "Title": "Metacetin",
+      "Abr": [
+        "4-AcO-MET"
+      ],
+      "MW": "260.33 g/mol"
+    },
+    {
+      "Title": "Mipracetin",
+      "Abr": [
+        "4-AcO-MiPT"
+      ],
+      "MW": "274.36 g/mol"
+    },
+    {
+      "Title": "4-Propionoyloxy-N,N-dimethyltryptamine",
+      "Abr": [
+        "4-PrO-DMT"
+      ],
+      "MW": "260.33 g/mol"
+    },
+    {
+      "Title": "4-Propionyloxy-N-methyl-N-ethyltryptamine",
+      "Abr": [
+        "4-PrO-MET"
+      ],
+      "MW": "274.36 g/mol"
+    },
+    {
+      "Title": "5-Bromo-N,N-dimethyltryptamine",
+      "Abr": [
+        "5-Bromo-DMT"
+      ],
+      "MW": "267.16 g/mol"
+    },
+    {
+      "Title": "5-Chloro-N,N-dimethyltryptamine",
+      "Abr": [
+        "5-Chloro-DMT"
+      ],
+      "MW": "222.71 g/mol"
+    },
+    {
+      "Title": "5-Fluoro-N,N-dimethyltryptamine",
+      "Abr": [
+        "5-Fluoro-DMT"
+      ],
+      "MW": "206.26 g/mol"
+    },
+    {
+      "Title": "Mebufotenin",
+      "Abr": [
+        "5-MeO-DMT"
+      ],
+      "MW": "218.29 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N,N-diallyltryptamine",
+      "Abr": [
+        "5-MeO-DALT"
+      ],
+      "MW": "270.37 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N-methyl-N-allyltryptamine",
+      "Abr": [
+        "5-MeO-MALT"
+      ],
+      "MW": "244.33 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N,N-diisopropyltryptamine",
+      "Abr": [
+        "5-MeO-DiPT"
+      ],
+      "MW": "274.4 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N-methyl-N-isopropyltryptamine",
+      "Abr": [
+        "5-MeO-MiPT"
+      ],
+      "MW": "246.35 g/mol"
+    },
+    {
+      "Title": "5-Methoxy-N-ethyl-N-isopropyltryptamine",
+      "Abr": [
+        "5-MeO-EiPT"
+      ],
+      "MW": "260.37 g/mol"
+    },
+    {
+      "Title": "Psilocybin",
+      "Abr": [
+        "4-PO-DMT"
+      ],
+      "MW": "284.25 g/mol"
+    },
+    {
+      "Title": "Efavirenz",
+      "MW": "315.67 g/mol"
     }
   ]
 }

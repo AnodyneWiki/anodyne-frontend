@@ -129,7 +129,8 @@
                 "1ml syringe"
             ],
             "Sites": [
-                "Vastus lateralis"
+                "Vastus lateralis",
+                "Deltoid muscle"
             ]
         }
     ],
@@ -301,8 +302,12 @@
                 "Social interactions can feel difficult"
             ],
             "Sources": [
-                "Kinecteen tablets",
-                "Medikinet capsules"
+                "German pharmacy: Kinecteen 18mg tablets",
+                "German pharmacy: Kinecteen 27mg tablets",
+                "German pharmacy: Medikinet 5 mg tablets",
+                "German pharmacy: Medikinet retard 5mg capsules",
+                "German pharmacy: Medikinet retard 10mg capsules",
+                "German pharmacy: Medikinet retard 20mg capsules"
             ]
         },
         {
@@ -665,11 +670,12 @@
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "7.2mg"
+                    "Dosage": "4-7.2mg"
                 }
             ],
             "Sources":[
-                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"
+                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet",
+                "Tilidin AL comp. 50 mg/4 mg XR tablet"
             ]
         },
         {
@@ -743,7 +749,8 @@
                 "{sev 'light'} {xeff 'thought-deceleration'}"
             ],
             "Sources":[
-                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"
+                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet",
+                "Tilidin AL comp. 50 mg/4 mg XR tablet"
             ]
         },
         {
@@ -1413,7 +1420,11 @@
             "Salts": [
                 "sodium monohydrate"
             ],
-            "Indication": "{sev 'moderate'} pain",
+            "Indication": [
+                "{sev 'moderate'} pain",
+                "pain caused by selfharm",
+                "neck tension"
+            ],
             "Routes": [
                 {
                     "Name": "oral",
@@ -1465,8 +1476,38 @@
             "Indication": "antisepectic wound treatment",
             "Routes": [
                 {
-                "Name": "Dermal"
+                    "Name": "Dermal"
                 }
+            ]
+        },
+        {
+            "Name": "Nicoboxil",
+            "Indication": [
+                "Selfharm thoughs",
+                "neck tension"
+            ],
+            "Routes": [
+                {
+                    "Name": "Dermal"
+                }
+            ],
+            "Sources": [
+                "German pharmacy: Finalgon"
+            ]
+        },
+        {
+            "Name": "Nonivamide",
+            "Indication": [
+                "Selfharm thoughs",
+                "neck tension"
+            ],
+            "Routes": [
+                {
+                    "Name": "Dermal"
+                }
+            ],
+            "Sources": [
+                "German pharmacy: Finalgon"
             ]
         },
         {
@@ -1483,7 +1524,7 @@
             "Routes": [
                 {
                     "Name": "Oral",
-                    "Dosage": "75-150mg"
+                    "Dosage": "37.5-150mg"
                 }
             ],
             "DEffects": [
@@ -1537,6 +1578,36 @@
             ]
         },
         {
+            "Name": "Mirtazapine",
+            "Indication": "{xeff 'depression'}",
+            "Salts": [
+                "Freebase"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "15mg"
+                },
+                {
+                    "Name": "sublingual",
+                    "Dosage": "15mg"
+                }
+             ],
+            "Effects": [
+                "{sev 'strong'} {xeff 'sedation'}; passed out ~1h after ingestion and sleeped for 11h",
+                "{sev 'strong'} {xeff 'sleepiness'}",
+                "{sev 'moderate'} {xeff 'dream-potentiation'}; dreams feel more real, comfortable and occur more often",
+                "{sev 'moderate'} hangover in the morning",
+                "{sev 'light'}/{sev 'moderate'} {xeff 'depression-reduction'}; feeling more active"
+            ],
+            "Notes": [
+                "Taken as california rocket fuel, in combination with {sub 'venlafaxine'}"
+            ],
+            "Sources": [
+                "German pharmacy: Mirtazapin Aurobindo 15mg tablets"
+            ]
+        },
+        {
             "Name": "Benzocaine",
             "Indication": "{wkp 'Sore_throat'}",
             "Salts":[
@@ -1560,6 +1631,19 @@
             ],
             "Sources": [
                 "German Pharmacy: Dolo-Dobendan"
+            ]
+        },
+        {
+            "Name": "Esomeprazole",
+            "Indication": "prophylactic stomach protection after taking a multiple NSAIDs and {sub 'venlafaxine'}",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "40mg"
+                }
+            ],
+            "Sources": [
+                "Found on the ground in Milano, Italy: Lucen 40mg tablets"
             ]
         },
         {
@@ -1626,6 +1710,23 @@
             ]
         },
         {
+            "Name": "Bremelanotide",
+            "Indication": "Sexual disfunction after taking {sub 'venlafaxine'}",
+            "Routes": [
+                {
+                    "Name": "subcutaneous",
+                    "Dosage": "1.8mg"
+                }
+            ],
+            "Effects": [
+                "{wkp 'Erection'}s are easier to get and more intense",
+                "{sev 'light'} {xeff 'increased-libido'}"
+            ],
+            "Sources": [
+                "Powder from chinese vendor"
+            ]
+        },
+        {
             "Name": "Tadalafil",
             "Indication": "{sev 'light'} {wkp 'Erectile_dysfunction'}",
             "Routes": [
@@ -1667,7 +1768,7 @@
                 "{sev 'light'} {xeff 'pain-relief'}"
             ],
             "Sources": [
-                "German pharmacy"
+                "German pharmacy: generic tablets"
             ]
         },
         {
@@ -1687,6 +1788,21 @@
             ],
             "Sources": [
                 "Polish Pharmacy: Ketonal 50mg Capsules"
+            ]
+        },
+        {
+            "Name": "Diclofenac",
+            "Indication": "neck tension",
+            "Salts": [
+                "Sodium"
+            ],
+            "Routes": [
+                {
+                    "Name": "Dermal"
+                }
+            ],
+            "Sources": [
+                "German pharmacy: Diclo-ratiopharm Schmerzgel"
             ]
         },
         {
@@ -1938,7 +2054,8 @@
             ]
         },
         {
-            "Name": "Valerian root extract",
+            "Name": "Valerian",
+            "Composite": true,
             "Notes":[
                 "Unsure about the effects"
             ]

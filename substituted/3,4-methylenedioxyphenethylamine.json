@@ -3,7 +3,9 @@
   "Abr": "MDxx",
   "First": {
     "Title": "3,4-Methylenedioxyphenethylamine",
-    "Abr": "MDPEA",
+    "Abr": [
+      "MDPEA"
+    ],
     "MW": "165.19 g/mol"
   },
   "Entries": [
@@ -16,12 +18,16 @@
     },
     {
       "Title": "3,4-Methylenedioxycathinone",
-      "Abr": "MDC",
+      "Abr": [
+        "MDC"
+      ],
       "MW": "193.20 g/mol"
     },
     {
       "Title": "3,4-Methylenedioxyethamphetamine",
-      "Abr": "MDEA",
+      "Abr": [
+        "MDEA"
+      ],
       "MW": "207.27 g/mol"
     },
     {
@@ -47,7 +53,9 @@
     },
     {
       "Title": "5-Methylethylone",
-      "Abr": "5-Me-MDEC",
+      "Abr": [
+        "5-Me-MDEC"
+      ],
       "MW": "235.28 g/mol"
     },
     {
@@ -67,7 +75,9 @@
     },
     {
       "Title": "Ethylone",
-      "Abr": "MDEC",
+      "Abr": [
+        "EDEC"
+      ],
       "MW": "221.25 g/mol"
     },
     {
@@ -82,7 +92,9 @@
     },
     {
       "Title": "Methylone",
-      "Abr": "MDMC",
+      "Abr": [
+        "MDMC"
+      ],
       "MW": "207.23 g/mol"
     },
     {
@@ -120,7 +132,9 @@
     },
     {
       "Title": "Homarylamine",
-      "Abr": "MDMPEA",
+      "Abr": [
+        "MDMPEA"
+      ],
       "MW": "179.22 g/mol"
     },
     {
@@ -180,7 +194,9 @@
     },
     {
       "Title": "5-Methoxy-3,4-Methylenedioxyamphetamine",
-      "Abr": "5-MeO-MDA",
+      "Abr": [
+        "5-MeO-MDA"
+      ],
       "MW": "209.24 g/mol"
     },
     {
@@ -205,12 +221,16 @@
     },
     {
       "Title": "3,4-Isopropylidenedioxyamphetamine",
-      "Abr": "IDA",
+      "Abr": [
+        "IDA"
+      ],
       "MW": "207.27 g/mol"
     },
     {
       "Title": "3,4-Ethylidenedioxyamphetamine",
-      "Abr": "EIDA",
+      "Abr": [
+        "EIDA"
+      ],
       "MW": "193.24 g/mol"
     },
     {
@@ -232,7 +252,9 @@
     },
     {
       "Title": "3,4-Methylenedioxyphentermine",
-      "Abr": "MDPH",
+      "Abr": [
+        "MDPH"
+      ],
       "MW": "193.24 g/mol"
     },
     {
@@ -275,7 +297,7 @@
     {
       "Title": "Tadalafil",
       "Abr": null,
-      "MW": "389.4"
+      "MW": "389.4 g/mol"
     },
     {
       "Title": "Noscapine",
@@ -304,7 +326,7 @@
       "MW": "317.4 g/mol"
     },
     {
-      "Title": "3',4'-Methylenedioxy-α-Piperidinoheptaphenone",
+      "Title": "3',4'-Methylenedioxy-α-piperidinoheptaphenone",
       "Abr": [
         "MDPIPEP"
       ],
@@ -316,6 +338,48 @@
         "APA-01"
       ],
       "MW": "205.25 g/mol"
+    },
+    {
+      "Title": "6,7-Methylenedioxy-2-aminotetralin",
+      "Abr": [
+        "MDAT"
+      ],
+      "MW": "191.23 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-N-propargylamphetamine",
+      "Abr": [
+        "MDPL"
+      ],
+      "MW": "217.26 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-pyrrolidinopropiophenone",
+      "Abr": [
+        "MDPPP"
+      ],
+      "MW": "247.29 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-pyrrolidinobutiophenone",
+      "Abr": [
+        "MDPBP"
+      ],
+      "MW": "261.32 g/mol"
+    },
+    {
+      "Title": "3,4-Methylenedioxy-N-methyl-α-ethylphenylethylamine",
+      "Abr": [
+        "MBDB"
+      ],
+      "MW": "207.27 g/mol"
+    },
+    {
+      "Title": "Ethylbenzodioxolylbutanamine",
+      "Abr": [
+        "EBDB"
+      ],
+      "MW": "221.29 g/mol"
     }
   ],
   "Parent": "phenethylamine",

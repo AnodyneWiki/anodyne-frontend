@@ -72,7 +72,7 @@
     {
       "Title": "Dihydromorphine",
       "Abr": null,
-      "MW": "287.35"
+      "MW": "287.35 g/mol"
     },
     {
       "Title": "Oxymorphone",
@@ -85,6 +85,96 @@
         "PHM"
       ],
       "MW": "391.5 g/mol"
+    },
+    {
+      "Title": "Dextromethorphan",
+      "Abr": [
+        "DXM"
+      ],
+      "MW": "271.4 g/mol"
+    },
+    {
+      "Title": "Levomethorphan",
+      "Abr": [
+        "LVM"
+      ],
+      "MW": "271.4 g/mol"
+    },
+    {
+      "Title": "Ketazocine",
+      "MW": "285.4 g/mol"
+    },
+    {
+      "Title": "Ethylketazocine",
+      "MW": "299.4 g/mol"
+    },
+    {
+      "Title": "Levorphanol",
+      "MW": "257.37 g/mol"
+    },
+    {
+      "Title": "Cyclazocine",
+      "MW": "271.4 g/mol"
+    },
+    {
+      "Title": "Pentazocine",
+      "MW": "285.4 g/mol"
+    },
+    {
+      "Title": "Levallorphan",
+      "MW": "283.4 g/mol"
+    },
+    {
+      "Title": "Thebaine",
+      "MW": "311.4 g/mol"
+    },
+    {
+      "Title": "Noscapine",
+      "MW": "413.4 g/mol"
+    },
+    {
+      "Title": "Neopinone",
+      "MW": "297.3 g/mol"
+    },
+    {
+      "Title": "Norcodeine",
+      "MW": "285.34 g/mol"
+    },
+    {
+      "Title": "Dihydrocodeine",
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "Oxycodone",
+      "MW": "315.4 g/mol"
+    },
+    {
+      "Title": "Hydrocodone",
+      "MW": "299.4 g/mol"
+    },
+    {
+      "Title": "Hydromorphone",
+      "MW": "285.34 g/mol"
+    },
+    {
+      "Title": "Buprenorphine",
+      "MW": "467.6 g/mol"
+    },
+    {
+      "Title": "Naltrexone",
+      "MW": "341.4 g/mol"
+    },
+    {
+      "Title": "Naloxone",
+      "MW": "327.4 g/mol"
+    },
+    {
+      "Title": "Naloxol",
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "Nalbuphine",
+      "MW": "357.4 g/mol"
     }
   ],
   "Children": [

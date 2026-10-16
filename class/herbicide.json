@@ -1,0 +1,13 @@
+{
+  "Name": "herbicide",
+  "Entries": [
+    {
+      "Title": "2,4-Dichlorophenoxyacetic acid",
+      "Abr": "2,4-D"
+    },
+    {
+      "Title": "2,4,5-Trichlorophenoxyacetic acid",
+      "Abr": "2,4,5-T"
+    }
+  ]
+}

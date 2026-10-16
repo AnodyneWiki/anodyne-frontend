@@ -3,25 +3,35 @@
   "Entries": [
     {
       "Title": "β-Methyl-N-methyltryptamine",
-      "Abr": "βM-NMT",
+      "Abr": [
+        "βM-NMT"
+      ],
       "MW": "188.27 g/mol"
     },
     {
       "Title": "β-Ethyltryptamine",
-      "Abr": "βET",
+      "Abr": [
+        "βET"
+      ],
       "MW": "188.27 g/mol"
     },
     {
       "Title": "β-Methyl-N,N-dimethyltryptamine",
-      "Abr": "βM-DMT",
+      "Abr": [
+        "βM-DMT"
+      ],
       "MW": "202.30 g/mol"
     }
   ],
   "Parent": "tryptamine",
-  "Children": [],
+  "Children": [
+
+  ],
   "First": {
     "Title": "β-Methyltryptamine",
-    "Abr": "βMT",
+    "Abr": [
+      "βMT"
+    ],
     "MW": "174.24 g/mol"
   }
 }

@@ -29,7 +29,9 @@
     },
     {
       "Title": "Dieticyclidine",
-      "Abr": "PCDE",
+      "Abr": [
+        "PCDE"
+      ],
       "MW": "231.38 g/mol"
     },
     {
@@ -54,7 +56,9 @@
     },
     {
       "Title": "Fluorexetamine",
-      "Abr": "FXE",
+      "Abr": [
+        "FXE"
+      ],
       "MW": "235.30 g/mol"
     },
     {
@@ -95,7 +99,9 @@
     },
     {
       "Title": "Norketamine",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "223.70 g/mol"
     },
     {

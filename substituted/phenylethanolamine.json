@@ -178,12 +178,16 @@
     },
     {
       "Title": "Epinephrine",
-      "Abr": "Adrenaline",
+      "Abr": [
+        "Adrenaline"
+      ],
       "MW": "183.20 g/mol"
     },
     {
       "Title": "Norepinephrine",
-      "Abr": "NE",
+      "Abr": [
+        "NE"
+      ],
       "MW": "169.18 g/mol"
     },
     {
@@ -213,7 +217,9 @@
     },
     {
       "Title": "Octopamine",
-      "Abr": "OCT",
+      "Abr": [
+        "OCT"
+      ],
       "MW": "153.18 g/mol"
     },
     {
@@ -238,13 +244,64 @@
     },
     {
       "Title": "Synephrine",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "167.20 g/mol"
     },
     {
       "Title": "Doxylamine",
       "Abr": null,
       "MW": "270.37 g/mol"
+    },
+    {
+      "Title": "3-(1-adamantyl)-1-(aminomethyl)-3,4-dihydro-1H-isochromene-5,6-diol",
+      "Abr": [
+        "A-77636"
+      ],
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "Aminorex",
+      "Abr": [
+        "AR"
+      ],
+      "MW": "162.19 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxyaminorex",
+      "Abr": [
+        "MDAR"
+      ],
+      "MW": "206.20 g/mol"
+    },
+    {
+      "Title": "Fluminorex",
+      "MW": "230.19 g/mol"
+    },
+    {
+      "Title": "Clominorex",
+      "MW": "196.63 g/mol"
+    },
+    {
+      "Title": "Pemoline",
+      "MW": "176.17 g/mol"
+    },
+    {
+      "Title": "Thozalinone",
+      "MW": "204.22 g/mol"
+    },
+    {
+      "Title": "Fenozolone",
+      "MW": "204.22 g/mol"
+    },
+    {
+      "Title": "Cyclazodone",
+      "MW": "216.24 g/mol"
+    },
+    {
+      "Title": "N-Methylcyclazodone",
+      "MW": "230.26 g/mol"
     }
   ],
   "First": {

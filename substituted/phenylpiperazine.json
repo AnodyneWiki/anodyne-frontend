@@ -3,17 +3,24 @@
   "Entries": [
     {
       "Title": "Phenylpiperazine",
-      "Abr": "PP",
+      "Abr": [
+        "PP",
+        "PP-1"
+      ],
       "MW": "162.23 g/mol"
     },
     {
       "Title": "4-Methylphenylpiperazine",
-      "Abr": "4-MPP",
+      "Abr": [
+        "4-MPP"
+      ],
       "MW": "176.26 g/mol"
     },
     {
       "Title": "4-Chlorophenylpiperazine",
-      "Abr": "4-CPP",
+      "Abr": [
+        "4-CPP"
+      ],
       "MW": "196.67 g/mol"
     },
     {
@@ -25,27 +32,37 @@
     },
     {
       "Title": "4-Fluorophenylpiperazine",
-      "Abr": "4-FPP",
+      "Abr": [
+        "4-FPP"
+      ],
       "MW": "180.22 g/mol"
     },
     {
       "Title": "2-Methylphenylpiperazine",
-      "Abr": "oMPP",
+      "Abr": [
+        "oMPP"
+      ],
       "MW": "176.26 g/mol"
     },
     {
       "Title": "4-Methoxyphenylpiperazine",
-      "Abr": "pMeOPP",
+      "Abr": [
+        "pMeOPP"
+      ],
       "MW": "192.26 g/mol"
     },
     {
       "Title": "4-Nitrophenylpiperazine",
-      "Abr": "pNPP",
+      "Abr": [
+        "pNPP"
+      ],
       "MW": "207.23 g/mol"
     },
     {
       "Title": "2,3-Dimethylphenylpiperazine",
-      "Abr": "2,3-DMPP",
+      "Abr": [
+        "2,3-DMPP"
+      ],
       "MW": "190.28 g/mol"
     },
     {
@@ -61,6 +78,13 @@
         "AF-1161"
       ],
       "MW": "371.9 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromophenylpiperazine",
+      "Abr": [
+        "2C-B-PP"
+      ],
+      "MW": "301.18 g/mol"
     }
   ],
   "Parents": [

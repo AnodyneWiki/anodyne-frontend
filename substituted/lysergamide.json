@@ -47,7 +47,9 @@
     },
     {
       "Title": "2-Bromolysergic acid diethylamide",
-      "Abr": "2-Br-LSD",
+      "Abr": [
+        "2-Br-LSD"
+      ],
       "MW": "402.3 g/mol"
     },
     {

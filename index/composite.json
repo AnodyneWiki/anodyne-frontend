@@ -10,7 +10,7 @@
 		{ "Name": "Speciogynine" },
 		{ "Name": "Mitraphylline" },
 		{ "Name": "Rhynchophylline" },
-		{ "Name": "Mitralactonal" },
+		{ "Name": "(-)-Mitralactonal" },
 		{ "Name": "Ajmalicine" },
 		{ "Name": "Mitragynaline" }
 	]
@@ -45,6 +45,18 @@
 		{ "Name": "Psilocybin" },
 		{ "Name": "Psilocin" }
 	]
+	},
+	{
+		"Title": "Valerian", "Abr": [ "Valerian root extract" ], "Wkp": "Valerian_(herb)", "Substances": [
+			{ "Name": "(7S)-6,7-Dihydro-4,7-dimethyl-5H-cyclopenta(c)pyridine" },
+			{ "Name": "Pentanoic-Acid" },
+			{ "Name": "Gamma-Aminobutyric-Acid" },
+			{ "Name": "Isovaleric-Acid" },
+			{ "Name": "(-)-Valerenic acid" },
+			{ "Name": "Isovaleramide" },
+			{ "Name": "Bornyl acetate" }
+		]
+
 	},
 	{ "Title": "Borax combo", "Abr": [ "Blue Bliss", "Pink Star" ], "Wkp": "Borax combo", "Substances": [
 		{ "Name": "5-(N-methyl-2-aminopropyl)benzofuran" },
