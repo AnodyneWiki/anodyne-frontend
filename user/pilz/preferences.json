@@ -130,7 +130,8 @@
             ],
             "Sites": [
                 "Vastus lateralis",
-                "Deltoid muscle"
+                "Deltoid muscle",
+                "Dorsogluteal"
             ]
         }
     ],
@@ -204,6 +205,9 @@
                 "Very good substance to have sex on",
                 "The most addictive substance i consumed",
                 "152/89 Blood pressure, 108bpm and 37.1°C (temp messured on the forehead by a google pixel) after ~50-70mg insufflated"
+            ],
+            "Sources": [
+                "DNM Germany"
             ]
         },
         {
@@ -236,7 +240,7 @@
                 "Moderatly useful against {wkp 'Major_depressive_episode'}s, would not recommend if you want to take stimulants"
             ],
             "Sources": [
-                "Bupropion Neuraxpharm 150mg/300mg XR tablets"
+                "German pharmacy: Bupropion Neuraxpharm 150mg/300mg XR tablets"
             ]
         },
         {
@@ -307,7 +311,8 @@
                 "German pharmacy: Medikinet 5 mg tablets",
                 "German pharmacy: Medikinet retard 5mg capsules",
                 "German pharmacy: Medikinet retard 10mg capsules",
-                "German pharmacy: Medikinet retard 20mg capsules"
+                "German pharmacy: Medikinet retard 20mg capsules",
+                "German Pharmacy: Ritalin Adult 40mg capsules"
             ]
         },
         {
@@ -371,6 +376,21 @@
             ]
         },
         {
+            "Name": "Methamphetamine",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "15mg"
+                }
+            ],
+            "Sources": [
+                "DNM Germany"
+            ]
+        },
+        {
             "Name": "Lisdexamphetamine",
             "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
             "Salts": [
@@ -392,8 +412,11 @@
                 "Best ADHD-Medication ive tried"
             ],
             "Sources": [
-                "Elvanse capusles",
-                "Lisdexamphetamin-ratiopharm capsules"
+                "Elvanse 30mg capusles",
+                "Elvanse 40mg capusles",
+                "Elvanse 50mg capusles",
+                "Elvanse 60mg capusles",
+                "Lisdexamphetamin-ratiopharm 40mg capsules"
             ]
         },
         {
@@ -450,6 +473,9 @@
             ],
             "Notes":[
                 "Burns even more than {sub '2,5-Dimethoxy-4-bromophenethylamine'} when consumed via insufflated"
+            ],
+            "Sources": [
+                "NL RC Vendor: MEAI"
             ]
         },
         {
@@ -490,10 +516,15 @@
             "Routes": [
                 {
                     "Name": "smoked"
-                },
-                {
-                    "Name": "buccal"
                 }
+            ],
+            "Sources": [
+                "German Malboro gold",
+                "Turkish Parliment blue",
+                "Polish Kent Slim blue",
+                "Hungerian Sopianae",
+                "chinese Malboro red",
+                "Japanese Black devil arctic menthol"
             ]
         },
         {
@@ -525,7 +556,7 @@
                 "Most fun in the form of cigarettes",
                 "Very easy to overdose"
             ],
-            "Source": [
+            "Sources": [
                 "Siberia Snus",
                 "Vape",
                 "cigarette"
@@ -536,9 +567,6 @@
             "Routes": [
                 {
                     "Name": "Inhaled"
-                },
-                {
-                    "Name": "Vaporized"
                 },
                 {
                     "Name": "Smoked"
@@ -563,7 +591,7 @@
             ],
             "Effects": [
                 "{sev 'moderate'} {xeff 'stimulation'}",
-                "{sev 'strong'} {xeff 'wakefulness'}",
+                "{sev 'moderate'} {xeff 'wakefulness'}",
                 "{sev 'moderate'} {xeff 'motivation-enhancement'}",
                 "{sev 'light'} {xeff 'increased-libido'}",
                 "{xeff 'mouth-numbing'}"
@@ -573,7 +601,11 @@
             ],
             "Notes":[
                 "comedown is a bit annoying",
-                "not worth the high cost in europe"
+                "not worth the high cost in europe",
+                "supriseingly simmilar to {sub 'methylphenidate'}"
+            ],
+            "Sources": [
+                "DNM: Cocaine"
             ]
         },
         {
@@ -635,7 +667,7 @@
         {
             "Name": "Acetylcysteine",
             "Indication": [
-                "antioxidant while using {sub 'mephedrone'}"
+                "antioxidant while/after using {sub 'mephedrone'}"
             ],
             "Routes": [
                 {
@@ -730,13 +762,14 @@
         },
         {
             "Name": "Tilidine",
+            "Indication": "Shoulder pain",
             "Salts": [
                 "hydrochloride"
             ],
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "90mg"
+                    "Dosage": "50-100mg"
                 }
             ],
             "Effects": [
@@ -778,7 +811,7 @@
                 "Good substance for late night computer work"
             ],
             "Sources": [
-                "clearnet shop"
+                "clearnet shop: kratom red strain"
             ]
         },
         {
@@ -833,6 +866,9 @@
             "Notes":[
                 "passed out at around 2/3ml",
                 "Good for having sex; probably not useful for anything else"
+            ],
+            "Sources": [
+                "clearnet shop: Multiremover"
             ]
         },
         {
@@ -1128,8 +1164,6 @@
                     "Dosage": "100mg"
                 }
             ],
-            "Effects": [
-            ],
             "Notes": [
                 "Might be useful as an {wkp 'Antiandrogen'}"
             ],
@@ -1155,7 +1189,7 @@
             "Routes": [
                 {
                     "Name": "intramuscular",
-                    "Dosage": "5-10mg"
+                    "Dosage": "5-14mg"
                 },
                 {
                     "Name": "subcutaneous",
@@ -1346,7 +1380,7 @@
             "Adverse": [
                 "{sev 'light'} {xeff 'thought-deceleration'}"
             ],
-            "Source": [
+            "Sources": [
                 "Turkish pharmacy: Atarax 25mg tablets"
             ],
             "Notes": [
@@ -1373,7 +1407,10 @@
                 "{sev 'light'} hangover",
                 "{sev 'light'} {xeff 'motivation-suppression'}"
             ],
-            "Source": [
+            "Notes": [
+                "good non addictive alternative to benzodiazepines"
+            ],
+            "Sources": [
                 "Promethazin-neuraxpharm 25mg tablet"
             ]
         },
@@ -1411,7 +1448,6 @@
                 "feeling fried and unable to do anything for 18 hours"
             ],
             "Notes": [
-                "Helpful as a tripkiller",
                 "Very effective as a sleep aid"
             ],
             "Sources": [
@@ -1469,7 +1505,7 @@
             "Effects": [
                 "Wounds heal faster when applied 2-3 times per day"
             ],
-            "Source": [
+            "Sources": [
                 "German pharmacy: Bepanthen",
                 "German pharmacy: Panthenol-ratiopharm"
             ]
@@ -1493,6 +1529,9 @@
                 {
                     "Name": "Dermal"
                 }
+            ],
+            "Notes": [
+                "very effective for back pain"
             ],
             "Sources": [
                 "German pharmacy: Finalgon"
@@ -1530,6 +1569,13 @@
                     "Dosage": "37.5-150mg"
                 }
             ],
+            "Effects": [
+                "{sev 'moderate'} to {sev 'strong'} {xeff 'anxiety-suppression'}; also seems to help with rejection sensitive dysphoria",
+                "{sev 'moderate'} {xeff 'depression-reduction'}; feeling way more active and less doomed",
+                "{sev 'light'} aggressive/unhinged behavior",
+                "self harm and {sev 'light'} {xeff 'suicidal-ideation'}",
+                "{sev 'light'} {xeff 'emotion-suppression'}; it feels like i can't feel as much emotions"
+            ],
             "DEffects": [
                 {
                     "Condition": "Effects in the first few days",
@@ -1557,19 +1603,6 @@
                         "{wkp 'Hyperhidrosis'}; started on day 4",
                         "very {sev 'light'} open/closed eye hallucinations; {sev 'moderate'} when {sub 'zolpidem'} (2.5mg) is taken"
                     ]
-                },
-                {
-                    "Condition": "Effects after 7 Days",
-                    "Effects": [
-                        "{sev 'moderate'} to {sev 'strong'} {xeff 'anxiety-suppression'}; also seems to help with rejection sensitive dysphoria",
-                        "{sev 'moderate'} {xeff 'depression-reduction'}; feeling way more active and less doomed",
-                        "{sev 'light'} sleep issues",
-                        "{sev 'light'} aggressive/unhinged behavior",
-                        "self harm and {xeff 'suicidal-ideation'}",
-                        "sometimes {sev 'light'} to {sev 'moderate'} {xeff 'nausea'} attacks; especially after eating too much food",
-                        "{xeff 'appetite-enhancement'} or Loss of appetite",
-                        "{sev 'light'} {xeff 'emotion-suppression'}; it feels like i can't feel as much emotions"
-                    ]
                 }
             ],
             "Notes": [
@@ -1582,7 +1615,10 @@
         },
         {
             "Name": "Sertraline",
-            "Indication": "{wkp 'Major_depressive_episode'}",
+            "Indication": [ 
+                "{wkp 'Major_depressive_episode'}",
+                "{wkp 'Anxiety_disorder'}"
+            ],
             "Salts": [
                 "hydrochloride"
             ],
@@ -1591,6 +1627,14 @@
                     "Name": "oral",
                     "Dosage": "25-300mg"
                 }
+            ],
+            "Effects": [
+                "{sev 'moderate'} {xeff 'motivation-enhancement'}, {sev 'moderate'} {xeff 'depression-reduction'}; feeling more active",
+                "{sev 'light'} {xeff 'anxiety-suppression'}"
+            ],
+            "Adverse": [
+                "{xeff 'derealization'}; feeling disconnected from everything",
+                "waking up during the night"
             ],
             "DEffects": [
               {
@@ -1615,7 +1659,10 @@
         },
         {
             "Name": "Mirtazapine",
-            "Indication": "{wkp 'Major_depressive_episode'}",
+            "Indication": [ 
+                "{wkp 'Major_depressive_episode'}",
+                "{wkp 'Anxiety_disorder'}"
+            ],
             "Salts": [
                 "Freebase"
             ],
@@ -1633,8 +1680,12 @@
                 "{sev 'strong'} {xeff 'sedation'}; passed out ~1h after ingestion and sleeped for 11h",
                 "{sev 'strong'} {xeff 'sleepiness'}",
                 "{sev 'moderate'} {xeff 'dream-potentiation'}; dreams feel more real, comfortable and occur more often",
-                "{sev 'moderate'} hangover in the morning",
                 "{sev 'light'}/{sev 'moderate'} {xeff 'depression-reduction'}; feeling more active"
+            ],
+            "Adverse": [
+                "too much sedation",
+                "{sev 'moderate'} hangover in the morning",
+                "{sev 'strong'} {xeff 'appetite-enhancement'}"
             ],
             "Notes": [
                 "Taken as california rocket fuel, in combination with {sub 'venlafaxine'}",
@@ -1908,7 +1959,7 @@
             "Notes":[
                 "After upping my dose to 50mg one of my lymph nodes got swollen; went away after a few days"
             ],
-            "Source": [
+            "Sources": [
                 "Powder from chinese vendor"
             ]  
         },
@@ -2001,8 +2052,7 @@
             "Name": "Nitrous oxide",
             "Routes": [
                 {
-                    "Name": "inhaled",
-                    "Dosage": "10000-30000mg"
+                    "Name": "inhaled"
                 }
             ],
             "Effects": [
@@ -2016,7 +2066,8 @@
                 "{xeff 'thought-deceleration'} after use"
             ],
             "Sources": [
-                "Corner shop (Frankfurt Bahnhofviertel): Exotic Whip"
+                "Corner shop (Frankfurt Bahnhofviertel): Exotic Whip",
+                "Ja! Sprühsahne"
             ]
         },
         {
@@ -2093,7 +2144,7 @@
         {
             "Name": "Valerian",
             "Composite": true,
-            "Notes":[
+            "Notes": [
                 "Unsure about the effects"
             ]
         },
@@ -2118,7 +2169,7 @@
                     "Dosage": "1g"
                 }
             ],
-            "Sources":[
+            "Sources": [
                 "Bulk.com (supplement store)"
             ]
         },
@@ -2131,7 +2182,7 @@
                     "Dosage": "100mg"
                 }
             ],
-            "Notes":[
+            "Notes": [
                 "Might improve wellbeing after {sub 'Mephedrone'} consumption"
             ]
         },
@@ -2242,6 +2293,9 @@
                 "{sev 'light'} {xeff 'increased-libido'}",
                 "{xeff 'increased-sense-of-humor'}",
                 "{sev 'light'} {xeff 'appetite-suppression'}"
+            ],
+            "Sources": [
+                "NL RC Vendor: 5-Meo-DIPT"
             ]
         },
         {
@@ -2263,6 +2317,9 @@
             ],
             "Notes": [
                 "Feels like 2CB but with more bodyload and longer duration"
+            ],
+            "Sources": [
+                "NL RC Vendor: 4-PrO-MET"
             ]
         },
         {
@@ -2363,7 +2420,8 @@
                 "My favorite psychedelic"
             ],
             "Sources": [
-                "2-CB: DNM Germany"
+                "DNM Germany: 2-CB powder",
+                "DNM Germany: 2-CB 20mg rocket tablets"
             ]
         }
     ]
