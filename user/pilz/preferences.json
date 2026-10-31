@@ -387,7 +387,7 @@
                 }
             ],
             "Sources": [
-                "DNM Germany"
+                "DNM Germany: Mexican crystal meth"
             ]
         },
         {
@@ -624,7 +624,11 @@
             ],
             "Adverse": [
                 "{sev 'light'} {xeff 'anxiety'} when consumed in high doses"
-            ]
+            ],
+            "Sources": [
+                "starbucks i guess??",
+                "Coffee machine"
+             ]
         },
         {
             "Name": "Tyrosine",
@@ -646,6 +650,18 @@
             ],
             "Sources": [
                 "German Amazon"
+            ]
+        },
+        {
+            "Name": "Choline-Alfoscerate",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "300-600mg"
+                }
+            ],
+            "Sources": [
+                "Alpha GPC supplement"
             ]
         },
         {
@@ -1118,6 +1134,9 @@
             "Effects":[
                 "Stops 2-CB trips",
                 "No major side-effects"
+            ],
+            "Sources": [
+                "Powder from chinese vendor"
             ]
         },
         {
@@ -1198,6 +1217,9 @@
                 {
                     "Name": "insufflated"
                 }
+            ],
+            "Sources": [
+                "Powder from chinese vendor"
             ]
         },
         {
@@ -1249,6 +1271,9 @@
                 {
                     "Name": "oral",
                     "Dosage": "100-450mg"
+                },
+                {
+                    "Name": "transdermal"
                 }
             ],
             "Effects": [
@@ -1269,6 +1294,7 @@
             ],
             "Sources": [
                 "German pharmacy: Progestan 100 mg soft capsules",
+                "Progestogel",
                 "self made suppositories from powder from china"
             ]
         },
@@ -1765,7 +1791,7 @@
                } 
             ],
             "Sources": [
-                "NasenSpray-ratiopharm Erwachsene"
+                "German Pharmacy: NasenSpray-ratiopharm Erwachsene"
             ]
         },
         {
@@ -1795,6 +1821,9 @@
             ],
             "Effects": [
                 "{wkp 'Erection'}s are easier to get and more intense"
+            ],
+            "Sources": [
+                "Powder from chinese vendor"
             ]
         },
         {
@@ -1976,6 +2005,9 @@
             ],
             "Notes":[
                 "No effects noted other than my head feeling a bit more quiet (could be placebo)"
+            ],
+            "Sources": [
+                "Powder from chinese vendor"
             ]
         },
         {
@@ -2109,7 +2141,7 @@
               {
                 "Name": "sublingual",
                 "Dosage": "50μg"
-              }  
+              }
             ]
         },
         {
@@ -2117,8 +2149,11 @@
             "Routes": [
                 {
                     "Name": "sublingual",
-                    "Dosage": "10-20μg"
+                    "Dosage": "10-75μg"
                 }
+            ],
+            "Sources": [
+                "Legel high store in Berlin, Germany"
             ]
         },
         {
@@ -2159,6 +2194,10 @@
                 {
                     "Name": "oral"
                 }
+            ],
+            "Sources": [
+                "Grocery store",
+                "supplement shop (buxtrade)"
             ]
         },
         {
