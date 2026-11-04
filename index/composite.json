@@ -58,6 +58,11 @@
 		]
 
 	},
+	{ "Title": "Panax ginseng", "Abr": [ "Ginseng", "Korean ginseng" ], "Wkp": "Panax ginseng", "Substances": [
+		{ "Name": "Ginsenoside Rb1" },
+		{ "Name": "Ginsenoside Rg1" }
+	]
+	},
 	{ "Title": "Borax combo", "Abr": [ "Blue Bliss", "Pink Star" ], "Wkp": "Borax combo", "Substances": [
 		{ "Name": "5-(N-methyl-2-aminopropyl)benzofuran" },
 		{ "Name": "5,6-methylenedioxy-2-aminoindane" },

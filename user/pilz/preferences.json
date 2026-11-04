@@ -507,7 +507,8 @@
                 "Energy drink",
                 "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets",
                 "Bulk.com 200mg caffeine tablets",
-                "Slovakian pharmacy: Caffetin tablets"
+                "Slovakian pharmacy: Caffetin tablets",
+                "Bulk Preworkout Dope max (200mg)"
             ]
         },
         {
@@ -649,7 +650,129 @@
                 "Not worth it to binge it"
             ],
             "Sources": [
+                "German Amazon",
+                "Bulk Preworkout Dope max"
+            ]
+        },
+        {
+            "Name": "Pyridoxine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "1mg"
+                }
+            ],
+            "Sources": [
+                "Bulk Preworkout Dope max"
+            ]
+        },
+        {
+            "Name": "Levacecarnine",
+            "Salts": [
+                "Hydrochloride"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "300mg"
+                }
+            ],
+            "Sources": [
+                "Bulk Preworkout Dope max"
+            ]
+        },
+        {
+            "Name": "Theanine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "400mg"
+                }
+            ],
+            "Sources": [
                 "German Amazon"
+            ]
+        },
+        {
+            "Name": "Arginine oxoglurate",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "5g"
+                }
+            ],
+            "Sources": [
+                "Bulk Preworkout Dope max"
+            ]
+        },
+        {
+            "Name": "Beta-Alanine",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "5g"
+                }
+            ],
+            "Sources": [
+                "Bulk Preworkout Dope max"
+            ]
+        },
+        {
+            "Name": "Citrulline",
+            "Salts": [
+                "Malate",
+                "Freebase"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "5g (3g malate + 2g freebase)"
+                }
+            ],
+            "Sources": [
+                "Bulk Preworkout Dope max"
+            ]
+        },
+        {
+            "Name": "Creatine",
+            "Salts": [
+                "Monohydrate"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "3.4g"
+                }
+            ],
+            "Sources": [
+                "Bulk Preworkout Dope max"
+            ]
+        },
+        {
+            "Name": "Sodium chloride",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "500mg"
+                }
+            ],
+            "Sources": [
+                "Bulk Preworkout Dope max"
+            ],
+            "Notes": [
+                "pink Himalayan salt"
+            ]
+        },
+        {
+            "Name": "Panax ginseng",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "100mg (extract)"
+                }
+            ],
+            "Sources": [
+                "Bulk Preworkout Dope max"
             ]
         },
         {
@@ -2205,11 +2328,12 @@
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "1g"
+                    "Dosage": "500mg-1g"
                 }
             ],
             "Sources": [
-                "Bulk.com (supplement store)"
+                "Bulk.com (supplement store)",
+                "Bulk Preworkout Dope max"
             ]
         },
         {
