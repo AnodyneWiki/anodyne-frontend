@@ -23,18 +23,18 @@
             "declarative configuration of computers"
         ],
         "Attributes": [
-          "{wkp 'asperger syndrome'} (diagnosed F84.5G); diagnosed as a child",
-          "{wkp 'transsexual'} (diagnosed F64.0G); on HRT since 04/2023",
-          "{wkp 'attention deficit hyperactivity disorder'} (diagnosed F90.0F); self medicating since 09/2025",
-          "{wkp 'Mixed anxiety–depressive disorder'} (diagnosed F41.2F)",
-          "{wkp 'Social_rejection#Rejection_sensitivity'} (self diagnosed)",
-          "{wkp 'Major_depressive_episode'}, probably F33.1 (since 04/2026); before that F33.0 (since 2022/2023) (self diagnosed), self medicated with {sub 'ketamine'} and {sub 'venlafaxine'}",
-          "Various sleeping issues/{wkp 'insomnia'} (self diagnosed); self medicated with {sub 'melatonin'}, {sub 'Magnesium'} bisglycinate, {sub 'Tryptophan'} and other sleep aids",
-          "reaccuring {xeff 'suicidal-ideation'}; since ~2024",
-          "{wkp 'Self-harm'} (cutting/hitting); since 10/2025; ",
-          "Arachnoid cyst, no symptoms (G93.0, diagnosed in 2019)",
-          "{wkp 'Nocturnal_enuresis'} (F98.0); stopped when got 14",
-          "GI tract issues"
+            "{wkp 'asperger syndrome'} (diagnosed F84.5G); diagnosed as a child",
+            "{wkp 'transsexual'} (diagnosed F64.0G); on HRT since 04/2023",
+            "{wkp 'attention deficit hyperactivity disorder'} (diagnosed F90.0F); self medicating since 09/2025",
+            "{wkp 'Mixed anxiety–depressive disorder'} (diagnosed F41.2F)",
+            "{wkp 'Social_rejection#Rejection_sensitivity'} (self diagnosed)",
+            "{wkp 'Major_depressive_episode'}, probably F33.1 (since 04/2026); before that F33.0 (since 2022/2023) (self diagnosed), self medicated with {sub 'ketamine'} and {sub 'venlafaxine'}",
+            "Various sleeping issues/{wkp 'insomnia'} (self diagnosed); self medicated with {sub 'melatonin'}, {sub 'Magnesium'} bisglycinate, {sub 'Tryptophan'} and other sleep aids",
+            "reaccuring {xeff 'suicidal-ideation'}; since ~2024",
+            "{wkp 'Self-harm'} (cutting/hitting); since 10/2025; ",
+            "Arachnoid cyst, no symptoms (G93.0, diagnosed in 2019)",
+            "{wkp 'Nocturnal_enuresis'} (F98.0); stopped when got 14",
+            "GI tract issues"
         ]
     },
     "RoutesOfAdministration": [
@@ -62,6 +62,7 @@
                 "Powder",
                 "Crushed tablet",
                 "Brownie",
+                "Gummie",
                 "Drink"
             ],
             "Sites": [
@@ -2174,6 +2175,21 @@
             ]
         },
         {
+            "Name": "Buspirone",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "10mg"
+                }
+            ],
+            "Sources": [
+                "Hexal Busp® 10mg tablets"
+            ]
+        },
+        {
             "Name": "Ketamine",
             "Indication": "{xeff 'depression'}",
             "Salts": [
@@ -2399,6 +2415,7 @@
             ],
             "Sources": [
                 "German Amazon: Melatonin 0.5mg",
+                "ZzzQuil gummies",
                 "S3 Chemicals: Melatonin (min. 99%, Food Grade)",
                 "Polish pharmacy: Melatonin 5mg",
                 "Italian pharmacy",
@@ -2542,6 +2559,18 @@
             "Notes": [
                 "Very interesting closed eye visuals",
                 "Barely any {xeff 'anxiety'} red to other psychedelics"
+            ]
+        },
+        {
+            "Name": "2C-B-FLY",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "5-15mg"
+                }
+            ],
+            "Sources":[
+                "NL RC Vendor: 2C-B-FLY 10 MG Pellets"
             ]
         },
         {
