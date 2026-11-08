@@ -31,6 +31,18 @@
     {
       "Title": "Escitalopram",
       "MW": "324.4 g/mol"
+    },
+    {
+      "Title": "Norfluoxetine",
+      "MW": "295.30 g/mol"
+    },
+    {
+      "Title": "Duloxetine",
+      "MW": "297.4 g/mol"
+    },
+    {
+      "Title": "Clomipramine",
+      "MW": "314.9 g/mol"
     }
   ]
 }

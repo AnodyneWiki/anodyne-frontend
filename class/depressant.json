@@ -228,6 +228,20 @@
     {
       "Title": "Chlorobutanol",
       "MW": "177.45 g/mol"
+    },
+    {
+      "Title": "γ-Hydroxybutyric acid",
+      "Abr": [
+        "GHB"
+      ],
+      "MW": "104.10 g/mol"
+    },
+    {
+      "Title": "γ-Butyrolactone",
+      "Abr": [
+        "GBL"
+      ],
+      "MW": "86.09 g/mol"
     }
   ]
 }

@@ -16,6 +16,10 @@
     {
       "Title": "Ascorbic acid",
       "Abr": "vitamin C"
+    },
+    {
+      "Title": "Pyridoxine",
+      "MW": "169.18 g/mol"
     }
   ]
 }

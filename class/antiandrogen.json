@@ -4,6 +4,13 @@
     {
       "Title": "Spironolactone",
       "MW": "416.6 g/mol"
+    },
+    {
+      "Title": "Progesterone",
+      "Abr": [
+        "P4"
+      ],
+      "MW": "314.5 g/mol"
     }
   ]
 }

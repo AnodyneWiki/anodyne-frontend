@@ -35,6 +35,10 @@
     {
       "Title": "Paroxetine",
       "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "Escitalopram",
+      "MW": "324.4 g/mol"
     }
   ]
 }

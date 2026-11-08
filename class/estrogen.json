@@ -149,6 +149,20 @@
         "E2S"
       ],
       "MW": "370.5 g/mol"
+    },
+    {
+      "Title": "Estrone",
+      "Abr": [
+        "E1"
+      ],
+      "MW": "270.4 g/mol"
+    },
+    {
+      "Title": "Estradiol",
+      "Abr": [
+        "E2"
+      ],
+      "MW": "272.4 g/mol"
     }
   ]
 }

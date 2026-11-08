@@ -18,7 +18,10 @@
     },
     {
       "Title": "Ketamine",
-      "Abr": "K",
+      "Abr": [
+        "2-Cl-2'-Oxo-PCM",
+        "K"
+      ],
       "MW": "237.72 g/mol"
     },
     {
@@ -46,6 +49,52 @@
     {
       "Title": "Ortho-Xylene",
       "MW": "106.16 g/mol"
+    },
+    {
+      "Title": "Muscimol",
+      "MW": "114.10 g/mol"
+    },
+    {
+      "Title": "Deschloroketamine",
+      "Abr": [
+        "DCK"
+      ],
+      "MW": "203.28 g/mol"
+    },
+    {
+      "Title": "Phencyclidine",
+      "Abr": [
+        "PCP"
+      ],
+      "MW": "243.4 g/mol"
+    },
+    {
+      "Title": "3-Hydroxyphencyclidine",
+      "Abr": [
+        "3-HO-PCP"
+      ],
+      "MW": "259.4 g/mol"
+    },
+    {
+      "Title": "3-Methoxyphencyclidine",
+      "Abr": [
+        "3-MeO-PCP"
+      ],
+      "MW": "273.4 g/mol"
+    },
+    {
+      "Title": "3-Methoxyeticyclidine",
+      "Abr": [
+        "3-MeO-PCE"
+      ],
+      "MW": "233.35 g/mol"
+    },
+    {
+      "Title": "Fluorexetamine",
+      "Abr": [
+        "FXE"
+      ],
+      "MW": "235.30 g/mol"
     }
   ]
 }

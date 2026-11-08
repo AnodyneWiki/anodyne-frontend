@@ -3,7 +3,15 @@
   "Entries": [
     {
       "Title": "Amisulpride",
-      "Abr": "",
+      "Abr": [
+        "AST",
+        "APD-421",
+        "APD421",
+        "APD-403",
+        "APD403",
+        "DAN-2163",
+        "DAN2163"
+      ],
       "MW": "369.5 g/mol"
     },
     {
@@ -35,6 +43,22 @@
       "Title": "Quetiapine",
       "Abr": "",
       "MW": "383.5 g/mol"
+    },
+    {
+      "Title": "Olanzapine",
+      "MW": "312.4 g/mol"
+    },
+    {
+      "Title": "Sulpiride",
+      "MW": "341.4 g/mol"
+    },
+    {
+      "Title": "Sultopride",
+      "MW": "354.5 g/mol"
+    },
+    {
+      "Title": "Haloperidol",
+      "MW": "375.9 g/mol"
     }
   ]
 }

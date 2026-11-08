@@ -1033,6 +1033,38 @@
     {
       "Title": "Ephedrine",
       "MW": "165.23 g/mol"
+    },
+    {
+      "Title": "Serdexmethylphenidate",
+      "Abr": [
+        "SDX"
+      ],
+      "MW": "499.5 g/mol"
+    },
+    {
+      "Title": "Nicotine",
+      "MW": "162.23 g/mol"
+    },
+    {
+      "Title": "Mephedrone",
+      "Abr": [
+        "4-MMC"
+      ],
+      "MW": "177.24 g/mol"
+    },
+    {
+      "Title": "Flephedrone",
+      "Abr": [
+        "4-FMC"
+      ],
+      "MW": "181.21 g/mol"
+    },
+    {
+      "Title": "Brephedrone",
+      "Abr": [
+        "4-BMC"
+      ],
+      "MW": "242.11 g/mol"
     }
   ],
   "Subjective Effects": {

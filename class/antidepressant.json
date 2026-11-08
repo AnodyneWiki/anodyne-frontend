@@ -162,6 +162,58 @@
     {
       "Title": "Agomelatine",
       "MW": "243.30 g/mol"
+    },
+    {
+      "Title": "Pheniprazine",
+      "MW": "150.22 g/mol"
+    },
+    {
+      "Title": "Phenelzine",
+      "MW": "136.19 g/mol"
+    },
+    {
+      "Title": "Oxaflozane",
+      "Abr": [
+        "CERM-1766",
+        "1766-CERM"
+      ],
+      "MW": "273.29 g/mol"
+    },
+    {
+      "Title": "Tranylcypromine",
+      "MW": "133.19 g/mol"
+    },
+    {
+      "Title": "Trimipramine",
+      "MW": "294.4 g/mol"
+    },
+    {
+      "Title": "Trazodone",
+      "MW": "371.9 g/mol"
+    },
+    {
+      "Title": "Mianserin",
+      "MW": "264.4 g/mol"
+    },
+    {
+      "Title": "Amoxapine",
+      "MW": "313.8 g/mol"
+    },
+    {
+      "Title": "Setiptiline",
+      "MW": "261.4 g/mol"
+    },
+    {
+      "Title": "Norfluoxetine",
+      "MW": "295.30 g/mol"
+    },
+    {
+      "Title": "Duloxetine",
+      "MW": "297.4 g/mol"
+    },
+    {
+      "Title": "Clomipramine",
+      "MW": "314.9 g/mol"
     }
   ],
   "Subjective Effects": {

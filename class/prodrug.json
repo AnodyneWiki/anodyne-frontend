@@ -138,6 +138,48 @@
     {
       "Title": "1-Methyl-4-phenylpyridinium",
       "Abr": "MPTP"
+    },
+    {
+      "Title": "Estradiol acetate",
+      "Abr": [
+        "EA"
+      ],
+      "MW": "314.4 g/mol"
+    },
+    {
+      "Title": "Estradiol benzoate",
+      "Abr": [
+        "EB"
+      ],
+      "MW": "376.5 g/mol"
+    },
+    {
+      "Title": "Estradiol cypionate",
+      "Abr": [
+        "EC"
+      ],
+      "MW": "396.6 g/mol"
+    },
+    {
+      "Title": "Estradiol dipropionate",
+      "Abr": [
+        "EDP"
+      ],
+      "MW": "384.5 g/mol"
+    },
+    {
+      "Title": "Estradiol undecylate",
+      "Abr": [
+        "EU"
+      ],
+      "MW": "440.7 g/mol"
+    },
+    {
+      "Title": "Estradiol valerate",
+      "Abr": [
+        "EV"
+      ],
+      "MW": "356.5 g/mol"
     }
   ]
 }

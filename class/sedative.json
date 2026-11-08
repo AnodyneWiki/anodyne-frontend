@@ -60,6 +60,93 @@
     },
     {
       "Title": "Fenadiazole"
+    },
+    {
+      "Title": "Chloral hydrate",
+      "MW": "165.40 g/mol"
+    },
+    {
+      "Title": "Tryptophan",
+      "Abr": [
+        "Trp"
+      ],
+      "MW": "204.22 g/mol"
+    },
+    {
+      "Title": "Midazolam",
+      "MW": "325.8 g/mol"
+    },
+    {
+      "Title": "Pentobarbital",
+      "MW": "226.27 g/mol"
+    },
+    {
+      "Title": "Phenobarbital",
+      "MW": "232.23 g/mol"
+    },
+    {
+      "Title": "Thiobarbital",
+      "MW": "200.26 g/mol"
+    },
+    {
+      "Title": "Thialbarbital",
+      "MW": "264.35 g/mol"
+    },
+    {
+      "Title": "Thiobutabarbital",
+      "MW": "228.31 g/mol"
+    },
+    {
+      "Title": "Thiotetrabarbital",
+      "MW": "256.37 g/mol"
+    },
+    {
+      "Title": "Brotizolam",
+      "MW": "393.7 g/mol"
+    },
+    {
+      "Title": "Clotizolam",
+      "MW": "349.2 g/mol"
+    },
+    {
+      "Title": "Deschloroclotizolam",
+      "MW": "314.8 g/mol"
+    },
+    {
+      "Title": "Deschloroetizolam",
+      "MW": "308.4 g/mol"
+    },
+    {
+      "Title": "Etizolam",
+      "MW": "342.8 g/mol"
+    },
+    {
+      "Title": "α-Hydroxyetizolam",
+      "MW": "358.8 g/mol"
+    },
+    {
+      "Title": "Flubrotizolam",
+      "MW": "377.2 g/mol"
+    },
+    {
+      "Title": "Fluclotizolam",
+      "MW": "332.8 g/mol"
+    },
+    {
+      "Title": "Fluetizolam",
+      "MW": "326.4 g/mol"
+    },
+    {
+      "Title": "Zolpidem",
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "Zopiclone",
+      "MW": "388.8 g/mol"
+    },
+    {
+      "Title": "Eszopiclone",
+      "MW": "388.8 g/mol"
     }
   ]
 }
