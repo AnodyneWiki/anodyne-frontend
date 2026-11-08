@@ -13,7 +13,10 @@
     },
     {
       "Title": "Eticyclidone",
-      "Abr": "O-PCE",
+      "Abr": [
+        "2'-Oxo-PCE",
+        "O-PCE"
+      ],
       "MW": "217.31 g/mol"
     },
     {
@@ -26,12 +29,16 @@
     },
     {
       "Title": "Methoxetamine",
-      "Abr": "MXE",
+      "Abr": [
+        "MXE"
+      ],
       "MW": "247.33 g/mol"
     },
     {
       "Title": "Rolicyclidine",
-      "Abr": "PCPy",
+      "Abr": [
+        "PCPy"
+      ],
       "MW": "229.36 g/mol"
     },
     {
@@ -101,6 +108,56 @@
         "FXE"
       ],
       "MW": "235.30 g/mol"
+    },
+    {
+      "Title": "Fluoroketamine",
+      "Abr": [
+        "2-FDCK"
+      ],
+      "MW": "221.27 g/mol"
+    },
+    {
+      "Title": "Eticyclidine",
+      "Abr": [
+        "PCE"
+      ],
+      "MW": "203.32 g/mol"
+    },
+    {
+      "Title": "Tolicyclidine",
+      "Abr": [
+        "3-Me-PCPy"
+      ],
+      "MW": "243.4 g/mol"
+    },
+    {
+      "Title": "2-Fluoro-N-ethylnordeschloroketamine",
+      "Abr": [
+        "2F-NENDCK",
+        "2-FXE"
+      ],
+      "MW": "235.30 g/mol"
+    },
+    {
+      "Title": "Methoxpropamine",
+      "Abr": [
+        "MXPr"
+      ],
+      "MW": "261.36 g/mol"
+    },
+    {
+      "Title": "Methoxisopropamine",
+      "Abr": [
+        "MXiPr"
+      ],
+      "MW": "261.36 g/mol"
+    },
+    {
+      "Title": "Nitrous oxide",
+      "Abr": [
+        "Nitrous"
+      ],
+      "MW": "44.013 g/mol"
     }
   ]
 }

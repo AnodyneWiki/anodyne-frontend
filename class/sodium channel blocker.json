@@ -23,6 +23,18 @@
 
       ],
       "MW": "234.34 g/mol"
+    },
+    {
+      "Title": "Tetracaine",
+      "MW": "264.36 g/mol"
+    },
+    {
+      "Title": "Procaine",
+      "MW": "236.31 g/mol"
+    },
+    {
+      "Title": "Tetrodotoxin"
     }
-  ]
+  ],
+  "Name": "sodium channel blocker"
 }

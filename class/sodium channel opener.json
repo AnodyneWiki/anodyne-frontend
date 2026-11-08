@@ -2,8 +2,11 @@
   "Entries": [
     {
       "Title": "Batrachotoxin",
-      "Abr": "BTX",
+      "Abr": [
+        "BTX"
+      ],
       "MW": "538.7 g/mol"
     }
-  ]
+  ],
+  "Name": "sodium channel opener"
 }

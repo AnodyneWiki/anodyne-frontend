@@ -1069,6 +1069,48 @@
         "25H-NBF"
       ],
       "MW": "289.34 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-benzylphenethylamine",
+      "Abr": [
+        "25H-NB"
+      ],
+      "MW": "271.35 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-isopropylthio-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25T4-NBOH"
+      ],
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-propylthio-N-(2-hydroxybenzyl)phenethylamine",
+      "Abr": [
+        "25T7-NBOH"
+      ],
+      "MW": "375.5 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25H-NB3OMe"
+      ],
+      "MW": "301.4 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-4-bromo-N-(3-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25B-NB3OMe"
+      ],
+      "MW": "380.3 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(4-methoxybenzyl)phenethylamine",
+      "Abr": [
+        "25H-NB4OMe"
+      ],
+      "MW": "301.4 g/mol"
     }
   ]
 }

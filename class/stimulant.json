@@ -1152,10 +1152,12 @@
     },
     {
       "Title": "N-Cyclohexylmethylone",
-      "Abr": [
-        "Cyputylone"
-      ],
+      "Abr": "Cyputylone",
       "MW": "275.34 g/mol"
+    },
+    {
+      "Title": "2-Chloromethcathinone",
+      "Abr": "2-CMC"
     }
   ],
   "Subjective Effects": {
@@ -1188,5 +1190,6 @@
       "Compulsive redosing",
       "Mania"
     ]
-  }
+  },
+  "Name": "stimulant"
 }
