@@ -5,20 +5,20 @@
     "auggie",
     "august"
   ],
-  "About": "{p}wrufff. im auggie and i loveeeee ketamine :3 {Ep}",
+  "About": "{p}wrufff. im auggie and i (used to!) loveeeee ketamine :3 {Ep}",
   "Birth": "2005-10",
   "Links": [
     {
       "Name": "Email",
-      "Url": "june@girlboss.ceo or june@vern.cc"
+      "Url": "june@girlboss.ceo"
     },
     {
       "Name": "Website",
-      "Url": "https://f.dog | https://june.vern.cc"
+      "Url": "https://f.dog"
     },
     {
       "Name": "Fediverse",
-      "Url": "https://ak.vern.cc/june"
+      "Url": "https://social.vlhl.dev/june"
     },
     {
       "Name": "GPG",
@@ -26,11 +26,11 @@
     },
     {
       "Name": "Matrix",
-      "Url": "@june:woof.gay or @june:vern.cc"
+      "Url": "@june:woof.gay"
     },
     {
       "Name": "XMPP/Jabber",
-      "Url": "june@vern.cc"
+      "Url": "june@vlhl.dev"
     },
     {
       "Name": "Signal",
@@ -39,10 +39,6 @@
     {
       "Name": "Discord",
       "Url": "x86pup"
-    },
-    {
-      "Name": "vern Git",
-      "Url": "https://git.vern.cc/june"
     },
     {
       "Name": "Codeberg",
@@ -55,10 +51,12 @@
   ],
   "Psyche": {
     "Interests": [
-      "Siscon",
+      "Communism",
+      "Marxism",
+      "Deutsche Demokratische Republik",
       "Lesbianism",
       "Unix-like systems",
-      "Anarchism"
+      "Infosec"
     ],
     "Attributes": []
   },
@@ -150,6 +148,9 @@
         },
         {
           "Substance": "Estradiol Valerate"
+        },
+        {
+          "Substance": "Estradiol Enanthate"
         }
       ]
     },
