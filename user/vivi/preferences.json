@@ -1,0 +1,384 @@
+{
+  "Title": "vivi",
+  "Name": [
+    "vivi"
+  ],
+  "About": "{p}Just a Parisian girl looking to bring some life wherever I go𓂃۶ৎ{br}┆┆┆┆┆{br}┆┆  ࣪ ˖☆ ࣪⭑┆ ݁˖ .☆ . ݁ ˖                                                  𑣲⋆｡˚ Math, Disso and Journaling ⋅°❀⋆.ೃ࿔*:･{br}☆⊹ ࣪ ┆ ˖ ࣪⊹ ࣪ ★ ⋆.˚  ⊹ ࣪{br}   ࣪ ˖⋆˚★ ₊ ⊹  ࣪˖ ࣪ ₊  ࣪ ˖{br}. ݁⊹ ࣪ ˖ ࣪ ˖{br}.  ݁  ݁{br}. {Ep}",
+  "Birth": "2006-09",
+  "Location": "France",
+  "Links": [
+    {
+      "Name": "Discord",
+      "Url": "vivi48.fma"
+    }
+  ],
+  "Psyche": {
+    "Interests": [
+      "journaling",
+      "mathematics",
+      "travel",
+      "metal and some emo music(but i'm just starting)",
+      "skincare",
+      "sewing",
+      "going on long walks in the forest ↟ 𖠰𖥧˚"
+    ],
+    "Attributes": [
+      "{wkp 'anorexia'} (undiagnosed)",
+      "Current BMI : 16.2; Highest 18.3; Lowest 12.6"
+    ]
+  },
+  "RoutesOfAdministration": [],
+  "Preferences": [],
+  "TriedSubstances": [
+    {
+      "Name": "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.02-40mg"
+        }
+      ]
+    },
+    {
+      "Name": "2-Fluoromethamphetamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5-10mg"
+        }
+      ]
+    },
+    {
+      "Name": "Fluoroketamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20-70mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "1-3mg"
+        }
+      ]
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-ethyl-N-(2-hydroxybenzyl)phenethylamine",
+      "Routes": [
+        {
+          "Name": "sublingual",
+          "Dosage": "0.15-1.8mg"
+        }
+      ]
+    },
+    {
+      "Name": "2C-B-FLY",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10.0mg"
+        }
+      ]
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-methylphenethylamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10.0mg"
+        }
+      ]
+    },
+    {
+      "Name": "Metocin",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10.0mg"
+        }
+      ]
+    },
+    {
+      "Name": "Miprocin",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "15mg",
+          "Onset": "20 minutes",
+          "Comeup": "40 minutes",
+          "Peak": "2 hours",
+          "Offset": "30 minutes",
+          "Duration": "3 hours 30 minutes"
+        }
+      ],
+      "Sources": [
+          "Research-chemical-vendor Netherlands"
+      ],
+      "Indication": [
+          "{xeff 'Introspection'}"
+      ],
+      "Effects": [
+          "{xeff 'colour-enhancement'}",
+          "{xeff 'visual-acuity-enhancement'}",
+          "{sev 'light'} {xeff 'wakefulness'}",
+          "{xeff 'thought-connectivity'}",
+          "{xeff 'texture-liquidation'}",
+          "{xeff 'increased-music-appreciation'}",
+          "{xeff 'rejuvenation'}",
+          "{xeff 'Introspection'}",
+          "{xeff 'spontaneous-tactile-sensations'}",
+          "{xeff 'increased-libido'}"
+      ],
+       "Notes": [
+         "Durations found on empty stomach",
+         "Best paired antiemetic",
+         "Epiphany during totality of Aug 12, 2026 eclipse"
+       ]
+    },
+    {
+      "Name": "5-(N-methyl-2-aminopropyl)benzofuran",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50.0mg"
+        }
+      ]
+    },
+    {
+      "Name": "6-APB",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50.0mg"
+        }
+      ]
+    },
+    {
+      "Name": "Alprazolam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.25-3mg"
+        }
+      ]
+    },
+    {
+      "Name": "Amphetamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "9-25mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "6-7.5mg"
+        }
+      ]
+    },
+    {
+      "Name": "Bromazepam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "1.5-60mg"
+        }
+      ]
+    },
+    {
+      "Name": "Caffeine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10-280mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "20-35mg"
+        }
+      ]
+    },
+    {
+      "Name": "Codeine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "30.0mg"
+        }
+      ]
+    },
+    {
+      "Name": "Diazepam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10-30mg"
+        }
+      ]
+    },
+    {
+      "Name": "Fentanyl",
+      "Routes": [
+        {
+          "Name": "transdermal",
+          "Dosage": "100.0µg"
+        }
+      ]
+    },
+    {
+      "Name": "Hexahydrocannabinol",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10.0mg"
+        }
+      ]
+    },
+    {
+      "Name": "Ketamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "100-150mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "5-160mg"
+        }
+      ]
+    },
+    {
+      "Name": "Lysergic acid",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "4.75seed"
+        }
+      ]
+    },
+    {
+      "Name": "Lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "sublingual",
+          "Dosage": "0.013-12.5mg"
+        }
+      ]
+    },
+    {
+      "Name": "Melatonin",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "1.9mg"
+        }
+      ]
+    },
+    {
+      "Name": "Methylphenidate",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5-40mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "2.5-5mg"
+        }
+      ]
+    },
+    {
+      "Name": "Morphine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10-20mg"
+        },
+        {
+          "Name": "intravenous",
+          "Dosage": "5mg"
+        }
+      ]
+    },
+    {
+      "Name": "N-Ethyl-nor-pentedrone",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "3-40mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "10-20mg"
+        }
+      ]
+    },
+    {
+      "Name": "Eticyclidone",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "5-15mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "2-8mg"
+        }
+      ]
+    },
+    {
+      "Name": "Progesterone",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "100.0mg"
+        }
+      ]
+    },
+    {
+      "Name": "Propofol",
+      "Routes": [
+        {
+          "Name": "intravenous",
+          "Dosage": "570.0mg"
+        }
+      ]
+    },
+    {
+      "Name": "Remifentanil",
+      "Routes": [
+        {
+          "Name": "intravenous",
+          "Dosage": "560.0µg"
+        }
+      ]
+    },
+    {
+      "Name": "Δ-9-tetrahydrocannabinol",
+      "Routes": [
+        {
+          "Name": "inhaled",
+          "Dosage": "2-3mg"
+        }
+      ]
+    },
+    {
+      "Name": "Tramadol",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "100-300mg"
+        }
+      ]
+    },
+    {
+      "Name": "Zopiclone",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "3.75-7.5mg"
+        }
+      ]
+    }
+  ],
+  "SubstanceMatrixCellW": "60px",
+  "SubstanceMatrixCellH": "60px"
+}

@@ -566,7 +566,8 @@
       "Title": "β-Hydroxy-4-bromo-2,5-dimethoxyphenylamine",
       "Abr": [
         "βOH-2C-B"
-      ]
+      ],
+      "MW": "276.13 g/mol"
     },
     {
       "Title": "3,4,5-Trimethoxyamphetamine",
@@ -802,7 +803,8 @@
       "Title": "Tomscaline",
       "Abr": [
         "TMPEA"
-      ]
+      ],
+      "MW": null
     },
     {
       "Title": "2,5-Dimethoxy-4-ethoxyamphetamine",
@@ -1060,6 +1062,13 @@
     {
       "Title": "Efavirenz",
       "MW": "315.67 g/mol"
+    },
+    {
+      "Title": "2,5-Dimethoxy-N-(2-fluorobenzyl)phenethylamine",
+      "Abr": [
+        "25H-NBF"
+      ],
+      "MW": "289.34 g/mol"
     }
   ]
 }

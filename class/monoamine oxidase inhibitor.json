@@ -1,0 +1,89 @@
+{
+  "Entries": [
+    {
+      "Title": "3,4-Dimethoxyphenethylamine",
+      "Abr": "DMPEA",
+      "MW": "181.23 g/mol"
+    },
+    {
+      "Title": "Harmine",
+      "Abr": "",
+      "MW": "212.25 g/mol"
+    },
+    {
+      "Title": "Phenelzine",
+      "Abr": "",
+      "MW": "136.19 g/mol"
+    },
+    {
+      "Title": "1-Naphthylaminopropane",
+      "Abr": "1-NAP",
+      "MW": "185.26 g/mol"
+    },
+    {
+      "Title": "4-Fluoroselegiline",
+      "Abr": "",
+      "MW": "205.27 g/mol"
+    },
+    {
+      "Title": "Pheniprazine",
+      "Abr": "",
+      "MW": "150.22 g/mol"
+    },
+    {
+      "Title": "Metfendrazine",
+      "Abr": "",
+      "MW": "164.25 g/mol"
+    },
+    {
+      "Title": "Pargyline",
+      "Abr": "",
+      "MW": "159.23 g/mol"
+    },
+    {
+      "Title": "Clorgyline",
+      "Abr": "",
+      "MW": "272.17 g/mol"
+    },
+    {
+      "Title": "Selegiline",
+      "Abr": [
+
+      ],
+      "MW": "187.28 g/mol"
+    },
+    {
+      "Title": "Deprenyl",
+      "Abr": [
+
+      ],
+      "MW": "187.28 g/mol"
+    },
+    {
+      "Title": "Desmethyldeprenyl",
+      "Abr": [
+        "DMS"
+      ],
+      "MW": "173.25 g/mol"
+    },
+    {
+      "Title": "α-Methylbenzylamine",
+      "Abr": [
+        "α-PEA"
+      ],
+      "MW": "121.18 g/mol"
+    },
+    {
+      "Title": "Tranylcypromine",
+      "Abr": [
+
+      ],
+      "MW": "133.19 g/mol"
+    },
+    {
+      "Title": "Rasagiline",
+      "Abr": null,
+      "MW": "171.24 g/mol"
+    }
+  ]
+}

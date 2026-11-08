@@ -10,7 +10,10 @@
     },
     {
       "Title": "Anhalonidine",
-      "MW": "223.27 g/mol"
+      "MW": "223.27 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Methaqualone",
@@ -21,15 +24,18 @@
     },
     {
       "Title": "Methoxyqualone",
-      "MW": "266.29 g/mol"
+      "MW": "266.29 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Mecloqualone",
-      "MW": "270.71 g/mol"
+      "MW": "270.71 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Mebroqualone",
-      "MW": "315.16 g/mol"
+      "MW": "315.16 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Methylmethaqualone",
@@ -40,26 +46,35 @@
     },
     {
       "Title": "Afloqualone",
-      "MW": "283.30 g/mol"
+      "MW": "283.30 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Etaqualone",
-      "MW": "264.32 g/mol"
+      "MW": "264.32 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Nitromethaqualone",
-      "MW": "311.29 g/mol"
+      "MW": "311.29 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Cloroqualone",
-      "MW": "319.2 g/mol"
+      "MW": "319.2 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Diproqualone",
-      "MW": "234.25 g/mol"
+      "MW": "234.25 g/mol",
+      "Abr": ""
     },
     {
-      "Title": "Fenadiazole"
+      "Title": "Fenadiazole",
+      "Abr": [
+
+      ],
+      "MW": "162.15 g/mol"
     },
     {
       "Title": "Chloral hydrate",

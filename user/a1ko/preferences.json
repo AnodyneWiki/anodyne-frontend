@@ -6,10 +6,6 @@
   "About": "{p}I shoot up with and sleep in the same bed as Anodyne's creator.{Ep}{p}Love you {user '0xea'}.{Ep}",
   "Birth": "2007-11",
   "Location": "Germany",
-  "Nationality": "",
-  "Weight": [
-    ""
-  ],
   "Links": [
     {
       "Name": "Discord",
@@ -425,6 +421,14 @@
         "{sev 'intense'} {xeff 'itchiness'}",
         "{xeff 'nausea'}",
         "{sev 'intense'} {xeff 'nausea?s=vomiting' 'vomiting'}"
+      ],
+      "DEffects": [
+        {
+          "Dosage": "+100mg",
+          "Effects": [
+            "{wkp 'opioid overdose'}"
+          ]
+        }
       ]
     },
     {
@@ -735,6 +739,16 @@
         "{sev 'intense'} {xeff 'cognitive euphoria'} (intensity dependant on quality)",
         "{sev 'strong'} {xeff 'focus enhancement'} (disappears after long-term abuse)",
         "{xeff 'paranoia'}"
+      ]
+    },
+    {
+      "Name": "5-Methoxy-2-aminoindane",
+      "Routes": [
+        {
+          "Name": "intravenous"
+        }
+      ],
+      "Effects": [
       ]
     },
     {

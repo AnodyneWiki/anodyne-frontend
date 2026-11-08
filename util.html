@@ -218,8 +218,14 @@
 {{with $utrd.trd.Dosages -}}
  at {{template "srca" . -}}
 {{end -}}
-{{with $utrd.trd.Salts -}}<strong>Salts:</strong><ul class=trdsalts>{{range . -}}
-<li>{{title .}}</li>{{end}}</ul>{{else}}{{if eq $v.Editable "true"}}<strong>Salts:</strong><ul class=trdsalts><li contenteditable=true></li></ul>{{end}}{{end -}}
+{{with $utrd.trd.Classes -}}<strong>Classes:</strong><ul class=trdclasses>
+{{- range . -}}
+<li><a href='/class/{{lower .}}'>{{title .}}</a></li>{{end}}</ul>{{else}}{{if eq $v.Editable "true"}}<strong>Classes:</strong><ul class=trdclasses><li contenteditable=true></li></ul>{{end}}
+{{- end -}}
+{{with $utrd.trd.Forms -}}<strong>Forms:</strong><ul class=trdsalts>{{range . -}}
+<li>{{title .}}</li>{{end}}</ul>{{else}}{{if eq $v.Editable "true"}}<strong>Forms:</strong><ul class=trdsalts><li contenteditable=true></li></ul>{{end}}{{end -}}
+{{with $utrd.trd.Salts -}}<strong>Forms:</strong><ul class=trdsalts>{{range . -}}
+<li>{{title .}}</li>{{end}}</ul>{{else}}{{if eq $v.Editable "true"}}<strong>Forms:</strong><ul class=trdsalts><li contenteditable=true></li></ul>{{end}}{{end -}}
 {{with $utrd.trd.Sources}}<strong>Source:</strong><ul class=trdsource>{{range .}}<li><span class=keepclip contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}</ul>{{else}}{{if eq $v.Editable "true"}}<strong>Source:</strong><ul class=trdsource><li contenteditable=true></li></ul>{{end}}{{end -}}
 {{with $utrd.trd.Indication}}<strong>Indication:</strong><ul>{{if kindIs "string" .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{else}}{{range .}}<li><span contenteditable={{$v.Editable}}>{{template "user" .}}</span></li>{{end}}{{end}}</ul>{{end -}}
 {{with $utrd.trd.Effects}}<strong>Effects:</strong><ul class=trdeffects>{{range .}}<li><span class=keepclip contenteditable={{$v.Editable}}>{{if eq $v.Editable "true"}}{{.}}{{else}}{{template "user" .}}{{end}}</span></li>{{end}}{{if not $utrd.trd.Adverse}}</ul>{{end}}{{end -}}

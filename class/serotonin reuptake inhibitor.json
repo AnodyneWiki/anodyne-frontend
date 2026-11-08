@@ -1,0 +1,36 @@
+{
+  "Entries": [
+    {
+      "Title": "5,6-Dihydroxytryptamine",
+      "Abr": "5,6-DHT",
+      "MW": "192.21 g/mol"
+    },
+    {
+      "Title": "Norfluoxetine",
+      "Abr": "",
+      "MW": "295.30 g/mol"
+    },
+    {
+      "Title": "Fluvoxamine",
+      "Abr": [
+
+      ],
+      "MW": "318.33 g/mol"
+    },
+    {
+      "Title": "Fluoxetine",
+      "Abr": null,
+      "MW": "309.33 g/mol"
+    },
+    {
+      "Title": "Sertraline",
+      "Abr": null,
+      "MW": "306.2 g/mol"
+    },
+    {
+      "Title": "Dasotraline",
+      "Abr": null,
+      "MW": "292.2 g/mol"
+    }
+  ]
+}

@@ -3,11 +3,17 @@
   "Entries": [
     {
       "Title": "Clindamycin",
-      "MW": "425.0 g/mol"
+      "MW": "425.0 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Tyrothricin",
-      "MW": "1228.4 g/mol"
+      "MW": "1228.4 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Isoniazid",
@@ -15,7 +21,10 @@
     },
     {
       "Title": "Doxycycline",
-      "MW": "444.4 g/mol"
+      "MW": "444.4 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Benzylpenicillin",
@@ -23,11 +32,13 @@
     },
     {
       "Title": "Amoxicillin",
-      "MW": "365.4 g/mol"
+      "MW": "365.4 g/mol",
+      "Abr": null
     },
     {
       "Title": "Phenoxymethylpenicillin",
-      "MW": "350.4 g/mol"
+      "MW": "350.4 g/mol",
+      "Abr": null
     },
     {
       "Title": "Neomycin",

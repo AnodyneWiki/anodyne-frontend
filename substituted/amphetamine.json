@@ -1552,6 +1552,13 @@
     {
       "Title": "Tyrothricin",
       "MW": "1228.4 g/mol"
+    },
+    {
+      "Title": "Amphetamine",
+      "Abr": [
+        "Speed"
+      ],
+      "MW": "135.21 g/mol"
     }
   ],
   "Parent": "phenethylamine",
@@ -1567,13 +1574,6 @@
     "2-benzylpyrrolidine",
     "morphinan"
   ],
-  "First": {
-    "Title": "Amphetamine",
-    "Abr": [
-      "Speed"
-    ],
-    "MW": "135.21 g/mol"
-  },
   "Analogues": [
     "thiopropamine"
   ],

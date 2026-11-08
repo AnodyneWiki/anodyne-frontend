@@ -1,12 +1,11 @@
 {
     "Title": "ninerik",
     "Name": [
-        "Hakon",
-        "HF",
         "Ninerik",
-        "Ninn"
+        "Hakon",
+        "HF"
     ],
-    "About": "{p}HELLOOoooo, anyone there? No?{Ep}{p}Silence, ueh? I wonder how long it's been. {Ep}{p}Months, years even?{Ep}",
+    "About": "{p}Hello....? Anyone out there? No...?{Ep}{p}Silence, uuueehhhh? I wonder how long it's been... {Ep}{p}Months, years even?{Ep}",
     "Birth": "2007-01",
     "Location": "Norway",
     "Links": [
@@ -23,22 +22,24 @@
         {
             "Name": "Caffeine",
             "Routes": [
-              {
-                "Name": "Oral",
-                "Dosage": "80-500mg"
-              }
+                {
+                    "Name": "Oral",
+                    "Dosage": "80-500mg"
+                }
             ],
             "Sources": [
                 "Energy drinks",
-                "Workplace coffee machine"
+                "Workplace coffee machine",
+                "bulk.com 200mg tablets"
             ],
             "Effects": [
-                "{xeff 'stimulation'}",
-                "{xeff 'wakefulness'}",
+                "{sev 'light'} {xeff 'stimulation'}",
+                "{sev 'moderate'} {xeff 'wakefulness'}",
                 "{xeff 'increased-heart-rate'}",
-                "{xeff 'increased-perspiration'}",
+                "{sev 'moderate'} {xeff 'increased-perspiration'}",
                 "{xeff 'frequent-urination'}",
-                "{xeff 'headache'} at higher doses",
+                "{sev 'intense'} {xeff 'headache'} at higher doses",
+                "{sev 'light'} {xeff 'shakiness'} at medium to high doses",
                 "{wkp 'addiction'} (since the start of 2026)"
             ]
         },
@@ -48,46 +49,54 @@
                 "DNM: Speed"
             ],
             "Effects": [
-                "{xeff 'stimulation'}",
-                "{xeff 'wakefulness'}",
+                "{sev 'moderate'} {xeff 'stimulation'}",
+                "{sev 'strong'} {xeff 'wakefulness'}",
+                "{xeff 'cognitive-euphoria'}",
                 "{xeff 'vasoconstriction'}",
-                "{xeff 'appetite suppression'}",
-                "{xeff 'increased-perspiration'}",
-                "{xeff 'increased heart rate'}",
+                "{sev 'strong'} {xeff 'appetite suppression'}",
+                "{sev 'moderate'} {xeff 'increased heart rate'}",
+                "{xeff 'increased-libido'}",
+                "{sev 'moderate'} {xeff 'increased-perspiration'}",
+                "{sev 'light'} {xeff 'increased-bodily-temperature'}",
+                "{sev 'moderate'} {xeff 'compulsive-redosing'}",
                 "{sev 'light'} {xeff 'teeth-grinding'}",
                 "{sev 'light'} {xeff 'drifting'} when heavily de-hydrated"
+            ],
+            "Notes": [
+                "I will not consume any more amphetamine. I will not consume any more amphetamine. I will not consume any more amphetamine. Okay just one more time :P"
             ]
         },
         {
             "Name": "2,5-Dimethoxy-4-bromophenethylamine",
-          "Routes": [
-            {
-              "Name": "Oral",
-              "Dosage": "10-28mg"
-            },
-            {
-              "Name": "Insufflated",
-              "Dosage": "9-14mg"
-            }
-          ],
+            "Routes": [
+                {
+                    "Name": "Oral",
+                    "Dosage": "10-28mg"
+                },
+                {
+                    "Name": "Insufflated",
+                    "Dosage": "9-14mg"
+                }
+            ],
             "Sources": [
                 "DNM: Batman"
             ],
             "Effects": [
                 "{sev 'light'} {xeff 'nausea'} fading as peak comes",
-                "{xeff 'pupil-dilation'}",
-                "{xeff 'tactile-enhancement'}",
-                "{xeff 'laughter-fits'}",
+                "{sev 'strong'} {xeff 'pupil-dilation'}",
+                "{sev 'strong'} {xeff 'tactile-enhancement'} (warm aura)",
+                "occasional {xeff 'laughter-fits'}",
                 "{xeff 'geometry'}",
                 "{xeff 'transformations'}",
                 "{xeff 'colour-enhancement'}",
+                "{xeff 'tracers'}",
                 "{xeff 'time-distortion'}"
             ],
             "DEffects": [
                 {
                     "Route": "Oral",
                     "Effects": [
-                        "{sev 'light'} {xeff 'teeth-grinding'}"
+                        "{sev 'moderate'} {xeff 'teeth-grinding'}"
                     ]
                 },
                 {
@@ -99,42 +108,64 @@
                 }
             ],
             "Notes": [
-                "Written when on 2C-B ^-^"
+                "Probably one of my favorite psychedelics. Written when on 2C-B ^-^"
             ]
         },
         {
             "Name": "Cetirizine",
-            "Source": [
+            "Routes": [
+                {
+                    "Name": "Oral",
+                    "Dosage": "10mg"
+                }
+            ],
+            "Sources": [
                 "Pharmacy"
             ],
             "Indication": [
-                "allergies"
+                "Allergies"
             ],
             "Effects": [
                 "{wkp 'antihistamine'}"
             ],
             "Notes": [
-                "Seems to work better than {wkp 'desloratadine'}"
+                "Seems to be more effective than 5mg {wkp 'desloratadine'}"
             ]
         },
         {
             "Name": "Ketamine",
+            "Routes": [
+                {
+                    "Name": "Insufflated",
+                    "Dosage": "10-30mg"
+                }
+            ],
             "Effects": [
                 "{xeff 'sedation'}",
                 "{xeff 'physical-euphoria'}",
                 "{xeff 'increased-music-appreciation'}",
                 "{xeff 'cognitive-disconnection'}"
+            ],
+            "Notes": [
+                "Don't like the drip :<"
             ]
         },
         {
             "Name": "3,4-Methylenedioxymethamphetamine",
+            "Routes": [
+                {
+                    "Name": "Insufflated",
+                    "Dosage": "40mg"
+                }
+            ],
             "Effects": [
+                "{sev 'strong'} {xeff 'empathy-affection-and-sociability-enhancement'}",
+                "{sev 'strong'} {xeff 'pupil-dilation'}",
                 "{xeff 'stimulation'}",
                 "{xeff 'increased-music-appreciation'}",
                 "{xeff 'laughter-fits'}",
                 "{xeff 'tactile-enhancement'}",
                 "{xeff 'physical-euphoria'}",
-                "{xeff 'empathy-affection-and-sociability-enhancement'}",
                 "{xeff 'thought-acceleration'}",
                 "{xeff 'increased-perspiration'}",
                 "{xeff 'wakefulness'}",
@@ -142,10 +173,18 @@
             ],
             "Odor": [
                 "liquorice"
+            ],
+            "Notes": [
+                "Hurts less than {sub '2C-B'} when insufflated, but still stings slightly"
             ]
         },
         {
             "Name": "Ethanol",
+            "Routes": [
+                {
+                    "Name": "Oral"
+                }
+            ],
             "Effects": [
                 "{xeff 'sedation'}",
                 "{xeff 'motor-control-loss'}",
@@ -160,6 +199,78 @@
             ],
             "Notes": [
                 "mmmmmpf vodka"
+            ]
+        },
+        {
+            "Name": "Tyrosine",
+            "Routes": [
+                {
+                    "Name": "Oral",
+                    "Dosage": "1000-2000mg"
+                }
+            ],
+            "Sources": [
+                "bulk.com supplement store"
+            ],
+            "Effects": [
+                "{sev 'light'} {xeff 'stimulation'}",
+                "{sev 'light'} {xeff 'wakefulness'}"
+            ],
+            "Notes": [
+                "Combines nicely with {sub 'Caffeine'} & {sub 'Amphetamine'}"
+            ]
+        },
+        {
+            "Name": "Modafinil",
+            "Routes": [
+                {
+                    "Name": "Oral",
+                    "Dosage": "100-200mg"
+                }
+            ],
+            "Sources": [
+                "DNM/Pharmacy"
+            ],
+            "Effects": [
+                "{sev 'moderate'} {xeff 'wakefulness'}",
+                "{sev 'light'} {xeff 'stimulation'}",
+                "{sev 'light'} {xeff 'increased-bodily-temperature'}",
+                "{sev 'light'} {xeff 'motivation-enhancement'}"
+            ],
+            "Notes": [
+                "Yummy wakefulness"
+            ]
+        },
+        {
+            "Name": "Clephedrone",
+            "Routes": [
+                {
+                    "Name": "Oral",
+                    "Dosage": "unknown"
+                }
+            ],
+            "Sources": [
+                "DNM: Redbull pressies"
+            ],
+            "Effects": [
+                "{sev 'moderate'} {xeff 'stimulation'}",
+                "{sev 'light'} {xeff 'increased-heart-rate'}",
+                "{sev 'strong'} {xeff 'empathy-affection-and-sociability-enhancement'}",
+                "{sev 'strong'} {xeff 'time-distortion'}",
+                "{sev 'moderate'} {xeff 'compulsive-redosing'}",
+                "{sev 'light'} {xeff 'tracers'} fading as peak comes",
+                "{sev 'moderate'} {xeff 'vibrating-vision'} fading as peak comes",
+                "{sev 'light'} {xeff 'spontaneous-tactile-sensations'}",
+                "{sev 'moderate'} {xeff 'increased-bodily-temperature'} / {xeff 'temperature-regulation-suppression'}",
+                "{sev 'moderate'} {xeff 'increased-perspiration'}",
+                "{sev 'moderate'} {xeff 'teeth-grinding'}",
+                "{sev 'strong'} {xeff'dehydration'} / {xeff'dry-mouth'}",
+                "{sev 'light'} {xeff 'motivation-enhancement'}",
+                "{sev 'light'} {xeff 'pupil-dilation'}",
+                "{sev 'light'} {xeff 'sleepiness'}?"
+            ],
+            "Notes": [
+                "Yucky cytotoxin with quite an {sev 'intense'} come-up. Written when on 4-CMC ^_^"
             ]
         }
     ],

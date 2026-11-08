@@ -11,11 +11,17 @@
     },
     {
       "Title": "Benzphetamine",
-      "MW": "239.35 g/mol"
+      "MW": "239.35 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Clobenzorex",
-      "MW": "259.77 g/mol"
+      "MW": "259.77 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Dimethylamphetamine",
@@ -26,7 +32,8 @@
     },
     {
       "Title": "Ibopamine",
-      "MW": "307.4 g/mol"
+      "MW": "307.4 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Butylamphetamine",
@@ -57,11 +64,13 @@
     },
     {
       "Title": "Mefenorex",
-      "MW": "211.73 g/mol"
+      "MW": "211.73 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Morforex",
-      "MW": "248.36 g/mol"
+      "MW": "248.36 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Fenproporex",
@@ -69,11 +78,13 @@
     },
     {
       "Title": "Amphecloral",
-      "MW": "264.6 g/mol"
+      "MW": "264.6 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Fenethylline",
-      "MW": "341.4 g/mol"
+      "MW": "341.4 g/mol",
+      "Abr": ""
     },
     {
       "Title": "ZDCM-04",
@@ -89,15 +100,20 @@
     },
     {
       "Title": "4-Fluoroselegiline",
-      "MW": "205.27 g/mol"
+      "MW": "205.27 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Rasagiline",
-      "MW": "171.24 g/mol"
+      "MW": "171.24 g/mol",
+      "Abr": null
     },
     {
       "Title": "Diethylpropion",
-      "MW": "205.30 g/mol"
+      "MW": "205.30 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Psilacetin",
@@ -115,7 +131,8 @@
     },
     {
       "Title": "Codeine",
-      "MW": "299.4 g/mol"
+      "MW": "299.4 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Diacetylmorphine",
@@ -126,7 +143,10 @@
     },
     {
       "Title": "Spironolactone",
-      "MW": "416.6 g/mol"
+      "MW": "416.6 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Estradiol enantate",

@@ -9,13 +9,23 @@
       "MW": "161.24 g/mol"
     },
     {
-      "Title": "Cyanide"
+      "Title": "Cyanide",
+      "Abr": [
+
+      ],
+      "MW": "26.017 g/mol"
     },
     {
-      "Title": "Strychnine"
+      "Title": "Strychnine",
+      "Abr": null,
+      "MW": "334.4 g/mol"
     },
     {
-      "Title": "Brucine"
+      "Title": "Brucine",
+      "Abr": [
+
+      ],
+      "MW": "394.5 g/mol"
     }
   ]
 }

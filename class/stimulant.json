@@ -1,5 +1,4 @@
 {
-  "Name": "stimulant",
   "Entries": [
     {
       "Title": "2β-Carboisopropoxy-3β-(4-iodophenyl)tropane",
@@ -409,7 +408,8 @@
     },
     {
       "Title": "Octodrine",
-      "MW": "129.24 g/mol"
+      "MW": "129.24 g/mol",
+      "Abr": null
     },
     {
       "Title": "Phenpromethamine",
@@ -423,7 +423,8 @@
       "Abr": [
         "BMA",
         "βMA"
-      ]
+      ],
+      "MW": "149.23 g/mol"
     },
     {
       "Title": "β,N,N-Trimethylphenethylamine",
@@ -439,15 +440,22 @@
         "N-methyl-DOM",
         "MDO-D",
         "MDOM"
-      ]
+      ],
+      "MW": "223.31 g/mol"
     },
     {
       "Title": "Benzphetamine",
-      "MW": "239.35 g/mol"
+      "MW": "239.35 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Clobenzorex",
-      "MW": "259.77 g/mol"
+      "MW": "259.77 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "2-Aminotetralin",
@@ -473,10 +481,13 @@
     },
     {
       "Title": "Dextroamphetamine",
-      "MW": "135.21 g/mol"
+      "MW": "135.21 g/mol",
+      "Abr": null
     },
     {
-      "Title": "Levoamphetamine"
+      "Title": "Levoamphetamine",
+      "Abr": null,
+      "MW": null
     },
     {
       "Title": "N,N-Dimethylphenethylamine",
@@ -487,7 +498,8 @@
     },
     {
       "Title": "β-Phenylmethamphetamine",
-      "MW": "225.33 g/mol"
+      "MW": "225.33 g/mol",
+      "Abr": ""
     },
     {
       "Title": "4-Phenylmethamphetamine",
@@ -498,7 +510,8 @@
     },
     {
       "Title": "N-Formylamphetamine",
-      "MW": "163.22 g/mol"
+      "MW": "163.22 g/mol",
+      "Abr": null
     },
     {
       "Title": "N-Hydroxyamphetamine",
@@ -518,11 +531,13 @@
     },
     {
       "Title": "N-Acetylamphetamine",
-      "MW": "177.24 g/mol"
+      "MW": "177.24 g/mol",
+      "Abr": ""
     },
     {
       "Title": "α-Pyrrolidinopentiothiophenone",
-      "MW": "237.36 g/mol"
+      "MW": "237.36 g/mol",
+      "Abr": null
     },
     {
       "Title": "4'-Methoxy-α-pyrrolidinopropiophenone",
@@ -538,7 +553,8 @@
         "4-MeO-α-PVP",
         "MOPVP",
         "O-2417"
-      ]
+      ],
+      "MW": null
     },
     {
       "Title": "3',4'-Dimethoxy-α-pyrrolidinopentiophenone",
@@ -561,11 +577,13 @@
     },
     {
       "Title": "Dextromethamphetamine",
-      "MW": "149.23 g/mol"
+      "MW": "149.23 g/mol",
+      "Abr": null
     },
     {
       "Title": "Levomethamphetamine",
-      "MW": "149.23 g/mol"
+      "MW": "149.23 g/mol",
+      "Abr": null
     },
     {
       "Title": "Propylamphetamine",
@@ -589,7 +607,8 @@
     },
     {
       "Title": "β-Hydroxymethamphetamine",
-      "MW": "165.23 g/mol"
+      "MW": "165.23 g/mol",
+      "Abr": ""
     },
     {
       "Title": "2-Fluoromethamphetamine",
@@ -655,7 +674,8 @@
     },
     {
       "Title": "Mefenorex",
-      "MW": "211.73 g/mol"
+      "MW": "211.73 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Flucetorex",
@@ -671,7 +691,8 @@
     },
     {
       "Title": "Morforex",
-      "MW": "248.36 g/mol"
+      "MW": "248.36 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Fenproporex",
@@ -679,11 +700,13 @@
     },
     {
       "Title": "Acridorex",
-      "MW": "340.5 g/mol"
+      "MW": "340.5 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Fenethylline",
-      "MW": "341.4 g/mol"
+      "MW": "341.4 g/mol",
+      "Abr": ""
     },
     {
       "Title": "ZDCM-04",
@@ -691,7 +714,8 @@
     },
     {
       "Title": "Phenatine",
-      "MW": "240.30 g/mol"
+      "MW": "240.30 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Mesocarb",
@@ -702,7 +726,8 @@
     },
     {
       "Title": "Bromantane",
-      "MW": "306.24 g/mol"
+      "MW": "306.24 g/mol",
+      "Abr": ""
     },
     {
       "Title": "3,4-Methylenedioxyphenylaminobutane",
@@ -713,7 +738,8 @@
     },
     {
       "Title": "Pipradrol",
-      "MW": "267.4 g/mol"
+      "MW": "267.4 g/mol",
+      "Abr": null
     },
     {
       "Title": "Dexmethylphenidate",
@@ -795,7 +821,8 @@
     },
     {
       "Title": "Phacetoperane",
-      "MW": "233.31 g/mol"
+      "MW": "233.31 g/mol",
+      "Abr": null
     },
     {
       "Title": "1-Benzylpiperazine",
@@ -863,15 +890,20 @@
     },
     {
       "Title": "Diethylpropion",
-      "MW": "205.30 g/mol"
+      "MW": "205.30 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Bupropion",
-      "MW": "239.74 g/mol"
+      "MW": "239.74 g/mol",
+      "Abr": null
     },
     {
       "Title": "N-Methylbupropion",
-      "MW": "253.77 g/mol"
+      "MW": "253.77 g/mol",
+      "Abr": null
     },
     {
       "Title": "Clephedrone",
@@ -908,7 +940,10 @@
     },
     {
       "Title": "3',4'-Ethylene-α-pyrrolidinopentiophenone",
-      "MW": "257.37 g/mol"
+      "MW": "257.37 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "3',4'-Dichloro-α-pyrrolidinopentiophenone",
@@ -1000,11 +1035,17 @@
     },
     {
       "Title": "Troparil",
-      "MW": "259.34 g/mol"
+      "MW": "259.34 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Dimethocaine",
-      "MW": "278.39 g/mol"
+      "MW": "278.39 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Procaine",
@@ -1012,7 +1053,10 @@
     },
     {
       "Title": "Alfetamine",
-      "MW": "161.24 g/mol"
+      "MW": "161.24 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "5-Fluoro-tryptamine",
@@ -1021,7 +1065,11 @@
       ]
     },
     {
-      "Title": "Nikethamide"
+      "Title": "Nikethamide",
+      "Abr": [
+
+      ],
+      "MW": "178.23 g/mol"
     },
     {
       "Title": "3-FPO"
@@ -1065,6 +1113,49 @@
         "4-BMC"
       ],
       "MW": "242.11 g/mol"
+    },
+    {
+      "Title": "α,N-Dimethyl-3-(3,4-methylenedioxyphenyl)propylamine",
+      "Abr": "Homo-MDMA",
+      "MW": null
+    },
+    {
+      "Title": "4-Fluoro-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "FPVP",
+        "O-2370"
+      ],
+      "MW": "249.32 g/mol"
+    },
+    {
+      "Title": "4'-Dimethoxy-α-pyrrolidinopentiophenone",
+      "Abr": [
+        "4-MeO-α-PVP",
+        "MOPVP",
+        "O-2417"
+      ],
+      "MW": "291.4 g/mol"
+    },
+    {
+      "Title": "dl-Methamphetamine",
+      "Abr": [
+        "MA"
+      ],
+      "MW": "149.23 g/mol"
+    },
+    {
+      "Title": "DL-methamphetamine",
+      "Abr": [
+        "MA"
+      ],
+      "MW": "149.23 g/mol"
+    },
+    {
+      "Title": "N-Cyclohexylmethylone",
+      "Abr": [
+        "Cyputylone"
+      ],
+      "MW": "275.34 g/mol"
     }
   ],
   "Subjective Effects": {

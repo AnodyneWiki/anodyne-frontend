@@ -24,7 +24,18 @@
     },
     {
       "Title": "Histamine",
-      "MW": "111.15 g/mol"
+      "MW": "111.15 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Acetylcholine",
+      "Abr": "ACh",
+      "MW": "146.21 g/mol"
+    },
+    {
+      "Title": "Octopamine",
+      "Abr": "OCT",
+      "MW": "153.18 g/mol"
     }
   ]
 }

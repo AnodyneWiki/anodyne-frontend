@@ -1,0 +1,28 @@
+{
+  "Entries": [
+    {
+      "Title": "Benzocaine",
+      "Abr": "",
+      "MW": "165.19 g/mol"
+    },
+    {
+      "Title": "Disopyramide",
+      "Abr": "",
+      "MW": "339.5 g/mol"
+    },
+    {
+      "Title": "Dimethocaine",
+      "Abr": [
+
+      ],
+      "MW": "278.39 g/mol"
+    },
+    {
+      "Title": "Lidocaine",
+      "Abr": [
+
+      ],
+      "MW": "234.34 g/mol"
+    }
+  ]
+}

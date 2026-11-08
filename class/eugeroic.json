@@ -3,11 +3,13 @@
   "Entries": [
     {
       "Title": "Modafinil",
-      "MW": "273.4 g/mol"
+      "MW": "273.4 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Flmodafinil",
-      "MW": "309.3 g/mol"
+      "MW": "309.3 g/mol",
+      "Abr": ""
     }
   ]
 }

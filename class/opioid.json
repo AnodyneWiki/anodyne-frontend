@@ -140,7 +140,10 @@
     },
     {
       "Title": "Brorphine",
-      "MW": "400.3 g/mol"
+      "MW": "400.3 g/mol",
+      "Abr": [
+
+      ]
     },
     {
       "Title": "Levomethorphan",
@@ -151,19 +154,23 @@
     },
     {
       "Title": "Cyclazocine",
-      "MW": "271.4 g/mol"
+      "MW": "271.4 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Dezocine",
-      "MW": "245.36 g/mol"
+      "MW": "245.36 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Pentazocine",
-      "MW": "285.4 g/mol"
+      "MW": "285.4 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Levallorphan",
-      "MW": "283.4 g/mol"
+      "MW": "283.4 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Thebaine",
@@ -171,11 +178,13 @@
     },
     {
       "Title": "Codeinone",
-      "MW": "297.3 g/mol"
+      "MW": "297.3 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Codeine-6-glucuronide",
-      "MW": "475.5 g/mol"
+      "MW": "475.5 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Dihydromorphine",
@@ -183,7 +192,8 @@
     },
     {
       "Title": "Moxaverine",
-      "MW": "307.4 g/mol"
+      "MW": "307.4 g/mol",
+      "Abr": null
     },
     {
       "Title": "Oxymorphone",
@@ -212,15 +222,18 @@
     },
     {
       "Title": "Mitragynine",
-      "MW": "398.5 g/mol"
+      "MW": "398.5 g/mol",
+      "Abr": ""
     },
     {
       "Title": "7-Hydroxymitragynine",
-      "MW": "414.5 g/mol"
+      "MW": "414.5 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Speciociliatine",
-      "MW": "398.5 g/mol"
+      "MW": "398.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Desmetramadol",
@@ -240,7 +253,8 @@
     },
     {
       "Title": "Phenaridine",
-      "MW": "364.5 g/mol"
+      "MW": "364.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Mefentanyl",
@@ -251,23 +265,28 @@
     },
     {
       "Title": "Butyrylfentanyl",
-      "MW": "350.5 g/mol"
+      "MW": "350.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Isobutyrylfentanyl",
-      "MW": "350.5 g/mol"
+      "MW": "350.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Remifentanil",
-      "MW": "376.4 g/mol"
+      "MW": "376.4 g/mol",
+      "Abr": null
     },
     {
       "Title": "Acetylfentanyl",
-      "MW": "322.4 g/mol"
+      "MW": "322.4 g/mol",
+      "Abr": null
     },
     {
       "Title": "Acrylfentanyl",
-      "MW": "334.5 g/mol"
+      "MW": "334.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Furanylfentanyl",
@@ -278,19 +297,23 @@
     },
     {
       "Title": "Cyclopropylfentanyl",
-      "MW": "348.5 g/mol"
+      "MW": "348.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Cyclopentylfentanyl",
-      "MW": "376.5 g/mol"
+      "MW": "376.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "β-Methylfentanyl",
-      "MW": "350.5 g/mol"
+      "MW": "350.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "α-Methylfentanyl",
-      "MW": "350.5 g/mol"
+      "MW": "350.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "3',4'-Methylenedioxy-α-methylfentanyl",
@@ -307,7 +330,11 @@
       "MW": "475.4 g/mol"
     },
     {
-      "Title": "N-(2C-B-FLY)-Fentanyl"
+      "Title": "N-(2C-B-FLY)-Fentanyl",
+      "Abr": [
+
+      ],
+      "MW": null
     },
     {
       "Title": "Beta-Hydroxy-3-methylfentanyl",
@@ -326,15 +353,18 @@
     },
     {
       "Title": "Desnitazene",
-      "MW": "307.4 g/mol"
+      "MW": "307.4 g/mol",
+      "Abr": null
     },
     {
       "Title": "Menitazene",
-      "MW": "366.5 g/mol"
+      "MW": "366.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Enitazene",
-      "MW": "380.5 g/mol"
+      "MW": "380.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Propylnitazene",
@@ -345,131 +375,163 @@
     },
     {
       "Title": "Flunitazene",
-      "MW": "370.4 g/mol"
+      "MW": "370.4 g/mol",
+      "Abr": null
     },
     {
       "Title": "Etocyanozene",
-      "MW": "376.5 g/mol"
+      "MW": "376.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Etoacetazene",
-      "MW": "393.5 g/mol"
+      "MW": "393.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Etomethazene",
-      "MW": "365.5 g/mol"
+      "MW": "365.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Metodesnitazene",
-      "MW": "337.5 g/mol"
+      "MW": "337.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Etodesnitazene",
-      "MW": "351.5 g/mol"
+      "MW": "351.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Clonitazene",
-      "MW": "386.9 g/mol"
+      "MW": "386.9 g/mol",
+      "Abr": null
     },
     {
       "Title": "Bronitazene",
-      "MW": "431.3 g/mol"
+      "MW": "431.3 g/mol",
+      "Abr": null
     },
     {
       "Title": "Isotodesnitazene",
-      "MW": "365.5 g/mol"
+      "MW": "365.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Isotonitazene",
-      "MW": "410.5 g/mol"
+      "MW": "410.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "N-Desethyletonitazene",
-      "MW": "368.4 g/mol"
+      "MW": "368.4 g/mol",
+      "Abr": null
     },
     {
       "Title": "N-Desethylisotonitazene",
-      "MW": "382.5 g/mol"
+      "MW": "382.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "N-Desethylprotonitazene",
-      "MW": "382.5 g/mol"
+      "MW": "382.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Etonitazene",
-      "MW": "396.5 g/mol"
+      "MW": "396.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Fluetonitazene",
-      "MW": "414.5 g/mol"
+      "MW": "414.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Etoetonitazene",
-      "MW": "440.5 g/mol"
+      "MW": "440.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "N,N-Dimethyletonitazene",
-      "MW": "368.4 g/mol"
+      "MW": "368.4 g/mol",
+      "Abr": null
     },
     {
       "Title": "Metonitazene",
-      "MW": "382.5 g/mol"
+      "MW": "382.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Protodesnitazene",
-      "MW": "365.5 g/mol"
+      "MW": "365.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Protonitazene",
-      "MW": "410.5 g/mol"
+      "MW": "410.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Butonitazene",
-      "MW": "424.5 g/mol"
+      "MW": "424.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Isobutonitazene",
-      "MW": "424.5 g/mol"
+      "MW": "424.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Secbutonitazene",
-      "MW": "424.5 g/mol"
+      "MW": "424.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Protonitazepyne",
-      "MW": "408.5 g/mol"
+      "MW": "408.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Etonitazepyne",
-      "MW": "394.5 g/mol"
+      "MW": "394.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Fluetonitazepyne",
-      "MW": "412.5 g/mol"
+      "MW": "412.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Etodesnitazepyne",
-      "MW": "349.5 g/mol"
+      "MW": "349.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Metonitazepyne",
-      "MW": "380.4 g/mol"
+      "MW": "380.4 g/mol",
+      "Abr": null
     },
     {
       "Title": "Isotonitazepyne",
-      "MW": "408.5 g/mol"
+      "MW": "408.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Etonitazepipne",
-      "MW": "408.5 g/mol"
+      "MW": "408.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "Etodesnitazepipne",
-      "MW": "363.5 g/mol"
+      "MW": "363.5 g/mol",
+      "Abr": null
     },
     {
       "Title": "U-47700",
-      "MW": "329.3 g/mol"
+      "MW": "329.3 g/mol",
+      "Abr": ""
     },
     {
       "Title": "U-48800",
@@ -488,7 +550,8 @@
     },
     {
       "Title": "AH-7921",
-      "MW": "329.3 g/mol"
+      "MW": "329.3 g/mol",
+      "Abr": null
     },
     {
       "Title": "Nalbuphine",
@@ -509,6 +572,11 @@
     {
       "Title": "Endomorphin-2",
       "MW": "571.7 g/mol"
+    },
+    {
+      "Title": "Butodesnitazene",
+      "Abr": null,
+      "MW": null
     }
   ]
 }
