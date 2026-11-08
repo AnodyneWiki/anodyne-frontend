@@ -1670,6 +1670,21 @@
             ]
         },
         {
+            "Name": "Ambroxol",
+            "Salts": [
+                "hydrochloride"
+            ],
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "15mg"
+                }
+            ],
+            "Sources": [
+                "German pharmacy: Ambroxol-ratiopharm® Hustensaft"
+            ]
+        },
+        {
             "Name": "Nicoboxil",
             "Indication": [
                 "Selfharm thoughs",
@@ -1819,7 +1834,7 @@
             "Routes": [
                 {
                     "Name": "oral",
-                    "Dosage": "15mg"
+                    "Dosage": "7.5-15mg"
                 },
                 {
                     "Name": "sublingual",

@@ -305,6 +305,9 @@
       "Abr": ""
     },
     {
+      "Title": "Selective norepinephrine reuptake inhibitor"
+    },
+    {
       "Title": "Sodium channel blocker",
       "Abr": ""
     },
@@ -366,6 +369,12 @@
     },
     {
       "Title": "Anxiolytic"
+    },
+    {
+      "Title": "Proton pump inhibitor"
+    },
+    {
+      "Title": "Vasodilator"
     }
   ]
 }
