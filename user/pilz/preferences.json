@@ -1861,6 +1861,22 @@
             ]
         },
         {
+            "Name": "Lidocaine",
+            "Indication": "{wkp 'Sore_throat'}",
+            "Salts": [
+                "Hydrochloride-Monohydrate"
+            ],
+            "Routes": [
+                {
+                    "Name": "sublingual",
+                    "Dosage": "1mg"
+                }
+            ],
+            "Sources": [
+                "WICK AngiMed Mentholgeschmack 5 mg/1 mg Lutschtabletten"
+            ]
+        },
+        {
             "Name": "Benzocaine",
             "Indication": "{wkp 'Sore_throat'}",
             "Salts":[
@@ -1917,6 +1933,22 @@
             ],
             "Sources": [
                 "German Pharmacy: Dolo-Dobendan"
+            ]
+        },
+        {
+            "Name": "Chlorhexidine",
+            "Indication": "{wkp 'Sore_throat'}",
+            "Salts": [
+                "Dihydrochloride"
+            ],
+            "Routes": [
+                {
+                    "Name": "sublingual",
+                    "Dosage": "5mg"
+                }
+            ],
+            "Sources": [
+                "WICK AngiMed Mentholgeschmack 5 mg/1 mg Lutschtabletten"
             ]
         },
         {
