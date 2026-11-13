@@ -1,90 +1,6 @@
 {
+  "Name": "prodrug",
   "Entries": [
-    {
-      "Title": "Amphecloral",
-      "Abr": "",
-      "MW": "264.6 g/mol"
-    },
-    {
-      "Title": "Fenethylline",
-      "Abr": "",
-      "MW": "341.4 g/mol"
-    },
-    {
-      "Title": "Codeine",
-      "Abr": "",
-      "MW": "299.4 g/mol"
-    },
-    {
-      "Title": "Ibopamine",
-      "Abr": "",
-      "MW": "307.4 g/mol"
-    },
-    {
-      "Title": "Morforex",
-      "Abr": "",
-      "MW": "248.36 g/mol"
-    },
-    {
-      "Title": "Mefenorex",
-      "Abr": "",
-      "MW": "211.73 g/mol"
-    },
-    {
-      "Title": "4-Fluoroselegiline",
-      "Abr": "",
-      "MW": "205.27 g/mol"
-    },
-    {
-      "Title": "Butylamphetamine",
-      "Abr": "BA",
-      "MW": "191.31 g/mol"
-    },
-    {
-      "Title": "Dimethylamphetamine",
-      "Abr": "Metrotonin",
-      "MW": "163.26 g/mol"
-    },
-    {
-      "Title": "Lisdexamphetamine",
-      "Abr": "Vyvanse",
-      "MW": "263.38 g/mol"
-    },
-    {
-      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
-      "Abr": [
-        "Lys-MDMA"
-      ],
-      "MW": "321.4 g/mol"
-    },
-    {
-      "Title": "Diethylpropion",
-      "Abr": [
-
-      ],
-      "MW": "205.30 g/mol"
-    },
-    {
-      "Title": "Estradiol enantate",
-      "Abr": [
-        "EEN"
-      ],
-      "MW": "384.6 g/mol"
-    },
-    {
-      "Title": "Benzphetamine",
-      "Abr": [
-
-      ],
-      "MW": "239.35 g/mol"
-    },
-    {
-      "Title": "Clobenzorex",
-      "Abr": [
-
-      ],
-      "MW": "259.77 g/mol"
-    },
     {
       "Title": "1-Valeryl-D-lysergic acid diethylamide",
       "Abr": [
@@ -94,11 +10,117 @@
       "MW": "407.5 g/mol"
     },
     {
-      "Title": "Spironolactone",
+      "Title": "Benzphetamine",
+      "MW": "239.35 g/mol",
       "Abr": [
 
+      ]
+    },
+    {
+      "Title": "Clobenzorex",
+      "MW": "259.77 g/mol",
+      "Abr": [
+
+      ]
+    },
+    {
+      "Title": "Dimethylamphetamine",
+      "Abr": [
+        "Metrotonin"
       ],
-      "MW": "416.6 g/mol"
+      "MW": "163.26 g/mol"
+    },
+    {
+      "Title": "Ibopamine",
+      "MW": "307.4 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Butylamphetamine",
+      "Abr": [
+        "BA"
+      ],
+      "MW": "191.31 g/mol"
+    },
+    {
+      "Title": "Lisdexamphetamine",
+      "Abr": [
+        "Vyvanse"
+      ],
+      "MW": "263.38 g/mol"
+    },
+    {
+      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxyamphetamine",
+      "Abr": [
+        "Lys-MDA"
+      ]
+    },
+    {
+      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
+      "Abr": [
+        "Lys-MDMA"
+      ],
+      "MW": "321.4 g/mol"
+    },
+    {
+      "Title": "Mefenorex",
+      "MW": "211.73 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Morforex",
+      "MW": "248.36 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Fenproporex",
+      "MW": "188.27 g/mol"
+    },
+    {
+      "Title": "Amphecloral",
+      "MW": "264.6 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Fenethylline",
+      "MW": "341.4 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "ZDCM-04",
+      "MW": "435.9 g/mol"
+    },
+    {
+      "Title": "Cafedrine",
+      "MW": "357.4 g/mol"
+    },
+    {
+      "Title": "Theodrenaline",
+      "MW": "375.4 g/mol"
+    },
+    {
+      "Title": "4-Fluoroselegiline",
+      "MW": "205.27 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Rasagiline",
+      "MW": "171.24 g/mol",
+      "Abr": null
+    },
+    {
+      "Title": "Diethylpropion",
+      "MW": "205.30 g/mol",
+      "Abr": [
+
+      ]
+    },
+    {
+      "Title": "Psilacetin",
+      "Abr": [
+        "4-AcO-DMT"
+      ],
+      "MW": "246.30 g/mol"
     },
     {
       "Title": "Baeocystin",
@@ -108,9 +130,9 @@
       "MW": "270.22 g/mol"
     },
     {
-      "Title": "Rasagiline",
-      "Abr": null,
-      "MW": "171.24 g/mol"
+      "Title": "Codeine",
+      "MW": "299.4 g/mol",
+      "Abr": ""
     },
     {
       "Title": "Diacetylmorphine",
@@ -118,6 +140,66 @@
         "Heroin"
       ],
       "MW": "369.4 g/mol"
+    },
+    {
+      "Title": "Spironolactone",
+      "MW": "416.6 g/mol",
+      "Abr": [
+
+      ]
+    },
+    {
+      "Title": "Estradiol enantate",
+      "Abr": [
+        "EEN"
+      ],
+      "MW": "384.6 g/mol"
+    },
+    {
+      "Title": "1-Methyl-4-phenylpyridinium",
+      "Abr": "MPTP"
+    },
+    {
+      "Title": "Estradiol acetate",
+      "Abr": [
+        "EA"
+      ],
+      "MW": "314.4 g/mol"
+    },
+    {
+      "Title": "Estradiol benzoate",
+      "Abr": [
+        "EB"
+      ],
+      "MW": "376.5 g/mol"
+    },
+    {
+      "Title": "Estradiol cypionate",
+      "Abr": [
+        "EC"
+      ],
+      "MW": "396.6 g/mol"
+    },
+    {
+      "Title": "Estradiol dipropionate",
+      "Abr": [
+        "EDP"
+      ],
+      "MW": "384.5 g/mol"
+    },
+    {
+      "Title": "Estradiol undecylate",
+      "Abr": [
+        "EU"
+      ],
+      "MW": "440.7 g/mol"
+    },
+    {
+      "Title": "Estradiol valerate",
+      "Abr": [
+        "EV"
+      ],
+      "MW": "356.5 g/mol"
     }
   ]
 }

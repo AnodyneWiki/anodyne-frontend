@@ -2,26 +2,6 @@
   "Name": "antidepressant",
   "Entries": [
     {
-      "Title": "3,4-Methylenedioxyamphetamine",
-      "Abr": "MDA",
-      "MW": "179.22 g/mol"
-    },
-    {
-      "Title": "3,4-Methylenedioxyethamphetamine",
-      "Abr": "MDEA",
-      "MW": "207.27 g/mol"
-    },
-    {
-      "Title": "3,4-Methylenedioxymethamphetamine",
-      "Abr": "MDMA",
-      "MW": "193.24 g/mol"
-    },
-    {
-      "Title": "Aripiprazole",
-      "Abr": "",
-      "MW": "448.4 g/mol"
-    },
-    {
       "Title": "Bromazepam",
       "Abr": "",
       "MW": "316.15 g/mol"
@@ -30,16 +10,6 @@
       "Title": "Bupropion",
       "Abr": "",
       "MW": "239.74 g/mol"
-    },
-    {
-      "Title": "Codeine",
-      "Abr": "",
-      "MW": "299.4 g/mol"
-    },
-    {
-      "Title": "Dextromethamphetamine",
-      "Abr": "",
-      "MW": "149.23 g/mol"
     },
     {
       "Title": "Dimethyltryptamine",
@@ -57,11 +27,6 @@
       "MW": "309.33 g/mol"
     },
     {
-      "Title": "Hydromorphone",
-      "Abr": "",
-      "MW": "285.34 g/mol"
-    },
-    {
       "Title": "L-Phenylalanine",
       "Abr": "Phe",
       "MW": "165.19 g/mol"
@@ -77,19 +42,9 @@
       "MW": "181.19 g/mol"
     },
     {
-      "Title": "Levoamphetamine",
-      "Abr": "",
-      "MW": "135.21 g/mol"
-    },
-    {
       "Title": "Lysergic acid diethylamide",
       "Abr": "LSD",
       "MW": "323.4 g/mol"
-    },
-    {
-      "Title": "Methamphetamine",
-      "Abr": "MA",
-      "MW": "149.23 g/mol"
     },
     {
       "Title": "Mirtazapine",
@@ -127,9 +82,88 @@
       "MW": "437.0 g/mol"
     },
     {
-      "Title": "Tramadol",
-      "Abr": "",
-      "MW": "263.37 g/mol"
+      "Title": "Ketamine",
+      "Abr": [
+        "2-Cl-2'-Oxo-PCM",
+        "K"
+      ],
+      "MW": "237.72 g/mol"
+    },
+    {
+      "Title": "Dasotraline",
+      "MW": "292.2 g/mol"
+    },
+    {
+      "Title": "Fluvoxamine",
+      "MW": "318.33 g/mol"
+    },
+    {
+      "Title": "Paroxetine",
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "Venlafaxine",
+      "MW": "277.4 g/mol"
+    },
+    {
+      "Title": "Escitalopram",
+      "MW": "324.4 g/mol"
+    },
+    {
+      "Title": "Agomelatine",
+      "MW": "243.30 g/mol"
+    },
+    {
+      "Title": "Pheniprazine",
+      "MW": "150.22 g/mol"
+    },
+    {
+      "Title": "Phenelzine",
+      "MW": "136.19 g/mol"
+    },
+    {
+      "Title": "Oxaflozane",
+      "Abr": [
+        "CERM-1766",
+        "1766-CERM"
+      ],
+      "MW": "273.29 g/mol"
+    },
+    {
+      "Title": "Tranylcypromine",
+      "MW": "133.19 g/mol"
+    },
+    {
+      "Title": "Trimipramine",
+      "MW": "294.4 g/mol"
+    },
+    {
+      "Title": "Trazodone",
+      "MW": "371.9 g/mol"
+    },
+    {
+      "Title": "Mianserin",
+      "MW": "264.4 g/mol"
+    },
+    {
+      "Title": "Amoxapine",
+      "MW": "313.8 g/mol"
+    },
+    {
+      "Title": "Setiptiline",
+      "MW": "261.4 g/mol"
+    },
+    {
+      "Title": "Norfluoxetine",
+      "MW": "295.30 g/mol"
+    },
+    {
+      "Title": "Duloxetine",
+      "MW": "297.4 g/mol"
+    },
+    {
+      "Title": "Clomipramine",
+      "MW": "314.9 g/mol"
     }
   ],
   "Subjective Effects": {

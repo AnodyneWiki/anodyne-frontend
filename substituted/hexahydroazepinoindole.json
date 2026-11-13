@@ -4,12 +4,16 @@
   "Entries": [
     {
       "Title": "Noribogaminalog",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "186.25 g/mol"
     },
     {
       "Title": "Ibogaminalog",
-      "Abr": [],
+      "Abr": [
+
+      ],
       "MW": "200.28 g/mol"
     },
     {
@@ -47,6 +51,21 @@
         "PNU-22394A"
       ],
       "MW": "200.28 g/mol"
+    },
+    {
+      "Title": "Ibogaine",
+      "MW": "310.4 g/mol"
+    },
+    {
+      "Title": "18-Methoxycoronaridine",
+      "Abr": [
+        "18-MC"
+      ],
+      "MW": "368.5 g/mol"
+    },
+    {
+      "Title": "PHA-57378",
+      "MW": "228.29 g/mol"
     }
   ],
   "Parent": "tryptamine",

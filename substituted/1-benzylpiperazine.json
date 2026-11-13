@@ -11,22 +11,30 @@
     },
     {
       "Title": "4-Methylbenzylpiperazine",
-      "Abr": "4-MBZP",
+      "Abr": [
+        "4-MBZP"
+      ],
       "MW": "190.28 g/mol"
     },
     {
       "Title": "3-Methylbenzylpiperazine",
-      "Abr": "3-MBZP",
+      "Abr": [
+        "3-MBZP"
+      ],
       "MW": "190.28 g/mol"
     },
     {
       "Title": "3,4-Methylenedioxybenzylpiperazine",
-      "Abr": "MDBZP",
+      "Abr": [
+        "MDBZP"
+      ],
       "MW": "220.27 g/mol"
     },
     {
       "Title": "Piberaline",
-      "Abr": "EGYT-475",
+      "Abr": [
+        "EGYT-475"
+      ],
       "MW": "281.35 g/mol"
     },
     {
@@ -93,6 +101,21 @@
       "Title": "Quetiapine",
       "Abr": null,
       "MW": "383.5 g/mol"
+    },
+    {
+      "Title": "2,5-dimethoxy-4-bromobenzylpiperazine",
+      "Abr": [
+        "2C-B-BZP"
+      ],
+      "MW": "315.21 g/mol"
+    },
+    {
+      "Title": "Cetirizine",
+      "MW": "388.9 g/mol"
+    },
+    {
+      "Title": "Hydroxyzine",
+      "MW": "374.9 g/mol"
     }
   ],
   "Parents": [

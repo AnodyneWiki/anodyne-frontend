@@ -1,14 +1,15 @@
 {
+  "Name": "eugeroic",
   "Entries": [
     {
-      "Title": "Flmodafinil",
-      "Abr": "",
-      "MW": "309.3 g/mol"
+      "Title": "Modafinil",
+      "MW": "273.4 g/mol",
+      "Abr": ""
     },
     {
-      "Title": "Modafinil",
-      "Abr": "",
-      "MW": "273.4 g/mol"
+      "Title": "Flmodafinil",
+      "MW": "309.3 g/mol",
+      "Abr": ""
     }
   ]
 }

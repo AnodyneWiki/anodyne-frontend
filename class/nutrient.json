@@ -1,0 +1,14 @@
+{
+  "Name": "nutrient",
+  "Entries": [
+    {
+      "Title": "Magnesium",
+      "Abr": null,
+      "MW": "24.305 g/mol"
+    },
+    {
+      "Title": "Taurine",
+      "MW": "125.15 g/mol"
+    }
+  ]
+}

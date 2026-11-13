@@ -1,0 +1,33 @@
+{
+  "Name": "vasodilator",
+  "Entries": [
+    {
+      "Title": "Menthol",
+      "MW": "156.26 g/mol"
+    },
+    {
+      "Title": "Amyl nitrite",
+      "MW": "117.15 g/mol"
+    },
+    {
+      "Title": "Pentyl nitrite",
+      "MW": "117.15 g/mol"
+    },
+    {
+      "Title": "Butyl nitrite",
+      "MW": "103.12 g/mol"
+    },
+    {
+      "Title": "Isobutyl nitrite",
+      "MW": "103.12 g/mol"
+    },
+    {
+      "Title": "Isopropyl nitrite",
+      "MW": "89.09 g/mol"
+    },
+    {
+      "Title": "Hexyl nitrite",
+      "MW": "131.17 g/mol"
+    }
+  ]
+}

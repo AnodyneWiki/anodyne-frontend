@@ -223,13 +223,27 @@
     },
     {
       "Title": "Chloral hydrate",
-      "Abr": null,
-      "MW": "165.40 g/mol"
+      "MW": "165.40 g/mol",
+      "Abr": null
     },
     {
       "Title": "Chlorobutanol",
-      "Abr": null,
-      "MW": "177.45 g/mol"
+      "MW": "177.45 g/mol",
+      "Abr": null
+    },
+    {
+      "Title": "γ-Hydroxybutyric acid",
+      "Abr": [
+        "GHB"
+      ],
+      "MW": "104.10 g/mol"
+    },
+    {
+      "Title": "γ-Butyrolactone",
+      "Abr": [
+        "GBL"
+      ],
+      "MW": "86.09 g/mol"
     }
   ]
 }

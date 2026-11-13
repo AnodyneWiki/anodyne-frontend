@@ -44,7 +44,7 @@
     {
       "Title": "Tadalafil",
       "Abr": null,
-      "MW": "389.4"
+      "MW": "389.4 g/mol"
     },
     {
       "Title": "Speciociliatine",
@@ -60,6 +60,30 @@
       "Title": "Yohimbine",
       "Abr": null,
       "MW": "354.4 g/mol"
+    },
+    {
+      "Title": "7-Hydroxymitragynine",
+      "MW": "414.5 g/mol"
+    },
+    {
+      "Title": "Paynantheine",
+      "MW": "396.5 g/mol"
+    },
+    {
+      "Title": "Corynantheidine",
+      "MW": "368.5 g/mol"
+    },
+    {
+      "Title": "Speciogynine",
+      "MW": "398.5 g/mol"
+    },
+    {
+      "Title": "(-)-Mitralactonal",
+      "MW": "364.4 g/mol"
+    },
+    {
+      "Title": "Mitragynaline",
+      "MW": "380.4 g/mol"
     }
   ],
   "First": {

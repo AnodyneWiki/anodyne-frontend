@@ -1,10 +1,9 @@
 {
+  "Name": "disinfectant",
   "Entries": [
     {
       "Title": "Trichloroisocyanuric acid",
-      "Abr": [
-        "TCCA"
-      ],
+      "Abr": "TCCA",
       "MW": "232.41 g/mol"
     }
   ]

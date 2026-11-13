@@ -1,62 +1,6 @@
 {
+  "Name": "sedative",
   "Entries": [
-    {
-      "Title": "Methoxyqualone",
-      "Abr": "",
-      "MW": null
-    },
-    {
-      "Title": "Methaqualone",
-      "Abr": "Quaalude",
-      "MW": "250.29 g/mol"
-    },
-    {
-      "Title": "Diproqualone",
-      "Abr": "",
-      "MW": "234.25 g/mol"
-    },
-    {
-      "Title": "Etaqualone",
-      "Abr": "",
-      "MW": "264.32 g/mol"
-    },
-    {
-      "Title": "Methylmethaqualone",
-      "Abr": "MMQ",
-      "MW": "264.32 g/mol"
-    },
-    {
-      "Title": "Mecloqualone",
-      "Abr": "",
-      "MW": "270.71 g/mol"
-    },
-    {
-      "Title": "Afloqualone",
-      "Abr": "",
-      "MW": "283.30 g/mol"
-    },
-    {
-      "Title": "Nitromethaqualone",
-      "Abr": "",
-      "MW": "311.29 g/mol"
-    },
-    {
-      "Title": "Mebroqualone",
-      "Abr": "",
-      "MW": "315.16 g/mol"
-    },
-    {
-      "Title": "Cloroqualone",
-      "Abr": "",
-      "MW": "319.2 g/mol"
-    },
-    {
-      "Title": "Anhalonidine",
-      "Abr": [
-
-      ],
-      "MW": "223.27 g/mol"
-    },
     {
       "Title": "Pellotine",
       "Abr": [
@@ -65,11 +9,159 @@
       "MW": "237.29 g/mol"
     },
     {
+      "Title": "Anhalonidine",
+      "MW": "223.27 g/mol",
+      "Abr": [
+
+      ]
+    },
+    {
+      "Title": "Methaqualone",
+      "Abr": [
+        "Quaalude"
+      ],
+      "MW": "250.29 g/mol"
+    },
+    {
+      "Title": "Methoxyqualone",
+      "MW": "266.29 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Mecloqualone",
+      "MW": "270.71 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Mebroqualone",
+      "MW": "315.16 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Methylmethaqualone",
+      "Abr": [
+        "MMQ"
+      ],
+      "MW": "264.32 g/mol"
+    },
+    {
+      "Title": "Afloqualone",
+      "MW": "283.30 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Etaqualone",
+      "MW": "264.32 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Nitromethaqualone",
+      "MW": "311.29 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Cloroqualone",
+      "MW": "319.2 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Diproqualone",
+      "MW": "234.25 g/mol",
+      "Abr": ""
+    },
+    {
       "Title": "Fenadiazole",
       "Abr": [
 
       ],
       "MW": "162.15 g/mol"
+    },
+    {
+      "Title": "Chloral hydrate",
+      "MW": "165.40 g/mol"
+    },
+    {
+      "Title": "Tryptophan",
+      "Abr": [
+        "Trp"
+      ],
+      "MW": "204.22 g/mol"
+    },
+    {
+      "Title": "Midazolam",
+      "MW": "325.8 g/mol"
+    },
+    {
+      "Title": "Pentobarbital",
+      "MW": "226.27 g/mol"
+    },
+    {
+      "Title": "Phenobarbital",
+      "MW": "232.23 g/mol"
+    },
+    {
+      "Title": "Thiobarbital",
+      "MW": "200.26 g/mol"
+    },
+    {
+      "Title": "Thialbarbital",
+      "MW": "264.35 g/mol"
+    },
+    {
+      "Title": "Thiobutabarbital",
+      "MW": "228.31 g/mol"
+    },
+    {
+      "Title": "Thiotetrabarbital",
+      "MW": "256.37 g/mol"
+    },
+    {
+      "Title": "Brotizolam",
+      "MW": "393.7 g/mol"
+    },
+    {
+      "Title": "Clotizolam",
+      "MW": "349.2 g/mol"
+    },
+    {
+      "Title": "Deschloroclotizolam",
+      "MW": "314.8 g/mol"
+    },
+    {
+      "Title": "Deschloroetizolam",
+      "MW": "308.4 g/mol"
+    },
+    {
+      "Title": "Etizolam",
+      "MW": "342.8 g/mol"
+    },
+    {
+      "Title": "α-Hydroxyetizolam",
+      "MW": "358.8 g/mol"
+    },
+    {
+      "Title": "Flubrotizolam",
+      "MW": "377.2 g/mol"
+    },
+    {
+      "Title": "Fluclotizolam",
+      "MW": "332.8 g/mol"
+    },
+    {
+      "Title": "Fluetizolam",
+      "MW": "326.4 g/mol"
+    },
+    {
+      "Title": "Zolpidem",
+      "MW": "307.4 g/mol"
+    },
+    {
+      "Title": "Zopiclone",
+      "MW": "388.8 g/mol"
+    },
+    {
+      "Title": "Eszopiclone",
+      "MW": "388.8 g/mol"
     }
   ]
 }

@@ -1,14 +1,12 @@
 {
+  "Name": "neurotransmitter",
   "Entries": [
     {
-      "Title": "Tyramine",
-      "Abr": "",
-      "MW": "137.18 g/mol"
-    },
-    {
-      "Title": "Epinine",
-      "Abr": "",
-      "MW": "167.20 g/mol"
+      "Title": "Acetylcholine",
+      "Abr": [
+        "ACh"
+      ],
+      "MW": "146.21 g/mol"
     },
     {
       "Title": "Dopamine",
@@ -16,6 +14,34 @@
         "DA"
       ],
       "MW": "153.18 g/mol"
+    },
+    {
+      "Title": "Octopamine",
+      "Abr": [
+        "OCT"
+      ],
+      "MW": "153.18 g/mol"
+    },
+    {
+      "Title": "Epinine",
+      "MW": "167.20 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Tyramine",
+      "MW": "137.18 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Meta-Tyramine",
+      "MW": "137.18 g/mol"
+    },
+    {
+      "Title": "Serotonin",
+      "Abr": [
+        "5-HT"
+      ],
+      "MW": "176.21 g/mol"
     }
   ]
 }

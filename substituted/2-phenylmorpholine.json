@@ -60,7 +60,9 @@
     },
     {
       "Title": "2-(4-Bromo-2,5-dimethoxyphenyl)morpholine",
-      "Abr": "2C-B-morpholine",
+      "Abr": [
+        "2C-B-morpholine"
+      ],
       "MW": "302.16 g/mol"
     },
     {
@@ -72,7 +74,9 @@
     },
     {
       "Title": "4-Methylphenmetrazine",
-      "Abr": "4-MPM",
+      "Abr": [
+        "4-MPM"
+      ],
       "MW": "191.27 g/mol"
     },
     {
@@ -94,7 +98,8 @@
       "Title": "3-Fluorophenmetrazine",
       "Abr": [
         "3-FPM",
-        "3F-Phenmetrazine"
+        "3F-Phenmetrazine",
+        "PAL-593"
       ],
       "MW": "195.23 g/mol"
     },

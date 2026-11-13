@@ -2,7 +2,9 @@
   "Entries": [
     {
       "Title": "3,4-Dimethoxyphenethylamine",
-      "Abr": "DMPEA",
+      "Abr": [
+        "DMPEA"
+      ],
       "MW": "181.23 g/mol"
     },
     {
@@ -17,7 +19,9 @@
     },
     {
       "Title": "1-Naphthylaminopropane",
-      "Abr": "1-NAP",
+      "Abr": [
+        "1-NAP"
+      ],
       "MW": "185.26 g/mol"
     },
     {
@@ -84,6 +88,31 @@
       "Title": "Rasagiline",
       "Abr": null,
       "MW": "171.24 g/mol"
+    },
+    {
+      "Title": "Encyprate",
+      "Abr": [
+        "MO-1255"
+      ],
+      "MW": "219.28 g/mol"
+    },
+    {
+      "Title": "2-Naphthylaminopropane",
+      "Abr": [
+        "NAP"
+      ]
+    },
+    {
+      "Title": "Amiflamine",
+      "MW": "192.30 g/mol"
+    },
+    {
+      "Title": "3,4-Dichloroamphetamine",
+      "Abr": [
+        "3,4-DCA"
+      ],
+      "MW": "204.09 g/mol"
     }
-  ]
+  ],
+  "Name": "monoamine oxidase inhibitor"
 }

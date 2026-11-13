@@ -1,18 +1,27 @@
 {
+  "Name": "antinicotinic",
   "Entries": [
     {
-      "Title": "Para-Xylene",
+      "Title": "Toluene",
+      "MW": "92.14 g/mol",
       "Abr": [
 
-      ],
+      ]
+    },
+    {
+      "Title": "Para-Xylene",
+      "MW": "106.16 g/mol",
+      "Abr": [
+
+      ]
+    },
+    {
+      "Title": "Meta-Xylene",
       "MW": "106.16 g/mol"
     },
     {
-      "Title": "Toluene",
-      "Abr": [
-
-      ],
-      "MW": "92.14 g/mol"
+      "Title": "Ortho-Xylene",
+      "MW": "106.16 g/mol"
     }
   ]
 }

@@ -1,0 +1,16 @@
+{
+  "Name": "anxiolytic",
+  "Entries": [
+    {
+      "Title": "Clonidine",
+      "MW": "230.09 g/mol"
+    },
+    {
+      "Title": "Buspirone"
+    },
+    {
+      "Title": "Ipsapirone",
+      "MW": "401.5 g/mol"
+    }
+  ]
+}

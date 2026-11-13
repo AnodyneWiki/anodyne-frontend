@@ -1,11 +1,14 @@
 {
+  "Name": "antipyretics",
   "Entries": [
     {
-      "Title": "Metamizole",
-      "Abr": [
-
-      ],
-      "MW": "311.36 g/mol"
+      "Title": "Propyphenazone",
+      "Abr": null,
+      "MW": "230.31 g/mol"
+    },
+    {
+      "Title": "Flurbiprofen",
+      "MW": "244.26 g/mol"
     },
     {
       "Title": "Ampyrone",
@@ -13,6 +16,14 @@
 
       ],
       "MW": "203.24 g/mol"
+    },
+    {
+      "Title": "Metamizole",
+      "MW": "311.36 g/mol"
+    },
+    {
+      "Title": "Metacetamol",
+      "MW": "151.16 g/mol"
     }
   ]
 }

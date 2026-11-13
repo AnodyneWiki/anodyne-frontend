@@ -1,0 +1,16 @@
+{
+  "Name": "local anesthetic",
+  "Entries": [
+    {
+      "Title": "Cocaethylene",
+      "MW": "317.4 g/mol"
+    },
+    {
+      "Title": "Cocaine",
+      "Abr": [
+        "Coke"
+      ],
+      "MW": "303.35 g/mol"
+    }
+  ]
+}

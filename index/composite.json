@@ -10,7 +10,7 @@
 		{ "Name": "Speciogynine" },
 		{ "Name": "Mitraphylline" },
 		{ "Name": "Rhynchophylline" },
-		{ "Name": "Mitralactonal" },
+		{ "Name": "(-)-Mitralactonal" },
 		{ "Name": "Ajmalicine" },
 		{ "Name": "Mitragynaline" }
 	]
@@ -44,6 +44,23 @@
 	{ "Title": "Psilocybe cubensis", "Abr": [ "Magic mushroom", "Shroom" ], "Wkp": "Psilocybe cubensis", "Substances": [
 		{ "Name": "Psilocybin" },
 		{ "Name": "Psilocin" }
+	]
+	},
+	{
+		"Title": "Valerian", "Abr": [ "Valerian root extract" ], "Wkp": "Valerian_(herb)", "Substances": [
+			{ "Name": "(7S)-6,7-Dihydro-4,7-dimethyl-5H-cyclopenta(c)pyridine" },
+			{ "Name": "Pentanoic-Acid" },
+			{ "Name": "Gamma-Aminobutyric-Acid" },
+			{ "Name": "Isovaleric-Acid" },
+			{ "Name": "(-)-Valerenic acid" },
+			{ "Name": "Isovaleramide" },
+			{ "Name": "Bornyl acetate" }
+		]
+
+	},
+	{ "Title": "Panax ginseng", "Abr": [ "Ginseng", "Korean ginseng" ], "Wkp": "Panax ginseng", "Substances": [
+		{ "Name": "Ginsenoside Rb1" },
+		{ "Name": "Ginsenoside Rg1" }
 	]
 	},
 	{ "Title": "Borax combo", "Abr": [ "Blue Bliss", "Pink Star" ], "Wkp": "Borax combo", "Substances": [

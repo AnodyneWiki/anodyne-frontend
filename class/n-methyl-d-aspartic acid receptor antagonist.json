@@ -20,6 +20,18 @@
 
       ],
       "MW": "92.14 g/mol"
+    },
+    {
+      "Title": "Meta-Xylene",
+      "MW": "106.16 g/mol"
+    },
+    {
+      "Title": "Ortho-Xylene",
+      "MW": "106.16 g/mol"
+    },
+    {
+      "Title": "Xenon"
     }
-  ]
+  ],
+  "Name": "n-methyl-d-aspartic acid receptor antagonist"
 }

@@ -1,19 +1,18 @@
 {
+  "Name": "codrug",
   "Entries": [
     {
-      "Title": "Amphecloral",
-      "Abr": "",
-      "MW": "264.6 g/mol"
-    },
-    {
-      "Title": "Fenethylline",
-      "Abr": "",
-      "MW": "341.4 g/mol"
-    },
-    {
       "Title": "Lisdexamphetamine",
-      "Abr": "Vyvanse",
+      "Abr": [
+        "Vyvanse"
+      ],
       "MW": "263.38 g/mol"
+    },
+    {
+      "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxyamphetamine",
+      "Abr": [
+        "Lys-MDA"
+      ]
     },
     {
       "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
@@ -21,6 +20,28 @@
         "Lys-MDMA"
       ],
       "MW": "321.4 g/mol"
+    },
+    {
+      "Title": "Amphecloral",
+      "MW": "264.6 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "Fenethylline",
+      "MW": "341.4 g/mol",
+      "Abr": ""
+    },
+    {
+      "Title": "ZDCM-04",
+      "MW": "435.9 g/mol"
+    },
+    {
+      "Title": "Cafedrine",
+      "MW": "357.4 g/mol"
+    },
+    {
+      "Title": "Theodrenaline",
+      "MW": "375.4 g/mol"
     }
   ]
 }
