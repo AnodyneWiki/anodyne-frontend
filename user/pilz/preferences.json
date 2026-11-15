@@ -28,12 +28,12 @@
             "{wkp 'attention deficit hyperactivity disorder'} (diagnosed {icd 'F90.0'}F); self medicating since 09/2025",
             "{wkp 'Mixed anxiety–depressive disorder'} (diagnosed {icd 'F41.2'}G)",
             "{wkp 'Social_rejection#Rejection_sensitivity'} (self diagnosed)",
-            "{wkp 'Major_depressive_episode'}, probably F33.1 (since 04/2026); before that F33.0 (since 2022/2023) (self diagnosed), self medicated with {sub 'ketamine'} and {sub 'venlafaxine'}",
-            "Various sleeping issues/{wkp 'insomnia'} (self diagnosed); self medicated with {sub 'melatonin'}, {sub 'Magnesium'} bisglycinate, {sub 'Tryptophan'} and other sleep aids",
-            "reaccuring {xeff 'suicidal-ideation'}; since ~2024",
-            "{wkp 'Self-harm'} (cutting/hitting); since 10/2025; ",
-            "Arachnoid cyst, no symptoms (G93.0, diagnosed in 2019)",
-            "{wkp 'Nocturnal_enuresis'} (F98.0); stopped when got 14",
+            "{wkp 'Major_depressive_episode'}, probably {icd 'F33.1'} (since 04/2026); before that {icd 'F33.0'} (since 2022/2023) (self diagnosed), self medicated with {sub 'ketamine'} and {sub 'venlafaxine'}",
+            "Various sleeping issues ({icd 'G47'}) (self diagnosed); self medicated with {sub 'melatonin'}, {sub 'Magnesium'} bisglycinate, {sub 'Tryptophan'} and other sleep aids",
+            "reaccuring {xeff 'suicidal-ideation'} ({icd 'R45.8'}); since ~2024",
+            "{wkp 'Self-harm'} (cutting {icd 'X78'}/hitting {icd 'X79'}); since 10/2025; ",
+            "Arachnoid cyst, no symptoms ({icd 'G93.0'}, diagnosed in 2019)",
+            "{wkp 'Nocturnal_enuresis'} ({icd 'F98.0'}); stopped when got 14",
             "GI tract issues"
         ]
     },
@@ -217,9 +217,9 @@
                 "hydrochloride"
             ],
             "Indication": [
-                "{sev 'light'} {sub 'Nicotine'} addiction",
-                "{wkp 'Major_depressive_episode'}, probably F33.1 (self diagnosed)",
-                "{wkp 'Attention_deficit_hyperactivity_disorder'}"
+                "{sev 'light'} {sub 'Nicotine'} {icd 'F17.2'}",
+                "probably {icd 'F33.1'} (self diagnosed)",
+                "{icd 'F90.0'}"
             ],
             "Routes": [
                 {
@@ -246,7 +246,7 @@
         },
         {
             "Name": "3-FPO",
-            "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
+            "Indication": "{icd 'F90.0'}",
             "Salts": [
                 "hydrochloride"
             ],
@@ -285,7 +285,7 @@
         },
         {
             "Name": "Methylphenidate",
-            "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
+            "Indication": "{icd 'F90.0'}",
             "Salts": [
                 "hydrochloride"
             ],
@@ -347,7 +347,7 @@
         },
         {
             "Name": "Amphetamine",
-            "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
+            "Indication": "{icd 'F90.0'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -393,7 +393,7 @@
         },
         {
             "Name": "Lisdexamphetamine",
-            "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
+            "Indication": "{icd 'F90.0'}",
             "Salts": [
                 "dimesylate"
             ],
@@ -422,7 +422,7 @@
         },
         {
             "Name": "Thozalinone",
-            "Indication": "{wkp 'Attention_deficit_hyperactivity_disorder'}",
+            "Indication": "{icd 'F90.0'}",
             "Salts": [
                 "hydrochloride"
             ],
@@ -902,7 +902,7 @@
         },
         {
             "Name": "Tilidine",
-            "Indication": "Shoulder pain",
+            "Indication": "{icd 'M25.5'} (shoulder)",
             "Salts": [
                 "hydrochloride"
             ],
@@ -1047,7 +1047,7 @@
             "Name": "Alprazolam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{wkp 'Anxiety_disorder'}"
+                "{icd 'F41.2'}"
             ],
             "Routes": [
                 {
@@ -1072,8 +1072,8 @@
             "Name": "Lorazepam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{wkp 'Anxiety_disorder'}",
-                "Insomnia"
+                "{icd 'F41.2'}",
+                "{icd 'G47.0'}"
             ],
             "Routes":[
                 {
@@ -1100,7 +1100,7 @@
             "Name": "Clonazepam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{wkp 'Anxiety_disorder'}"
+                "{icd 'F41.2'}"
             ],
             "Routes":[
                 {
@@ -1124,7 +1124,7 @@
             "Name": "Oxazepam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{wkp 'Anxiety_disorder'}"
+                "{icd 'F41.2'}"
             ],
             "Routes": [
                 {
@@ -1140,7 +1140,7 @@
             "Name": "Midazolam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{wkp 'Anxiety_disorder'}"
+                "{icd 'F41.2'}"
             ],
             "Routes": [
                 {
@@ -1165,7 +1165,7 @@
             "Name": "Diazepam",
             "Indication": [
                 "{xeff 'anxiety'}",
-                "{wkp 'Anxiety_disorder'}"
+                "{icd 'F41.2'}"
             ],
             "Routes":[
                 {
@@ -1190,7 +1190,7 @@
         },
         {
             "Name": "Zolpidem",
-            "Indication": "{wkp 'Insomnia'}",
+            "Indication": "{icd 'G47.0'}",
             "Salts": [
                 "Tartrate"
             ],
@@ -1225,7 +1225,7 @@
         },
         {
             "Name": "Zopiclone",
-            "Indication": "{wkp 'Insomnia'}",
+            "Indication": "{icd 'G47.0'}",
             "Routes": [
                 {
                     "Name": "Oral",
@@ -1265,7 +1265,7 @@
         },
         {
             "Name": "Mometasone Furoate",
-            "Indication": "Toxic contact dermatitis",
+            "Indication": "{icd 'L24.9'}",
             "Routes": [
                 {
                     "Name": "transdermal"
@@ -1277,7 +1277,7 @@
         },
         {
             "Name": "Neomycin",
-            "Indication": "fresh self harm wound",
+            "Indication": "fresh {icd 'T14.1'} ({icd 'X78'})",
             "Routes": [
                 {
                     "Name": "transdermal"
@@ -1289,7 +1289,7 @@
         },
         {
             "Name": "Clostebol acetate",
-            "Indication": "fresh self harm wound",
+            "Indication": "fresh {icd 'T14.1'} ({icd 'X78'})",
             "Routes": [
                 {
                     "Name": "transdermal"
@@ -1328,7 +1328,7 @@
         },
         {
             "Name": "Estradiol enantate",
-            "Indication": "Male to female {wkp 'Transsexual'}",
+            "Indication": "Male to female {icd 'F64.0'}",
             "Routes": [
                 {
                     "Name": "intramuscular",
@@ -1348,7 +1348,7 @@
         },
         {
             "Name": "Estradiol",
-            "Indication": "Male to female {wkp 'Transsexual'}",
+            "Indication": "Male to female {icd 'F64.0'}",
             "Salts": [
                 "hemihydrate"
             ],
@@ -1369,7 +1369,7 @@
         },
         {
             "Name": "Cyproterone acetate",
-            "Indication":"Male to female {wkp 'Transsexual'}",
+            "Indication":"Male to female {icd 'F64.0'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -1386,7 +1386,7 @@
         },
         {
             "Name": "Progesterone",
-            "Indication": "Male to female {wkp 'Transsexual'}",
+            "Indication": "Male to female {icd 'F64.0'}",
             "Routes": [
                 {
                     "Name": "rectal",
@@ -1424,7 +1424,7 @@
         },
         {
             "Name": "Daridorexant",
-            "Indication":"{wkp 'Insomnia'}",
+            "Indication":"{icd 'G47.0'}",
             "Salts": [
                 "hydrochloride"
             ],
@@ -1447,7 +1447,7 @@
         },
         {
             "Name": "Diphenhydramine",
-            "Indication": "{wkp 'Insomnia'}",
+            "Indication": "{icd 'G47.0'}",
             "Salts":[
                 "hydrochloride"
             ],
@@ -1475,7 +1475,7 @@
         },
         {
             "Name": "Doxylamine",
-            "Indication": "{wkp 'Insomnia'}",
+            "Indication": "{icd 'G47.0'}",
             "Salts":[
                 "succinate"
             ],
@@ -1510,7 +1510,7 @@
             "Name": "Hydroxyzine",
             "Indication": [
                 "Hyperactivity before a flight",
-                "{wkp 'Anxiety_disorder'}"
+                "{icd 'F41.2'}"
             ],
             "Salts": [
                 "hydrochloride"
@@ -1539,7 +1539,7 @@
         },
         {
             "Name": "Promethazine",
-            "Indication": "{wkp 'Insomnia'}, acute {sev 'light'} discomfort/panic",
+            "Indication": "{icd 'G47.0'}, acute {sev 'light'} discomfort/panic",
             "Salts": [
                 "hydrochloride"
             ],
@@ -1629,9 +1629,9 @@
                 "sodium monohydrate"
             ],
             "Indication": [
-                "{sev 'moderate'} pain",
-                "pain caused by selfharm",
-                "neck tension"
+                "{sev 'moderate'} {icd 'R52.9'}",
+                "{icd 'R52.9'} caused by selfharm",
+                "{icd 'M54.2'}"
             ],
             "Routes": [
                 {
@@ -1652,7 +1652,7 @@
         },
         {
             "Name": "Propyphenazone",
-            "Indication": "{sev 'moderate'} to {sev 'strong'} {wkp 'Pain'}",
+            "Indication": "{sev 'moderate'} to {sev 'strong'} {icd 'R52.9'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -1665,7 +1665,7 @@
         },
         {
             "Name": "Panthenol",
-            "Indication": "self harm wound",
+            "Indication": "{icd 'T14.1'} ({icd 'X78'})",
             "Routes": [
                 {
                     "Name": "transdermal"
@@ -1706,8 +1706,8 @@
         {
             "Name": "Nicoboxil",
             "Indication": [
-                "Selfharm thoughs",
-                "neck tension"
+                "{icd 'R45.8'}",
+                "{icd 'M54.2'}"
             ],
             "Routes": [
                 {
@@ -1724,8 +1724,8 @@
         {
             "Name": "Nonivamide",
             "Indication": [
-                "Selfharm thoughs",
-                "neck tension"
+                "{icd 'R45.8'}",
+                "{icd 'M54.2'}"
             ],
             "Routes": [
                 {
@@ -1740,9 +1740,9 @@
             "Name": "Venlafaxine",
             "Indication": [
                 "unstable mood",
-                "{wkp 'Major_depressive_episode'}",
+                "{icd 'F33'}",
                 "random suicidal breakdowns",
-                "{wkp 'Anxiety_disorder'}"
+                "{icd 'F41.2'}"
             ],
             "Salts": [
                 "hydrochloride"
@@ -1800,8 +1800,8 @@
         {
             "Name": "Sertraline",
             "Indication": [ 
-                "{wkp 'Major_depressive_episode'}",
-                "{wkp 'Anxiety_disorder'}"
+                "{icd 'F33'}",
+                "{icd 'F41.2'}"
             ],
             "Salts": [
                 "hydrochloride"
@@ -1852,8 +1852,8 @@
         {
             "Name": "Mirtazapine",
             "Indication": [ 
-                "{wkp 'Major_depressive_episode'}",
-                "{wkp 'Anxiety_disorder'}"
+                "{icd 'F33'}",
+                "{icd 'F41.2'}"
             ],
             "Salts": [
                 "Freebase"
@@ -1889,7 +1889,7 @@
         },
         {
             "Name": "Lidocaine",
-            "Indication": "{wkp 'Sore_throat'}",
+            "Indication": "{icd 'J02.9'}",
             "Salts": [
                 "Hydrochloride-Monohydrate"
             ],
@@ -1905,7 +1905,7 @@
         },
         {
             "Name": "Benzocaine",
-            "Indication": "{wkp 'Sore_throat'}",
+            "Indication": "{icd 'J02.9'}",
             "Salts":[
                 "Freebase"
             ],
@@ -1944,7 +1944,7 @@
         },
         {
             "Name": "Cetylpyridinium chloride",
-            "Indication": "{wkp 'Sore_throat'}",
+            "Indication": "{icd 'J02.9'}",
             "Routes":[
                 {
                     "Name": "oral",
@@ -1964,7 +1964,7 @@
         },
         {
             "Name": "Chlorhexidine",
-            "Indication": "{wkp 'Sore_throat'}",
+            "Indication": "{icd 'J02.9'}",
             "Salts": [
                 "Dihydrochloride"
             ],
@@ -1994,7 +1994,7 @@
         },
         {
             "Name": "Domperidone",
-            "Indication": "{xeff 'nausea'}",
+            "Indication": "{icd 'R11'}",
             "Routes": [
                 {
                 "Name": "Oral",
@@ -2010,7 +2010,7 @@
             "Salts": [
                 "Citrate"
             ],
-            "Indication": "{sev 'light'} {wkp 'Erectile_dysfunction'}",
+            "Indication": "{sev 'light'} {icd 'N48.4'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -2043,7 +2043,7 @@
         },
         {
             "Name": "Tadalafil",
-            "Indication": "{sev 'light'} {wkp 'Erectile_dysfunction'}",
+            "Indication": "{sev 'light'} {icd 'N48.4'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -2072,7 +2072,7 @@
                 "Freebase",
                 "Lysine"
             ],
-            "Indication": "{sev 'light'} pain",
+            "Indication": "{sev 'light'} {icd 'R52.9'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -2088,7 +2088,7 @@
         },
         {
             "Name": "Ketoprofen",
-            "Indication": "{sev 'moderate'} {wkp 'Pain'}",
+            "Indication": "{sev 'moderate'} {icd 'R52.9'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -2107,7 +2107,7 @@
         },
         {
             "Name": "Diclofenac",
-            "Indication": "neck tension",
+            "Indication": "{icd 'M54.2'}",
             "Salts": [
                 "Sodium"
             ],
@@ -2122,7 +2122,7 @@
         },
         {
             "Name": "Paracetamol",
-            "Indication": "{sev 'light'} pain",
+            "Indication": "{sev 'light'} {icd 'R52.9'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -2144,7 +2144,7 @@
         },
         {
             "Name": "Dexibuprofen",
-            "Indication": "{sev 'light'} pain",
+            "Indication": "{sev 'light'} {icd 'R52.9'}",
             "Routes":[
                 {
                     "Name": "Oral",
@@ -2170,9 +2170,9 @@
             "Name": "Lamotrigine",
             "Indication": [
                 "unstable mood",
-                "depression",
+                "{icd 'F33'}",
                 "random suicidal breakdowns",
-                "{wkp 'Anxiety_disorder'}"
+                "{icd 'F41.2'}"
             ],
             "Routes":[
                 {
@@ -2212,7 +2212,7 @@
             "Name": "Pregabalin",
             "Indication":[
                 "{xeff 'anxiety'}",
-                "{wkp 'Anxiety_disorder'}"
+                "{icd 'F41.2'}"
             ],
             "Routes": [
                 {
@@ -2265,7 +2265,7 @@
         },
         {
             "Name": "Ketamine",
-            "Indication": "{xeff 'depression'}",
+            "Indication": "{icd 'F33'}",
             "Salts": [
                 "hydrochloride"
             ],
@@ -2371,7 +2371,7 @@
         },
         {
             "Name": "Tryptophan",
-            "Indication": "{wkp 'Insomnia'}",
+            "Indication": "{icd 'G47.0'}",
             "Routes": [
                 {
                     "Name": "oral",
@@ -2457,7 +2457,7 @@
         },
         {
             "Name": "Melatonin",
-            "Indication": "{wkp 'Insomnia'}",
+            "Indication": "{icd 'G47.0'}",
             "Routes": [
                 {
                     "Name": "oral",
