@@ -129,6 +129,9 @@
 	{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "pre" "administration"))}}
 {{- end}}
 
+{{define "icd" -}}
+	{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "cls" "logo" "pre" "https://icd.who.int/browse10/2019/en#"))}}
+{{- end}}
 {{define "wkp" -}}
 	{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "cls" "logo" "pre" "https://en.wikipedia.org/wiki"))}}
 {{- end}}

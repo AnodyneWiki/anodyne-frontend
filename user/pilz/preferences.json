@@ -23,10 +23,10 @@
             "declarative configuration of computers"
         ],
         "Attributes": [
-            "{wkp 'asperger syndrome'} (diagnosed F84.5G); diagnosed as a child",
-            "{wkp 'transsexual'} (diagnosed F64.0G); on HRT since 04/2023",
-            "{wkp 'attention deficit hyperactivity disorder'} (diagnosed F90.0F); self medicating since 09/2025",
-            "{wkp 'Mixed anxiety–depressive disorder'} (diagnosed F41.2F)",
+            "{wkp 'asperger syndrome'} (diagnosed {icd 'F84.5'}G); diagnosed as a child",
+            "{wkp 'transsexual'} (diagnosed {icd 'F64.0'}G); on HRT since 04/2023",
+            "{wkp 'attention deficit hyperactivity disorder'} (diagnosed {icd 'F90.0'}F); self medicating since 09/2025",
+            "{wkp 'Mixed anxiety–depressive disorder'} (diagnosed {icd 'F41.2'}G)",
             "{wkp 'Social_rejection#Rejection_sensitivity'} (self diagnosed)",
             "{wkp 'Major_depressive_episode'}, probably F33.1 (since 04/2026); before that F33.0 (since 2022/2023) (self diagnosed), self medicated with {sub 'ketamine'} and {sub 'venlafaxine'}",
             "Various sleeping issues/{wkp 'insomnia'} (self diagnosed); self medicated with {sub 'melatonin'}, {sub 'Magnesium'} bisglycinate, {sub 'Tryptophan'} and other sleep aids",
@@ -1577,6 +1577,25 @@
             ]
         },
         {
+            "Name": "Amisulpride",
+            "Routes": [
+                {
+                    "Name": "oral",
+                    "Dosage": "50mg"
+                }
+            ],
+            "Effects": [
+                "{sev 'light'}/{sev 'moderate'} {xeff 'sedation'}",
+                "{sev 'light'} {xeff 'cognitive-euphoria'}"
+            ],
+            "Notes": [
+                "didn't expect this to be this compfy"
+            ],
+            "Sources": [
+                "Amisulprid PUREN 100 mg"
+            ] 
+        },
+        {
             "Name": "Quetiapine",
             "Salts": [
                 "Hemifumarate"
@@ -1798,6 +1817,10 @@
                 "{sev 'light'} {xeff 'anxiety-suppression'}"
             ],
             "Adverse": [
+                "{sev 'moderate'} weird {xeff 'stimulation'} during the day",
+                "{sev 'light'} daytime {xeff 'sleepiness'}",
+                "{sev 'moderate'} {xeff 'suicidal-ideation'}",
+                "chemical burn(?)/neck pain after taking a tablet without water",
                 "{xeff 'derealization'}; feeling disconnected from everything",
                 "waking up during the night"
             ],
@@ -1820,6 +1843,10 @@
             ],
             "Sources": [
                 "German pharmacy: Sertralin Amarox 50 mg tablets"
+            ],
+            "Notes": [
+                "low dose {sev 'venlafaxine'} works WAY better for me",
+                 "no {xeff 'decreased-libido'} or {wkp 'Erectile_dysfunction'}"
             ]
         },
         {
