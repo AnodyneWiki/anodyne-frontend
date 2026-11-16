@@ -44,16 +44,12 @@
     },
     {
       "Title": "Hexahydrocannabinol",
-      "Abr": [
-        "HHC"
-      ],
+      "Abr": ["HHC"],
       "MW": "316.5 g/mol"
     },
     {
       "Title": "10-Hydroxyhexahydrocannabinol",
-      "Abr": [
-        "10-OH-HHC"
-      ],
+      "Abr": ["10-OH-HHC"],
       "MW": "332.5 g/mol"
     },
     {
@@ -63,9 +59,7 @@
     },
     {
       "Title": "Dichlorodiphenyltrichloroethane",
-      "Abr": [
-        "DDT"
-      ],
+      "Abr": ["DDT"],
       "MW": "354.5 g/mol"
     },
     {
@@ -75,9 +69,5 @@
     }
   ],
   "Children": [],
-  "Analogues": [
-    "aniline",
-    "cyclohexylamine",
-    "phenol"
-  ]
+  "Analogues": ["aniline", "cyclohexylamine", "phenol"]
 }

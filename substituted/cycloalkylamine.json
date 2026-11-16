@@ -28,16 +28,11 @@
     }
   ],
   "Parent": "amine",
-  "Children": [
-    "cyclohexylamine"
-  ],
+  "Children": ["cyclohexylamine"],
   "First": {
     "Title": "Cyclohexylethylamine",
     "Abr": null,
     "MW": "127.23 g/mol"
   },
-  "Analogues": [
-    "arylalkylamine",
-    "annulenylalkylamine"
-  ]
+  "Analogues": ["arylalkylamine", "annulenylalkylamine"]
 }

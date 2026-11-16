@@ -3,9 +3,7 @@
   "Entries": [
     {
       "Title": "1-Aminoindane",
-      "Abr": [
-        "1-AI"
-      ],
+      "Abr": ["1-AI"],
       "MW": "133.19 g/mol"
     },
     {
@@ -15,9 +13,7 @@
     },
     {
       "Title": "Indatraline",
-      "Abr": [
-        "Lu 19-005"
-      ],
+      "Abr": ["Lu 19-005"],
       "MW": "292.2 g/mol"
     },
     {
@@ -27,14 +23,9 @@
     },
     {
       "Title": "Ladostigil",
-      "Abr": [
-        "TV-3326"
-      ],
+      "Abr": ["TV-3326"],
       "MW": "272.34 g/mol"
     }
   ],
-  "Parents": [
-    "benzylamine",
-    "phenylpropylamine"
-  ]
+  "Parents": ["benzylamine", "phenylpropylamine"]
 }

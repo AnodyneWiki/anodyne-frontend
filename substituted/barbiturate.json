@@ -62,11 +62,6 @@
     "Abr": "",
     "MW": "184.19 g/mol"
   },
-  "Analogues": [
-    "thiobarbiturate"
-  ],
-  "Parents": [
-    "amine",
-    "ketone"
-  ]
+  "Analogues": ["thiobarbiturate"],
+  "Parents": ["amine", "ketone"]
 }

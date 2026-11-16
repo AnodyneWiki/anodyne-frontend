@@ -159,9 +159,7 @@
     },
     {
       "Title": "Propylnitazene",
-      "Abr": [
-        "PPZ"
-      ],
+      "Abr": ["PPZ"],
       "MW": "394.5 g/mol"
     },
     {
@@ -191,9 +189,6 @@
     }
   ],
   "Parent": "benzimidazole",
-  "Children": [
-    "nitazepyne",
-    "nitazepipne"
-  ],
+  "Children": ["nitazepyne", "nitazepipne"],
   "Wikipedia": "List of benzimidazole opioids"
 }

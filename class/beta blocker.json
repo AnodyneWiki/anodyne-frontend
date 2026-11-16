@@ -4,6 +4,11 @@
       "Title": "Butaxamine",
       "Abr": "",
       "MW": "267.36 g/mol"
+    },
+    {
+      "Title": "Propranolol",
+      "MW": "259.34 g/mol"
     }
-  ]
+  ],
+  "Name": "beta blocker"
 }

@@ -1,10 +1,9 @@
 {
+  "Name": "byproduct",
   "Entries": [
     {
       "Title": "Dibenzylpiperazine",
-      "Abr": [
-        "DBZP"
-      ],
+      "Abr": ["DBZP"],
       "MW": "266.4 g/mol"
     }
   ]

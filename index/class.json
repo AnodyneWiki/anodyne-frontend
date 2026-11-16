@@ -286,6 +286,9 @@
       "Abr": ""
     },
     {
+      "Title": "Tricyclic antidepressant"
+    },
+    {
       "Title": "Serotonergic antidepressant",
       "Abr": ""
     },
@@ -300,6 +303,9 @@
     {
       "Title": "Serotonin-norepinephrine reuptake inhibitor",
       "Abr": ""
+    },
+    {
+      "Title": "Selective norepinephrine reuptake inhibitor"
     },
     {
       "Title": "Sodium channel blocker",
@@ -344,6 +350,31 @@
     {
       "Title": "Κ-opioid agonist",
       "Abr": ""
+    },
+    {
+      "Title": "Nasal Decongestant",
+      "Abr": ""
+    },
+    {
+      "Title": "Antihistamine"
+    },
+    {
+      "Title": "Oneirogen"
+    },
+    {
+      "Title": "hypnotic"
+    },
+    {
+      "Title": "Anticonvulsant"
+    },
+    {
+      "Title": "Anxiolytic"
+    },
+    {
+      "Title": "Proton pump inhibitor"
+    },
+    {
+      "Title": "Vasodilator"
     }
   ]
 }

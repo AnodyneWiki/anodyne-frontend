@@ -13,14 +13,6 @@
     "arylcyclohexylmorpholine",
     "morpholinylethylindole"
   ],
-  "Analogues": [
-    "pyrrolidine",
-    "pyridine",
-    "piperidine",
-    "piperazine"
-  ],
-  "Parents": [
-    "amine",
-    "ether"
-  ]
+  "Analogues": ["pyrrolidine", "pyridine", "piperidine", "piperazine"],
+  "Parents": ["amine", "ether"]
 }

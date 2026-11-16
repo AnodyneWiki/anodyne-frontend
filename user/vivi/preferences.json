@@ -1,8 +1,6 @@
 {
   "Title": "vivi",
-  "Name": [
-    "vivi"
-  ],
+  "Name": ["vivi"],
   "About": "{p}Just a Parisian girl looking to bring some life wherever I go𓂃۶ৎ{br}┆┆┆┆┆{br}┆┆  ࣪ ˖☆ ࣪⭑┆ ݁˖ .☆ . ݁ ˖                                                  𑣲⋆｡˚ Math, Disso and Journaling ⋅°❀⋆.ೃ࿔*:･{br}☆⊹ ࣪ ┆ ˖ ࣪⊹ ࣪ ★ ⋆.˚  ⊹ ࣪{br}   ࣪ ˖⋆˚★ ₊ ⊹  ࣪˖ ࣪ ₊  ࣪ ˖{br}. ݁⊹ ࣪ ˖ ࣪ ˖{br}.  ݁  ݁{br}. {Ep}",
   "Birth": "2006-09",
   "Location": "France",
@@ -110,29 +108,25 @@
           "Duration": "3 hours 30 minutes"
         }
       ],
-      "Sources": [
-          "Research-chemical-vendor Netherlands"
-      ],
-      "Indication": [
-          "{xeff 'Introspection'}"
-      ],
+      "Sources": ["Research-chemical-vendor Netherlands"],
+      "Indication": ["{xeff 'Introspection'}"],
       "Effects": [
-          "{xeff 'colour-enhancement'}",
-          "{xeff 'visual-acuity-enhancement'}",
-          "{sev 'light'} {xeff 'wakefulness'}",
-          "{xeff 'thought-connectivity'}",
-          "{xeff 'texture-liquidation'}",
-          "{xeff 'increased-music-appreciation'}",
-          "{xeff 'rejuvenation'}",
-          "{xeff 'Introspection'}",
-          "{xeff 'spontaneous-tactile-sensations'}",
-          "{xeff 'increased-libido'}"
+        "{xeff 'colour-enhancement'}",
+        "{xeff 'visual-acuity-enhancement'}",
+        "{sev 'light'} {xeff 'wakefulness'}",
+        "{xeff 'thought-connectivity'}",
+        "{xeff 'texture-liquidation'}",
+        "{xeff 'increased-music-appreciation'}",
+        "{xeff 'rejuvenation'}",
+        "{xeff 'Introspection'}",
+        "{xeff 'spontaneous-tactile-sensations'}",
+        "{xeff 'increased-libido'}"
       ],
-       "Notes": [
-         "Durations found on empty stomach",
-         "Best paired antiemetic",
-         "Epiphany during totality of Aug 12, 2026 eclipse"
-       ]
+      "Notes": [
+        "Durations found on empty stomach",
+        "Best paired antiemetic",
+        "Epiphany during totality of Aug 12, 2026 eclipse"
+      ]
     },
     {
       "Name": "5-(N-methyl-2-aminopropyl)benzofuran",

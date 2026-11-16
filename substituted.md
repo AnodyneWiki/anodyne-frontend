@@ -32,11 +32,14 @@
 
 {{if any $ivars.Parent $ivars.Parents -}}
 ## See also
+
 {{with $ivars.Parent}}- {{template "sl" .}}{{end}}
 {{with $ivars.Parents}}{{range .}}
+
 - {{template "sl" .}}{{end}}{{end}}
 {{- end}}
 
 {{with $ivars.Wikipedia}}## External links
+
 - <a class=logo href='https://en.wikipedia.org/wiki/{{.}}'>{{with $ivars.Position}}{{.}}-{{end}}Substituted {{$ivars.Name}}s (Wikipedia)</a>
 {{- end}}

@@ -3,51 +3,42 @@
   "Entries": [
     {
       "Title": "1-Benzylpiperazine",
-      "Abr": [
-        "BZP",
-        "1-BZP"
-      ],
+      "Abr": ["BZP", "1-BZP"],
       "MW": "176.26 g/mol"
     },
     {
       "Title": "4-Methylbenzylpiperazine",
-      "Abr": "4-MBZP",
+      "Abr": ["4-MBZP"],
       "MW": "190.28 g/mol"
     },
     {
       "Title": "3-Methylbenzylpiperazine",
-      "Abr": "3-MBZP",
+      "Abr": ["3-MBZP"],
       "MW": "190.28 g/mol"
     },
     {
       "Title": "3,4-Methylenedioxybenzylpiperazine",
-      "Abr": "MDBZP",
+      "Abr": ["MDBZP"],
       "MW": "220.27 g/mol"
     },
     {
       "Title": "Piberaline",
-      "Abr": "EGYT-475",
+      "Abr": ["EGYT-475"],
       "MW": "281.35 g/mol"
     },
     {
       "Title": "Amoxapine",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "313.8 g/mol"
     },
     {
       "Title": "Methylbenzylpiperazine",
-      "Abr": [
-        "MBZP"
-      ],
+      "Abr": ["MBZP"],
       "MW": "190.28 g/mol"
     },
     {
       "Title": "Dibenzylpiperazine",
-      "Abr": [
-        "DBZP"
-      ],
+      "Abr": ["DBZP"],
       "MW": "266.4 g/mol"
     },
     {
@@ -62,41 +53,42 @@
     },
     {
       "Title": "Benzoylpiperazine",
-      "Abr": [
-        "BZOP"
-      ],
+      "Abr": ["BZOP"],
       "MW": "190.24 g/mol"
     },
     {
       "Title": "Methylbenzoylpiperazine",
-      "Abr": [
-        "MBZOP"
-      ],
+      "Abr": ["MBZOP"],
       "MW": "204.27 g/mol"
     },
     {
       "Title": "Methoxypiperamide",
-      "Abr": [
-        "MeOP",
-        "MEXP"
-      ],
+      "Abr": ["MeOP", "MEXP"],
       "MW": "234.29 g/mol"
     },
     {
       "Title": "Sunifiram",
-      "Abr": [
-        "DM-235"
-      ],
+      "Abr": ["DM-235"],
       "MW": "246.30 g/mol"
     },
     {
       "Title": "Quetiapine",
       "Abr": null,
       "MW": "383.5 g/mol"
+    },
+    {
+      "Title": "2,5-dimethoxy-4-bromobenzylpiperazine",
+      "Abr": ["2C-B-BZP"],
+      "MW": "315.21 g/mol"
+    },
+    {
+      "Title": "Cetirizine",
+      "MW": "388.9 g/mol"
+    },
+    {
+      "Title": "Hydroxyzine",
+      "MW": "374.9 g/mol"
     }
   ],
-  "Parents": [
-    "benzylamine",
-    "piperazine"
-  ]
+  "Parents": ["benzylamine", "piperazine"]
 }

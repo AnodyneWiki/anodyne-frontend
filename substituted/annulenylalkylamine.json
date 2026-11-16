@@ -13,11 +13,6 @@
     "Abr": "",
     "MW": "135.21 g/mol"
   },
-  "Analogues": [
-    "arylalkylamine",
-    "cycloalkylamine"
-  ],
-  "Parents": [
-    "amine"
-  ]
+  "Analogues": ["arylalkylamine", "cycloalkylamine"],
+  "Parents": ["amine"]
 }

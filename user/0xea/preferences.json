@@ -1,15 +1,10 @@
 {
   "Title": "0xea",
-  "Name": [
-    "Xea",
-    "Christie"
-  ],
+  "Name": ["Xea", "Christie"],
   "About": "{p}Hyia~!,{Ep}{p}I am the creator of AnodyneWiki.{Ep}{p}I spend a year moderating PsychonautWiki before a falling out with the rest of the moderation team.{Ep}{p}{user 'a1ko'} is my partner.{Ep}{p}Feel free to chat me up! <3{Ep}",
   "Birth": "2005-02",
   "Location": "Germany",
-  "Weight": [
-    "2026: 74kg"
-  ],
+  "Weight": ["2026: 74kg"],
   "Links": [
     {
       "Name": "Email",
@@ -73,13 +68,8 @@
   "Preferences": [],
   "Synergy": [
     {
-      "Substances": [
-        "Amphetamine",
-        "Bicarbonate"
-      ],
-      "Effects": [
-        "longer duration especially of amphetamines adrenic effects"
-      ],
+      "Substances": ["Amphetamine", "Bicarbonate"],
+      "Effects": ["longer duration especially of amphetamines adrenic effects"],
       "Note": "bicarbonate raising urinary pH decreases amphetamine excretion"
     }
   ],
@@ -95,12 +85,8 @@
           "Comeup": "5 minutes"
         }
       ],
-      "Salts": [
-        "Sulfate"
-      ],
-      "Sources": [
-        "Salbutamol inhaler: Ratiopharm"
-      ],
+      "Salts": ["Sulfate"],
+      "Sources": ["Salbutamol inhaler: Ratiopharm"],
       "Effects": [
         "{xeff 'bronchodilation' 'bronchodilation'}",
         "{sev 'light'} {xeff 'stimulation' 'stimulation'}",
@@ -114,9 +100,7 @@
           "Name": "Inhaled"
         }
       ],
-      "Salts": [
-        "Sulfate"
-      ],
+      "Salts": ["Sulfate"],
       "Effects": [
         "{xeff 'bronchodilation' 'bronchodilation'}",
         "{sev 'light'} {xeff 'stimulation' 'stimulation'}",
@@ -143,9 +127,7 @@
           "Duration": "2.5 hours"
         }
       ],
-      "Sources": [
-        "2C-B: DNM Germany"
-      ],
+      "Sources": ["2C-B: DNM Germany"],
       "Effects": [
         "{xeff 'time-distortion?s=time-dilation' 'time dilation'}",
         "{xeff 'internal hallucination'}",
@@ -187,9 +169,7 @@
           "Dosage": "0.06-0.96mg"
         }
       ],
-      "Sources": [
-        "25C-NBOMe: DNM Germany"
-      ],
+      "Sources": ["25C-NBOMe: DNM Germany"],
       "Effects": [
         "{xeff 'internal hallucination'}",
         "{xeff 'geometry'}",
@@ -229,9 +209,7 @@
           "Duration": "8 hours"
         }
       ],
-      "Sources": [
-        "25I-NBOMe: DNM Germany"
-      ],
+      "Sources": ["25I-NBOMe: DNM Germany"],
       "Effects": [
         "{xeff 'internal hallucination'}",
         "{xeff 'colour-enhancement' 'color enhancement'}",
@@ -295,10 +273,7 @@
           "Dosage": "5mg"
         }
       ],
-      "Salts": [
-        "Sulfate",
-        "Hydrochloride"
-      ],
+      "Salts": ["Sulfate", "Hydrochloride"],
       "Sources": [
         "Amphetamine Sulfate: DNM Germany",
         "Speed paste: Goerlitzer park",
@@ -354,9 +329,7 @@
         "freebase smells strongly of rotten fish",
         "pristine sulfate is practically odorless"
       ],
-      "Notes": [
-        "intravenously quite practical {class 'stimulant'}"
-      ]
+      "Notes": ["intravenously quite practical {class 'stimulant'}"]
     },
     {
       "Name": "Dextroamphetamine",
@@ -370,12 +343,8 @@
           "Dosage": "5mg"
         }
       ],
-      "Salts": [
-        "Sulfate"
-      ],
-      "Sources": [
-        "Dexamfetamine Sulfate 5mg tablets: Tentin"
-      ],
+      "Salts": ["Sulfate"],
+      "Sources": ["Dexamfetamine Sulfate 5mg tablets: Tentin"],
       "Indication": [
         "{xeff 'motivation suppression'} (executive dysfunction)",
         "{xeff 'depression'}",
@@ -428,12 +397,8 @@
           "Name": "Vaporized"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Sources": [
-        "Crystal Meth: Goerlitzer park"
-      ],
+      "Salts": ["Hydrochloride"],
+      "Sources": ["Crystal Meth: Goerlitzer park"],
       "Indication": [
         "{xeff 'motivation suppression'} (executive dysfunction)",
         "{xeff 'depression'}",
@@ -525,12 +490,8 @@
           "Name": "Vaporized"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Sources": [
-        "Crystal Meth (Ephedrine): DNM Germany"
-      ],
+      "Salts": ["Hydrochloride"],
+      "Sources": ["Crystal Meth (Ephedrine): DNM Germany"],
       "Indication": [
         "{xeff 'motivation suppression'} (executive dysfunction)",
         "{xeff 'depression'}",
@@ -587,12 +548,8 @@
           "Onset": "10-30 seconds"
         }
       ],
-      "Salts": [
-        "Hydrochloride?"
-      ],
-      "Sources": [
-        "BPMA: Research-chemical-vendor Netherlands"
-      ],
+      "Salts": ["Hydrochloride?"],
+      "Sources": ["BPMA: Research-chemical-vendor Netherlands"],
       "Indication": [
         "{xeff 'motivation suppression'} (executive dysfunction)",
         "{xeff 'depression'}",
@@ -614,9 +571,7 @@
         {
           "Dosage": "170mg",
           "Route": "intravenous",
-          "Effects": [
-            "{xeff 'sleepiness'} (loss of conciousness)"
-          ]
+          "Effects": ["{xeff 'sleepiness'} (loss of conciousness)"]
         }
       ],
       "Notes": [
@@ -633,12 +588,8 @@
           "Duration": "30-120 minutes"
         }
       ],
-      "Salts": [
-        "Hydrochloride?"
-      ],
-      "Sources": [
-        "3-FA: Research-chemical-vendor Netherlands"
-      ],
+      "Salts": ["Hydrochloride?"],
+      "Sources": ["3-FA: Research-chemical-vendor Netherlands"],
       "Effects": [
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
         "{sev 'strong'} {xeff 'focus enhancement'}",
@@ -650,9 +601,7 @@
         "{sev 'moderate'} {xeff 'compulsive redosing'}",
         "{xeff 'psychosis'}"
       ],
-      "Notes": [
-        "surprisingly pleasant and useful stimulant"
-      ]
+      "Notes": ["surprisingly pleasant and useful stimulant"]
     },
     {
       "Name": "Flophedrone",
@@ -667,21 +616,15 @@
           "Duration": "1 hour"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Sources": [
-        "3-FMC: Research-chemical-vendor Netherlands"
-      ],
+      "Salts": ["Hydrochloride"],
+      "Sources": ["3-FMC: Research-chemical-vendor Netherlands"],
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{sev 'strong'} {xeff 'increased bodily temperature'}"
       ],
-      "Notes": [
-        "unpleasant"
-      ]
+      "Notes": ["unpleasant"]
     },
     {
       "Name": "3-Fluoroethamphetamine",
@@ -695,15 +638,9 @@
           "Dosage": "25mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride?"
-      ],
-      "Sources": [
-        "3-FEA: Research-chemical-vendor Netherlands"
-      ],
-      "Notes": [
-        "barely active even when intravenously administered"
-      ]
+      "Salts": ["Hydrochloride?"],
+      "Sources": ["3-FEA: Research-chemical-vendor Netherlands"],
+      "Notes": ["barely active even when intravenously administered"]
     },
     {
       "Name": "4-Fluoromethamphetamine",
@@ -717,12 +654,8 @@
           "Dosage": "50-125mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride?"
-      ],
-      "Effects": [
-        "{sev 'light'} {xeff 'stimulation'}"
-      ],
+      "Salts": ["Hydrochloride?"],
+      "Effects": ["{sev 'light'} {xeff 'stimulation'}"],
       "Notes": [
         "barely active even when intravenously administered",
         "softer curve"
@@ -745,22 +678,15 @@
           "Dosage": "50mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride",
-        "Freebase"
-      ],
-      "Sources": [
-        "Rhinopront: pharmacy"
-      ],
+      "Salts": ["Hydrochloride", "Freebase"],
+      "Sources": ["Rhinopront: pharmacy"],
       "Indication": "nasal congestion",
       "Effects": [
         "{sev 'light'} {xeff 'stimulation'}",
         "{xeff 'anxiety'} (above 100mg)",
         "{xeff 'panic attack'} (above 100mg)"
       ],
-      "Odor": [
-        "freebase distinct atypical yet uniquely nasty amine type smell"
-      ]
+      "Odor": ["freebase distinct atypical yet uniquely nasty amine type smell"]
     },
     {
       "Name": "5-Methoxy-2-aminoindane",
@@ -770,18 +696,10 @@
           "Dosage": "45mg"
         }
       ],
-      "Classes": [
-        "Entactogen"
-      ],
-      "Salts": [
-        "Hydrochloride?"
-      ],
-      "Sources": [
-        "MEAI: Research-chemical-vendor Netherlands"
-      ],
-      "Effects": [
-        "{sev 'moderate'} {xeff 'sedation'}"
-      ]
+      "Classes": ["Entactogen"],
+      "Salts": ["Hydrochloride?"],
+      "Sources": ["MEAI: Research-chemical-vendor Netherlands"],
+      "Effects": ["{sev 'moderate'} {xeff 'sedation'}"]
     },
     {
       "Name": "6-(2-Aminopropyl)benzofuran",
@@ -794,13 +712,8 @@
           "Duration": "30-90 minutes"
         }
       ],
-      "Classes": [
-        "Entactogen",
-        "Psychedelic"
-      ],
-      "Salts": [
-        "Succinate"
-      ],
+      "Classes": ["Entactogen", "Psychedelic"],
+      "Salts": ["Succinate"],
       "Effects": [
         "{xeff 'psychosis'} (related visual alterations, flickering and textures being perceived in fragments which iterate 5-10x per second)",
         "{sev 'light'} {xeff 'Sedation'}",
@@ -809,10 +722,7 @@
       "DEffects": [
         {
           "Route": "Intravenous",
-          "Effects": [
-            "{xeff 'anxiety'}",
-            "{xeff 'sedation'}"
-          ]
+          "Effects": ["{xeff 'anxiety'}", "{xeff 'sedation'}"]
         }
       ]
     },
@@ -834,13 +744,8 @@
           "Duration": "30-60 minutes"
         }
       ],
-      "Classes": [
-        "Entactogen",
-        "Stimulant"
-      ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Classes": ["Entactogen", "Stimulant"],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{sev 'intense'} {xeff 'empathy affection and sociability enhancement'}",
         "allowes me to reprocess past events without fear or dread",
@@ -875,15 +780,9 @@
           "Dosage": "50-150mg"
         }
       ],
-      "Classes": [
-        "Stimulant"
-      ],
-      "Salts": [
-        "Dimesylate"
-      ],
-      "Sources": [
-        "Elvanse Lisdexamfetamine Dimesylate"
-      ],
+      "Classes": ["Stimulant"],
+      "Salts": ["Dimesylate"],
+      "Sources": ["Elvanse Lisdexamfetamine Dimesylate"],
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
@@ -891,9 +790,7 @@
         "{sev 'light'} {xeff 'vasoconstriction'}"
       ],
       "Indication": "executive dysfunction",
-      "Tolerance": [
-        "builds steadily over the span of weeks to months"
-      ]
+      "Tolerance": ["builds steadily over the span of weeks to months"]
     },
     {
       "Name": "Orthophedrone",
@@ -918,12 +815,8 @@
           "Name": "Intrarectal"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Sources": [
-        "2-MMC: DNM Germany"
-      ],
+      "Salts": ["Hydrochloride"],
+      "Sources": ["2-MMC: DNM Germany"],
       "Effects": [
         "{sev 'light'} {xeff 'empathy affection and sociability enhancement'}",
         "{sev 'strong'} {xeff 'stimulation'}",
@@ -941,9 +834,7 @@
         "{xeff 'delusion'} (of being poisoned by the friends taking care of me when suddenly a day after psychosis onset {xeff 'drifting'} effects kicked in)",
         "immensely distressed by the ~100 syringes in my bed"
       ],
-      "Notes": [
-        "more potent than expected"
-      ]
+      "Notes": ["more potent than expected"]
     },
     {
       "Name": "Metaphedrone",
@@ -973,18 +864,9 @@
           "Dosage": "15-20mg"
         }
       ],
-      "Classes": [
-        "Entactogen",
-        "Stimulant",
-        "Sympathomimetic"
-      ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Sources": [
-        "3-MMC: Drug taxi",
-        "3-MMC: DNM Germany"
-      ],
+      "Classes": ["Entactogen", "Stimulant", "Sympathomimetic"],
+      "Salts": ["Hydrochloride"],
+      "Sources": ["3-MMC: Drug taxi", "3-MMC: DNM Germany"],
       "Tolerance": [
         "builds steadily over the span of a single session leading to acute dose escalation from <~30mg every 30-45 minutes> at the beginning to <250mg every 10-15 minutes> at the grinding breakdown 3-5 days in.",
         "sustained use leads to absolute tolerance where only adverse effects remain and the corrosion in the venous networks or nostrils causes severe burning."
@@ -1003,9 +885,7 @@
         "{sev 'moderate'} {xeff 'depression'}",
         "{xeff 'memory suppression'}"
       ],
-      "Notes": [
-        "corrosive in veins and nostrils"
-      ]
+      "Notes": ["corrosive in veins and nostrils"]
     },
     {
       "Name": "2-Chloromethcathinone",
@@ -1015,18 +895,10 @@
           "Dosage": "~70mg"
         }
       ],
-      "Classes": [
-        "Stimulant"
-      ],
-      "Salts": [
-        "Hydrochloride?"
-      ],
-      "Sources": [
-        "2-CMC 250mg tablets: Research-chemical-vendor Netherland"
-      ],
-      "Effects": [
-        "{sev 'moderate'} {xeff 'cognitive euphoria'}"
-      ]
+      "Classes": ["Stimulant"],
+      "Salts": ["Hydrochloride?"],
+      "Sources": ["2-CMC 250mg tablets: Research-chemical-vendor Netherland"],
+      "Effects": ["{sev 'moderate'} {xeff 'cognitive euphoria'}"]
     },
     {
       "Name": "Clophedrone",
@@ -1036,16 +908,9 @@
           "Dosage": "21-150mg"
         }
       ],
-      "Classes": [
-        "Entactogen",
-        "Stimulant"
-      ],
-      "Salts": [
-        "Hydrochloride?"
-      ],
-      "Sources": [
-        "3-CMC: Research-chemical-vendor Netherland"
-      ],
+      "Classes": ["Entactogen", "Stimulant"],
+      "Salts": ["Hydrochloride?"],
+      "Sources": ["3-CMC: Research-chemical-vendor Netherland"],
       "Effects": [
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{sev 'moderate'} {xeff 'depression reduction'}",
@@ -1060,16 +925,9 @@
           "Dosage": "75mg"
         }
       ],
-      "Classes": [
-        "Entactogen",
-        "Stimulant"
-      ],
-      "Salts": [
-        "Hydrochloride?"
-      ],
-      "Sources": [
-        "4-CMC: Research-chemical-vendor"
-      ],
+      "Classes": ["Entactogen", "Stimulant"],
+      "Salts": ["Hydrochloride?"],
+      "Sources": ["4-CMC: Research-chemical-vendor"],
       "Effects": []
     },
     {
@@ -1084,23 +942,13 @@
           "Dosage": "300mg"
         }
       ],
-      "Classes": [
-        "Sympathomimetic",
-        "Stimulant"
-      ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Effects": [
-        "{xeff 'anxiety'}",
-        "{xeff 'panic attack'}"
-      ],
+      "Classes": ["Sympathomimetic", "Stimulant"],
+      "Salts": ["Hydrochloride"],
+      "Effects": ["{xeff 'anxiety'}", "{xeff 'panic attack'}"],
       "DEffects": [
         {
           "Route": "Intravenous",
-          "Effects": [
-            "{sev 'moderate'} {xeff 'cognitive euphoria'}"
-          ]
+          "Effects": ["{sev 'moderate'} {xeff 'cognitive euphoria'}"]
         }
       ]
     },
@@ -1120,12 +968,8 @@
         "4-BMC: Research-chemical-vendor Netherlands",
         "4-BMC: Research-chemical-vendor"
       ],
-      "Salts": [
-        "Hydrochloride?"
-      ],
-      "Effects": [
-        "{rev} {xeff 'constipation'}"
-      ]
+      "Salts": ["Hydrochloride?"],
+      "Effects": ["{rev} {xeff 'constipation'}"]
     },
     {
       "Name": "Mephedrone",
@@ -1156,18 +1000,9 @@
           "Dosage": "5-30mg"
         }
       ],
-      "Classes": [
-        "Entactogen",
-        "Stimulant",
-        "Sympathomimetic"
-      ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Sources": [
-        "Mephedrone: DNM Germany",
-        "4-MMC: Drug taxi"
-      ],
+      "Classes": ["Entactogen", "Stimulant", "Sympathomimetic"],
+      "Salts": ["Hydrochloride"],
+      "Sources": ["Mephedrone: DNM Germany", "4-MMC: Drug taxi"],
       "Tolerance": [
         "builds steadily over the span of a single session leading to acute dose escalation from <~30mg every 30-45 minutes> at the beginning to <200mg every 10-15 minutes> at the grinding breakdown 3-5 days in.",
         "sustained use leads to absolute tolerance where only adverse effects remain and the corrosion in the venous networks or nostrils causes severe burning."
@@ -1184,9 +1019,7 @@
       "DEffects": [
         {
           "Route": "Intravenous",
-          "Effects": [
-            "rush adds metalic distortions and extra depth to music"
-          ]
+          "Effects": ["rush adds metalic distortions and extra depth to music"]
         }
       ],
       "After": [
@@ -1213,9 +1046,7 @@
           "Dosage": "20-50mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "DEffects": [
         {
           "condition": "stimulant tolerance",
@@ -1241,17 +1072,9 @@
           "Duration": "2-3 hours"
         }
       ],
-      "Classes": [
-        "Entactogen",
-        "Stimulant",
-        "Sympathomimetic"
-      ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Sources": [
-        "4-MPD: Research-chemical-vendor Netherlands"
-      ],
+      "Classes": ["Entactogen", "Stimulant", "Sympathomimetic"],
+      "Salts": ["Hydrochloride"],
+      "Sources": ["4-MPD: Research-chemical-vendor Netherlands"],
       "Effects": [
         "{sev 'moderate'} {xeff 'empathy affection and sociability enhancement'}",
         "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}",
@@ -1280,9 +1103,7 @@
         {
           "Condition": "without-tolerance",
           "Dosage": "5mg",
-          "Effects": [
-            "{sev 'light'} {xeff 'anxiety suppression'}"
-          ]
+          "Effects": ["{sev 'light'} {xeff 'anxiety suppression'}"]
         },
         {
           "Condition": "discontinuation after a couple of redoses",
@@ -1334,9 +1155,7 @@
           "Duration": "1-3 hours"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'cognitive euphoria'}"
@@ -1344,9 +1163,7 @@
       "DEffects": [
         {
           "Route": "Intravenous",
-          "Effects": [
-            "acute {wkp 'gag reflex' 'gag-reflex'}"
-          ]
+          "Effects": ["acute {wkp 'gag reflex' 'gag-reflex'}"]
         }
       ],
       "Notes": "potencial {xeff 'serotonin syndrome'} risk"
@@ -1380,13 +1197,8 @@
           "Dosage": "45mg"
         }
       ],
-      "Classes": [
-        "Stimulant",
-        "Sympathomimetic"
-      ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Classes": ["Stimulant", "Sympathomimetic"],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{sev 'intense'} {xeff 'cognitive euphoria'}",
         "{sev 'moderate'} {xeff 'increased libido'}",
@@ -1403,9 +1215,7 @@
       "DEffects": [
         {
           "Dosage": "+500mg incremental",
-          "Effects": [
-            "{xeff 'increased bodily temperature'}"
-          ]
+          "Effects": ["{xeff 'increased bodily temperature'}"]
         },
         {
           "Condition": "combined with a serotonin releasing drug",
@@ -1416,9 +1226,7 @@
           ]
         }
       ],
-      "Notes": [
-        "quite tweaky"
-      ]
+      "Notes": ["quite tweaky"]
     },
     {
       "Name": "N-Ethyl-nor-hexedrone",
@@ -1430,13 +1238,8 @@
           "Comeup": "~1 minute"
         }
       ],
-      "Classes": [
-        "Stimulant",
-        "Sympathomimetic"
-      ],
-      "Salts": [
-        "Hydrochloride?"
-      ],
+      "Classes": ["Stimulant", "Sympathomimetic"],
+      "Salts": ["Hydrochloride?"],
       "Effects": [
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
         "{sev 'intense'} {xeff 'compulsive redosing'}",
@@ -1453,9 +1256,7 @@
         "{sev 'strong'} {xeff 'increased music appreciation'}",
         "{sev 'light'} {xeff 'Irritability'}"
       ],
-      "Notes": [
-        "somewhat smoother than {sub 'NEP'}"
-      ]
+      "Notes": ["somewhat smoother than {sub 'NEP'}"]
     },
     {
       "Name": "N-Ethyl-nor-heptedrone",
@@ -1473,9 +1274,7 @@
           "Dosage": "40mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{sev 'light'} {xeff 'cognitive euphoria'}",
         "{xeff 'increased bodily temperature'}"
@@ -1492,9 +1291,7 @@
           "Name": "Vaporized"
         }
       ],
-      "Salts": [
-        "Citrate"
-      ],
+      "Salts": ["Citrate"],
       "Sources": [
         "α-Pyrrolidinobutyrophenone: Research-chemical-vendor Netherlands (questionable purity and identity; came in mislabeled plastic bag; only part goes into solution despite acidic conditions and boiling the solution)"
       ],
@@ -1502,9 +1299,7 @@
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'anxiety'}"
       ],
-      "Notes": [
-        "uncertain and unpleasant activity"
-      ]
+      "Notes": ["uncertain and unpleasant activity"]
     },
     {
       "Name": "α-Pyrrolidinopentiophenone",
@@ -1524,14 +1319,8 @@
           "Dosage": "10mg"
         }
       ],
-      "Classes": [
-        "Stimulant",
-        "Sympathomimetic",
-        "Dissociative"
-      ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Classes": ["Stimulant", "Sympathomimetic", "Dissociative"],
+      "Salts": ["Hydrochloride"],
       "Tolerance": [
         "minimal dosage escalation following several weeks of sustained usage in form of 5-7 day long bindges."
       ],
@@ -1558,9 +1347,7 @@
         {
           "Route": "Intravenous",
           "Dosage": "+25mg",
-          "Effects": [
-            "{xeff 'psychosis'}"
-          ]
+          "Effects": ["{xeff 'psychosis'}"]
         },
         {
           "Route": "Intravenous",
@@ -1588,11 +1375,7 @@
           "Onset": "5-10 seconds"
         }
       ],
-      "Salts": [
-        "Freebase",
-        "Citrate",
-        "Ascorbate"
-      ],
+      "Salts": ["Freebase", "Citrate", "Ascorbate"],
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'focus enhancement'}",
@@ -1621,12 +1404,8 @@
           "Onset": "5-10 seconds"
         }
       ],
-      "Salts": [
-        "Citrate"
-      ],
-      "Odor": [
-        "Freebase: unpleasant smell of cucumbers and cum"
-      ],
+      "Salts": ["Citrate"],
+      "Odor": ["Freebase: unpleasant smell of cucumbers and cum"],
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'focus enhancement'}",
@@ -1648,9 +1427,7 @@
           "Dosage": "5-50mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{xeff 'anxiety' 'anxiety'}",
         "dissociating {xeff 'stimulation'}"
@@ -1666,20 +1443,13 @@
           "Name": "Intravenous"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{xeff 'anxiety'}"
       ],
-      "Odor": [
-        "cellar",
-        "old closet"
-      ],
-      "Notes": [
-        "uncomfortable intravenously"
-      ]
+      "Odor": ["cellar", "old closet"],
+      "Notes": ["uncomfortable intravenously"]
     },
     {
       "Name": "3,4-Methylenedioxy-α-pyrrolidinoisohexanophenone",
@@ -1692,9 +1462,7 @@
           "Name": "Intravenous"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
         "{sev 'intense'} {xeff 'cognitive euphoria'} (comparable to my first time taking stimulants)",
@@ -1715,9 +1483,7 @@
       "Sources": [
         "MDPV: Goerlitzer park (untrustworthy source; was unable to secure sample for chemical identification)"
       ],
-      "Salts": [
-        "Citrate?"
-      ],
+      "Salts": ["Citrate?"],
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
@@ -1739,11 +1505,7 @@
           "Name": "Vaporized"
         }
       ],
-      "Salts": [
-        "Freebase",
-        "Hydrochloride",
-        "Citrate"
-      ],
+      "Salts": ["Freebase", "Hydrochloride", "Citrate"],
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
@@ -1779,9 +1541,7 @@
           "Name": "Intravenous"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{sev 'moderate'} {xeff 'stimulation'}",
@@ -1810,9 +1570,7 @@
           "Dosage": "37.5-75mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{sev 'light'} {xeff 'stimulation'}",
         "{sev 'light'} {xeff 'sedation'}"
@@ -1826,12 +1584,8 @@
           "Name": "Buccal"
         }
       ],
-      "Salts": [
-        "Freebase"
-      ],
-      "Effects": [
-        "{xeff 'mouth numbing'}"
-      ]
+      "Salts": ["Freebase"],
+      "Effects": ["{xeff 'mouth numbing'}"]
     },
     {
       "Name": "Lidocaine",
@@ -1840,13 +1594,9 @@
           "Name": "Topical"
         }
       ],
-      "Salts": [
-        "Freebase"
-      ],
+      "Salts": ["Freebase"],
       "Indication": "hemorrhoid",
-      "Effects": [
-        "numbing effect on rectum"
-      ]
+      "Effects": ["numbing effect on rectum"]
     },
     {
       "Name": "Dimethocaine",
@@ -1858,10 +1608,7 @@
           "Name": "Vaporized"
         }
       ],
-      "Salts": [
-        "Freebase",
-        "Citrate"
-      ],
+      "Salts": ["Freebase", "Citrate"],
       "Effects": [
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{sev 'strong'} {xeff 'compulsive redosing'}"
@@ -1890,15 +1637,8 @@
           "Name": "Vaporized"
         }
       ],
-      "Sources": [
-        "Cocaine: Warschauer",
-        "Cocaine: Drug taxi"
-      ],
-      "Salts": [
-        "Freebase",
-        "Hydrochloride",
-        "Citrate"
-      ],
+      "Sources": ["Cocaine: Warschauer", "Cocaine: Drug taxi"],
+      "Salts": ["Freebase", "Hydrochloride", "Citrate"],
       "Effects": [
         "{sev 'strong'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
@@ -1917,9 +1657,7 @@
         },
         {
           "Route": "Vaporized",
-          "Effects": [
-            "{sev 'strong'} {xeff 'mouth numbing'}"
-          ]
+          "Effects": ["{sev 'strong'} {xeff 'mouth numbing'}"]
         }
       ],
       "Odor": "vaporized freebase fishy"
@@ -1931,15 +1669,9 @@
           "Name": "Oral"
         }
       ],
-      "Sources": [
-        "Buscopan Plus: pharmacy"
-      ],
-      "Salts": [
-        "Hydrobromide"
-      ],
-      "Effects": [
-        "{xeff 'dry mouth'}"
-      ]
+      "Sources": ["Buscopan Plus: pharmacy"],
+      "Salts": ["Hydrobromide"],
+      "Effects": ["{xeff 'dry mouth'}"]
     },
     {
       "Name": "Tyrosine",
@@ -1961,9 +1693,7 @@
       "Indication": [
         "{xeff 'motivation suppression'} after stimulant discontinuation or during heavy stimulant use"
       ],
-      "Sources": [
-        "L-Dopa+ 105mg ZEINpharma"
-      ],
+      "Sources": ["L-Dopa+ 105mg ZEINpharma"],
       "Effects": [
         "subjective locomotor-activity increase",
         "{xeff 'depression reduction'}"
@@ -1994,14 +1724,10 @@
         {
           "Route": "Oral",
           "Dose": "1g",
-          "Effects": [
-            "mild adrenergic activity"
-          ]
+          "Effects": ["mild adrenergic activity"]
         }
       ],
-      "Notes": [
-        "corrosive in veins"
-      ]
+      "Notes": ["corrosive in veins"]
     },
     {
       "Name": "Ibuprofen",
@@ -2010,13 +1736,8 @@
           "Name": "Oral"
         }
       ],
-      "Indication": [
-        "{xeff 'headache'}",
-        "{sev 'light'} pain"
-      ],
-      "Effects": [
-        "{sev 'light'} {xeff 'headache'} suppression"
-      ]
+      "Indication": ["{xeff 'headache'}", "{sev 'light'} pain"],
+      "Effects": ["{sev 'light'} {xeff 'headache'} suppression"]
     },
     {
       "Name": "Ketoprofen",
@@ -2025,9 +1746,7 @@
           "Name": "Oral"
         }
       ],
-      "Effects": [
-        "{sev 'light'} {xeff 'headache'} suppression"
-      ]
+      "Effects": ["{sev 'light'} {xeff 'headache'} suppression"]
     },
     {
       "Name": "Flurbiprofen",
@@ -2040,15 +1759,9 @@
           "Duration": "1-3 hours"
         }
       ],
-      "Sources": [
-        "Dexcel Pharma Dosis Spray: Flurbiprofen 8.75mg per spray"
-      ],
-      "Indication": [
-        "soar throat"
-      ],
-      "Effects": [
-        "{sev 'moderate'} {xeff 'pain relief'}"
-      ]
+      "Sources": ["Dexcel Pharma Dosis Spray: Flurbiprofen 8.75mg per spray"],
+      "Indication": ["soar throat"],
+      "Effects": ["{sev 'moderate'} {xeff 'pain relief'}"]
     },
     {
       "Name": "Acetylsalicylic acid",
@@ -2060,10 +1773,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Indication": [
-        "{xeff 'headache'}",
-        "stroke prevention"
-      ],
+      "Indication": ["{xeff 'headache'}", "stroke prevention"],
       "Effects": [
         "{sev 'strong'} {xeff 'headache'} suppression",
         "useful blood thinning (for stroke prevention)"
@@ -2119,10 +1829,7 @@
           "Duration": "3 minutes"
         }
       ],
-      "Effects": [
-        "{xeff 'geometry'}",
-        "{xeff 'visual acuity enhancement'}"
-      ],
+      "Effects": ["{xeff 'geometry'}", "{xeff 'visual acuity enhancement'}"],
       "Notes": [
         "~15mg vaporized produced very {sev 'light'} effects but made me leave with newfound meaning and motivation",
         "~20mg vaporized produced feelings of shooting through space while completely clear in my head, very clean beautiful visuals",
@@ -2148,9 +1855,7 @@
         "background humming",
         "{xeff 'unspeakable horrors'}"
       ],
-      "Notes": [
-        "had 1x bad trip"
-      ]
+      "Notes": ["had 1x bad trip"]
     },
     {
       "Name": "Melatonin",
@@ -2159,9 +1864,7 @@
           "Name": "Oral"
         }
       ],
-      "Effects": [
-        "improves quality of sleep"
-      ],
+      "Effects": ["improves quality of sleep"],
       "Notes": "barely effective"
     },
     {
@@ -2196,9 +1899,7 @@
           "Onset": "15 seconds"
         }
       ],
-      "Salts": [
-        "Succinate"
-      ],
+      "Salts": ["Succinate"],
       "Effects": [
         "{xeff 'increased perspiration'}",
         "relaxed cool and clear head feeling"
@@ -2285,9 +1986,7 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [
-        "L-Tartrate"
-      ],
+      "Salts": ["L-Tartrate"],
       "Effects": [
         "{sev 'moderate'} {xeff 'thought loops'}",
         "{xeff 'colour-enhancement' 'color enhancement'}",
@@ -2324,10 +2023,7 @@
         "{xeff 'irritability'}",
         "seams too improve allergy symptoms"
       ],
-      "Indication": [
-        "{wkp 'insomnia'}",
-        "{sev 'light'} allergy"
-      ]
+      "Indication": ["{wkp 'insomnia'}", "{sev 'light'} allergy"]
     },
     {
       "Name": "Dimenhydrinate",
@@ -2346,16 +2042,12 @@
           "Onset": "~1 hour"
         }
       ],
-      "Salts": [
-        "Succinate"
-      ],
+      "Salts": ["Succinate"],
       "Effects": [
         "{sev 'light'} {xeff 'sedation'}",
         "subjectively less drowsy than {sub 'diphenhydramine'}"
       ],
-      "Indication": [
-        "{wkp 'insomnia'}"
-      ]
+      "Indication": ["{wkp 'insomnia'}"]
     },
     {
       "Name": "Modafinil",
@@ -2365,9 +2057,7 @@
           "Dosage": "100-400mg"
         }
       ],
-      "Effects": [
-        "{sev 'light'} {xeff 'wakefulness'}"
-      ],
+      "Effects": ["{sev 'light'} {xeff 'wakefulness'}"],
       "Notes": "effects not notable"
     },
     {
@@ -2377,12 +2067,8 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Effects": [
-        "seamed too improve allergy symptoms"
-      ]
+      "Salts": ["Hydrochloride"],
+      "Effects": ["seamed too improve allergy symptoms"]
     },
     {
       "Name": "Fexofenadine",
@@ -2392,9 +2078,7 @@
           "Dosage": "120mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Notes": "no notable effect on allergic reaction"
     },
     {
@@ -2404,9 +2088,7 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Indication": "{xeff 'depression'}",
       "Effects": [
         "{sev 'light'} {xeff 'depression reduction'} (acute effects; long term no notable improvement in quality of life)",
@@ -2445,9 +2127,7 @@
           "Name": "Transdermal"
         }
       ],
-      "Salts": [
-        "Hemihydrate"
-      ],
+      "Salts": ["Hemihydrate"],
       "Indication": "Male to female transsexuality",
       "Effects": [
         "figure changes",
@@ -2561,9 +2241,7 @@
         }
       ],
       "Indication": "hairloss",
-      "Effects": [
-        "{xeff 'suicidal ideation'}"
-      ],
+      "Effects": ["{xeff 'suicidal ideation'}"],
       "Notes": "stopped treatment after a month"
     },
     {
@@ -2577,10 +2255,7 @@
       "Effects": [
         "significantly reduced hairloss combined with {sub 'minoxidil'} foam"
       ],
-      "Notes": [
-        "no side effects",
-        "very long halflife"
-      ]
+      "Notes": ["no side effects", "very long halflife"]
     },
     {
       "Name": "Cyproterone acetate",
@@ -2631,10 +2306,7 @@
       "Sources": [
         "Flubromazolam 0.5mg pellets: Research-chemical-vendor Netherlands"
       ],
-      "Indication": [
-        "{wkp 'insomnia'}",
-        "{class 'stimulant'} overdose"
-      ],
+      "Indication": ["{wkp 'insomnia'}", "{class 'stimulant'} overdose"],
       "Effects": [
         "{sev 'light'} {xeff 'anxiety suppression'}",
         "{sev 'moderate'} {xeff 'sedation'}"
@@ -2652,10 +2324,7 @@
           "Dosage": "5-10mg"
         }
       ],
-      "Indication": [
-        "{xeff 'anxiety'}",
-        "{xeff 'panic attack'}"
-      ],
+      "Indication": ["{xeff 'anxiety'}", "{xeff 'panic attack'}"],
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
         "{sev 'moderate'} {xeff 'sedation'}",
@@ -2722,9 +2391,7 @@
         "{wkp 'insomnia'}",
         "{class 'stimulant'} overdose"
       ],
-      "Sources": [
-        "Etizolam 1mg tabs: Research-chemical-vendor Netherlands"
-      ],
+      "Sources": ["Etizolam 1mg tabs: Research-chemical-vendor Netherlands"],
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
         "{sev 'strong'} {xeff 'sedation'} (to the point of inducing sleep)",
@@ -2734,9 +2401,7 @@
       "DEffects": [
         {
           "Route": "Vaporized",
-          "Effects": [
-            "{sev 'moderate'} {xeff 'respiratory depression'}"
-          ]
+          "Effects": ["{sev 'moderate'} {xeff 'respiratory depression'}"]
         }
       ]
     },
@@ -2758,9 +2423,7 @@
           "Dosage": "50mg"
         }
       ],
-      "Salts": [
-        "Hydrobromide"
-      ],
+      "Salts": ["Hydrobromide"],
       "Notes": [
         "effective dosing not reached",
         "might have worsened previous stimulant psychosis"
@@ -2782,19 +2445,14 @@
           "Name": "Vaporized"
         }
       ],
-      "Salts": [
-        "Sulfate",
-        "Freebase"
-      ],
+      "Salts": ["Sulfate", "Freebase"],
       "Indication": [
         "pain",
         "{xeff 'anxiety'}",
         "{xeff 'panic attack'}",
         "fear of abandonment"
       ],
-      "Tolerance": [
-        "builds steadily over the span of 1-2 weeks"
-      ],
+      "Tolerance": ["builds steadily over the span of 1-2 weeks"],
       "Effects": [
         "{sev 'strong'} {xeff 'anxiety suppression'}",
         "{xeff 'sedation'}",
@@ -2820,9 +2478,7 @@
       "DEffects": [
         {
           "Route": "Intravenous",
-          "Effects": [
-            "sharper rush than {sub 'diacetylmorphine'}"
-          ]
+          "Effects": ["sharper rush than {sub 'diacetylmorphine'}"]
         }
       ],
       "After": [
@@ -2862,9 +2518,7 @@
           "Name": "Intravenous"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Indication": [
         "pain",
         "{xeff 'anxiety'}",
@@ -2883,9 +2537,7 @@
       "DEffects": [
         {
           "Route": "Oral",
-          "Effects": [
-            "{xeff 'cognitive dysphoria'}"
-          ]
+          "Effects": ["{xeff 'cognitive dysphoria'}"]
         },
         {
           "Route": "Intravenous",
@@ -2903,9 +2555,7 @@
           "Name": "Intravenous"
         }
       ],
-      "Salts": [
-        "Citrate"
-      ],
+      "Salts": ["Citrate"],
       "Effects": [
         "{xeff 'sedation'}",
         "{sev 'strong'} {xeff 'anxiety suppression'}",
@@ -2940,21 +2590,14 @@
           "Dosage": "5-50mg"
         }
       ],
-      "Salts": [
-        "Freebase",
-        "Citrate",
-        "Ascorbate",
-        "D-Tartrate"
-      ],
+      "Salts": ["Freebase", "Citrate", "Ascorbate", "D-Tartrate"],
       "Indication": [
         "pain",
         "{xeff 'anxiety'}",
         "{xeff 'panic attack'}",
         "fear of abandonment"
       ],
-      "Tolerance": [
-        "builds steadily over the span of 1-2 weeks"
-      ],
+      "Tolerance": ["builds steadily over the span of 1-2 weeks"],
       "Effects": [
         "{sev 'moderate'} {xeff 'sedation'}",
         "{sev 'strong'} {xeff 'anxiety suppression'}",
@@ -2987,9 +2630,7 @@
       "DEffects": [
         {
           "Route": "Intravenous",
-          "Effects": [
-            "smoother/weaker rush than {sub 'morphine'}"
-          ]
+          "Effects": ["smoother/weaker rush than {sub 'morphine'}"]
         }
       ],
       "After": [
@@ -3035,10 +2676,7 @@
           "Dosage": "250-1000mcg"
         }
       ],
-      "Salts": [
-        "D-Tartrate",
-        "Citrate"
-      ],
+      "Salts": ["D-Tartrate", "Citrate"],
       "Indication": [
         "pain",
         "{xeff 'anxiety'}",
@@ -3049,9 +2687,7 @@
         "builds steadily over the span of 1-2 weeks",
         "sustained use leads to absolute tolerance where only adverse effects remain"
       ],
-      "Sources": [
-        "Fentanyl: DNM Germany"
-      ],
+      "Sources": ["Fentanyl: DNM Germany"],
       "Effects": [
         "{sev 'moderate'} {xeff 'wakefulness'} (causes only temporary non-restful loss of conciousness for an hour once conciousness is regained consumption is typically resumed)",
         "{sev 'strong'} {xeff 'anxiety suppression'}",
@@ -3099,9 +2735,7 @@
           "Route": "Intravenous",
           "Dose": "+400mcg",
           "Condition": "with tolerance",
-          "Effects": [
-            "{sev 'moderate'} {xeff 'cognitive dysphoria'}"
-          ]
+          "Effects": ["{sev 'moderate'} {xeff 'cognitive dysphoria'}"]
         }
       ],
       "After": [
@@ -3133,18 +2767,14 @@
           "Dosage": "50mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Indication": [
         "{wkp 'opioid withdrawal'}",
         "pain",
         "{xeff 'anxiety'}",
         "{xeff 'panic attack'}"
       ],
-      "Sources": [
-        "2-Methyl-AP-237: Research-chemical-vendor Netherlands"
-      ],
+      "Sources": ["2-Methyl-AP-237: Research-chemical-vendor Netherlands"],
       "Effects": [
         "{sev 'moderate'} {xeff 'cognitive euphoria'}",
         "{sev 'light'} {xeff 'sedation'}",
@@ -3172,9 +2802,7 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Indication": "{xeff 'nausea'}",
       "Effects": [
         "{sev 'light'} {xeff 'nausea suppression'}",
@@ -3192,12 +2820,8 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [
-        "Hemihydrate"
-      ],
-      "Sources": [
-        "Mirta TAD 15mg: Mirtazapine Hemihydrate"
-      ],
+      "Salts": ["Hemihydrate"],
+      "Sources": ["Mirta TAD 15mg: Mirtazapine Hemihydrate"],
       "Effects": [
         "{xeff 'sedation'} (to the point of inducing sleep; passed out on workplace-toilet for ~1 hour)",
         "{xeff 'dream potentiation'}",
@@ -3206,10 +2830,7 @@
         "creates unique bodily feeling(singular accurance)",
         "seams to suppress allergy"
       ],
-      "Indication": [
-        "depression",
-        "insomnia"
-      ]
+      "Indication": ["depression", "insomnia"]
     },
     {
       "Name": "Quetiapine",
@@ -3232,9 +2853,7 @@
           "Comeup": "1-5 minutes"
         }
       ],
-      "Salts": [
-        "Hemifumarate"
-      ],
+      "Salts": ["Hemifumarate"],
       "Indication": "{xeff 'psychosis'}",
       "Effects": [
         "{sev 'moderate'} {xeff 'sedation'}",
@@ -3267,9 +2886,7 @@
           "Name": "Oral"
         }
       ],
-      "Effects": [
-        "{sev 'light'} {xeff 'stimulation'}"
-      ],
+      "Effects": ["{sev 'light'} {xeff 'stimulation'}"],
       "Notes": ""
     },
     {
@@ -3291,13 +2908,8 @@
           "Onset": "45 seconds"
         }
       ],
-      "Salts": [
-        "Benzoate"
-      ],
-      "Indication": [
-        "{xeff 'anxiety'}",
-        "{class 'stimulant'} withdrawal"
-      ],
+      "Salts": ["Benzoate"],
+      "Indication": ["{xeff 'anxiety'}", "{class 'stimulant'} withdrawal"],
       "Tolerance": [
         "tolerance typically builds over span of waking cycle with the first dosage having the strongest sedating effects numbing out through compulsive use."
       ],
@@ -3315,9 +2927,7 @@
         {
           "Dosage": "+5mg",
           "Route": "Buccal",
-          "Effects": [
-            "{wkp 'nicotine poisoning'}"
-          ]
+          "Effects": ["{wkp 'nicotine poisoning'}"]
         }
       ],
       "Notes": "helps take the edge of other {class 'stimulant' 'stimulants'}"
@@ -3333,9 +2943,7 @@
           "Dosage": "10-15mg"
         }
       ],
-      "Indication": [
-        "{wkp 'hair loss'}"
-      ],
+      "Indication": ["{wkp 'hair loss'}"],
       "Effects": [
         "significantly reduced hairloss combined with {sub 'dutasteride'}",
         "{sev 'intense'} {xeff 'vasodilation'}",
@@ -3351,15 +2959,9 @@
           "Dosage": "10-20mg"
         }
       ],
-      "Sources": [
-        "Tadalista Tablets 40mg"
-      ],
-      "Indication": [
-        "{wkp 'erectile dysfunction'}"
-      ],
-      "Effects": [
-        "{sev 'light'} {wkp 'erection'}"
-      ]
+      "Sources": ["Tadalista Tablets 40mg"],
+      "Indication": ["{wkp 'erectile dysfunction'}"],
+      "Effects": ["{sev 'light'} {wkp 'erection'}"]
     },
     {
       "Name": "Deschloroketamine",
@@ -3368,12 +2970,8 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Effects": [
-        "{xeff 'memory suppression'}"
-      ],
+      "Salts": ["Hydrochloride"],
+      "Effects": ["{xeff 'memory suppression'}"],
       "Notes": "similar to {sub 'ketamine'} but slighly more rough"
     },
     {
@@ -3388,9 +2986,7 @@
           "Dosage": "10-50mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{xeff 'perspective-distortion' 'body distortion'}",
         "{xeff 'changes in felt bodily form'}",
@@ -3416,16 +3012,12 @@
           "Duration": "~3 hours"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Notes": [
         "similar to {sub 'ketamine'} but more potent",
         "mind melting dissociative effects"
       ],
-      "Effects": [
-        "{sev 'strong'} {xeff 'Language suppression'}"
-      ]
+      "Effects": ["{sev 'strong'} {xeff 'Language suppression'}"]
     },
     {
       "Name": "Eticyclidone",
@@ -3438,12 +3030,8 @@
           "Duration": "~5 hours"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Indication": [
-        "{xeff 'sensory overload'} suppresion"
-      ],
+      "Salts": ["Hydrochloride"],
+      "Indication": ["{xeff 'sensory overload'} suppresion"],
       "Effects": [
         "{xeff 'mania'}",
         "{xeff 'tinnitus'}",
@@ -3464,13 +3052,8 @@
           "Duration": "3-5 hours"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Effects": [
-        "{xeff 'mania'}",
-        "difficult self-asssesment"
-      ],
+      "Salts": ["Hydrochloride"],
+      "Effects": ["{xeff 'mania'}", "difficult self-asssesment"],
       "Notes": "smooth effects"
     },
     {
@@ -3481,9 +3064,7 @@
           "Dosage": "10mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Dosages": [],
       "Effects": [
         "{sev 'light'} {xeff 'anxiety suppression'}",
@@ -3503,9 +3084,7 @@
           "Duration": "7 hours"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{sev 'light'} {xeff 'anxiety suppression'}",
         "{sev 'moderate'} {xeff 'mania'}",
@@ -3534,9 +3113,7 @@
       "Indication": [
         "{xeff 'depression'} after {sub '3,4-methylenedioxymethamphetamine' 'MDMA'} discontinuation"
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "seams to improve well being after {sub '3,4-methylenedioxymethamphetamine' 'MDMA'} use",
         "notable potenciation of {sub 'dextroamphetamine' 'dextroamphetamine'} through CYP2D6 inhibition"
@@ -3550,9 +3127,7 @@
           "Dosage": "5mg"
         }
       ],
-      "Salts": [
-        "Besylate"
-      ]
+      "Salts": ["Besylate"]
     },
     {
       "Name": "Rosuvastatin",
@@ -3562,9 +3137,7 @@
           "Dosage": "10-20mg"
         }
       ],
-      "Salts": [
-        "Calcium"
-      ],
+      "Salts": ["Calcium"],
       "Indication": "genetically elevated {sub 'cholesterol'} levels",
       "Notes": ""
     },
@@ -3576,9 +3149,7 @@
           "Dosage": "2.500 I.E."
         }
       ],
-      "Salts": [
-        "Sodium"
-      ],
+      "Salts": ["Sodium"],
       "Indication": [
         "prevention of {wkp 'heart attack'} or {wkp 'stroke'} during {class 'stimulant'}-overdose"
       ]
@@ -3597,10 +3168,7 @@
         "{xeff 'increased heart rate'}",
         "{xeff 'teeth grinding'}"
       ],
-      "Notes": [
-        "overly long half-life",
-        "significant discomfort"
-      ]
+      "Notes": ["overly long half-life", "significant discomfort"]
     },
     {
       "Name": "Domperidone",
@@ -3611,9 +3179,7 @@
         }
       ],
       "Indication": "{xeff 'nausea'}",
-      "Effects": [
-        "{sev 'light'} {xeff 'nausea suppression'}"
-      ],
+      "Effects": ["{sev 'light'} {xeff 'nausea suppression'}"],
       "Notes": ""
     },
     {
@@ -3634,9 +3200,7 @@
           "Dosage": "10-20mg"
         }
       ],
-      "Salts": [
-        "Tartrate"
-      ],
+      "Salts": ["Tartrate"],
       "Effects": [
         "{sev 'moderate'} {xeff 'sedation'}",
         "strange thoughts and dreams",
@@ -3651,9 +3215,7 @@
           "Name": "Oral"
         }
       ],
-      "Effects": [
-        "{xeff 'analysis suppression'}"
-      ],
+      "Effects": ["{xeff 'analysis suppression'}"],
       "Notes": "CYP2D6 Inhibition unconfirmed"
     },
     {
@@ -3720,10 +3282,7 @@
           "Dosage": "50-110mg"
         }
       ],
-      "Salts": [
-        "Freebase",
-        "D-Tartrate"
-      ],
+      "Salts": ["Freebase", "D-Tartrate"],
       "Indication": "{xeff 'anxiety'}",
       "Effects": [
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
@@ -3739,9 +3298,7 @@
           "Dosage": "200mg"
         }
       ],
-      "Salts": [
-        "Freebase"
-      ],
+      "Salts": ["Freebase"],
       "Effects": [
         "no notable {xeff 'anxiety suppression'}",
         "coincided {sev 'strong'} {xeff 'nausea'}"
@@ -3783,13 +3340,8 @@
           "Name": "Intravenous"
         }
       ],
-      "Indication": [
-        "{xeff 'sleepiness'}"
-      ],
-      "Salts": [
-        "Freebase",
-        "Citrate"
-      ],
+      "Indication": ["{xeff 'sleepiness'}"],
+      "Salts": ["Freebase", "Citrate"],
       "Tolerance": [
         "tolerance builds from daily usage over weeks, months to years leading to dosage escalation.",
         "effects remain reachable with dosage escalation."
@@ -3821,13 +3373,8 @@
           "Dosage": "500mg"
         }
       ],
-      "Indication": [
-        "{xeff 'anxiety'}",
-        "{xeff 'panick attack'}"
-      ],
-      "Effects": [
-        "{sev 'moderate'} {xeff 'anxiety suppression'}"
-      ],
+      "Indication": ["{xeff 'anxiety'}", "{xeff 'panick attack'}"],
+      "Effects": ["{sev 'moderate'} {xeff 'anxiety suppression'}"],
       "Notes": ""
     },
     {
@@ -3840,12 +3387,8 @@
           "Name": "Dermal"
         }
       ],
-      "Salts": [
-        "Freebase"
-      ],
-      "Odor": [
-        "distinct mushroom-like"
-      ]
+      "Salts": ["Freebase"],
+      "Odor": ["distinct mushroom-like"]
     },
     {
       "Name": "Pyridoxine",
@@ -3859,16 +3402,12 @@
           "Dosage": "40mg"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "DEffects": [
         {
           "Route": "Intravenous",
           "Dose": "40mg",
-          "Effects": [
-            "{wkp 'cold chill'} "
-          ]
+          "Effects": ["{wkp 'cold chill'} "]
         }
       ]
     },
@@ -3882,9 +3421,7 @@
           "Name": "Vaporized"
         }
       ],
-      "Indication": [
-        "smoking irritation"
-      ],
+      "Indication": ["smoking irritation"],
       "Effects": [
         "{wkp 'decongestant'} effects",
         "cooling sensation",
@@ -4024,9 +3561,7 @@
         "{sev 'moderate'} {xeff 'empathy, affection, and sociability enhancement'}",
         "{xeff 'nausea'}"
       ],
-      "Notes": [
-        "diluted with water not as bitter as described"
-      ]
+      "Notes": ["diluted with water not as bitter as described"]
     },
     {
       "Name": "Amyl nitrite",
@@ -4090,9 +3625,7 @@
           "Name": "Intravenous"
         }
       ],
-      "Effects": [
-        "causes acne (in 1-2 days)"
-      ]
+      "Effects": ["causes acne (in 1-2 days)"]
     },
     {
       "Name": "Lactase",
@@ -4101,9 +3634,7 @@
           "Name": "Oral"
         }
       ],
-      "Effects": [
-        "seams to decrease skin reaction to {sub 'lactose'}"
-      ]
+      "Effects": ["seams to decrease skin reaction to {sub 'lactose'}"]
     },
     {
       "Name": "Bicarbonate",
@@ -4112,9 +3643,7 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [
-        "Sodium"
-      ],
+      "Salts": ["Sodium"],
       "Indication": [
         "{wkp 'Acidemia'}",
         "aid in breaking down certain {subst 'cathinone'} drugs during acidosis",
@@ -4129,9 +3658,7 @@
           "Name": "Dermal"
         }
       ],
-      "Salts": [
-        "Dihydrochloride"
-      ],
+      "Salts": ["Dihydrochloride"],
       "Indication": "antisepectic wound treatment",
       "Notes": ""
     },
@@ -4153,9 +3680,7 @@
         }
       ],
       "Indication": "antibiotic course",
-      "Effects": [
-        "strong allergic reaction"
-      ]
+      "Effects": ["strong allergic reaction"]
     },
     {
       "Name": "Clindamycin",
@@ -4165,9 +3690,7 @@
         }
       ],
       "Indication": "antibiotic wound course used for infected eyelid",
-      "Effects": [
-        "{wkp 'anaphylaxis'}"
-      ]
+      "Effects": ["{wkp 'anaphylaxis'}"]
     },
     {
       "Name": "Amoxicillin",
@@ -4177,15 +3700,9 @@
           "Dosage": "437.5-875mg"
         }
       ],
-      "Indication": [
-        "antibiotic treatment of bacterial infection"
-      ],
-      "Sources": [
-        "AAA-Pharma: Amoxicilin/Clavulansaeure 875/125mg"
-      ],
-      "Classes": [
-        "Antibiotic"
-      ]
+      "Indication": ["antibiotic treatment of bacterial infection"],
+      "Sources": ["AAA-Pharma: Amoxicilin/Clavulansaeure 875/125mg"],
+      "Classes": ["Antibiotic"]
     },
     {
       "Name": "Clavulanic acid",
@@ -4195,16 +3712,10 @@
           "Dosage": "62.5-125mg"
         }
       ],
-      "Classes": [
-        "Antibiotic"
-      ],
+      "Classes": ["Antibiotic"],
       "Salts": [],
-      "Indication": [
-        "Addon to Antibiotic treatment"
-      ],
-      "Sources": [
-        "AAA-Pharma: Amoxicilin/Clavulansaeure 875/125mg"
-      ]
+      "Indication": ["Addon to Antibiotic treatment"],
+      "Sources": ["AAA-Pharma: Amoxicilin/Clavulansaeure 875/125mg"]
     },
     {
       "Name": "Water",
@@ -4264,9 +3775,7 @@
         "20% aqueous ammonia solution",
         "ammonium chloride reacting with base"
       ],
-      "Indication": [
-        "{xeff 'sleepiness'}"
-      ],
+      "Indication": ["{xeff 'sleepiness'}"],
       "Notes": [
         "smell somewhat pleasant in small amounts",
         "useful for freebasing {subst 'morphinan' 'morphinans'}"
@@ -4327,9 +3836,7 @@
         },
         {
           "Condition": "at the edge of falling asleep",
-          "Effects": [
-            "{xeff 'internal hallucination'}"
-          ]
+          "Effects": ["{xeff 'internal hallucination'}"]
         }
       ]
     },
@@ -4364,9 +3871,7 @@
       "DEffects": [
         {
           "Route": "Intravenous",
-          "Effects": [
-            "acute visual alteration"
-          ]
+          "Effects": ["acute visual alteration"]
         }
       ]
     },
@@ -4422,9 +3927,7 @@
         "volatile fumes",
         "{wkp 'smoking' 'combusted'}"
       ],
-      "Sites": [
-        "{wkp 'lung'}"
-      ]
+      "Sites": ["{wkp 'lung'}"]
     },
     {
       "Name": "Subcutaneous",
@@ -4434,11 +3937,7 @@
         "0.3ml insulin syringe",
         "1ml syringe"
       ],
-      "Sites": [
-        "stomach",
-        "thigh",
-        "upper arm"
-      ]
+      "Sites": ["stomach", "thigh", "upper arm"]
     },
     {
       "Name": "Intrarectal",
@@ -4448,9 +3947,7 @@
         "1ml insulin syringe (with the needle carefully broken off and remaining stump ground down)",
         "{wkp 'suppository'}"
       ],
-      "Sites": [
-        "rectum"
-      ]
+      "Sites": ["rectum"]
     },
     {
       "Name": "Intramuscular",
@@ -4472,9 +3969,7 @@
         "intranasal atomizer attached to syringe.",
         "{wkp 'nasal spray'}"
       ],
-      "Sites": [
-        "{wkp 'nostril'}"
-      ]
+      "Sites": ["{wkp 'nostril'}"]
     },
     {
       "Name": "Transdermal",
@@ -4482,10 +3977,7 @@
         "{wkp 'dermal patch'}",
         "{wkp 'topical medication#Gel' 'gel'}"
       ],
-      "Sites": [
-        "upper arm",
-        "stomach"
-      ]
+      "Sites": ["upper arm", "stomach"]
     },
     {
       "Name": "Oral",
@@ -4495,10 +3987,7 @@
         "{wkp 'tablet (pharmacy)' 'tablet'}",
         "powder"
       ],
-      "Sites": [
-        "mouth"
-      ]
+      "Sites": ["mouth"]
     }
   ]
 }
-

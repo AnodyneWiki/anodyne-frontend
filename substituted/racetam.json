@@ -52,12 +52,7 @@
       "MW": "176.21 g/mol"
     }
   ],
-  "Children": [
-    "cyclopyrrolone"
-  ],
-  "Parents": [
-    "amine",
-    "ketone"
-  ],
+  "Children": ["cyclopyrrolone"],
+  "Parents": ["amine", "ketone"],
   "Wikipedia": "Racetam"
 }

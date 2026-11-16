@@ -23,9 +23,7 @@
     },
     {
       "Title": "5-Dihydrobenzofuranpyrovalerone",
-      "Abr": [
-        "5-DBFPV"
-      ],
+      "Abr": ["5-DBFPV"],
       "MW": "273.37 g/mol"
     },
     {
@@ -35,13 +33,9 @@
     },
     {
       "Title": "Benzofuran",
-      "Abr": [
-        "6-APB"
-      ],
+      "Abr": ["6-APB"],
       "MW": "205.25 g/mol"
     }
   ],
-  "Parents": [
-    "phenethylamine"
-  ]
+  "Parents": ["phenethylamine"]
 }

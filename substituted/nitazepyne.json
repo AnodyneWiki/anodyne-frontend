@@ -32,12 +32,7 @@
       "MW": "412.5 g/mol"
     }
   ],
-  "Parents": [
-    "nitazene",
-    "pyrrolidine"
-  ],
-  "Analogues": [
-    "nitazepipne"
-  ],
+  "Parents": ["nitazene", "pyrrolidine"],
+  "Analogues": ["nitazepipne"],
   "Wikipedia": "List of benzimidazole opioids"
 }

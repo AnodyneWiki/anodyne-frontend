@@ -1,8 +1,6 @@
 {
   "Title": "bonzi",
-  "Name": [
-    "Bonzi Buddy"
-  ],
+  "Name": ["Bonzi Buddy"],
   "About": "{p}Hi, im bonzi, the cat that steals your {sub 'diacetylmorphine' 'heroin'} and {sub 'α-Pyrrolidinopentiophenone' 'α-PVP'} 🫠{Ep}",
   "Psyche": {
     "Interests": [
@@ -129,15 +127,9 @@
           "Dosage": "0.1-0.5mg"
         }
       ],
-      "Sources": [
-        "Flunitrazolam 0.5mg blotter"
-      ],
-      "Adverse": [
-        "High blackout risk"
-      ],
-      "Notes": [
-        "It's a very {sev 'strong'} benzo"
-      ]
+      "Sources": ["Flunitrazolam 0.5mg blotter"],
+      "Adverse": ["High blackout risk"],
+      "Notes": ["It's a very {sev 'strong'} benzo"]
     },
     {
       "Name": "Pyrazolam"
@@ -188,12 +180,8 @@
           "Dosage": "20-40mg"
         }
       ],
-      "Salts": [
-        "hydrochloride"
-      ],
-      "Sources": [
-        "Heroin #4 (hcl) from Thailand"
-      ]
+      "Salts": ["hydrochloride"],
+      "Sources": ["Heroin #4 (hcl) from Thailand"]
     },
     {
       "Name": "Opium",
@@ -221,9 +209,7 @@
           "Dosage": "25-75mg"
         }
       ],
-      "Adverse": [
-        "{wkp 'opioid overdose'}"
-      ]
+      "Adverse": ["{wkp 'opioid overdose'}"]
     },
     {
       "Name": "Tilidine",
@@ -307,12 +293,8 @@
           "Dosage": "15-50mg"
         }
       ],
-      "Salts": [
-        "hydrochloride"
-      ],
-      "Sources": [
-        "very fluffy hex-en white powder (post-ban)"
-      ],
+      "Salts": ["hydrochloride"],
+      "Sources": ["very fluffy hex-en white powder (post-ban)"],
       "Effects": [
         "{sev 'strong'} {xeff 'wakefulness'}",
         "{sev 'strong'} {xeff 'stimulation'}",
@@ -375,9 +357,7 @@
           "Name": "Oral"
         }
       ],
-      "Effects": [
-        "{sev 'strong'} {xeff 'stimulation'}"
-      ]
+      "Effects": ["{sev 'strong'} {xeff 'stimulation'}"]
     },
     {
       "Name": "2-Fluoromethamphetamine",
@@ -596,12 +576,8 @@
           "Dosage": "50-150mg"
         }
       ],
-      "Salts": [
-        "calcium"
-      ],
-      "Effects": [
-        "short-acting {sev 'intense'} {xeff 'cognitive euphoria'}"
-      ],
+      "Salts": ["calcium"],
+      "Effects": ["short-acting {sev 'intense'} {xeff 'cognitive euphoria'}"],
       "Notes": [
         "Dangerous barbiturate, benzodiazepines are superior in almost all aspects but euphoria."
       ]

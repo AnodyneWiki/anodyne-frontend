@@ -37,7 +37,6 @@
 
 {{template "intro" $v}}
 
-
 {{/*template "chem" $v*/}}
 {{template "history" $v}}
 {{template "pharma" $v}}

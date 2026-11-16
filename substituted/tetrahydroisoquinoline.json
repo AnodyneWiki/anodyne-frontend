@@ -3,9 +3,7 @@
   "Entries": [
     {
       "Title": "Pellotine",
-      "Abr": [
-        "Peyotline"
-      ],
+      "Abr": ["Peyotline"],
       "MW": "237.29 g/mol"
     },
     {
@@ -43,11 +41,7 @@
   "Children": [],
   "First": {
     "Title": "Tetrahydroisoquinoline",
-    "Abr": [
-      "TIQ",
-      "THIQ",
-      "AMPH-CR"
-    ],
+    "Abr": ["TIQ", "THIQ", "AMPH-CR"],
     "MW": "133.19 g/mol"
   }
 }

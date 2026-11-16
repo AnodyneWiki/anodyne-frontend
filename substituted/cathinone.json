@@ -3,57 +3,47 @@
   "Entries": [
     {
       "Title": "3,4-Methylenedioxycathinone",
-      "Abr": "MDC",
+      "Abr": ["MDC"],
       "MW": "193.20 g/mol"
     },
     {
       "Title": "3-Methylethcathinone",
-      "Abr": [
-        "3-MEC"
-      ],
+      "Abr": ["3-MEC"],
       "MW": "191.27 g/mol"
     },
     {
       "Title": "4-Methylbuphedrone",
-      "Abr": [
-        "4-MeMABP"
-      ],
+      "Abr": ["4-MeMABP"],
       "MW": "191.27 g/mol"
     },
     {
       "Title": "4-Methylethcathinone",
-      "Abr": [
-        "4-MEC"
-      ],
+      "Abr": ["4-MEC"],
       "MW": "191.27 g/mol"
     },
     {
       "Title": "4-Methylpentedrone",
-      "Abr": [
-        "4-MPD"
-      ],
+      "Abr": ["4-MPD"],
       "MW": "205.30 g/mol"
     },
     {
       "Title": "5-Methylethylone",
-      "Abr": "5-Me-MDEC",
+      "Abr": ["5-Me-MDEC"],
       "MW": "235.28 g/mol"
     },
     {
       "Title": "Brephedrone",
-      "Abr": "4-BMC",
+      "Abr": ["4-BMC"],
       "MW": "242.11 g/mol"
     },
     {
       "Title": "Brophedrone",
-      "Abr": [
-        "3-BMC"
-      ],
+      "Abr": ["3-BMC"],
       "MW": "242.11 g/mol"
     },
     {
       "Title": "Buphedrone",
-      "Abr": "MABP",
+      "Abr": ["MABP"],
       "MW": "177.24 g/mol"
     },
     {
@@ -68,16 +58,12 @@
     },
     {
       "Title": "Clephedrone",
-      "Abr": [
-        "4-CMC"
-      ],
+      "Abr": ["4-CMC"],
       "MW": "197.66 g/mol"
     },
     {
       "Title": "Clophedrone",
-      "Abr": [
-        "3-CMC"
-      ],
+      "Abr": ["3-CMC"],
       "MW": "197.66 g/mol"
     },
     {
@@ -92,7 +78,7 @@
     },
     {
       "Title": "Ethylone",
-      "Abr": "MDEC",
+      "Abr": ["EDEC"],
       "MW": "221.25 g/mol"
     },
     {
@@ -102,14 +88,12 @@
     },
     {
       "Title": "Flephedrone",
-      "Abr": "4-FMC",
+      "Abr": ["4-FMC"],
       "MW": "181.21 g/mol"
     },
     {
       "Title": "Flophedrone",
-      "Abr": [
-        "3-FMC"
-      ],
+      "Abr": ["3-FMC"],
       "MW": "181.21 g/mol"
     },
     {
@@ -124,16 +108,12 @@
     },
     {
       "Title": "Mephedrone",
-      "Abr": [
-        "4-MMC"
-      ],
+      "Abr": ["4-MMC"],
       "MW": "177.24 g/mol"
     },
     {
       "Title": "Metaphedrone",
-      "Abr": [
-        "3-MMC"
-      ],
+      "Abr": ["3-MMC"],
       "MW": "177.24 g/mol"
     },
     {
@@ -143,7 +123,7 @@
     },
     {
       "Title": "Methylone",
-      "Abr": "MDMC",
+      "Abr": ["MDMC"],
       "MW": "207.23 g/mol"
     },
     {
@@ -158,9 +138,7 @@
     },
     {
       "Title": "N-Ethyl-nor-pentedrone",
-      "Abr": [
-        "NEP"
-      ],
+      "Abr": ["NEP"],
       "MW": "205.30 g/mol"
     },
     {
@@ -170,9 +148,7 @@
     },
     {
       "Title": "Orthophedrone",
-      "Abr": [
-        "2-MMC"
-      ],
+      "Abr": ["2-MMC"],
       "MW": "177.24 g/mol"
     },
     {
@@ -187,14 +163,12 @@
     },
     {
       "Title": "N-Ethyl-4-methyl-nor-pentedrone",
-      "Abr": [
-        "4-MEAP"
-      ],
+      "Abr": ["4-MEAP"],
       "MW": "219.32 g/mol"
     },
     {
       "Title": "Methedrone",
-      "Abr": "PMMC",
+      "Abr": ["PMMC"],
       "MW": "193.24 g/mol"
     },
     {
@@ -204,23 +178,17 @@
     },
     {
       "Title": "Clipredrone",
-      "Abr": [
-        "4-CIC"
-      ],
+      "Abr": ["4-CIC"],
       "MW": "225.71 g/mol"
     },
     {
       "Title": "4-Chlorobutylcathinone",
-      "Abr": [
-        "4-CBC"
-      ],
+      "Abr": ["4-CBC"],
       "MW": "239.74 g/mol"
     },
     {
       "Title": "N-Ethyl-nor-hexedrone",
-      "Abr": [
-        "Hexen"
-      ],
+      "Abr": ["Hexen"],
       "MW": "219.32 g/mol"
     },
     {
@@ -230,32 +198,32 @@
     },
     {
       "Title": "4-Fluorocathinone",
-      "Abr": "4-FC",
+      "Abr": ["4-FC"],
       "MW": "167.18 g/mol"
     },
     {
       "Title": "2-Ethylmethcathinone",
-      "Abr": "2-EMC",
+      "Abr": ["2-EMC"],
       "MW": "191.27 g/mol"
     },
     {
       "Title": "3-Ethylmethcathinone",
-      "Abr": "3-EMC",
+      "Abr": ["3-EMC"],
       "MW": "191.27 g/mol"
     },
     {
       "Title": "4-Ethylmethcathinone",
-      "Abr": "4-EMC",
+      "Abr": ["4-EMC"],
       "MW": "191.27 g/mol"
     },
     {
       "Title": "Nor-Mephedrone",
-      "Abr": "4-MC",
+      "Abr": ["4-MC"],
       "MW": "163.22 g/mol"
     },
     {
       "Title": "2-Fluoromethcathinone",
-      "Abr": "2-FMC",
+      "Abr": ["2-FMC"],
       "MW": "181.21 g/mol"
     },
     {
@@ -270,12 +238,12 @@
     },
     {
       "Title": "3,4-Dihydroxymethcathinone",
-      "Abr": "HHMC",
+      "Abr": ["HHMC"],
       "MW": "195.21 g/mol"
     },
     {
       "Title": "3,4-Ethylenedioxymethcathinone",
-      "Abr": "EDMC",
+      "Abr": ["EDMC"],
       "MW": "221.25 g/mol"
     },
     {
@@ -285,12 +253,12 @@
     },
     {
       "Title": "3,4-Dimethylmethcathinone",
-      "Abr": "3,4-DMMC",
+      "Abr": ["3,4-DMMC"],
       "MW": "191.27 g/mol"
     },
     {
       "Title": "3,4-Ethylenedioxycathinone",
-      "Abr": "EDC",
+      "Abr": ["EDC"],
       "MW": "207.23 g/mol"
     },
     {
@@ -300,9 +268,7 @@
     },
     {
       "Title": "α-Methylmethcathinone",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "177.24 g/mol"
     },
     {
@@ -312,16 +278,12 @@
     },
     {
       "Title": "N-Benzylmethcathinone",
-      "Abr": [
-        "NBMC"
-      ],
+      "Abr": ["NBMC"],
       "MW": "253.34 g/mol"
     },
     {
       "Title": "α-Pyrrolidino-2-phenylacetophenone",
-      "Abr": [
-        "α-D2PV"
-      ],
+      "Abr": ["α-D2PV"],
       "MW": "265.3 g/mol"
     },
     {
@@ -331,23 +293,17 @@
     },
     {
       "Title": "3-Methylcathinone",
-      "Abr": [
-        "3-MC"
-      ],
+      "Abr": ["3-MC"],
       "MW": "163.22 g/mol"
     },
     {
       "Title": "2-Methylcathinone",
-      "Abr": [
-        "2-MC"
-      ],
+      "Abr": ["2-MC"],
       "MW": "163.22 g/mol"
     },
     {
       "Title": "2-Benzoylpiperidine",
-      "Abr": [
-        "2-BZOPD"
-      ],
+      "Abr": ["2-BZOPD"],
       "MW": "189.25 g/mol"
     },
     {
@@ -357,90 +313,218 @@
     },
     {
       "Title": "4-Methyl-α-piperidinopropiophenone",
-      "Abr": [
-        "4-Me-PIPPP"
-      ],
+      "Abr": ["4-Me-PIPPP"],
       "MW": "231.33 g/mol"
     },
     {
       "Title": "3-Methyl-α-piperidinopropiophenone",
-      "Abr": [
-        "3-Me-PIPPP"
-      ],
+      "Abr": ["3-Me-PIPPP"],
       "MW": "231.33 g/mol"
     },
     {
       "Title": "3-Methoxy-α-piperidinopropiophenone",
-      "Abr": [
-        "3-MeO-PIPPP"
-      ],
+      "Abr": ["3-MeO-PIPPP"],
       "MW": "247.33 g/mol"
     },
     {
       "Title": "3,4-Dihydroxy-α-piperidinopropiophenone",
-      "Abr": [
-        "3,4-DMPIPPP"
-      ],
+      "Abr": ["3,4-DMPIPPP"],
       "MW": "249.30 g/mol"
     },
     {
       "Title": "3',4'-Dichloro-α-piperidinopentiophenone",
-      "Abr": [
-        "3,4-DCPIPVP"
-      ],
+      "Abr": ["3,4-DCPIPVP"],
       "MW": "314.2 g/mol"
     },
     {
       "Title": "3'-Nitro-α-piperidinopropiophenone",
-      "Abr": [
-        "3-NPIPPP"
-      ],
+      "Abr": ["3-NPIPPP"],
       "MW": "262.30 g/mol"
     },
     {
       "Title": "α-Piperidinoheptaphenone",
-      "Abr": [
-        "α-PIPEP"
-      ],
+      "Abr": ["α-PIPEP"],
       "MW": "317.4 g/mol"
     },
     {
-      "Title": "3',4'-Methylenedioxy-α-Piperidinoheptaphenone",
-      "Abr": [
-        "MDPIPEP"
-      ],
+      "Title": "3',4'-Methylenedioxy-α-piperidinoheptaphenone",
+      "Abr": ["MDPIPEP"],
       "MW": "317.4 g/mol"
+    },
+    {
+      "Title": "4'-Methoxy-α-pyrrolidinopropiophenone",
+      "Abr": ["4-MeO-α-PPP", "MOPPP"],
+      "MW": "233.31 g/mol"
+    },
+    {
+      "Title": "3',4'-Dimethoxy-α-pyrrolidinopentiophenone",
+      "Abr": ["DMPV", "3,4-DMPV", "DMPVP", "O-2512"],
+      "MW": "291.4 g/mol"
+    },
+    {
+      "Title": "3'-Methyl-α-pyrrolidinopentiophenone",
+      "Abr": ["3-Me-PVP", "3-Me-α-PVP", "O-2480"],
+      "MW": "245.36 g/mol"
+    },
+    {
+      "Title": "Benzofuran",
+      "Abr": ["6-APB"],
+      "MW": "205.25 g/mol"
+    },
+    {
+      "Title": "α-Piperidinopropiophenone",
+      "Abr": ["α-PIPPP"],
+      "MW": "217.31 g/mol"
+    },
+    {
+      "Title": "3',4'-Dihydroxy-α-piperidinopropiophenone",
+      "Abr": ["3,4-DMPIPPP"],
+      "MW": "249.30 g/mol"
+    },
+    {
+      "Title": "3'-Methyl-α-piperidinopropiophenone",
+      "Abr": ["3-Me-PIPPP"],
+      "MW": "231.33 g/mol"
+    },
+    {
+      "Title": "3'-Methoxy-α-piperidinopropiophenone",
+      "Abr": ["3-MeO-PIPPP"],
+      "MW": "247.33 g/mol"
+    },
+    {
+      "Title": "4'-Methyl-α-piperidinopropiophenone",
+      "Abr": ["4-Me-PIPPP"],
+      "MW": "231.33 g/mol"
+    },
+    {
+      "Title": "α-Piperidinobutiophenone",
+      "Abr": ["α-PIPBP"],
+      "MW": "231.33 g/mol"
+    },
+    {
+      "Title": "4'-Fluoro-α-piperidinopentiophenone",
+      "Abr": ["4-FPIPVP"],
+      "MW": "263.35 g/mol"
+    },
+    {
+      "Title": "3',4'-Trimethylene-α-piperidinopentiophenone",
+      "Abr": ["3,4-Pr-PIPVP"],
+      "MW": "285.4 g/mol"
+    },
+    {
+      "Title": "α-Piperidinohexiophenone",
+      "Abr": ["α-PIPHP"],
+      "MW": "259.4 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinopropiophenone",
+      "Abr": ["α-PPP"],
+      "MW": "203.28 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinobutiophenone",
+      "Abr": ["α-PBP"],
+      "MW": "217.31 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinopentiophenone",
+      "Abr": ["α-PVP", "O-2387"],
+      "MW": "231.33 g/mol"
+    },
+    {
+      "Title": "4'-Fluoro-α-pyrrolidinopentiophenone",
+      "Abr": ["FPVP", "O-2370"],
+      "MW": "249.32 g/mol"
+    },
+    {
+      "Title": "Pyrovalerone",
+      "Abr": ["O-2371"],
+      "MW": "245.36 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinohexiophenone",
+      "Abr": ["α-PHP"],
+      "MW": "245.36 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinoheptaphenone",
+      "Abr": ["α-PEP"],
+      "MW": "259.4 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinoisohexanophenone",
+      "Abr": ["α-PiHP"],
+      "MW": "245.36 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-pyrrolidinopentiophenone",
+      "Abr": ["MDPV", "MDPK"],
+      "MW": "275.34 g/mol"
+    },
+    {
+      "Title": "3',4'-Ethylene-α-pyrrolidinopentiophenone",
+      "MW": "257.37 g/mol"
+    },
+    {
+      "Title": "3',4'-Dichloro-α-pyrrolidinopentiophenone",
+      "Abr": ["3,4-DCPV", "DCPVP", "O-2390"],
+      "MW": "300.2 g/mol"
+    },
+    {
+      "Title": "5-Dihydrobenzofuranpyrovalerone",
+      "Abr": ["5-DBFPV"],
+      "MW": "273.37 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-pyrrolidinopropiophenone",
+      "Abr": ["MDPPP"],
+      "MW": "247.29 g/mol"
+    },
+    {
+      "Title": "3',4'-Methylenedioxy-α-pyrrolidinobutiophenone",
+      "Abr": ["MDPBP"],
+      "MW": "261.32 g/mol"
+    },
+    {
+      "Title": "3',4'-Tetramethylene-α-pyrrolidinovalerophenone",
+      "Abr": ["TH-PVP", "THPV"],
+      "MW": "285.4 g/mol"
+    },
+    {
+      "Title": "α-Pyrrolidinocyclohexanophenone",
+      "Abr": ["α-PCyP"],
+      "MW": "271.4 g/mol"
+    },
+    {
+      "Title": "Indapyrophenidone",
+      "MW": "305.4 g/mol"
+    },
+    {
+      "Title": "Ketazocine",
+      "MW": "285.4 g/mol"
+    },
+    {
+      "Title": "Ethylketazocine",
+      "MW": "299.4 g/mol"
     },
     {
       "Title": "2-Chloromethcathinone",
-      "Abr": [
-        "2-CMC"
-      ],
+      "Abr": ["2-CMC"],
       "MW": "197.66 g/mol"
     },
     {
       "Title": "N-Cyclohexylmethylone",
-      "Abr": [
-        "Cyputylone"
-      ],
+      "Abr": ["Cyputylone"],
       "MW": "275.34 g/mol"
     },
     {
       "Title": "Benzedrone",
-      "Abr": [
-        "4-MBC"
-      ],
+      "Abr": ["4-MBC"],
       "MW": "253.34 g/mol"
     }
   ],
-  "Parents": [
-    "amphetamine",
-    "ketone"
-  ],
-  "Children": [
-    "pyrrolidinophenone",
-    "piperidinophenone"
-  ],
+  "Parents": ["amphetamine", "ketone"],
+  "Children": ["pyrrolidinophenone", "piperidinophenone"],
   "First": {
     "Title": "Cathinone",
     "Abr": "",

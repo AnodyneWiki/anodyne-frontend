@@ -3,9 +3,7 @@
   "Entries": [
     {
       "Title": "4-Methylaminorex",
-      "Abr": [
-        "4-MAR"
-      ],
+      "Abr": ["4-MAR"],
       "MW": "176.21 g/mol"
     },
     {
@@ -65,9 +63,7 @@
     },
     {
       "Title": "3',4'-Methylenedioxyaminorex",
-      "Abr": [
-        "MDAR"
-      ],
+      "Abr": ["MDAR"],
       "MW": "206.20 g/mol"
     },
     {
@@ -78,14 +74,9 @@
   ],
   "First": {
     "Title": "Aminorex",
-    "Abr": [
-      "AR"
-    ],
+    "Abr": ["AR"],
     "MW": "162.19 g/mol"
   },
-  "Parents": [
-    "phenylethanolamine",
-    "ether"
-  ],
+  "Parents": ["phenylethanolamine", "ether"],
   "Wikipedia": "List of aminorex analogues"
 }

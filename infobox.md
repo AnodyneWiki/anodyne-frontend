@@ -1,5 +1,5 @@
 {{define "infobox"}}{{$v := .}}{{/*
-*/}}{{$boxvars := chunk 3 (list 
+*/}}{{$boxvars := chunk 3 (list
 	"{wkp 'Molecular_mass' 'Molecular mass'}" "MolecularWeight" 1
 	"Density" "Density" 1
 	"Appearance" "Color/Form" 1

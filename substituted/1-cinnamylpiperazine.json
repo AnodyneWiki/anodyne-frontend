@@ -3,9 +3,7 @@
   "Entries": [
     {
       "Title": "2-Methylbucinnazine",
-      "Abr": [
-        "2-Methyl-AP-237"
-      ],
+      "Abr": ["2-Methyl-AP-237"],
       "MW": "286.4 g/mol"
     },
     {
@@ -15,20 +13,14 @@
     },
     {
       "Title": "2,6-Dimethylprocinnazine",
-      "Abr": [
-        "AP-238"
-      ],
+      "Abr": ["AP-238"],
       "MW": "286.4 g/mol"
     },
     {
       "Title": "Bucinnazine",
-      "Abr": [
-        "AP-237"
-      ],
+      "Abr": ["AP-237"],
       "MW": "272.4 g/mol"
     }
   ],
-  "Parents": [
-    "piperazine"
-  ]
+  "Parents": ["piperazine"]
 }

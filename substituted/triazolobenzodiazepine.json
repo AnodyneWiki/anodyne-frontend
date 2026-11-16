@@ -63,7 +63,5 @@
     }
   ],
   "Parent": "benzodiazepine",
-  "Analogues": [
-    "thienotriazolodiazepine"
-  ]
+  "Analogues": ["thienotriazolodiazepine"]
 }

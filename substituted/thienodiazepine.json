@@ -22,15 +22,7 @@
       "MW": "312.4 g/mol"
     }
   ],
-  "Children": [
-    "thienotriazolodiazepine"
-  ],
-  "Analogues": [
-    "benzodiazepine",
-    "pyridodiazepine"
-  ],
-  "Parents": [
-    "amine",
-    "thioether"
-  ]
+  "Children": ["thienotriazolodiazepine"],
+  "Analogues": ["benzodiazepine", "pyridodiazepine"],
+  "Parents": ["amine", "thioether"]
 }

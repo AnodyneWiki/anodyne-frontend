@@ -3,96 +3,66 @@
   "Entries": [
     {
       "Title": "N,N-Pyrrolidinyltryptamine",
-      "Abr": [
-        "pyr-T"
-      ],
+      "Abr": ["pyr-T"],
       "MW": "214.31 g/mol"
     },
     {
       "Title": "5-Methoxy-N,N-pyrrolidinyltryptamine",
-      "Abr": [
-        "5-MeO-pyr-T"
-      ],
+      "Abr": ["5-MeO-pyr-T"],
       "MW": "244.33 g/mol"
     },
     {
       "Title": "4-Hydroxy-N,N-pyrrolidinyltryptamine",
-      "Abr": [
-        "4-HO-pyr-T"
-      ],
+      "Abr": ["4-HO-pyr-T"],
       "MW": "230.31 g/mol"
     },
     {
       "Title": "4-Fluoro-5-methoxy-N,N-pyrrolidinyltryptamine",
-      "Abr": [
-        "4-F-5-MeO-pyr-T"
-      ],
+      "Abr": ["4-F-5-MeO-pyr-T"],
       "MW": "262.32 g/mol"
     },
     {
       "Title": "α-Methyl-N,N-pyrrolidinyltryptamine",
-      "Abr": [
-        "pyr-AMT"
-      ],
+      "Abr": ["pyr-AMT"],
       "MW": "228.33 g/mol"
     },
     {
       "Title": "5-Hydroxy-N,N-pyrrolidinyltryptamine",
-      "Abr": [
-        "5-HO-pyr-T"
-      ],
+      "Abr": ["5-HO-pyr-T"],
       "MW": "230.31 g/mol"
     },
     {
       "Title": "6-Hydroxy-N,N-pyrrolidinyltryptamine",
-      "Abr": [
-        "6-HO-pyr-T"
-      ],
+      "Abr": ["6-HO-pyr-T"],
       "MW": "230.31 g/mol"
     },
     {
       "Title": "7-Hydroxy-N,N-pyrrolidinyltryptamine",
-      "Abr": [
-        "7-HO-pyr-T"
-      ],
+      "Abr": ["7-HO-pyr-T"],
       "MW": "230.31 g/mol"
     },
     {
       "Title": "6-Methoxy-N,N-pyrrolidinyltryptamine",
-      "Abr": [
-        "6-MeO-pyr-T"
-      ],
+      "Abr": ["6-MeO-pyr-T"],
       "MW": "244.33 g/mol"
     },
     {
       "Title": "4-Methoxy-N,N-pyrrolidinyltryptamine",
-      "Abr": [
-        "4-MeO-pyr-T"
-      ],
+      "Abr": ["4-MeO-pyr-T"],
       "MW": "244.33 g/mol"
     },
     {
       "Title": "7-Methoxy-N,N-pyrrolidinyltryptamine",
-      "Abr": [
-        "7-MeO-pyr-T"
-      ],
+      "Abr": ["7-MeO-pyr-T"],
       "MW": "244.33 g/mol"
     },
     {
       "Title": "β-Keto-N,N-pyrrolidinyltryptamine",
-      "Abr": [
-        "βk-pyr-T"
-      ],
+      "Abr": ["βk-pyr-T"],
       "MW": "228.29 g/mol"
     }
   ],
-  "Parents": [
-    "tryptamine",
-    "pyrrolidine"
-  ],
-  "Analogues": [
-    "piperidinylethylindole",
-    "morpholinylethylindole"
-  ],
+  "Parents": ["tryptamine", "pyrrolidine"],
+  "Analogues": ["piperidinylethylindole", "morpholinylethylindole"],
   "Wikipedia": "Pyrrolidinylethylindole"
 }

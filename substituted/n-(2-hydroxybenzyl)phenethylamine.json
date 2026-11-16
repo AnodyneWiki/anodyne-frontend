@@ -5,86 +5,62 @@
   "Entries": [
     {
       "Title": "2,5-Dimethoxy-4-bromo-N-(2-hydroxybenzyl)phenethylamine",
-      "Abr": [
-        "25B-NBOH"
-      ],
+      "Abr": ["25B-NBOH"],
       "MW": "366.2 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-N-(2-hydroxybenzyl)phenethylamine",
-      "Abr": [
-        "25H-NBOH"
-      ],
+      "Abr": ["25H-NBOH"],
       "MW": "287.35 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-chloro-N-(2-hydroxybenzyl)phenethylamine",
-      "Abr": [
-        "25C-NBOH"
-      ],
+      "Abr": ["25C-NBOH"],
       "MW": "321.8 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-ethyl-N-(2-hydroxybenzyl)phenethylamine",
-      "Abr": [
-        "25E-NBOH"
-      ],
+      "Abr": ["25E-NBOH"],
       "MW": "315.4 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-iodo-N-(2-hydroxybenzyl)phenethylamine",
-      "Abr": [
-        "25I-NBOH"
-      ],
+      "Abr": ["25I-NBOH"],
       "MW": "413.25 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-methyl-N-(2-hydroxybenzyl)phenethylamine",
-      "Abr": [
-        "25D-NBOH"
-      ],
+      "Abr": ["25D-NBOH"],
       "MW": "301.4 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-propyl-N-(2-hydroxybenzyl)phenethylamine",
-      "Abr": [
-        "25P-NBOH"
-      ],
+      "Abr": ["25P-NBOH"],
       "MW": "329.4 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-isopropylthio-N-(2-hydroxybenzyl)phenethylamine",
-      "Abr": [
-        "25T4-NBOH"
-      ],
+      "Abr": ["25T4-NBOH"],
       "MW": "375.5 g/mol"
     },
     {
       "Title": "N-(2-Hydroxybenzyl)phenethylamine",
-      "Abr": [
-        "NBOH"
-      ],
+      "Abr": ["NBOH"],
       "MW": "227.30 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-propylthio-N-(2-hydroxybenzyl)phenethylamine",
-      "Abr": [
-        "25T7-NBOH"
-      ],
+      "Abr": ["25T7-NBOH"],
       "MW": "375.5 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-chloro-N-(2-methoxybenzyl)phenethylamine",
-      "Abr": [
-        "25C-NBOMe"
-      ],
+      "Abr": ["25C-NBOMe"],
       "MW": "335.8 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-iodo-N-(2-methoxybenzyl)phenethylamine",
-      "Abr": [
-        "25I-NBOMe"
-      ],
+      "Abr": ["25I-NBOMe"],
       "MW": "427.3 g/mol"
     }
   ],

@@ -18,9 +18,7 @@
     },
     {
       "Title": "Nicotinamide mononucleotide",
-      "Abr": [
-        "NMN"
-      ],
+      "Abr": ["NMN"],
       "MW": "334.22 g/mol"
     },
     {
@@ -44,15 +42,7 @@
       "MW": "186.25 g/mol"
     }
   ],
-  "Children": [
-    "pyridodiazepine",
-    "imidazopyridine"
-  ],
-  "Analogues": [
-    "pyrrolidine",
-    "piperidine",
-    "piperazine",
-    "morpholine"
-  ],
+  "Children": ["pyridodiazepine", "imidazopyridine"],
+  "Analogues": ["pyrrolidine", "piperidine", "piperazine", "morpholine"],
   "Wikipedia": "Pyridines"
 }

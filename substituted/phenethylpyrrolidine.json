@@ -8,23 +8,17 @@
     },
     {
       "Title": "α-Methylphenethylpyrrolidine",
-      "Abr": [
-        "MPEP"
-      ],
+      "Abr": ["MPEP"],
       "MW": "189.30 g/mol"
     },
     {
       "Title": "N-Pyrrolidinyl-3,4-dimethoxyamphetamine",
-      "Abr": [
-        "N-pyrrolidinyl-3,4-DMA"
-      ],
+      "Abr": ["N-pyrrolidinyl-3,4-DMA"],
       "MW": "249.35 g/mol"
     },
     {
       "Title": "α-Ethylphenethylpyrrolidine",
-      "Abr": [
-        "EPEP"
-      ],
+      "Abr": ["EPEP"],
       "MW": "203.32 g/mol"
     },
     {
@@ -33,14 +27,7 @@
       "MW": "233.35 g/mol"
     }
   ],
-  "Parents": [
-    "phenethylamine",
-    "pyrrolidine"
-  ],
-  "Analogues": [
-    "phenethylpiperidine"
-  ],
-  "Children": [
-    "pyrrolidinophenone"
-  ]
+  "Parents": ["phenethylamine", "pyrrolidine"],
+  "Analogues": ["phenethylpiperidine"],
+  "Children": ["pyrrolidinophenone"]
 }

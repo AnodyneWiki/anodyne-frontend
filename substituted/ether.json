@@ -3,9 +3,7 @@
   "Entries": [
     {
       "Title": "Diethyl ether",
-      "Abr": [
-        "Ether"
-      ],
+      "Abr": ["Ether"],
       "MW": "74.12 g/mol"
     },
     {
@@ -20,9 +18,7 @@
     },
     {
       "Title": "Sevoflurane",
-      "Abr": [
-        "sevo"
-      ],
+      "Abr": ["sevo"],
       "MW": "200.05 g/mol"
     },
     {
@@ -77,9 +73,7 @@
     },
     {
       "Title": "Ethylene oxide",
-      "Abr": [
-        "EO"
-      ],
+      "Abr": ["EO"],
       "MW": "44.05 g/mol"
     }
   ],
@@ -89,8 +83,6 @@
     "3,5-dimethoxyphenethylamine",
     "alkyl nitrite"
   ],
-  "Analogues": [
-    "thioether"
-  ],
+  "Analogues": ["thioether"],
   "Wikipedia": "Ether"
 }
