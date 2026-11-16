@@ -3,16 +3,12 @@
   "Entries": [
     {
       "Title": "Baclofen",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "213.66 g/mol"
     },
     {
       "Title": "Baflofen",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "197.21 g/mol"
     },
     {
@@ -57,37 +53,27 @@
     },
     {
       "Title": "Statine",
-      "Abr": [
-        "Sta"
-      ],
+      "Abr": ["Sta"],
       "MW": "175.23 g/mol"
     },
     {
       "Title": "Tyrothricin",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "1228.4 g/mol"
     },
     {
       "Title": "Histidine",
-      "Abr": [
-        "His"
-      ],
+      "Abr": ["His"],
       "MW": "155.15 g/mol"
     },
     {
       "Title": "Glutamic acid",
-      "Abr": [
-        "Glu"
-      ],
+      "Abr": ["Glu"],
       "MW": "147.13 g/mol"
     },
     {
       "Title": "Asparagine",
-      "Abr": [
-        "Asn"
-      ],
+      "Abr": ["Asn"],
       "MW": "132.12 g/mol"
     },
     {
@@ -113,12 +99,8 @@
   ],
   "First": {
     "Title": "γ-Aminobutyric acid",
-    "Abr": [
-      "GABA"
-    ],
+    "Abr": ["GABA"],
     "MW": "103.12 g/mol"
   },
-  "Parents": [
-    "amino acid"
-  ]
+  "Parents": ["amino acid"]
 }

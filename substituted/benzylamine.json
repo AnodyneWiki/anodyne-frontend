@@ -43,9 +43,7 @@
     },
     {
       "Title": "Aptiganel",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "303.4 g/mol"
     },
     {
@@ -63,16 +61,12 @@
     },
     {
       "Title": "Sulpiride",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "341.4 g/mol"
     },
     {
       "Title": "Sultopride",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "354.5 g/mol"
     },
     {
@@ -87,16 +81,12 @@
     },
     {
       "Title": "Bromadoline",
-      "Abr": [
-        "U-47931E"
-      ],
+      "Abr": ["U-47931E"],
       "MW": "325.24 g/mol"
     },
     {
       "Title": "Tametraline",
-      "Abr": [
-        "CP-24,441"
-      ],
+      "Abr": ["CP-24,441"],
       "MW": "237.34 g/mol"
     },
     {
@@ -111,10 +101,7 @@
     },
     {
       "Title": "Lamotrigine",
-      "Abr": [
-        "BW-430C",
-        "BW430C"
-      ],
+      "Abr": ["BW-430C", "BW430C"],
       "MW": "256.09 g/mol"
     },
     {
@@ -124,14 +111,7 @@
     },
     {
       "Title": "Ketanserin",
-      "Abr": [
-        "R-41468",
-        "R41468",
-        "R-41,468",
-        "KJK-945",
-        "R-49945",
-        "R49945"
-      ],
+      "Abr": ["R-41468", "R41468", "R-41,468", "KJK-945", "R-49945", "R49945"],
       "MW": "395.4 g/mol"
     },
     {
@@ -141,9 +121,7 @@
     },
     {
       "Title": "1-Aminotetralin",
-      "Abr": [
-        "1-AT"
-      ],
+      "Abr": ["1-AT"],
       "MW": "147.22 g/mol"
     },
     {
@@ -156,16 +134,12 @@
     },
     {
       "Title": "Encyprate",
-      "Abr": [
-        "MO-1255"
-      ],
+      "Abr": ["MO-1255"],
       "MW": "219.28 g/mol"
     },
     {
       "Title": "α-Methylbenzylamine",
-      "Abr": [
-        "α-PEA"
-      ],
+      "Abr": ["α-PEA"],
       "MW": "121.18 g/mol"
     },
     {
@@ -186,9 +160,7 @@
     },
     {
       "Title": "Methaqualone",
-      "Abr": [
-        "Quaalude"
-      ],
+      "Abr": ["Quaalude"],
       "MW": "250.29 g/mol"
     },
     {
@@ -205,9 +177,7 @@
     },
     {
       "Title": "Methylmethaqualone",
-      "Abr": [
-        "MMQ"
-      ],
+      "Abr": ["MMQ"],
       "MW": "264.32 g/mol"
     },
     {
@@ -280,24 +250,18 @@
     },
     {
       "Title": "Sildenafil",
-      "Abr": [
-        "Viagra"
-      ],
+      "Abr": ["Viagra"],
       "MW": "474.6 g/mol"
     },
     {
       "Title": "N-(2-Chloroethyl)-N-ethyl-2-bromobenzylamine",
-      "Abr": [
-        "DSP-4"
-      ],
+      "Abr": ["DSP-4"],
       "MW": "276.60 g/mol"
     }
   ],
   "First": {
     "Title": "Benzylamine",
-    "Abr": [
-
-    ],
+    "Abr": [],
     "MW": "107.15 g/mol"
   },
   "Parent": "arylalkylamine",

@@ -1,2697 +1,2199 @@
 {
-    "Title": "Pilz",
-    "Name": [
-        "Pilz"
+  "Title": "Pilz",
+  "Name": ["Pilz"],
+  "About": "{wkp 'Computer'} touching {wkp 'dog'} addicted to {sub 'caffeine'}.",
+  "Birth": "2006-11",
+  "Location": "Germany",
+  "Weight": ["2026: ~80kg"],
+  "Links": [
+    {
+      "Name": "Signal",
+      "Url": "pilz.69"
+    }
+  ],
+  "Psyche": {
+    "Interests": [
+      "{wkp 'Pharmacology'}",
+      "Psychedelics",
+      "{wkp 'Compounding'}",
+      "{wkp 'train'}s",
+      "networking",
+      "declarative configuration of computers"
     ],
-    "About": "{wkp 'Computer'} touching {wkp 'dog'} addicted to {sub 'caffeine'}.",
-    "Birth": "2006-11",
-    "Location": "Germany",
-    "Weight": [ "2026: ~80kg" ],
-    "Links": [
-        {
-            "Name": "Signal",
-            "Url": "pilz.69"
-        }
-    ],
-    "Psyche": {
-        "Interests": [
-            "{wkp 'Pharmacology'}",
-            "Psychedelics",
-            "{wkp 'Compounding'}",
-            "{wkp 'train'}s",
-            "networking",
-            "declarative configuration of computers"
-        ],
-        "Attributes": [
-            "{wkp 'asperger syndrome'} (diagnosed {icd 'F84.5'}G); diagnosed as a child",
-            "{wkp 'transsexual'} (diagnosed {icd 'F64.0'}G); on HRT since 04/2023",
-            "{wkp 'attention deficit hyperactivity disorder'} (diagnosed {icd 'F90.0'}F); self medicating since 09/2025",
-            "{wkp 'Mixed anxiety–depressive disorder'} (diagnosed {icd 'F41.2'}G)",
-            "{wkp 'Social_rejection#Rejection_sensitivity'} (self diagnosed)",
-            "{wkp 'Major_depressive_episode'}, probably {icd 'F33.1'} (since 04/2026); before that {icd 'F33.0'} (since 2022/2023) (self diagnosed), self medicated with {sub 'ketamine'} and {sub 'venlafaxine'}",
-            "Various sleeping issues ({icd 'G47'}) (self diagnosed); self medicated with {sub 'melatonin'}, {sub 'Magnesium'} bisglycinate, {sub 'Tryptophan'} and other sleep aids",
-            "reaccuring {xeff 'suicidal-ideation'} ({icd 'R45.8'}); since ~2024",
-            "{wkp 'Self-harm'} (cutting {icd 'X78'}/hitting {icd 'X79'}); since 10/2025; ",
-            "Arachnoid cyst, no symptoms ({icd 'G93.0'}, diagnosed in 2019)",
-            "{wkp 'Nocturnal_enuresis'} ({icd 'F98.0'}); stopped when got 14",
-            "GI tract issues"
-        ]
-    },
-    "RoutesOfAdministration": [
-        {
-            "Name": "Intranasal",
-            "Paraphernalia": [
-                "Bahncard 100, Macbook and Paper",
-                "{wkp 'Trans_woman'}s {wkp 'Breast'}s",
-                "{wkp 'Spatula'}",
-                "Knive",
-                "Nasalspray"
-            ],
-            "Sites": [
-                "Nose"
-            ]
-        },
-        {
-            "Name": "Oral",
-            "Paraphernalia": [
-                "Capsule",
-                "Solution",
-                "Suppository",
-                "1ml syringe",
-                "Tablet",
-                "Powder",
-                "Crushed tablet",
-                "Brownie",
-                "Gummie",
-                "Drink"
-            ],
-            "Sites": [
-                "Mouth"
-            ]
-        },
-        {
-            "Name": "Subcutaneous",
-            "Paraphernalia": [
-                "Insulin pen",
-                "1ml syringe"
-            ],
-            "Sites": [
-                "Stomach",
-                "Lower loins"
-            ]
-        },
-        {
-            "Name": "Intrarectal",
-            "Paraphernalia": [
-                "soft capsule",
-                "Suppository",
-                "1ml syringe"
-            ],
-            "Sites": [
-                "Rectum"
-            ]
-        },
-        {
-            "Name": "Inhaled",
-            "Paraphernalia": [
-                "Ballon",
-                "bottle",
-                "vape"
-            ],
-            "Sites": [
-                "Lungs"
-            ]
-        },
-        {
-            "Name": "Smoked",
-            "Paraphernalia": [
-                "Vaporizer",
-                "Vape",
-                "Cigarette",
-                "Joint",
-                "Aluminium foil"
-            ],
-            "Sites": [
-                "Lungs"
-            ]
-        },
-        {
-            "Name": "Transdermal",
-            "Paraphernalia": [
-                "Gel"
-            ],
-            "Sites": [
-                "Lower arm"
-            ]
-        },
-        {
-            "Name": "Intramuscular",
-            "Paraphernalia": [
-                "1ml syringe"
-            ],
-            "Sites": [
-                "Vastus lateralis",
-                "Deltoid muscle",
-                "Dorsogluteal"
-            ]
-        }
-    ],
-    "TriedSubstances": [
-        {
-            "Name": "Orthophedrone",
-            "Routes": [
-                {
-                    "Name": "insufflated",
-                    "Dosage": "43-55mg"
-                }
-            ],
-            "Effects": [
-                "{xeff 'compulsive-redosing'}",
-                "{xeff 'stimulation'}"
-            ],
-            "Adverse": [
-                "{xeff 'analysis-suppression'}",
-                "{xeff 'motivation-suppression'} (feeling fried)"
-            ],
-            "Sources": [
-                "2-MMC: DNM Germany"
-            ]
-        },
-        {
-            "Name": "Metaphedrone",
-            "Routes": [
-                {
-                    "Name": "insufflated",
-                    "Dosage": "35.0mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'stimulation'}",
-                "{sev 'light'} {xeff 'increased-libido'}"
-            ],
-            "Adverse": [
-                "{sev 'moderate'} {xeff 'compulsive-redosing'}",
-                "{sev 'moderate'} {xeff 'motivation-suppression'} (feeling fried)"
-            ]
-        },
-        {
-            "Name": "Mephedrone",
-            "Routes": [
-                {
-                    "Name": "insufflated",
-                    "Dosage": "22-74mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'stimulation'}",
-                "{sev 'strong'} {xeff 'empathy-affection-and-sociability-enhancement'}",
-                "{sev 'strong'} {xeff 'increased-libido'}",
-                "{sev 'light'} {xeff 'anxiety-suppression'}",
-                "{sev 'strong'} {xeff 'increased-heart-rate'}",
-                "{sev 'strong'} {xeff 'stamina-enhancement'}",
-                "{sev 'strong'} {xeff 'time-distortion'}",
-                "{sev 'moderate'} {xeff 'increased-bodily-temperature'}",
-                "{xeff 'dry-mouth'}",
-                "{sev 'strong'} {xeff 'increased-blood-pressure'}",
-                "{xeff 'vasoconstriction'}",
-                "{xeff 'analysis-suppression'}"
-            ],
-            "Adverse": [
-                "{sev 'strong'} {xeff 'memory-suppression'} (forgetting what you did on the day/not having detailed memories)",
-                "{sev 'strong'} {xeff 'orgasm-suppression'}",
-                "{sev 'strong'} {xeff 'compulsive-redosing'} (feels like your constantly redosing/having to redose)",
-                "{sev 'moderate'} {xeff 'teeth-grinding'} when using higher doses"
-            ],
-            "Notes": [
-                "Very good substance to have sex on",
-                "The most addictive substance i consumed",
-                "152/89 Blood pressure, 108bpm and 37.1°C (temp messured on the forehead by a google pixel) after ~50-70mg insufflated"
-            ],
-            "Sources": [
-                "DNM Germany"
-            ]
-        },
-        {
-            "Name": "Bupropion",
-            "Salts":[
-                "hydrochloride"
-            ],
-            "Indication": [
-                "{sev 'light'} {sub 'Nicotine'} {icd 'F17.2'}",
-                "probably {icd 'F33.1'} (self diagnosed)",
-                "{icd 'F90.0'}"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "150-300mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'light'} weird {xeff 'stimulation'} when taken in high doses (300mg)",
-                "{sev 'light'} {xeff 'depression-reduction'}; feeling more active",
-                "{sev 'light'} hyperactivity reduction"
-            ],
-            "Adverse": [
-                "{sev 'moderate'} {xeff 'constipation'} when consumed in high doses"
-            ],
-            "Notes": [
-                "Don't combine Bupropion with other stimulants/ADHD-Meds, there is already a high seziure risk without them and you won't have a good time",
-                "Pretty good to get away from {sev 'Nicotine'}",
-                "Moderatly useful against {wkp 'Major_depressive_episode'}s, would not recommend if you want to take stimulants"
-            ],
-            "Sources": [
-                "German pharmacy: Bupropion Neuraxpharm 150mg/300mg XR tablets"
-            ]
-        },
-        {
-            "Name": "3-FPO",
-            "Indication": "{icd 'F90.0'}",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5-10mg",
-                    "Onset": "~40 minutes",
-                    "Comeup": "~40 minutes",
-                    "Duration": "~6 hours"
-                },
-                {
-                    "Name": "insufflated",
-                    "Dosage": "2.5-10mg",
-                    "Onset": "5-10 minutes",
-                    "Comeup": "20 minutes",
-                    "Duration": "~2.5hours"
-                }
-            ],
-            "Effects": [
-                "cold {sev 'moderate'} stimulation; simmilar to {sub 'Methylphenidate'}",
-                "{sev 'moderate'} {xeff 'motivation-enhancement'}",
-                "{sev 'moderate'} {xeff 'depression-reduction'}",
-                "{sev 'moderate'} {xeff 'increased-libido'}",
-                "{sev 'light'} {xeff 'cognitive-euphoria'}"
-            ],
-            "Adverse": [
-                "{sev 'light'} {xeff 'sleepiness'}"
-            ],
-            "Sources": [
-                "NL RC Vendor: 3-FPO"
-            ],
-            "Notes": [
-                "Around 2-2.5 times as potent as {sub 'Methylphenidate'}"
-            ]
-        },
-        {
-            "Name": "Methylphenidate",
-            "Indication": "{icd 'F90.0'}",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5-38mg"
-                }
-            ],
-            "Effects": [
-                "{xeff 'stimulation'}; very helpful aginst ADHD",
-                "{xeff 'motivation-enhancement'}",
-                "sometimes {xeff 'sleepiness'}; caffeine while using {sub 'Methylphenidate'} helps against that",
-                "{sev 'light'} {xeff 'decreased-libido'} or  {xeff 'increased-libido'}"
-            ],
-            "Notes": [
-                "Good ADHD-Medication",
-                "From the available preparations i would recommend concerta/kinecteen",
-                "Social interactions can feel difficult"
-            ],
-            "Sources": [
-                "German pharmacy: Kinecteen 18mg tablets",
-                "German pharmacy: Kinecteen 27mg tablets",
-                "German pharmacy: Medikinet 5 mg tablets",
-                "German pharmacy: Medikinet retard 5mg capsules",
-                "German pharmacy: Medikinet retard 10mg capsules",
-                "German pharmacy: Medikinet retard 20mg capsules",
-                "German Pharmacy: Ritalin Adult 40mg capsules"
-            ]
-        },
-        {
-            "Name": "Atomoxetine",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "10mg"
-                }
-            ],
-            "Notes": "No effects noted at 10mg",
-            "Sources": [
-                "Found on the ground at {wkp 'Alexanderplatz'}"
-            ]
-        },
-        {
-            "Name": "3-Fluorophenmetrazine",
-            "Routes":[
-                {
-                    "Name": "Oral",
-                    "Dosage": "15mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'light'} {xeff 'stimulation'}",
-                "no other effects noted; probably beacuse of the low dose"
-            ]
-        },
-        {
-            "Name": "Amphetamine",
-            "Indication": "{icd 'F90.0'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "3-20mg"
-                },
-                {
-                    "Name": "insufflated",
-                    "Dosage": "8-46mg"
-                }
-            ],
-            "Salts": [
-                "sulfate"
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'stimulation'}; very helpful aginst ADHD in lower doses (15-20mg oral, 1-2x per day)",
-                "{sev 'moderate'} {xeff 'motivation-enhancement'}",
-                "{sev 'moderate'} {xeff 'wakefulness'}",
-                "{sev 'light'} {xeff 'stamina-enhancement'}",
-                "{sev 'light'} {xeff 'increased-libido'} or {xeff 'decreased-libido'}",
-                "{sev 'light'} {xeff 'compulsive-redosing'}"
-            ],
-            "Notes": [
-                "Consumed close to daliy since 11-2025, helps against ADHD"
-            ],
-            "Sources": [
-                "Amphetamine: DNM Germany"
-            ]
-        },
-        {
-            "Name": "Methamphetamine",
-            "Salts": [
-                "hydrochloride?"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "15mg"
-                }
-            ],
-            "Sources": [
-                "DNM Germany: Mexican crystal meth"
-            ]
-        },
-        {
-            "Name": "Lisdexamphetamine",
-            "Indication": "{icd 'F90.0'}",
-            "Salts": [
-                "dimesylate"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5-60mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'stimulation'}; very helpful aginst ADHD",
-                "{sev 'moderate'} {xeff 'wakefulness'}",
-                "{sev 'moderate'} {xeff 'motivation-enhancement'}",
-                "{sev 'light'} {xeff 'increased-libido'} or {sev 'light'} {xeff 'decreased-libido'}"
-            ],
-            "Notes": [
-                "Best ADHD-Medication ive tried"
-            ],
-            "Sources": [
-                "Elvanse 30mg capusles",
-                "Elvanse 40mg capusles",
-                "Elvanse 50mg capusles",
-                "Elvanse 60mg capusles",
-                "Lisdexamphetamin-ratiopharm 40mg capsules"
-            ]
-        },
-        {
-            "Name": "Thozalinone",
-            "Indication": "{icd 'F90.0'}",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "50mg",
-                    "Onset": "~1 hour"
-                }
-            ],
-            "Effects": [
-                "pleasant warm {sev 'light'} stimulation",
-                "{sev 'moderate'} {xeff 'depression-reduction'}",
-                "{sev 'light'} {xeff 'motivation-enhancement'}",
-                "{sev 'light'} {xeff 'cognitive-euphoria'}"
-            ],
-            "Sources": [
-                "NL RC Vendor: Thozalinone"
-            ],
-            "Notes": [
-                "Very chill relaxing stimulant"
-            ]
-        },
-        {
-            "Name": "5-Methoxy-2-aminoindane",
-            "Routes": [
-                {
-                    "Name": "insufflated",
-                    "Dosage": "30-60mg"
-                },
-                {
-                    "Name": "rectal",
-                    "Dosage": "50mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'light'} {xeff 'cognitive-euphoria'}",
-                "{xeff 'sedation'}",
-                "{sev 'light'} {xeff 'increased-libido'}",
-                "{sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}"
-            ],
-            "DEffects": [
-                {
-                    "Route": "Insufflated",
-                    "Effects": [
-                        "{sev 'intense'} Nose Burn"
-                    ]
-                }
-            ],
-            "Notes":[
-                "Burns even more than {sub '2,5-Dimethoxy-4-bromophenethylamine'} when consumed via insufflated"
-            ],
-            "Sources": [
-                "NL RC Vendor: MEAI"
-            ]
-        },
-        {
-            "Name": "Caffeine",
-            "Salts": [
-                "Freebase"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "20-200mg"
-                },
-                {
-                    "Name": "insufflated",
-                    "Dosage": "20-60mg"
-                }
-            ],
-            "Effects": [
-                "{xeff 'stimulation'}",
-                "{xeff 'wakefulness'}"
-            ],
-            "Adverse": [
-                "{sev 'strong'} {xeff 'anxiety'} at high doses",
-                "{xeff 'restless-legs'} in higher doses",
-                "sometimes {sev 'light'} {xeff 'sleepiness'}"
-            ],
-            "Sources": [
-                "Coffee",
-                "Energy drink",
-                "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets",
-                "Bulk.com 200mg caffeine tablets",
-                "Slovakian pharmacy: Caffetin tablets",
-                "Bulk Preworkout Dope max (200mg)"
-            ]
-        },
-        {
-            "Name": "Tobacco",
-            "Composite": true,
-            "Routes": [
-                {
-                    "Name": "smoked"
-                }
-            ],
-            "Sources": [
-                "German Malboro gold",
-                "Turkish Parliment blue",
-                "Polish Kent Slim blue",
-                "Hungerian Sopianae",
-                "chinese Malboro red",
-                "Japanese Black devil arctic menthol"
-            ]
-        },
-        {
-            "Name": "Nicotine",
-            "Salts": [
-                "Benzoate",
-                "Freebase"
-            ],
-            "Routes": [
-                {
-                    "Name": "smoked",
-                    "Dosage": "1-2mg"
-                },
-                {
-                    "Name": "buccal",
-                    "Dosage": "6-16mg"
-                }
-            ],
-            "Effects": [
-                "{xeff 'stimulation'}",
-                "{xeff 'compulsive-redosing'}"
-            ],
-            "Adverse": [
-                "{xeff 'nausea'}",
-                "{xeff 'appetite-suppression'}'"
-            ],
-            "Notes": [
-                "Extremly addictive but boring substance",
-                "Most fun in the form of cigarettes",
-                "Very easy to overdose"
-            ],
-            "Sources": [
-                "Siberia Snus",
-                "Vape",
-                "cigarette"
-            ]
-        },
-        {
-            "Name": "Menthol",
-            "Routes": [
-                {
-                    "Name": "Inhaled"
-                },
-                {
-                    "Name": "Smoked"
-                }
-            ],
-            "Effects": [
-                "cooling sensation",
-                "reduces smoking irritation"
-            ]
-        },
-        {
-            "Name": "Cocaine",
-            "Routes": [
-                {
-                    "Name": "insufflated",
-                    "Dosage": "10-30mg"
-                },
-                {
-                    "Name": "oral",
-                    "Dosage": "5-10mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'stimulation'}",
-                "{sev 'moderate'} {xeff 'wakefulness'}",
-                "{sev 'moderate'} {xeff 'motivation-enhancement'}",
-                "{sev 'light'} {xeff 'increased-libido'}",
-                "{xeff 'mouth-numbing'}"
-            ],
-            "Adverse":[
-                "{sev 'moderate'} {xeff 'compulsive-redosing'}"
-            ],
-            "Notes":[
-                "comedown is a bit annoying",
-                "not worth the high cost in europe",
-                "supriseingly simmilar to {sub 'methylphenidate'}"
-            ],
-            "Sources": [
-                "DNM: Cocaine"
-            ]
-        },
-        {
-            "Name": "Coffea",
-            "Composite": true,
-            "Routes": [
-                {
-                    "Name": "Oral"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'stimulation'}",
-                "{sev 'light'} {xeff 'motivation enhancement'}",
-                "{sev 'moderate'} {xeff 'focus enhancement'}",
-                "{sev 'moderate'} {xeff 'wakefulness'}"
-            ],
-            "Adverse": [
-                "{sev 'light'} {xeff 'anxiety'} when consumed in high doses"
-            ],
-            "Sources": [
-                "starbucks i guess??",
-                "Coffee machine"
-             ]
-        },
-        {
-            "Name": "Tyrosine",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "500-3000mg"
-                }
-            ],
-            "Effects":[
-                "{xeff 'stimulation'}"
-            ],
-            "Adverse": [
-                "{xeff 'paranoia'}",
-                "{xeff 'anxiety'}"
-            ],
-            "Notes":[
-                "Not worth it to binge it"
-            ],
-            "Sources": [
-                "German Amazon",
-                "Bulk Preworkout Dope max"
-            ]
-        },
-        {
-            "Name": "Pyridoxine",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "1mg"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
-        {
-            "Name": "Levacecarnine",
-            "Salts": [
-                "Hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "300mg"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
-        {
-            "Name": "Theanine",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "400mg"
-                }
-            ],
-            "Sources": [
-                "German Amazon"
-            ]
-        },
-        {
-            "Name": "Arginine oxoglurate",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5g"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
-        {
-            "Name": "Beta-Alanine",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5g"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
-        {
-            "Name": "Citrulline",
-            "Salts": [
-                "Malate",
-                "Freebase"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5g (3g malate + 2g freebase)"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
-        {
-            "Name": "Creatine",
-            "Salts": [
-                "Monohydrate"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "3.4g"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
-        {
-            "Name": "Sodium chloride",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "500mg"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ],
-            "Notes": [
-                "pink Himalayan salt"
-            ]
-        },
-        {
-            "Name": "Panax ginseng",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "100mg (extract)"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
-        {
-            "Name": "Choline-Alfoscerate",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "300-600mg"
-                }
-            ],
-            "Sources": [
-                "Alpha GPC supplement"
-            ]
-        },
-        {
-            "Name": "3,4-Dihydroxyphenylalanine",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "100mg"
-                }
-            ],
-            "Effects": [
-                "{xeff 'stimulation'}",
-                "{xeff 'motivation-enhancement'}"
-            ],
-            "Sources": [
-                "polish chemical online shop: Levodopa"
-            ]
-        },
-        {
-            "Name": "Acetylcysteine",
-            "Indication": [
-                "antioxidant while/after using {sub 'mephedrone'}"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "800mg"
-                }
-            ],
-            "Notes":[
-                "Might be useful as a antioxidant or when overdosing on {sub 'Paracetamol'}"
-            ]
-        },
-        {
-            "Name": "Loperamide",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "2.0mg"
-                }
-            ],
-            "Notes":[
-                "Might help with {xeff 'diarrhea'} when doing psychedelics"
-            ],
-            "Sources": [
-                "multiple generics from germany pharmacies"
-            ]
-        },
-        {
-            "Name": "Naloxone",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "4-7.2mg"
-                }
-            ],
-            "Sources":[
-                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet",
-                "Tilidin AL comp. 50 mg/4 mg XR tablet"
-            ]
-        },
-        {
-            "Name": "Oxycodone",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "13mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'pain-relief'}",
-                "{sev 'strong'} {xeff 'cognitive-euphoria'}",
-                "{sev 'light'} {xeff 'sedation'}"
-            ],
-            "Adverse": [
-                "{sev 'light'} {xeff 'thought-deceleration'}"
-            ],
-            "Sources": [
-                "Crushed Oxycodonhydrochlorid Puren 30 mg XR tablet found in the Herrngarten in {wkp 'Darmstadt'}"
-            ],
-            "Notes": [
-                "Less nausea and more euphoria than other opioids",
-                "Proably one of the most addictive substances ive consumed (other than stimulants)"
-            ]
-        },
-        {
-            "Name": "Codeine",
-            "Salts": [
-                "phosphate",
-                "phosphate sesquihydrate"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "10-140mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'pain-relief'}",
-                "{sev 'moderate'} {xeff 'cognitive-euphoria'}",
-                "{sev 'light'} {xeff 'sedation'}",
-                "{sev 'light'} {xeff 'thought-deceleration'} in high doses (140mg+)"
-            ],
-            "Sources":[
-                "Polish Pharmacy: Nurofen plus tablets",
-                "Slovakian pharmacy: Caffetin tablets"
-            ]
-        },
-        {
-            "Name": "Tilidine",
-            "Indication": "{icd 'M25.5'} (shoulder)",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "50-100mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'pain-relief'}",
-                "{sev 'strong'} {xeff 'cognitive-euphoria'}",
-                "{sev 'light'} {xeff 'sedation'}"
-            ],
-            "Adverse": [
-                "{sev 'moderate'} {xeff 'nausea'}",
-                "{sev 'light'} {xeff 'thought-deceleration'}"
-            ],
-            "Sources":[
-                "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet",
-                "Tilidin AL comp. 50 mg/4 mg XR tablet"
-            ]
-        },
-        {
-            "Name": "Kratom",
-            "Composite": true,
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "2-8g"
-                }
-            ],
-            "Effects": [
-                "{sev 'light'} {xeff 'stimulation'}; very good for doing computer stuff",
-                "{sev 'light'} {xeff 'sedation'}",
-                "{xeff 'pain-relief'}",
-                "{xeff 'cognitive-euphoria'}",
-                "{sev 'light'} {xeff 'increased-libido'}"
-            ],
-            "Adverse": [
-                "{sev 'light'} {xeff 'nausea'}",
-                "{wkp 'Sleep_paralysis'}; only once, had {sev 'strong'} {xeff 'anxiety'} and couldn't move my body, but it was over after a few minutes. Unsure if this was caused by Kratom"
-            ],
-            "Notes": [
-                "One of my favorite substances for having sex",
-                "Good substance for late night computer work"
-            ],
-            "Sources": [
-                "clearnet shop: kratom red strain"
-            ]
-        },
-        {
-            "Name": "Morphine",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes":[
-                {
-                    "Name": "Subcutaneous",
-                    "Dosage": "5mg",
-                    "Onset": "5 minutes",
-                    "Comeup": "20 minutes",
-                    "Duration": "~2 hours"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'pain-relief'}",
-                "{sev 'moderate'} {xeff 'cognitive-euphoria'}",
-                "{sev 'moderate'} {xeff 'sedation'}",
-                "{sev 'moderate'} {xeff 'thought-deceleration'}"
-            ],
-            "Adverse": [
-                "{sev 'strong'} {xeff 'nausea'}",
-                "{wkp 'Vomiting'}"
-            ],
-            "Notes":[
-                "Very {sev 'strong'} {xeff 'nausea'}, even multiple hours after the ingestion"
-            ],
-            "Sources": [
-                "DNM Germany: 1ml Morphine HCl CF Ampoules 10mg/ml"
-            ]
-        },
-        {
-            "Name": "γ-Butyrolactone",
-            "Routes": [
-                {
-                    "Name": "Oral",
-                    "Dosage": "0.5-3ml"
-                }
-            ],
-            "Effects": [
-                "{sev 'light'} {xeff 'cognitive-euphoria'} and {sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}",
-                "{sev 'moderate'} {xeff 'increased-libido'}",
-                "{xeff 'double-vision'}; feels like being drunk",
-                "{xeff 'stimulation'} when consumed in lower doses"
-            ],
-            "Adverse": [
-                "{sev 'strong'} {xeff 'sedation'} and {sev 'strong'} {xeff 'sleepiness'} when consumed in high doses",
-                "{xeff 'nausea'} when consumed in high doses"
-            ],
-            "Notes":[
-                "passed out at around 2/3ml",
-                "Good for having sex; probably not useful for anything else"
-            ],
-            "Sources": [
-                "clearnet shop: Multiremover"
-            ]
-        },
-        {
-            "Name": "Ethanol",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "1.5-30g"
-                },
-                {
-                    "Name": "transdermal"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'sedation'}",
-                "{sev 'light'} {xeff 'anxiety-suppression'} (very helpful in social situations)",
-                "{sev 'light'} {xeff 'appetite-enhancement'}",
-                "{sev 'light'} {xeff 'motor-control-loss'}"
-            ],
-            "Adverse":[
-                "{xeff 'nausea'} when consumed in high doses",
-                "{wkp 'Vomiting'}",
-                "Partial {xeff 'memory-suppression'} when consumed in high doses"
-            ],
-            "Notes": [
-                "decent substance in lower doses"
-            ],
-            "Sources": [
-                "Beer",
-                "Wine",
-                "Estreva gel",
-                "Gynokadin gel"
-            ]
-        },
-        {
-            "Name": "Alprazolam",
-            "Indication": [
-                "{xeff 'anxiety'}",
-                "{icd 'F41.2'}"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "0.2-0.3mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'sedation'}",
-                "{sev 'moderate'} {xeff 'anxiety-suppression'}",
-                "{sev 'moderate'} {xeff 'memory-suppression'}",
-                "{sev 'light'} {xeff 'muscle-relaxation'}"
-            ],
-            "Adverse": [
-                "{sev 'moderate'} {xeff 'thought-deceleration'}"
-            ],
-            "Sources": [
-                "Ksalol 1mg Alprazolam tablet"
-            ]
-        },
-        {
-            "Name": "Lorazepam",
-            "Indication": [
-                "{xeff 'anxiety'}",
-                "{icd 'F41.2'}",
-                "{icd 'G47.0'}"
-            ],
-            "Routes":[
-                {
-                    "Name": "Oral",
-                    "Dosage": "0.625mg"
-                }
-            ],
-            "Effects":[
-                "{sev 'strong'} {xeff 'anxiety-suppression'}",
-                "{sev 'moderate'} {xeff 'sedation'}",
-                "{sev 'moderate'} {xeff 'sleepiness'}"
-            ],
-            "Adverse": [
-                "{sev 'light'} {xeff 'thought-deceleration'}"
-            ],
-            "Notes":[
-                "Best emergency medication for {xeff 'anxiety'}"
-            ],
-            "Sources": [
-                "Hemofarm Lorazepam HF 2.5mg Tablet"
-            ]
-        },
-        {
-            "Name": "Clonazepam",
-            "Indication": [
-                "{xeff 'anxiety'}",
-                "{icd 'F41.2'}"
-            ],
-            "Routes":[
-                {
-                    "Name": "Oral",
-                    "Dosage": "0.5-1mg"
-                }
-            ],
-            "Effects":[
-                "{sev 'moderate'} {xeff 'anxiety-suppression'}",
-                "{sev 'light'} {xeff 'sedation'}; less than other benzos",
-                "{sev 'light'} {xeff 'sleepiness'}"
-            ],
-            "Sources": [
-                "Galenika Rivotril 2mg Tablet"
-            ],
-            "Notes": [
-                "Higher abuse potential than other benzos"
-            ]
-        },
-        {
-            "Name": "Oxazepam",
-            "Indication": [
-                "{xeff 'anxiety'}",
-                "{icd 'F41.2'}"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "12.5mg"
-                }
-            ],
-            "Sources": [
-                "Oxazepam-ratiopharm 50 mg tablets"
-            ]
-        },
-        {
-            "Name": "Midazolam",
-            "Indication": [
-                "{xeff 'anxiety'}",
-                "{icd 'F41.2'}"
-            ],
-            "Routes": [
-                {
-                    "Name": "sublingual",
-                    "Dosage": "7.5mg"
-                }
-            ],
-            "Effects":[
-                "{sev 'moderate'} {xeff 'anxiety-suppression'}",
-                "{sev 'moderate'} {xeff 'sedation'}",
-                "{sev 'moderate'} {xeff 'sleepiness'}",
-                "stronger {xeff 'memory-suppression'} than other benzos"
-            ],
-            "Adverse": [
-                "{sev 'moderate'} {xeff 'thought-deceleration'}"
-            ],
-            "Sources": [
-                "Galenika Flormidal 15mg Tablet"
-            ]
-        },
-        {
-            "Name": "Diazepam",
-            "Indication": [
-                "{xeff 'anxiety'}",
-                "{icd 'F41.2'}"
-            ],
-            "Routes":[
-                {
-                    "Name": "Oral",
-                    "Dosage": "5mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'anxiety-suppression'}",
-                "{sev 'moderate'} {xeff 'sedation'}",
-                "{sev 'moderate'} {xeff 'sleepiness'}"
-            ],
-            "Adverse": [
-                "{sev 'moderate'} {xeff 'thought-deceleration'}"
-            ],
-            "Sources": [
-                "Hemofarm Diazepam HF 10mg Tablet"
-            ],
-            "Notes": [
-                "Weird metabolization and the strange duration make this a unfavorable benzo"
-            ]
-        },
-        {
-            "Name": "Zolpidem",
-            "Indication": "{icd 'G47.0'}",
-            "Salts": [
-                "Tartrate"
-            ],
-            "Routes": [
-                {
-                    "Name": "Oral",
-                    "Dosage": "2.5-10mg"
-                },
-                {
-                    "Name": "sublingual",
-                    "Dosage": "2.5-5mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'sedation'} and {sev 'strong'} {xeff 'sleepiness'}",
-                "{sev 'light'} {xeff 'dream-potentiation'}",
-                "dose dependant open/closed eye hallucinations; stronger when {sub 'venlafaxine'} is taken",
-                "Extremly fast onset when taken sublingual"
-            ],
-            "Adverse": [
-                "{sev 'light'} {xeff 'nausea'} and {sev 'moderate'} {xeff 'dizziness'} when taken in high doses; feeling slightly drunk",
-                "Tastes very bitter"
-            ],
-            "Notes": [
-                "Very good sleep-aid when {sub 'melatonin'} isn't enough anymore.",
-                "Very little hangover effects, even when taken in the middle of the night",
-                "Can even be pretty effective when taken in doses as low as 2.5mg"
-            ],
-            "Sources": [ 
-                "Zolpidem tablets BP 10mg"
-            ]
-        },
-        {
-            "Name": "Zopiclone",
-            "Indication": "{icd 'G47.0'}",
-            "Routes": [
-                {
-                    "Name": "Oral",
-                    "Dosage": "~3.5mg"
-                }
-            ],
-            "Effects": [
-                "{xeff 'sedation'}",
-                "{xeff 'sleepiness'}"
-            ],
-            "Adverse": [
-                "hangover when taken as a sleep aid"
-            ],
-            "Sources": [
-                "Zop Tablets Zopiclone Tablets IP 7.5mg"
-            ],
-            "Notes":[
-                "too much hangover effects on the next morning to be taken regulary"
-            ]
-        },
-        {
-            "Name": "Ketanserin",
-            "Routes":[
-                {
-                    "Name": "sublingual",
-                    "Dosage": "20mg",
-                    "Onset": "~20min"
-                }
-            ],
-            "Effects":[
-                "Stops 2-CB trips",
-                "No major side-effects"
-            ],
-            "Sources": [
-                "Powder from chinese vendor"
-            ]
-        },
-        {
-            "Name": "Mometasone Furoate",
-            "Indication": "{icd 'L24.9'}",
-            "Routes": [
-                {
-                    "Name": "transdermal"
-                }
-            ],
-            "Sources":[
-                "German Pharmacy: MOMETASON Glenmark 1 mg/g cream"
-            ]
-        },
-        {
-            "Name": "Neomycin",
-            "Indication": "fresh {icd 'T14.1'} ({icd 'X78'})",
-            "Routes": [
-                {
-                    "Name": "transdermal"
-                }
-            ],
-            "Sources": [
-                "Italian pharmacy: Trofodermin creme"
-            ]
-        },
-        {
-            "Name": "Clostebol acetate",
-            "Indication": "fresh {icd 'T14.1'} ({icd 'X78'})",
-            "Routes": [
-                {
-                    "Name": "transdermal"
-                }
-            ],
-            "Sources": [
-                "Italian pharmacy: Trofodermin creme"
-            ]
-        },
-        {
-            "Name": "Spironolactone",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "100mg"
-                }
-            ],
-            "Notes": [
-                "Might be useful as an {wkp 'Antiandrogen'}"
-            ],
-            "Sources": [
-                "Spironolacton-ratiopharm 100mg tablets"
-            ]
-        },
-        {
-            "Name": "Dienogest",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "2mg"
-                }
-            ],
-            "Notes": [
-                "Might be useful as an {wkp 'Antiandrogen'}"
-            ]
-        },
-        {
-            "Name": "Estradiol enantate",
-            "Indication": "Male to female {icd 'F64.0'}",
-            "Routes": [
-                {
-                    "Name": "intramuscular",
-                    "Dosage": "5-14mg"
-                },
-                {
-                    "Name": "subcutaneous",
-                    "Dosage": "5-10mg"
-                },
-                {
-                    "Name": "insufflated"
-                }
-            ],
-            "Sources": [
-                "Powder from chinese vendor"
-            ]
-        },
-        {
-            "Name": "Estradiol",
-            "Indication": "Male to female {icd 'F64.0'}",
-            "Salts": [
-                "hemihydrate"
-            ],
-            "Routes": [
-                {
-                    "Name": "transdermal",
-                    "Dosage": "2-3mg"
-                },
-                {
-                    "Name": "oral",
-                    "Dosage": "1-2mg"
-                }
-            ],
-            "Sources":[
-                "German pharmacy: Estreva gel",
-                "Gynokadin gel"
-            ]
-        },
-        {
-            "Name": "Cyproterone acetate",
-            "Indication":"Male to female {icd 'F64.0'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5-10mg"
-                }
-            ],
-            "Notes": [
-                "Helpful when doing MTF-HRT with {sub 'Estradiol'}-gel or tablets",
-                "Might also increase libido and breast size like {sub 'Progesterone'}"
-            ],
-            "Sources": [
-                "German Pharmacy: custom made capsules"
-            ]
-        },
-        {
-            "Name": "Progesterone",
-            "Indication": "Male to female {icd 'F64.0'}",
-            "Routes": [
-                {
-                    "Name": "rectal",
-                    "Dosage": "100-400mg"
-                },
-                {
-                    "Name": "oral",
-                    "Dosage": "100-450mg"
-                },
-                {
-                    "Name": "transdermal"
-                }
-            ],
-            "Effects": [
-                "{xeff 'increased-libido'}"
-            ],
-            "Notes": [
-                "Consumed daliy since 08-2025",
-                "might help with breast growth"
-            ],
-            "DEffects": [
-                {
-                    "Route": "oral",
-                    "Effects": [
-                        "{xeff 'sedation'}",
-                        "{xeff 'sleepiness'}"
-                    ]
-                }
-            ],
-            "Sources": [
-                "German pharmacy: Progestan 100 mg soft capsules",
-                "Progestogel",
-                "self made suppositories from powder from china"
-            ]
-        },
-        {
-            "Name": "Daridorexant",
-            "Indication":"{icd 'G47.0'}",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "50mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'light'} sleep quality improvement",
-                "{sev 'light'} {xeff 'sleepiness'}"
-            ],
-            "Sources":[
-                "Quviviq 50mg tablet"
-            ],
-            "Notes": [
-                "no major effects noted; still worth a try for insomnia"
-            ]
-        },
-        {
-            "Name": "Diphenhydramine",
-            "Indication": "{icd 'G47.0'}",
-            "Salts":[
-                "hydrochloride"
-            ],
-            "Routes":[
-                {
-                    "Name": "Oral",
-                    "Dosage": "25.0mg"
-                }
-            ],
-            "Effects":[
-                "{xeff 'sleepiness'}",
-                "{xeff 'sedation'}",
-                "{sev 'light'} {xeff 'decreased-libido'}"
-            ],
-            "Adverse": [
-                "{xeff 'motivation-suppression'}"
-            ],
-            "Notes":[
-                "Less hangover than {sub 'Doxylamine'}",
-                "Shorter half-life compared to {sub 'Doxylamine'}"
-            ],
-            "Sources": [
-                "German Pharmacy: Dorm Tabletten"
-            ]
-        },
-        {
-            "Name": "Doxylamine",
-            "Indication": "{icd 'G47.0'}",
-            "Salts":[
-                "succinate"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "12.5-25mg"
-                },
-                {
-                    "Name": "sublingual",
-                    "Dosage": "12.5mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'sleepiness'}",
-                "{sev 'moderate'} {xeff 'sedation'}",
-                "{sev 'light'} {xeff 'decreased-libido'}"
-            ],
-            "Adverse": [
-                "{xeff 'motivation-suppression'}",
-                "{sev 'moderate'} hangover"
-            ],
-            "Notes": [
-                "stronger sleep aid than {sub 'melatonin'}, useful when {sub 'melatonin'} is insufficient."
-            ],
-            "Sources": [
-                "German Pharmacy: SchlafTabs-Ratiopharm",
-                "German Pharmacy: Schlafsterne"
-            ]
-        },
-        {
-            "Name": "Hydroxyzine",
-            "Indication": [
-                "Hyperactivity before a flight",
-                "{icd 'F41.2'}"
-            ],
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-               {
-                    "Name": "Oral",
-                    "Dosage": "12.5mg",
-                    "Onset": "~30 minutes"
-               }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'anxiety-suppression'}",
-                "{sev 'light'} {xeff 'sedation'}",
-                "{sev 'light'} {xeff 'sleepiness'}"
-            ],
-            "Adverse": [
-                "{sev 'light'} {xeff 'thought-deceleration'}"
-            ],
-            "Sources": [
-                "Turkish pharmacy: Atarax 25mg tablets"
-            ],
-            "Notes": [
-                "good non addictive alternative to benzodiazepines"
-            ] 
-        },
-        {
-            "Name": "Promethazine",
-            "Indication": "{icd 'G47.0'}, acute {sev 'light'} discomfort/panic",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "12.5-25.0mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'sleepiness'}",
-                "{sev 'moderate'} {xeff 'sedation'}"
-            ],
-            "Adverse": [
-                "{sev 'light'} hangover",
-                "{sev 'light'} {xeff 'motivation-suppression'}"
-            ],
-            "Notes": [
-                "good non addictive alternative to benzodiazepines"
-            ],
-            "Sources": [
-                "Promethazin-neuraxpharm 25mg tablet"
-            ]
-        },
-        {
-            "Name": "Azelastine",
-            "Salts":[
-                "hydrochloride"
-            ],
-            "Dosage": [
-                {
-                    "Name": "Insufflated",
-                    "Dosage": "0.28mg"
-                }
-            ],
-            "Sources": [
-                "Turkish pharmacy: Allergodil nasal spray"
-            ]
-        },
-        {
-            "Name": "Amisulpride",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "50mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'light'}/{sev 'moderate'} {xeff 'sedation'}",
-                "{sev 'light'} {xeff 'cognitive-euphoria'}"
-            ],
-            "Notes": [
-                "didn't expect this to be this compfy"
-            ],
-            "Sources": [
-                "Amisulprid PUREN 100 mg"
-            ] 
-        },
-        {
-            "Name": "Quetiapine",
-            "Salts": [
-                "Hemifumarate"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "10-50mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'sedation'} to the point of barely passing out",
-                "{sev 'strong'} {xeff 'sleepiness'}",
-                "{sev 'strong'} {xeff 'thought-deceleration'}",
-                "{sev 'light'} {xeff 'anxiety-suppression'}"
-            ],
-            "Adverse": [
-                "{sev 'strong'} hangover when taken as a sleep aid",
-                "feeling fried and unable to do anything for 18 hours"
-            ],
-            "Notes": [
-                "Very effective as a sleep aid"
-            ],
-            "Sources": [
-                "Quetiapin-neuraxpharm 50mg tablets"
-            ]
-        },
-        {
-            "Name": "Metamizole",
-            "Salts": [
-                "sodium monohydrate"
-            ],
-            "Indication": [
-                "{sev 'moderate'} {icd 'R52.9'}",
-                "{icd 'R52.9'} caused by selfharm",
-                "{icd 'M54.2'}"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "500mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'pain-relief'}, stronger than {sub 'Ibuprofen'}, but weaker than 150mg of {sub 'codeine'}"
-            ],
-            "Notes": [
-                "Helped with pain caused by {wkp 'Self-harm'}",
-                "Might help with stress induced muscle twitching"
-            ],
-            "Sources": [
-                "Polish Pharmacy: Pyralgina"
-            ]
-        },
-        {
-            "Name": "Propyphenazone",
-            "Indication": "{sev 'moderate'} to {sev 'strong'} {icd 'R52.9'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "210mg"
-                }
-            ],
-            "Sources": [
-                "Slovakian pharmacy: Caffetin tablets"
-            ]
-        },
-        {
-            "Name": "Panthenol",
-            "Indication": "{icd 'T14.1'} ({icd 'X78'})",
-            "Routes": [
-                {
-                    "Name": "transdermal"
-                }
-            ],
-            "Effects": [
-                "Wounds heal faster when applied 2-3 times per day"
-            ],
-            "Sources": [
-                "German pharmacy: Bepanthen",
-                "German pharmacy: Panthenol-ratiopharm"
-            ]
-        },
-        {
-            "Name": "Octenidine",
-            "Indication": "antisepectic wound treatment",
-            "Routes": [
-                {
-                    "Name": "Dermal"
-                }
-            ]
-        },
-        {
-            "Name": "Ambroxol",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "15mg"
-                }
-            ],
-            "Sources": [
-                "German pharmacy: Ambroxol-ratiopharm® Hustensaft"
-            ]
-        },
-        {
-            "Name": "Nicoboxil",
-            "Indication": [
-                "{icd 'R45.8'}",
-                "{icd 'M54.2'}"
-            ],
-            "Routes": [
-                {
-                    "Name": "Dermal"
-                }
-            ],
-            "Notes": [
-                "very effective for back pain"
-            ],
-            "Sources": [
-                "German pharmacy: Finalgon"
-            ]
-        },
-        {
-            "Name": "Nonivamide",
-            "Indication": [
-                "{icd 'R45.8'}",
-                "{icd 'M54.2'}"
-            ],
-            "Routes": [
-                {
-                    "Name": "Dermal"
-                }
-            ],
-            "Sources": [
-                "German pharmacy: Finalgon"
-            ]
-        },
-        {
-            "Name": "Venlafaxine",
-            "Indication": [
-                "unstable mood",
-                "{icd 'F33'}",
-                "random suicidal breakdowns",
-                "{icd 'F41.2'}"
-            ],
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "Oral",
-                    "Dosage": "37.5-150mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} to {sev 'strong'} {xeff 'anxiety-suppression'}; also seems to help with rejection sensitive dysphoria",
-                "{sev 'moderate'} {xeff 'depression-reduction'}; feeling way more active and less doomed",
-                "{sev 'light'} aggressive/unhinged behavior",
-                "self harm and {sev 'light'} {xeff 'suicidal-ideation'}",
-                "{sev 'light'} {xeff 'emotion-suppression'}; it feels like i can't feel as much emotions"
-            ],
-            "DEffects": [
-                {
-                    "Condition": "Effects in the first few days",
-                    "Effects": [
-                        "{sev 'moderate'} {xeff 'emotion-suppression'}; everything feels numb",
-                        "{sev 'moderate'} {xeff 'depression-reduction'}; everything feels kinda okay",
-                        "{sev 'light'} {xeff 'anxiety-suppression'}",
-                        "less hyperactivity"
-                    ]
-                },
-                {
-                      "Condition": "Adverse-effects in the first few days",
-                      "Effects": [
-                        "{sev 'strong'} pupil dilation",
-                        "{sev 'moderate'} {xeff 'nausea'}/Dizziness; got much better on the second/third day",
-                        "{sev 'moderate'} {xeff 'appetite-suppression'}; got better on the third day",
-                        "Various GI problems",
-                        "{xeff 'orgasm-suppression'}",
-                        "jaw feels slightly tense",
-                        "{sev 'light'} {xeff 'confusion'}/disassociating sometimes?",
-                        "{sev 'light'} {xeff 'sedation'}",
-                        "{sev 'light'} {xeff 'sleepiness'}",
-                        "{sev 'light'} insomnia",
-                        "{sev 'light'} {xeff 'thought-deceleration'}",
-                        "{wkp 'Hyperhidrosis'}; started on day 4",
-                        "very {sev 'light'} open/closed eye hallucinations; {sev 'moderate'} when {sub 'zolpidem'} (2.5mg) is taken"
-                    ]
-                }
-            ],
-            "Notes": [
-                "150mg/day seem to much for me",
-                "Effects stabilized after 5-7 days"
-            ],
-            "Sources": [
-                "Venlafaxin Aurobindo 75mg XR capsules"
-            ]
-        },
-        {
-            "Name": "Sertraline",
-            "Indication": [ 
-                "{icd 'F33'}",
-                "{icd 'F41.2'}"
-            ],
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "25-300mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'motivation-enhancement'}, {sev 'moderate'} {xeff 'depression-reduction'}; feeling more active",
-                "{sev 'light'} {xeff 'anxiety-suppression'}"
-            ],
-            "Adverse": [
-                "{sev 'moderate'} weird {xeff 'stimulation'} during the day",
-                "{sev 'light'} daytime {xeff 'sleepiness'}",
-                "{sev 'moderate'} {xeff 'suicidal-ideation'}",
-                "chemical burn(?)/neck pain after taking a tablet without water",
-                "{xeff 'derealization'}; feeling disconnected from everything",
-                "waking up during the night"
-            ],
-            "DEffects": [
-              {
-                "Condition": "Effects after taking 300mg (+ 1g Tryptophan a few hours later)",
-                "Effects": [
-                    "{xeff 'diarrhea'}",
-                    "self harm and {xeff 'suicidal-ideation'}",
-                    "{xeff 'wakefulness'}; woke up constantly during the night",
-                    "{xeff 'stimulation'}",
-                    "{sev 'strong'} pupil dilation",
-                    "{sev 'moderate'} {xeff 'nausea'}/Dizziness",
-                    "Open/closed eye visuals",
-                    "{sev 'light'} {xeff 'sedation'}",
-                    "{sev 'light'} {xeff 'sleepiness'}",
-                    "{sev 'light'} {xeff 'thought-deceleration'}"
-                ]
-              }  
-            ],
-            "Sources": [
-                "German pharmacy: Sertralin Amarox 50 mg tablets"
-            ],
-            "Notes": [
-                "low dose {sev 'venlafaxine'} works WAY better for me",
-                 "no {xeff 'decreased-libido'} or {wkp 'Erectile_dysfunction'}"
-            ]
-        },
-        {
-            "Name": "Mirtazapine",
-            "Indication": [ 
-                "{icd 'F33'}",
-                "{icd 'F41.2'}"
-            ],
-            "Salts": [
-                "Freebase"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "7.5-15mg"
-                },
-                {
-                    "Name": "sublingual",
-                    "Dosage": "15mg"
-                }
-             ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'sedation'}; passed out ~1h after ingestion and sleeped for 11h",
-                "{sev 'strong'} {xeff 'sleepiness'}",
-                "{sev 'moderate'} {xeff 'dream-potentiation'}; dreams feel more real, comfortable and occur more often",
-                "{sev 'light'}/{sev 'moderate'} {xeff 'depression-reduction'}; feeling more active"
-            ],
-            "Adverse": [
-                "too much sedation",
-                "{sev 'moderate'} hangover in the morning",
-                "{sev 'strong'} {xeff 'appetite-enhancement'}"
-            ],
-            "Notes": [
-                "Taken as california rocket fuel, in combination with {sub 'venlafaxine'}",
-                "tried smoking it but had no effects; the boiling point was probably too high"
-            ],
-            "Sources": [
-                "German pharmacy: Mirtazapin Aurobindo 15mg tablets"
-            ]
-        },
-        {
-            "Name": "Lidocaine",
-            "Indication": "{icd 'J02.9'}",
-            "Salts": [
-                "Hydrochloride-Monohydrate"
-            ],
-            "Routes": [
-                {
-                    "Name": "sublingual",
-                    "Dosage": "1mg"
-                }
-            ],
-            "Sources": [
-                "WICK AngiMed Mentholgeschmack 5 mg/1 mg Lutschtabletten"
-            ]
-        },
-        {
-            "Name": "Benzocaine",
-            "Indication": "{icd 'J02.9'}",
-            "Salts":[
-                "Freebase"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "10mg"
-                },
-                {
-                    "Name": "sublingual",
-                    "Dosage": "10mg"
-                }
-            ],
-            "Effects":[
-                "{xeff 'mouth-numbing'}; helpful when having a sore throat"
-            ],
-            "Notes": [
-                "Consumed as Dolo-Dobendan Lozenges with {sub 'Cetylpyridinium chloride'}"
-            ],
-            "Sources": [
-                "German Pharmacy: Dolo-Dobendan"
-            ]
-        },
-        {
-            "Name": "Esomeprazole",
-            "Indication": "prophylactic stomach protection after taking a multiple NSAIDs and {sub 'venlafaxine'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "40mg"
-                }
-            ],
-            "Sources": [
-                "Found on the ground in Milano, Italy: Lucen 40mg tablets"
-            ]
-        },
-        {
-            "Name": "Cetylpyridinium chloride",
-            "Indication": "{icd 'J02.9'}",
-            "Routes":[
-                {
-                    "Name": "oral",
-                    "Dosage": "1.4mg"
-                },
-                {
-                    "Name": "sublingual",
-                    "Dosage": "1.4mg"
-                }
-            ],
-            "Notes": [
-                "Consumed as Dolo-Dobendan Lozenges with {sub 'Benzocaine'}"
-            ],
-            "Sources": [
-                "German Pharmacy: Dolo-Dobendan"
-            ]
-        },
-        {
-            "Name": "Chlorhexidine",
-            "Indication": "{icd 'J02.9'}",
-            "Salts": [
-                "Dihydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "sublingual",
-                    "Dosage": "5mg"
-                }
-            ],
-            "Sources": [
-                "WICK AngiMed Mentholgeschmack 5 mg/1 mg Lutschtabletten"
-            ]
-        },
-        {
-            "Name": "Xylometazoline",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-               {
-                    "Name": "insufflated"
-               } 
-            ],
-            "Sources": [
-                "German Pharmacy: NasenSpray-ratiopharm Erwachsene"
-            ]
-        },
-        {
-            "Name": "Domperidone",
-            "Indication": "{icd 'R11'}",
-            "Routes": [
-                {
-                "Name": "Oral",
-                "Dosage": "10mg"
-                }
-            ],
-            "Sources": [
-                "Italian pharmacy: Domperidone Teva 10mg tablets"
-            ]
-        },
-        {
-            "Name": "Sildenafil",
-            "Salts": [
-                "Citrate"
-            ],
-            "Indication": "{sev 'light'} {icd 'N48.4'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "22-75mg"
-                }
-            ],
-            "Effects": [
-                "{wkp 'Erection'}s are easier to get and more intense"
-            ],
-            "Sources": [
-                "Powder from chinese vendor"
-            ]
-        },
-        {
-            "Name": "Bremelanotide",
-            "Indication": "Sexual disfunction after taking {sub 'venlafaxine'}",
-            "Routes": [
-                {
-                    "Name": "subcutaneous",
-                    "Dosage": "1.8mg"
-                }
-            ],
-            "Effects": [
-                "{wkp 'Erection'}s are easier to get and more intense",
-                "{sev 'light'} {xeff 'increased-libido'}"
-            ],
-            "Sources": [
-                "Powder from chinese vendor"
-            ]
-        },
-        {
-            "Name": "Tadalafil",
-            "Indication": "{sev 'light'} {icd 'N48.4'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5mg"
-                }
-            ],
-            "Effects": [
-                "{wkp 'Erection'}s are easier to get and more intense"
-            ]
-        },
-        {
-            "Name": "Flurbiprofen",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "100mg"
-                }
-            ],
-            "Sources": [
-                "Turkish pharmacy: Majezik tablets"
-            ]
-        },
-        {
-            "Name": "Ibuprofen",
-            "Salts": [
-                "Freebase",
-                "Lysine"
-            ],
-            "Indication": "{sev 'light'} {icd 'R52.9'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "200-800mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'light'} {xeff 'pain-relief'}"
-            ],
-            "Sources": [
-                "German pharmacy: generic tablets"
-            ]
-        },
-        {
-            "Name": "Ketoprofen",
-            "Indication": "{sev 'moderate'} {icd 'R52.9'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "50mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'pain-relief'}"
-            ],
-            "Notes": [
-                "Might help with pain better than {sub 'Ibuprofen'}"
-            ],
-            "Sources": [
-                "Polish Pharmacy: Ketonal 50mg Capsules"
-            ]
-        },
-        {
-            "Name": "Diclofenac",
-            "Indication": "{icd 'M54.2'}",
-            "Salts": [
-                "Sodium"
-            ],
-            "Routes": [
-                {
-                    "Name": "Dermal"
-                }
-            ],
-            "Sources": [
-                "German pharmacy: Diclo-ratiopharm Schmerzgel"
-            ]
-        },
-        {
-            "Name": "Paracetamol",
-            "Indication": "{sev 'light'} {icd 'R52.9'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "250-500mg"
-                },
-                {
-                    "Name": "rectal",
-                    "Dosage": "500mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'light'} {xeff 'pain-relief'}"
-            ],
-            "Sources":[
-                "German Pharmacy: generic tablets",
-                "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets",
-                "Slovakian pharmacy: Caffetin tablets"
-            ]
-        },
-        {
-            "Name": "Dexibuprofen",
-            "Indication": "{sev 'light'} {icd 'R52.9'}",
-            "Routes":[
-                {
-                    "Name": "Oral",
-                    "Dosage": "200mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'light'} {xeff 'pain-relief'}"
-            ],
-            "Sources": [
-                "German Pharmacy: Dexibu-ratiopharm 200mg"
-            ]
-        },
-        {
-            "Name": "Amyl nitrite",
-            "Routes":[
-                {
-                    "Name": "inhaled"
-                }
-            ]
-        },
-        {
-            "Name": "Lamotrigine",
-            "Indication": [
-                "unstable mood",
-                "{icd 'F33'}",
-                "random suicidal breakdowns",
-                "{icd 'F41.2'}"
-            ],
-            "Routes":[
-                {
-                    "Name": "Oral",
-                    "Dosage": "25-50mg"
-                }
-            ],
-            "Effects":[
-                "no major effects noted, didn't help with my mental breakdowns"
-            ],
-            "Notes":[
-                "After upping my dose to 50mg one of my lymph nodes got swollen; went away after a few days"
-            ],
-            "Sources": [
-                "Powder from chinese vendor"
-            ]  
-        },
-        {
-            "Name": "Oxytocin",
-            "Routes":[
-                {
-                    "Name": "subcutaneous",
-                    "Dosage": "0.125mg"
-                },
-                {
-                    "Name": "insufflated"
-                }
-            ],
-            "Notes":[
-                "No effects noted other than my head feeling a bit more quiet (could be placebo)"
-            ],
-            "Sources": [
-                "Powder from chinese vendor"
-            ]
-        },
-        {
-            "Name": "Pregabalin",
-            "Indication":[
-                "{xeff 'anxiety'}",
-                "{icd 'F41.2'}"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "24-300mg"
-                },
-                {
-                    "Name": "insufflated",
-                    "Dosage": "50-100mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'anxiety-suppression'}; helps a lot in my day-to-day life",
-                "{sev 'light'} {xeff 'sedation'}",
-                "{sev 'light'} {xeff 'motor-control-loss'} at high doses or without tolerance",
-                "{sev 'light'} {xeff 'cognitive-euphoria'} at higher doses or without tolerance",
-                "{sev 'light'} {xeff 'pain-relief'}",
-                "{sev 'light'} {xeff 'emotion-suppression'}; might be helpful with autism or overwhelming emotions"
-            ],
-            "Adverse": [
-                "Might cause {xeff 'memory-suppression'} when consumed regularly at higher doses"
-            ],
-            "Notes": [
-                "Consuming ~120mg daliy from 1-2026 till 6-2026 because of stress and {xeff 'anxiety'}",
-                "Snorting pregabalin is not worth it, but it will have a stronger peak and shorter duration",
-                "Improves sleep quality"
-            ],
-            "Sources": [
-                "Pregabalin Vivanta 200mg capsules",
-                "Pregabalin Aurobindo 200mg capsules",
-                "Pregabalin Aurobindo 75mg capsules",
-                "Pregabalin Aurobindo 50mg capsules",
-                "Powder from chinese vendor"
-            ]
-        },
-        {
-            "Name": "Buspirone",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "10mg"
-                }
-            ],
-            "Sources": [
-                "Hexal Busp® 10mg tablets"
-            ]
-        },
-        {
-            "Name": "Ketamine",
-            "Indication": "{icd 'F33'}",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "insufflated",
-                    "Dosage": "15-100mg"
-                }
-            ],
-            "Effects": [
-                "{xeff 'auditory-distortion'}; music sounds different",
-                "{xeff 'environmental-cubism'}/{xeff 'visual-stretching'}; it felt like my door was moving with music",
-                "{xeff 'perspective-hallucination'}; allowed me to reflect on my life from a different perspective",
-                "{xeff 'tactile-suppression'} + {xeff 'pain-relief'}",
-                "{xeff 'increased-sense-of-humor'}",
-                "{sev 'moderate'} {xeff 'anxiety-suppression'}",
-                "{sev 'moderate'} {xeff 'motivation-enhancement'} and {xeff 'depression-reduction'} in the days after using {sub 'Ketamine'}"
-            ],
-            "Adverse": [
-                "{xeff 'nausea'} when consumed in high doses",
-                "{wkp 'Vomiting'}",
-                "{xeff 'thought-deceleration'}, {xeff 'confusion'}, {xeff 'analysis-suppression'}; sometimes feeling stupid"
-            ],
-            "Sources": [
-                "S-Ketamine: DNM Germany"
-            ]
-        },
-        {
-            "Name": "Nitrous oxide",
-            "Routes": [
-                {
-                    "Name": "inhaled"
-                }
-            ],
-            "Effects": [
-                "{xeff 'tactile-suppression'}",
-                "{xeff 'perspective-hallucination'}; allowed me to reflect on my life from a different perspective",
-                "{xeff 'increased-sense-of-humor'}",
-                "{xeff 'auditory-distortion'}",
-                "{xeff 'time-distortion'}"
-            ],
-            "Adverse": [
-                "{xeff 'thought-deceleration'} after use"
-            ],
-            "Sources": [
-                "Corner shop (Frankfurt Bahnhofviertel): Exotic Whip",
-                "Ja! Sprühsahne"
-            ]
-        },
-        {
-            "Name": "Isopropyl nitrite",
-            "Routes": [
-                {
-                    "Name": "inhaled"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'increased-heart-rate'}",
-                "{sev 'light'} {xeff 'cognitive-euphoria'}"
-            ],
-            "Adverse": [
-                "{sev 'moderate'} {xeff 'headache'}"
-            ],
-            "Sources": [
-                "self synthesized at home"
-            ]
-        },
-        {
-            "Name": "Cannabidiol",
-            "Routes": [
-                {
-                    "Name": "Oral"
-                },
-                {
-                    "Name": "smoked"
-                }
-            ],
-            "Effects": [
-                "{xeff 'headache'}",
-                "{xeff 'analysis-suppression'}"
-            ]
-        },
-        {
-            "Name": "1-Propanoyl-lysergic acid diethylamide",
-            "Routes": [
-              {
-                "Name": "sublingual",
-                "Dosage": "50μg"
-              }
-            ]
-        },
-        {
-            "Name": "1-(3-(Trimethylsilyl)propionyl)-lysergic acid diethylamide",
-            "Routes": [
-                {
-                    "Name": "sublingual",
-                    "Dosage": "10-75μg"
-                }
-            ],
-            "Sources": [
-                "Legel high store in Berlin, Germany"
-            ]
-        },
-        {
-            "Name": "Tryptophan",
-            "Indication": "{icd 'G47.0'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "0.5-2g"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} {xeff 'sedation'}",
-                "{sev 'moderate'} {xeff 'sleepiness'}"
-            ],
-            "Notes": [
-                "Good natural sleep aid"
-            ],
-            "Sources": [
-                "German Amazon"
-            ]
-        },
-        {
-            "Name": "Valerian",
-            "Composite": true,
-            "Notes": [
-                "Unsure about the effects"
-            ]
-        },
-        {
-            "Name": "Magnesium",
-            "Salts": [
-                "Carbonate",
-                "Citrate",
-                "Bisglycinate"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral"
-                }
-            ],
-            "Sources": [
-                "Grocery store",
-                "supplement shop (buxtrade)"
-            ]
-        },
-        {
-            "Name": "Taurine",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "500mg-1g"
-                }
-            ],
-            "Sources": [
-                "Bulk.com (supplement store)",
-                "Bulk Preworkout Dope max"
-            ]
-        },
-        {
-            "Name": "Oxitriptan",
-            "Indication": "{xeff 'depression'} and {xeff 'anxiety'} after {sub 'Mephedrone'} consumption",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "100mg"
-                }
-            ],
-            "Notes": [
-                "Might improve wellbeing after {sub 'Mephedrone'} consumption"
-            ]
-        },
-        {
-            "Name": "Cannabis",
-            "Composite": true,
-            "Routes":[
-                {
-                    "Name": "oral"
-                },
-                {
-                    "Name": "smoked"
-                }
-            ],
-            "Sources": [
-                "Found on the ground in Hamburg, Germany",
-                "German pharmacy"
-            ]
-        },
-        {
-            "Name": "Melatonin",
-            "Indication": "{icd 'G47.0'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "0.3-100mg"
-                },
-                {
-                    "Name": "sublingual",
-                    "Dosage": "0.5-5mg"
-                },
-                {
-                    "Name": "rectal",
-                    "Dosage": "1.5mg"
-                },
-                {
-                    "Name": "insufflated",
-                    "Dosage": "7mg"
-                }
-            ],
-            "Effects": [
-                "{xeff 'sleepiness'}",
-                "{sev 'light'} {xeff 'sedation'}",
-                "{sev 'light'} {xeff 'decreased-libido'}"
-            ],
-            "Notes": [
-                "My favorite sleep aid, hangover is non existent and the availability is very good",
-                "Doses over 0.5mg make no sense",
-                "Seems to hit harder and faster rectally",
-                "Ineffective while on stimulants"
-            ],
-            "Sources": [
-                "German Amazon: Melatonin 0.5mg",
-                "ZzzQuil gummies",
-                "S3 Chemicals: Melatonin (min. 99%, Food Grade)",
-                "Polish pharmacy: Melatonin 5mg",
-                "Italian pharmacy",
-                "German pharmacy",
-                "Slovakian pharmacy: Melatonin 3mg"
-            ]
-        },
-        {
-            "Name": "Mebufotenin",
-            "Salts": [
-                "Freebase"
-            ],
-            "Routes": [
-                {
-                    "Name": "smoked"
-                }
-            ],
-            "Notes":[
-                "vaped via a ceramic coil vape"
-            ],
-            "Sources": [
-                "NL RC Vendor: 5-MeO-DMT"
-            ]
-        },
-        {
-            "Name": "N1-Tert-butoxycarbonyldimethyltryptamine",
-            "Routes": [
-                {
-                    "Name": "smoked",
-                    "Dosage": "20mg"
-                }
-            ],
-            "Effects":[
-                "Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'drifting'} {xeff 'colour-enhancement'}",
-                "{xeff 'mouth-numbing'}"
-            ],
-            "Notes": [
-                "Gets converted to {sub 'dimethyltryptamine'} under heat",
-                "Byproducts might cause local anaesthesia in the mouth when smoked",
-                "Felt more unhinged afterwards"
-            ]
-        },
-        {
-            "Name": "5-Methoxy-N,N-diisopropyltryptamine",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "6-6.7mg"
-                }
-            ],
-            "Effects": [
-                "{xeff 'drifting'}",
-                "{xeff 'stimulation'}",
-                "{xeff 'colour-enhancement'}",
-                "{sev 'light'} {xeff 'increased-libido'}",
-                "{xeff 'increased-sense-of-humor'}",
-                "{sev 'light'} {xeff 'appetite-suppression'}"
-            ],
-            "Sources": [
-                "NL RC Vendor: 5-Meo-DIPT"
-            ]
-        },
-        {
-            "Name": "4-propionyloxy-N-methyl-N-ethyltryptamine",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "20mg"
-                }
-            ],
-            "Effects": [
-                "{xeff 'drifting'}",
-                "{xeff 'geometry'}",
-                "{xeff 'colour-enhancement'}",
-                "{sev 'light'} {xeff 'stimulation'}"
-            ],
-            "Adverse": [
-                "{sev 'light'} {xeff 'nausea'} that fades away after the comeup"
-            ],
-            "Notes": [
-                "Feels like 2CB but with more bodyload and longer duration"
-            ],
-            "Sources": [
-                "NL RC Vendor: 4-PrO-MET"
-            ]
-        },
-        {
-            "Name": "N-(2-Methoxybenzyl)-5-methoxytryptamine",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes":[
-                {
-                    "Name": "Oral",
-                    "Dosage": "20-40mg",
-                    "Onset": "30 minutes",
-                    "Comeup": "~1.5 hours",
-                    "Duration": "~7 hours"
-                }
-            ],
-            "Effects": [
-                "{sev 'moderate'} pleasant {xeff 'stimulation'}"
-            ],
-            "DEffects": [
-                {
-                      "Condition": "open-eye visuals",
-                      "Effects": [
-                        "{sev 'strong'} {xeff 'colour-enhancement'}",
-                        "{sev 'light'} {xeff 'chromatic-aberration'}",
-                        "{sev 'strong'} {xeff 'Tracers'}",
-                        "{sev 'moderate'} {xeff 'increased-pareidolia'}",
-                        "{sev 'light'} {xeff 'visual-acuity-enhancement'}",
-                        "{sev 'light'} {xeff 'drifting?s=melting' 'melting'}",
-                        "seeing faces/cartoon art on on walls/the ground"
-                      ]
-                },
-                {
-                    "Condition": "closed-eye visuals",
-                    "Effects": [
-                        "{sev 'moderate'} {xeff 'internal-hallucination'}, mostly interesting 3D-Scenes, that can partly be controlled by the thought stream"
-                    ]
-                },
-                {
-                    "Condition": "cognetive effects",
-                    "Effects": [
-                        "{sev 'light'} {xeff 'cognitive-euphoria'}",
-                        "feeling very relaxed",
-                        "{sev 'strong'} {xeff 'increased-sense-of-humor'}; made fun of peoples drug consumption at a rave and laughed for multiple minutes about a guy wearing a Drachenlord T-Shirt walking into the {wkp 'McDonalds'}"
-
-                    ]
-                }
-            ],
-            "Adverse": [
-                "{sev 'moderate'} {xeff 'motor-control-loss'}, (hands trembling) in higher doses; struggling with sorting capsules",
-                "{sev 'light'} {xeff 'muscle-tension'}",
-                "{sev 'light'} {xeff 'thought-deceleration'}",
-                "{sev 'light'} {xeff 'vasoconstriction'} (i think)",
-                "{sev 'light'} {xeff 'increased-blood-pressure'}",
-                "feels like i could have a {xeff 'seizure'} any moment"
-            ],
-            "Notes": [
-                "Very interesting closed eye visuals",
-                "Barely any {xeff 'anxiety'} red to other psychedelics"
-            ]
-        },
-        {
-            "Name": "2C-B-FLY",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5-15mg"
-                }
-            ],
-            "Sources":[
-                "NL RC Vendor: 2C-B-FLY 10 MG Pellets"
-            ]
-        },
-        {
-            "Name": "2,5-Dimethoxy-4-bromophenethylamine",
-            "Salts": [
-                "hydrochloride",
-                "hydrobromide"
-            ],
-            "Routes": [
-                {
-                    "Name": "insufflated",
-                    "Dosage": "9-11mg"
-                },
-                {
-                    "Name": "oral",
-                    "Dosage": "10-30mg"
-                }
-            ],
-            "Effects": [
-                "{sev 'strong'} {xeff 'stimulation'}",
-                "{sev 'moderate'} {xeff 'motivation-enhancement'} in lower doses",
-                "{sev 'strong'} Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'tracers'} {xeff 'environmental-patterning'} {xeff 'drifting'} {xeff 'colour-enhancement'}",
-                "{xeff 'time-distortion'}"
-            ],
-            "DEffects": [
-                {
-                    "Route": "Insufflated",
-                    "Effects": [
-                        "{sev 'strong'} Nose Burn"
-                    ]
-                }
-            ],
-            "Adverse": [
-                "{sev 'light'} {xeff 'anxiety'}",
-                "{wkp 'Vomiting'}",
-                "{sev 'moderate'} {xeff 'nausea'} that fades away after the comeup"
-            ],
-            "Notes": [
-                "My favorite psychedelic"
-            ],
-            "Sources": [
-                "DNM Germany: 2-CB powder",
-                "DNM Germany: 2-CB 20mg rocket tablets"
-            ]
-        }
+    "Attributes": [
+      "{wkp 'asperger syndrome'} (diagnosed {icd 'F84.5'}G); diagnosed as a child",
+      "{wkp 'transsexual'} (diagnosed {icd 'F64.0'}G); on HRT since 04/2023",
+      "{wkp 'attention deficit hyperactivity disorder'} (diagnosed {icd 'F90.0'}F); self medicating since 09/2025",
+      "{wkp 'Mixed anxiety–depressive disorder'} (diagnosed {icd 'F41.2'}G)",
+      "{wkp 'Social_rejection#Rejection_sensitivity'} (self diagnosed)",
+      "{wkp 'Major_depressive_episode'}, probably {icd 'F33.1'} (since 04/2026); before that {icd 'F33.0'} (since 2022/2023) (self diagnosed), self medicated with {sub 'ketamine'} and {sub 'venlafaxine'}",
+      "Various sleeping issues ({icd 'G47'}) (self diagnosed); self medicated with {sub 'melatonin'}, {sub 'Magnesium'} bisglycinate, {sub 'Tryptophan'} and other sleep aids",
+      "reaccuring {xeff 'suicidal-ideation'} ({icd 'R45.8'}); since ~2024",
+      "{wkp 'Self-harm'} (cutting {icd 'X78'}/hitting {icd 'X79'}); since 10/2025; ",
+      "Arachnoid cyst, no symptoms ({icd 'G93.0'}, diagnosed in 2019)",
+      "{wkp 'Nocturnal_enuresis'} ({icd 'F98.0'}); stopped when got 14",
+      "GI tract issues"
     ]
+  },
+  "RoutesOfAdministration": [
+    {
+      "Name": "Intranasal",
+      "Paraphernalia": [
+        "Bahncard 100, Macbook and Paper",
+        "{wkp 'Trans_woman'}s {wkp 'Breast'}s",
+        "{wkp 'Spatula'}",
+        "Knive",
+        "Nasalspray"
+      ],
+      "Sites": ["Nose"]
+    },
+    {
+      "Name": "Oral",
+      "Paraphernalia": [
+        "Capsule",
+        "Solution",
+        "Suppository",
+        "1ml syringe",
+        "Tablet",
+        "Powder",
+        "Crushed tablet",
+        "Brownie",
+        "Gummie",
+        "Drink"
+      ],
+      "Sites": ["Mouth"]
+    },
+    {
+      "Name": "Subcutaneous",
+      "Paraphernalia": ["Insulin pen", "1ml syringe"],
+      "Sites": ["Stomach", "Lower loins"]
+    },
+    {
+      "Name": "Intrarectal",
+      "Paraphernalia": ["soft capsule", "Suppository", "1ml syringe"],
+      "Sites": ["Rectum"]
+    },
+    {
+      "Name": "Inhaled",
+      "Paraphernalia": ["Ballon", "bottle", "vape"],
+      "Sites": ["Lungs"]
+    },
+    {
+      "Name": "Smoked",
+      "Paraphernalia": [
+        "Vaporizer",
+        "Vape",
+        "Cigarette",
+        "Joint",
+        "Aluminium foil"
+      ],
+      "Sites": ["Lungs"]
+    },
+    {
+      "Name": "Transdermal",
+      "Paraphernalia": ["Gel"],
+      "Sites": ["Lower arm"]
+    },
+    {
+      "Name": "Intramuscular",
+      "Paraphernalia": ["1ml syringe"],
+      "Sites": ["Vastus lateralis", "Deltoid muscle", "Dorsogluteal"]
+    }
+  ],
+  "TriedSubstances": [
+    {
+      "Name": "Orthophedrone",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "43-55mg"
+        }
+      ],
+      "Effects": ["{xeff 'compulsive-redosing'}", "{xeff 'stimulation'}"],
+      "Adverse": [
+        "{xeff 'analysis-suppression'}",
+        "{xeff 'motivation-suppression'} (feeling fried)"
+      ],
+      "Sources": ["2-MMC: DNM Germany"]
+    },
+    {
+      "Name": "Metaphedrone",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "35.0mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{sev 'light'} {xeff 'increased-libido'}"
+      ],
+      "Adverse": [
+        "{sev 'moderate'} {xeff 'compulsive-redosing'}",
+        "{sev 'moderate'} {xeff 'motivation-suppression'} (feeling fried)"
+      ]
+    },
+    {
+      "Name": "Mephedrone",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "22-74mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{sev 'strong'} {xeff 'empathy-affection-and-sociability-enhancement'}",
+        "{sev 'strong'} {xeff 'increased-libido'}",
+        "{sev 'light'} {xeff 'anxiety-suppression'}",
+        "{sev 'strong'} {xeff 'increased-heart-rate'}",
+        "{sev 'strong'} {xeff 'stamina-enhancement'}",
+        "{sev 'strong'} {xeff 'time-distortion'}",
+        "{sev 'moderate'} {xeff 'increased-bodily-temperature'}",
+        "{xeff 'dry-mouth'}",
+        "{sev 'strong'} {xeff 'increased-blood-pressure'}",
+        "{xeff 'vasoconstriction'}",
+        "{xeff 'analysis-suppression'}"
+      ],
+      "Adverse": [
+        "{sev 'strong'} {xeff 'memory-suppression'} (forgetting what you did on the day/not having detailed memories)",
+        "{sev 'strong'} {xeff 'orgasm-suppression'}",
+        "{sev 'strong'} {xeff 'compulsive-redosing'} (feels like your constantly redosing/having to redose)",
+        "{sev 'moderate'} {xeff 'teeth-grinding'} when using higher doses"
+      ],
+      "Notes": [
+        "Very good substance to have sex on",
+        "The most addictive substance i consumed",
+        "152/89 Blood pressure, 108bpm and 37.1°C (temp messured on the forehead by a google pixel) after ~50-70mg insufflated"
+      ],
+      "Sources": ["DNM Germany"]
+    },
+    {
+      "Name": "Bupropion",
+      "Salts": ["hydrochloride"],
+      "Indication": [
+        "{sev 'light'} {sub 'Nicotine'} {icd 'F17.2'}",
+        "probably {icd 'F33.1'} (self diagnosed)",
+        "{icd 'F90.0'}"
+      ],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "150-300mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'} weird {xeff 'stimulation'} when taken in high doses (300mg)",
+        "{sev 'light'} {xeff 'depression-reduction'}; feeling more active",
+        "{sev 'light'} hyperactivity reduction"
+      ],
+      "Adverse": [
+        "{sev 'moderate'} {xeff 'constipation'} when consumed in high doses"
+      ],
+      "Notes": [
+        "Don't combine Bupropion with other stimulants/ADHD-Meds, there is already a high seziure risk without them and you won't have a good time",
+        "Pretty good to get away from {sev 'Nicotine'}",
+        "Moderatly useful against {wkp 'Major_depressive_episode'}s, would not recommend if you want to take stimulants"
+      ],
+      "Sources": [
+        "German pharmacy: Bupropion Neuraxpharm 150mg/300mg XR tablets"
+      ]
+    },
+    {
+      "Name": "3-FPO",
+      "Indication": "{icd 'F90.0'}",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5-10mg",
+          "Onset": "~40 minutes",
+          "Comeup": "~40 minutes",
+          "Duration": "~6 hours"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "2.5-10mg",
+          "Onset": "5-10 minutes",
+          "Comeup": "20 minutes",
+          "Duration": "~2.5hours"
+        }
+      ],
+      "Effects": [
+        "cold {sev 'moderate'} stimulation; simmilar to {sub 'Methylphenidate'}",
+        "{sev 'moderate'} {xeff 'motivation-enhancement'}",
+        "{sev 'moderate'} {xeff 'depression-reduction'}",
+        "{sev 'moderate'} {xeff 'increased-libido'}",
+        "{sev 'light'} {xeff 'cognitive-euphoria'}"
+      ],
+      "Adverse": ["{sev 'light'} {xeff 'sleepiness'}"],
+      "Sources": ["NL RC Vendor: 3-FPO"],
+      "Notes": ["Around 2-2.5 times as potent as {sub 'Methylphenidate'}"]
+    },
+    {
+      "Name": "Methylphenidate",
+      "Indication": "{icd 'F90.0'}",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5-38mg"
+        }
+      ],
+      "Effects": [
+        "{xeff 'stimulation'}; very helpful aginst ADHD",
+        "{xeff 'motivation-enhancement'}",
+        "sometimes {xeff 'sleepiness'}; caffeine while using {sub 'Methylphenidate'} helps against that",
+        "{sev 'light'} {xeff 'decreased-libido'} or  {xeff 'increased-libido'}"
+      ],
+      "Notes": [
+        "Good ADHD-Medication",
+        "From the available preparations i would recommend concerta/kinecteen",
+        "Social interactions can feel difficult"
+      ],
+      "Sources": [
+        "German pharmacy: Kinecteen 18mg tablets",
+        "German pharmacy: Kinecteen 27mg tablets",
+        "German pharmacy: Medikinet 5 mg tablets",
+        "German pharmacy: Medikinet retard 5mg capsules",
+        "German pharmacy: Medikinet retard 10mg capsules",
+        "German pharmacy: Medikinet retard 20mg capsules",
+        "German Pharmacy: Ritalin Adult 40mg capsules"
+      ]
+    },
+    {
+      "Name": "Atomoxetine",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10mg"
+        }
+      ],
+      "Notes": "No effects noted at 10mg",
+      "Sources": ["Found on the ground at {wkp 'Alexanderplatz'}"]
+    },
+    {
+      "Name": "3-Fluorophenmetrazine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "15mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'stimulation'}",
+        "no other effects noted; probably beacuse of the low dose"
+      ]
+    },
+    {
+      "Name": "Amphetamine",
+      "Indication": "{icd 'F90.0'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "3-20mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "8-46mg"
+        }
+      ],
+      "Salts": ["sulfate"],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}; very helpful aginst ADHD in lower doses (15-20mg oral, 1-2x per day)",
+        "{sev 'moderate'} {xeff 'motivation-enhancement'}",
+        "{sev 'moderate'} {xeff 'wakefulness'}",
+        "{sev 'light'} {xeff 'stamina-enhancement'}",
+        "{sev 'light'} {xeff 'increased-libido'} or {xeff 'decreased-libido'}",
+        "{sev 'light'} {xeff 'compulsive-redosing'}"
+      ],
+      "Notes": ["Consumed close to daliy since 11-2025, helps against ADHD"],
+      "Sources": ["Amphetamine: DNM Germany"]
+    },
+    {
+      "Name": "Methamphetamine",
+      "Salts": ["hydrochloride?"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "15mg"
+        }
+      ],
+      "Sources": ["DNM Germany: Mexican crystal meth"]
+    },
+    {
+      "Name": "Lisdexamphetamine",
+      "Indication": "{icd 'F90.0'}",
+      "Salts": ["dimesylate"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5-60mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'stimulation'}; very helpful aginst ADHD",
+        "{sev 'moderate'} {xeff 'wakefulness'}",
+        "{sev 'moderate'} {xeff 'motivation-enhancement'}",
+        "{sev 'light'} {xeff 'increased-libido'} or {sev 'light'} {xeff 'decreased-libido'}"
+      ],
+      "Notes": ["Best ADHD-Medication ive tried"],
+      "Sources": [
+        "Elvanse 30mg capusles",
+        "Elvanse 40mg capusles",
+        "Elvanse 50mg capusles",
+        "Elvanse 60mg capusles",
+        "Lisdexamphetamin-ratiopharm 40mg capsules"
+      ]
+    },
+    {
+      "Name": "Thozalinone",
+      "Indication": "{icd 'F90.0'}",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50mg",
+          "Onset": "~1 hour"
+        }
+      ],
+      "Effects": [
+        "pleasant warm {sev 'light'} stimulation",
+        "{sev 'moderate'} {xeff 'depression-reduction'}",
+        "{sev 'light'} {xeff 'motivation-enhancement'}",
+        "{sev 'light'} {xeff 'cognitive-euphoria'}"
+      ],
+      "Sources": ["NL RC Vendor: Thozalinone"],
+      "Notes": ["Very chill relaxing stimulant"]
+    },
+    {
+      "Name": "5-Methoxy-2-aminoindane",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "30-60mg"
+        },
+        {
+          "Name": "rectal",
+          "Dosage": "50mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'cognitive-euphoria'}",
+        "{xeff 'sedation'}",
+        "{sev 'light'} {xeff 'increased-libido'}",
+        "{sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}"
+      ],
+      "DEffects": [
+        {
+          "Route": "Insufflated",
+          "Effects": ["{sev 'intense'} Nose Burn"]
+        }
+      ],
+      "Notes": [
+        "Burns even more than {sub '2,5-Dimethoxy-4-bromophenethylamine'} when consumed via insufflated"
+      ],
+      "Sources": ["NL RC Vendor: MEAI"]
+    },
+    {
+      "Name": "Caffeine",
+      "Salts": ["Freebase"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20-200mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "20-60mg"
+        }
+      ],
+      "Effects": ["{xeff 'stimulation'}", "{xeff 'wakefulness'}"],
+      "Adverse": [
+        "{sev 'strong'} {xeff 'anxiety'} at high doses",
+        "{xeff 'restless-legs'} in higher doses",
+        "sometimes {sev 'light'} {xeff 'sleepiness'}"
+      ],
+      "Sources": [
+        "Coffee",
+        "Energy drink",
+        "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets",
+        "Bulk.com 200mg caffeine tablets",
+        "Slovakian pharmacy: Caffetin tablets",
+        "Bulk Preworkout Dope max (200mg)"
+      ]
+    },
+    {
+      "Name": "Tobacco",
+      "Composite": true,
+      "Routes": [
+        {
+          "Name": "smoked"
+        }
+      ],
+      "Sources": [
+        "German Malboro gold",
+        "Turkish Parliment blue",
+        "Polish Kent Slim blue",
+        "Hungerian Sopianae",
+        "chinese Malboro red",
+        "Japanese Black devil arctic menthol"
+      ]
+    },
+    {
+      "Name": "Nicotine",
+      "Salts": ["Benzoate", "Freebase"],
+      "Routes": [
+        {
+          "Name": "smoked",
+          "Dosage": "1-2mg"
+        },
+        {
+          "Name": "buccal",
+          "Dosage": "6-16mg"
+        }
+      ],
+      "Effects": ["{xeff 'stimulation'}", "{xeff 'compulsive-redosing'}"],
+      "Adverse": ["{xeff 'nausea'}", "{xeff 'appetite-suppression'}'"],
+      "Notes": [
+        "Extremly addictive but boring substance",
+        "Most fun in the form of cigarettes",
+        "Very easy to overdose"
+      ],
+      "Sources": ["Siberia Snus", "Vape", "cigarette"]
+    },
+    {
+      "Name": "Menthol",
+      "Routes": [
+        {
+          "Name": "Inhaled"
+        },
+        {
+          "Name": "Smoked"
+        }
+      ],
+      "Effects": ["cooling sensation", "reduces smoking irritation"]
+    },
+    {
+      "Name": "Cocaine",
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "10-30mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "5-10mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'wakefulness'}",
+        "{sev 'moderate'} {xeff 'motivation-enhancement'}",
+        "{sev 'light'} {xeff 'increased-libido'}",
+        "{xeff 'mouth-numbing'}"
+      ],
+      "Adverse": ["{sev 'moderate'} {xeff 'compulsive-redosing'}"],
+      "Notes": [
+        "comedown is a bit annoying",
+        "not worth the high cost in europe",
+        "supriseingly simmilar to {sub 'methylphenidate'}"
+      ],
+      "Sources": ["DNM: Cocaine"]
+    },
+    {
+      "Name": "Coffea",
+      "Composite": true,
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'light'} {xeff 'motivation enhancement'}",
+        "{sev 'moderate'} {xeff 'focus enhancement'}",
+        "{sev 'moderate'} {xeff 'wakefulness'}"
+      ],
+      "Adverse": ["{sev 'light'} {xeff 'anxiety'} when consumed in high doses"],
+      "Sources": ["starbucks i guess??", "Coffee machine"]
+    },
+    {
+      "Name": "Tyrosine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "500-3000mg"
+        }
+      ],
+      "Effects": ["{xeff 'stimulation'}"],
+      "Adverse": ["{xeff 'paranoia'}", "{xeff 'anxiety'}"],
+      "Notes": ["Not worth it to binge it"],
+      "Sources": ["German Amazon", "Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Pyridoxine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "1mg"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Levacecarnine",
+      "Salts": ["Hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "300mg"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Theanine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "400mg"
+        }
+      ],
+      "Sources": ["German Amazon"]
+    },
+    {
+      "Name": "Arginine oxoglurate",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5g"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Beta-Alanine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5g"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Citrulline",
+      "Salts": ["Malate", "Freebase"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5g (3g malate + 2g freebase)"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Creatine",
+      "Salts": ["Monohydrate"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "3.4g"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Sodium chloride",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "500mg"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"],
+      "Notes": ["pink Himalayan salt"]
+    },
+    {
+      "Name": "Panax ginseng",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "100mg (extract)"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Choline-Alfoscerate",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "300-600mg"
+        }
+      ],
+      "Sources": ["Alpha GPC supplement"]
+    },
+    {
+      "Name": "3,4-Dihydroxyphenylalanine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "100mg"
+        }
+      ],
+      "Effects": ["{xeff 'stimulation'}", "{xeff 'motivation-enhancement'}"],
+      "Sources": ["polish chemical online shop: Levodopa"]
+    },
+    {
+      "Name": "Acetylcysteine",
+      "Indication": ["antioxidant while/after using {sub 'mephedrone'}"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "800mg"
+        }
+      ],
+      "Notes": [
+        "Might be useful as a antioxidant or when overdosing on {sub 'Paracetamol'}"
+      ]
+    },
+    {
+      "Name": "Loperamide",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "2.0mg"
+        }
+      ],
+      "Notes": ["Might help with {xeff 'diarrhea'} when doing psychedelics"],
+      "Sources": ["multiple generics from germany pharmacies"]
+    },
+    {
+      "Name": "Naloxone",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "4-7.2mg"
+        }
+      ],
+      "Sources": [
+        "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet",
+        "Tilidin AL comp. 50 mg/4 mg XR tablet"
+      ]
+    },
+    {
+      "Name": "Oxycodone",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "13mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'pain-relief'}",
+        "{sev 'strong'} {xeff 'cognitive-euphoria'}",
+        "{sev 'light'} {xeff 'sedation'}"
+      ],
+      "Adverse": ["{sev 'light'} {xeff 'thought-deceleration'}"],
+      "Sources": [
+        "Crushed Oxycodonhydrochlorid Puren 30 mg XR tablet found in the Herrngarten in {wkp 'Darmstadt'}"
+      ],
+      "Notes": [
+        "Less nausea and more euphoria than other opioids",
+        "Proably one of the most addictive substances ive consumed (other than stimulants)"
+      ]
+    },
+    {
+      "Name": "Codeine",
+      "Salts": ["phosphate", "phosphate sesquihydrate"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10-140mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'pain-relief'}",
+        "{sev 'moderate'} {xeff 'cognitive-euphoria'}",
+        "{sev 'light'} {xeff 'sedation'}",
+        "{sev 'light'} {xeff 'thought-deceleration'} in high doses (140mg+)"
+      ],
+      "Sources": [
+        "Polish Pharmacy: Nurofen plus tablets",
+        "Slovakian pharmacy: Caffetin tablets"
+      ]
+    },
+    {
+      "Name": "Tilidine",
+      "Indication": "{icd 'M25.5'} (shoulder)",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50-100mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'pain-relief'}",
+        "{sev 'strong'} {xeff 'cognitive-euphoria'}",
+        "{sev 'light'} {xeff 'sedation'}"
+      ],
+      "Adverse": [
+        "{sev 'moderate'} {xeff 'nausea'}",
+        "{sev 'light'} {xeff 'thought-deceleration'}"
+      ],
+      "Sources": [
+        "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet",
+        "Tilidin AL comp. 50 mg/4 mg XR tablet"
+      ]
+    },
+    {
+      "Name": "Kratom",
+      "Composite": true,
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "2-8g"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'stimulation'}; very good for doing computer stuff",
+        "{sev 'light'} {xeff 'sedation'}",
+        "{xeff 'pain-relief'}",
+        "{xeff 'cognitive-euphoria'}",
+        "{sev 'light'} {xeff 'increased-libido'}"
+      ],
+      "Adverse": [
+        "{sev 'light'} {xeff 'nausea'}",
+        "{wkp 'Sleep_paralysis'}; only once, had {sev 'strong'} {xeff 'anxiety'} and couldn't move my body, but it was over after a few minutes. Unsure if this was caused by Kratom"
+      ],
+      "Notes": [
+        "One of my favorite substances for having sex",
+        "Good substance for late night computer work"
+      ],
+      "Sources": ["clearnet shop: kratom red strain"]
+    },
+    {
+      "Name": "Morphine",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "Subcutaneous",
+          "Dosage": "5mg",
+          "Onset": "5 minutes",
+          "Comeup": "20 minutes",
+          "Duration": "~2 hours"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'pain-relief'}",
+        "{sev 'moderate'} {xeff 'cognitive-euphoria'}",
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'thought-deceleration'}"
+      ],
+      "Adverse": ["{sev 'strong'} {xeff 'nausea'}", "{wkp 'Vomiting'}"],
+      "Notes": [
+        "Very {sev 'strong'} {xeff 'nausea'}, even multiple hours after the ingestion"
+      ],
+      "Sources": ["DNM Germany: 1ml Morphine HCl CF Ampoules 10mg/ml"]
+    },
+    {
+      "Name": "γ-Butyrolactone",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.5-3ml"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'cognitive-euphoria'} and {sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}",
+        "{sev 'moderate'} {xeff 'increased-libido'}",
+        "{xeff 'double-vision'}; feels like being drunk",
+        "{xeff 'stimulation'} when consumed in lower doses"
+      ],
+      "Adverse": [
+        "{sev 'strong'} {xeff 'sedation'} and {sev 'strong'} {xeff 'sleepiness'} when consumed in high doses",
+        "{xeff 'nausea'} when consumed in high doses"
+      ],
+      "Notes": [
+        "passed out at around 2/3ml",
+        "Good for having sex; probably not useful for anything else"
+      ],
+      "Sources": ["clearnet shop: Multiremover"]
+    },
+    {
+      "Name": "Ethanol",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "1.5-30g"
+        },
+        {
+          "Name": "transdermal"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "{sev 'light'} {xeff 'anxiety-suppression'} (very helpful in social situations)",
+        "{sev 'light'} {xeff 'appetite-enhancement'}",
+        "{sev 'light'} {xeff 'motor-control-loss'}"
+      ],
+      "Adverse": [
+        "{xeff 'nausea'} when consumed in high doses",
+        "{wkp 'Vomiting'}",
+        "Partial {xeff 'memory-suppression'} when consumed in high doses"
+      ],
+      "Notes": ["decent substance in lower doses"],
+      "Sources": ["Beer", "Wine", "Estreva gel", "Gynokadin gel"]
+    },
+    {
+      "Name": "Alprazolam",
+      "Indication": ["{xeff 'anxiety'}", "{icd 'F41.2'}"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.2-0.3mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'anxiety-suppression'}",
+        "{sev 'moderate'} {xeff 'memory-suppression'}",
+        "{sev 'light'} {xeff 'muscle-relaxation'}"
+      ],
+      "Adverse": ["{sev 'moderate'} {xeff 'thought-deceleration'}"],
+      "Sources": ["Ksalol 1mg Alprazolam tablet"]
+    },
+    {
+      "Name": "Lorazepam",
+      "Indication": ["{xeff 'anxiety'}", "{icd 'F41.2'}", "{icd 'G47.0'}"],
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.625mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'anxiety-suppression'}",
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'sleepiness'}"
+      ],
+      "Adverse": ["{sev 'light'} {xeff 'thought-deceleration'}"],
+      "Notes": ["Best emergency medication for {xeff 'anxiety'}"],
+      "Sources": ["Hemofarm Lorazepam HF 2.5mg Tablet"]
+    },
+    {
+      "Name": "Clonazepam",
+      "Indication": ["{xeff 'anxiety'}", "{icd 'F41.2'}"],
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "0.5-1mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety-suppression'}",
+        "{sev 'light'} {xeff 'sedation'}; less than other benzos",
+        "{sev 'light'} {xeff 'sleepiness'}"
+      ],
+      "Sources": ["Galenika Rivotril 2mg Tablet"],
+      "Notes": ["Higher abuse potential than other benzos"]
+    },
+    {
+      "Name": "Oxazepam",
+      "Indication": ["{xeff 'anxiety'}", "{icd 'F41.2'}"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "12.5mg"
+        }
+      ],
+      "Sources": ["Oxazepam-ratiopharm 50 mg tablets"]
+    },
+    {
+      "Name": "Midazolam",
+      "Indication": ["{xeff 'anxiety'}", "{icd 'F41.2'}"],
+      "Routes": [
+        {
+          "Name": "sublingual",
+          "Dosage": "7.5mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety-suppression'}",
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'sleepiness'}",
+        "stronger {xeff 'memory-suppression'} than other benzos"
+      ],
+      "Adverse": ["{sev 'moderate'} {xeff 'thought-deceleration'}"],
+      "Sources": ["Galenika Flormidal 15mg Tablet"]
+    },
+    {
+      "Name": "Diazepam",
+      "Indication": ["{xeff 'anxiety'}", "{icd 'F41.2'}"],
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "5mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'anxiety-suppression'}",
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'sleepiness'}"
+      ],
+      "Adverse": ["{sev 'moderate'} {xeff 'thought-deceleration'}"],
+      "Sources": ["Hemofarm Diazepam HF 10mg Tablet"],
+      "Notes": [
+        "Weird metabolization and the strange duration make this a unfavorable benzo"
+      ]
+    },
+    {
+      "Name": "Zolpidem",
+      "Indication": "{icd 'G47.0'}",
+      "Salts": ["Tartrate"],
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "2.5-10mg"
+        },
+        {
+          "Name": "sublingual",
+          "Dosage": "2.5-5mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'sedation'} and {sev 'strong'} {xeff 'sleepiness'}",
+        "{sev 'light'} {xeff 'dream-potentiation'}",
+        "dose dependant open/closed eye hallucinations; stronger when {sub 'venlafaxine'} is taken",
+        "Extremly fast onset when taken sublingual"
+      ],
+      "Adverse": [
+        "{sev 'light'} {xeff 'nausea'} and {sev 'moderate'} {xeff 'dizziness'} when taken in high doses; feeling slightly drunk",
+        "Tastes very bitter"
+      ],
+      "Notes": [
+        "Very good sleep-aid when {sub 'melatonin'} isn't enough anymore.",
+        "Very little hangover effects, even when taken in the middle of the night",
+        "Can even be pretty effective when taken in doses as low as 2.5mg"
+      ],
+      "Sources": ["Zolpidem tablets BP 10mg"]
+    },
+    {
+      "Name": "Zopiclone",
+      "Indication": "{icd 'G47.0'}",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "~3.5mg"
+        }
+      ],
+      "Effects": ["{xeff 'sedation'}", "{xeff 'sleepiness'}"],
+      "Adverse": ["hangover when taken as a sleep aid"],
+      "Sources": ["Zop Tablets Zopiclone Tablets IP 7.5mg"],
+      "Notes": [
+        "too much hangover effects on the next morning to be taken regulary"
+      ]
+    },
+    {
+      "Name": "Ketanserin",
+      "Routes": [
+        {
+          "Name": "sublingual",
+          "Dosage": "20mg",
+          "Onset": "~20min"
+        }
+      ],
+      "Effects": ["Stops 2-CB trips", "No major side-effects"],
+      "Sources": ["Powder from chinese vendor"]
+    },
+    {
+      "Name": "Mometasone Furoate",
+      "Indication": "{icd 'L24.9'}",
+      "Routes": [
+        {
+          "Name": "transdermal"
+        }
+      ],
+      "Sources": ["German Pharmacy: MOMETASON Glenmark 1 mg/g cream"]
+    },
+    {
+      "Name": "Neomycin",
+      "Indication": "fresh {icd 'T14.1'} ({icd 'X78'})",
+      "Routes": [
+        {
+          "Name": "transdermal"
+        }
+      ],
+      "Sources": ["Italian pharmacy: Trofodermin creme"]
+    },
+    {
+      "Name": "Clostebol acetate",
+      "Indication": "fresh {icd 'T14.1'} ({icd 'X78'})",
+      "Routes": [
+        {
+          "Name": "transdermal"
+        }
+      ],
+      "Sources": ["Italian pharmacy: Trofodermin creme"]
+    },
+    {
+      "Name": "Spironolactone",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "100mg"
+        }
+      ],
+      "Notes": ["Might be useful as an {wkp 'Antiandrogen'}"],
+      "Sources": ["Spironolacton-ratiopharm 100mg tablets"]
+    },
+    {
+      "Name": "Dienogest",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "2mg"
+        }
+      ],
+      "Notes": ["Might be useful as an {wkp 'Antiandrogen'}"]
+    },
+    {
+      "Name": "Estradiol enantate",
+      "Indication": "Male to female {icd 'F64.0'}",
+      "Routes": [
+        {
+          "Name": "intramuscular",
+          "Dosage": "5-14mg"
+        },
+        {
+          "Name": "subcutaneous",
+          "Dosage": "5-10mg"
+        },
+        {
+          "Name": "insufflated"
+        }
+      ],
+      "Sources": ["Powder from chinese vendor"]
+    },
+    {
+      "Name": "Estradiol",
+      "Indication": "Male to female {icd 'F64.0'}",
+      "Salts": ["hemihydrate"],
+      "Routes": [
+        {
+          "Name": "transdermal",
+          "Dosage": "2-3mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "1-2mg"
+        }
+      ],
+      "Sources": ["German pharmacy: Estreva gel", "Gynokadin gel"]
+    },
+    {
+      "Name": "Cyproterone acetate",
+      "Indication": "Male to female {icd 'F64.0'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5-10mg"
+        }
+      ],
+      "Notes": [
+        "Helpful when doing MTF-HRT with {sub 'Estradiol'}-gel or tablets",
+        "Might also increase libido and breast size like {sub 'Progesterone'}"
+      ],
+      "Sources": ["German Pharmacy: custom made capsules"]
+    },
+    {
+      "Name": "Progesterone",
+      "Indication": "Male to female {icd 'F64.0'}",
+      "Routes": [
+        {
+          "Name": "rectal",
+          "Dosage": "100-400mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "100-450mg"
+        },
+        {
+          "Name": "transdermal"
+        }
+      ],
+      "Effects": ["{xeff 'increased-libido'}"],
+      "Notes": [
+        "Consumed daliy since 08-2025",
+        "might help with breast growth"
+      ],
+      "DEffects": [
+        {
+          "Route": "oral",
+          "Effects": ["{xeff 'sedation'}", "{xeff 'sleepiness'}"]
+        }
+      ],
+      "Sources": [
+        "German pharmacy: Progestan 100 mg soft capsules",
+        "Progestogel",
+        "self made suppositories from powder from china"
+      ]
+    },
+    {
+      "Name": "Daridorexant",
+      "Indication": "{icd 'G47.0'}",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'} sleep quality improvement",
+        "{sev 'light'} {xeff 'sleepiness'}"
+      ],
+      "Sources": ["Quviviq 50mg tablet"],
+      "Notes": ["no major effects noted; still worth a try for insomnia"]
+    },
+    {
+      "Name": "Diphenhydramine",
+      "Indication": "{icd 'G47.0'}",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "25.0mg"
+        }
+      ],
+      "Effects": [
+        "{xeff 'sleepiness'}",
+        "{xeff 'sedation'}",
+        "{sev 'light'} {xeff 'decreased-libido'}"
+      ],
+      "Adverse": ["{xeff 'motivation-suppression'}"],
+      "Notes": [
+        "Less hangover than {sub 'Doxylamine'}",
+        "Shorter half-life compared to {sub 'Doxylamine'}"
+      ],
+      "Sources": ["German Pharmacy: Dorm Tabletten"]
+    },
+    {
+      "Name": "Doxylamine",
+      "Indication": "{icd 'G47.0'}",
+      "Salts": ["succinate"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "12.5-25mg"
+        },
+        {
+          "Name": "sublingual",
+          "Dosage": "12.5mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'sleepiness'}",
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "{sev 'light'} {xeff 'decreased-libido'}"
+      ],
+      "Adverse": [
+        "{xeff 'motivation-suppression'}",
+        "{sev 'moderate'} hangover"
+      ],
+      "Notes": [
+        "stronger sleep aid than {sub 'melatonin'}, useful when {sub 'melatonin'} is insufficient."
+      ],
+      "Sources": [
+        "German Pharmacy: SchlafTabs-Ratiopharm",
+        "German Pharmacy: Schlafsterne"
+      ]
+    },
+    {
+      "Name": "Hydroxyzine",
+      "Indication": ["Hyperactivity before a flight", "{icd 'F41.2'}"],
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "12.5mg",
+          "Onset": "~30 minutes"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety-suppression'}",
+        "{sev 'light'} {xeff 'sedation'}",
+        "{sev 'light'} {xeff 'sleepiness'}"
+      ],
+      "Adverse": ["{sev 'light'} {xeff 'thought-deceleration'}"],
+      "Sources": ["Turkish pharmacy: Atarax 25mg tablets"],
+      "Notes": ["good non addictive alternative to benzodiazepines"]
+    },
+    {
+      "Name": "Promethazine",
+      "Indication": "{icd 'G47.0'}, acute {sev 'light'} discomfort/panic",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "12.5-25.0mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'sleepiness'}",
+        "{sev 'moderate'} {xeff 'sedation'}"
+      ],
+      "Adverse": [
+        "{sev 'light'} hangover",
+        "{sev 'light'} {xeff 'motivation-suppression'}"
+      ],
+      "Notes": ["good non addictive alternative to benzodiazepines"],
+      "Sources": ["Promethazin-neuraxpharm 25mg tablet"]
+    },
+    {
+      "Name": "Azelastine",
+      "Salts": ["hydrochloride"],
+      "Dosage": [
+        {
+          "Name": "Insufflated",
+          "Dosage": "0.28mg"
+        }
+      ],
+      "Sources": ["Turkish pharmacy: Allergodil nasal spray"]
+    },
+    {
+      "Name": "Amisulpride",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'}/{sev 'moderate'} {xeff 'sedation'}",
+        "{sev 'light'} {xeff 'cognitive-euphoria'}"
+      ],
+      "Notes": ["didn't expect this to be this compfy"],
+      "Sources": ["Amisulprid PUREN 100 mg"]
+    },
+    {
+      "Name": "Quetiapine",
+      "Salts": ["Hemifumarate"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10-50mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'sedation'} to the point of barely passing out",
+        "{sev 'strong'} {xeff 'sleepiness'}",
+        "{sev 'strong'} {xeff 'thought-deceleration'}",
+        "{sev 'light'} {xeff 'anxiety-suppression'}"
+      ],
+      "Adverse": [
+        "{sev 'strong'} hangover when taken as a sleep aid",
+        "feeling fried and unable to do anything for 18 hours"
+      ],
+      "Notes": ["Very effective as a sleep aid"],
+      "Sources": ["Quetiapin-neuraxpharm 50mg tablets"]
+    },
+    {
+      "Name": "Metamizole",
+      "Salts": ["sodium monohydrate"],
+      "Indication": [
+        "{sev 'moderate'} {icd 'R52.9'}",
+        "{icd 'R52.9'} caused by selfharm",
+        "{icd 'M54.2'}"
+      ],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "500mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'pain-relief'}, stronger than {sub 'Ibuprofen'}, but weaker than 150mg of {sub 'codeine'}"
+      ],
+      "Notes": [
+        "Helped with pain caused by {wkp 'Self-harm'}",
+        "Might help with stress induced muscle twitching"
+      ],
+      "Sources": ["Polish Pharmacy: Pyralgina"]
+    },
+    {
+      "Name": "Propyphenazone",
+      "Indication": "{sev 'moderate'} to {sev 'strong'} {icd 'R52.9'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "210mg"
+        }
+      ],
+      "Sources": ["Slovakian pharmacy: Caffetin tablets"]
+    },
+    {
+      "Name": "Panthenol",
+      "Indication": "{icd 'T14.1'} ({icd 'X78'})",
+      "Routes": [
+        {
+          "Name": "transdermal"
+        }
+      ],
+      "Effects": ["Wounds heal faster when applied 2-3 times per day"],
+      "Sources": [
+        "German pharmacy: Bepanthen",
+        "German pharmacy: Panthenol-ratiopharm"
+      ]
+    },
+    {
+      "Name": "Octenidine",
+      "Indication": "antisepectic wound treatment",
+      "Routes": [
+        {
+          "Name": "Dermal"
+        }
+      ]
+    },
+    {
+      "Name": "Ambroxol",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "15mg"
+        }
+      ],
+      "Sources": ["German pharmacy: Ambroxol-ratiopharm® Hustensaft"]
+    },
+    {
+      "Name": "Nicoboxil",
+      "Indication": ["{icd 'R45.8'}", "{icd 'M54.2'}"],
+      "Routes": [
+        {
+          "Name": "Dermal"
+        }
+      ],
+      "Notes": ["very effective for back pain"],
+      "Sources": ["German pharmacy: Finalgon"]
+    },
+    {
+      "Name": "Nonivamide",
+      "Indication": ["{icd 'R45.8'}", "{icd 'M54.2'}"],
+      "Routes": [
+        {
+          "Name": "Dermal"
+        }
+      ],
+      "Sources": ["German pharmacy: Finalgon"]
+    },
+    {
+      "Name": "Venlafaxine",
+      "Indication": [
+        "unstable mood",
+        "{icd 'F33'}",
+        "random suicidal breakdowns",
+        "{icd 'F41.2'}"
+      ],
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "37.5-150mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} to {sev 'strong'} {xeff 'anxiety-suppression'}; also seems to help with rejection sensitive dysphoria",
+        "{sev 'moderate'} {xeff 'depression-reduction'}; feeling way more active and less doomed",
+        "{sev 'light'} aggressive/unhinged behavior",
+        "self harm and {sev 'light'} {xeff 'suicidal-ideation'}",
+        "{sev 'light'} {xeff 'emotion-suppression'}; it feels like i can't feel as much emotions"
+      ],
+      "DEffects": [
+        {
+          "Condition": "Effects in the first few days",
+          "Effects": [
+            "{sev 'moderate'} {xeff 'emotion-suppression'}; everything feels numb",
+            "{sev 'moderate'} {xeff 'depression-reduction'}; everything feels kinda okay",
+            "{sev 'light'} {xeff 'anxiety-suppression'}",
+            "less hyperactivity"
+          ]
+        },
+        {
+          "Condition": "Adverse-effects in the first few days",
+          "Effects": [
+            "{sev 'strong'} pupil dilation",
+            "{sev 'moderate'} {xeff 'nausea'}/Dizziness; got much better on the second/third day",
+            "{sev 'moderate'} {xeff 'appetite-suppression'}; got better on the third day",
+            "Various GI problems",
+            "{xeff 'orgasm-suppression'}",
+            "jaw feels slightly tense",
+            "{sev 'light'} {xeff 'confusion'}/disassociating sometimes?",
+            "{sev 'light'} {xeff 'sedation'}",
+            "{sev 'light'} {xeff 'sleepiness'}",
+            "{sev 'light'} insomnia",
+            "{sev 'light'} {xeff 'thought-deceleration'}",
+            "{wkp 'Hyperhidrosis'}; started on day 4",
+            "very {sev 'light'} open/closed eye hallucinations; {sev 'moderate'} when {sub 'zolpidem'} (2.5mg) is taken"
+          ]
+        }
+      ],
+      "Notes": [
+        "150mg/day seem to much for me",
+        "Effects stabilized after 5-7 days"
+      ],
+      "Sources": ["Venlafaxin Aurobindo 75mg XR capsules"]
+    },
+    {
+      "Name": "Sertraline",
+      "Indication": ["{icd 'F33'}", "{icd 'F41.2'}"],
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "25-300mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'motivation-enhancement'}, {sev 'moderate'} {xeff 'depression-reduction'}; feeling more active",
+        "{sev 'light'} {xeff 'anxiety-suppression'}"
+      ],
+      "Adverse": [
+        "{sev 'moderate'} weird {xeff 'stimulation'} during the day",
+        "{sev 'light'} daytime {xeff 'sleepiness'}",
+        "{sev 'moderate'} {xeff 'suicidal-ideation'}",
+        "chemical burn(?)/neck pain after taking a tablet without water",
+        "{xeff 'derealization'}; feeling disconnected from everything",
+        "waking up during the night"
+      ],
+      "DEffects": [
+        {
+          "Condition": "Effects after taking 300mg (+ 1g Tryptophan a few hours later)",
+          "Effects": [
+            "{xeff 'diarrhea'}",
+            "self harm and {xeff 'suicidal-ideation'}",
+            "{xeff 'wakefulness'}; woke up constantly during the night",
+            "{xeff 'stimulation'}",
+            "{sev 'strong'} pupil dilation",
+            "{sev 'moderate'} {xeff 'nausea'}/Dizziness",
+            "Open/closed eye visuals",
+            "{sev 'light'} {xeff 'sedation'}",
+            "{sev 'light'} {xeff 'sleepiness'}",
+            "{sev 'light'} {xeff 'thought-deceleration'}"
+          ]
+        }
+      ],
+      "Sources": ["German pharmacy: Sertralin Amarox 50 mg tablets"],
+      "Notes": [
+        "low dose {sev 'venlafaxine'} works WAY better for me",
+        "no {xeff 'decreased-libido'} or {wkp 'Erectile_dysfunction'}"
+      ]
+    },
+    {
+      "Name": "Mirtazapine",
+      "Indication": ["{icd 'F33'}", "{icd 'F41.2'}"],
+      "Salts": ["Freebase"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "7.5-15mg"
+        },
+        {
+          "Name": "sublingual",
+          "Dosage": "15mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'sedation'}; passed out ~1h after ingestion and sleeped for 11h",
+        "{sev 'strong'} {xeff 'sleepiness'}",
+        "{sev 'moderate'} {xeff 'dream-potentiation'}; dreams feel more real, comfortable and occur more often",
+        "{sev 'light'}/{sev 'moderate'} {xeff 'depression-reduction'}; feeling more active"
+      ],
+      "Adverse": [
+        "too much sedation",
+        "{sev 'moderate'} hangover in the morning",
+        "{sev 'strong'} {xeff 'appetite-enhancement'}"
+      ],
+      "Notes": [
+        "Taken as california rocket fuel, in combination with {sub 'venlafaxine'}",
+        "tried smoking it but had no effects; the boiling point was probably too high"
+      ],
+      "Sources": ["German pharmacy: Mirtazapin Aurobindo 15mg tablets"]
+    },
+    {
+      "Name": "Lidocaine",
+      "Indication": "{icd 'J02.9'}",
+      "Salts": ["Hydrochloride-Monohydrate"],
+      "Routes": [
+        {
+          "Name": "sublingual",
+          "Dosage": "1mg"
+        }
+      ],
+      "Sources": ["WICK AngiMed Mentholgeschmack 5 mg/1 mg Lutschtabletten"]
+    },
+    {
+      "Name": "Benzocaine",
+      "Indication": "{icd 'J02.9'}",
+      "Salts": ["Freebase"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10mg"
+        },
+        {
+          "Name": "sublingual",
+          "Dosage": "10mg"
+        }
+      ],
+      "Effects": ["{xeff 'mouth-numbing'}; helpful when having a sore throat"],
+      "Notes": [
+        "Consumed as Dolo-Dobendan Lozenges with {sub 'Cetylpyridinium chloride'}"
+      ],
+      "Sources": ["German Pharmacy: Dolo-Dobendan"]
+    },
+    {
+      "Name": "Esomeprazole",
+      "Indication": "prophylactic stomach protection after taking a multiple NSAIDs and {sub 'venlafaxine'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "40mg"
+        }
+      ],
+      "Sources": ["Found on the ground in Milano, Italy: Lucen 40mg tablets"]
+    },
+    {
+      "Name": "Cetylpyridinium chloride",
+      "Indication": "{icd 'J02.9'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "1.4mg"
+        },
+        {
+          "Name": "sublingual",
+          "Dosage": "1.4mg"
+        }
+      ],
+      "Notes": ["Consumed as Dolo-Dobendan Lozenges with {sub 'Benzocaine'}"],
+      "Sources": ["German Pharmacy: Dolo-Dobendan"]
+    },
+    {
+      "Name": "Chlorhexidine",
+      "Indication": "{icd 'J02.9'}",
+      "Salts": ["Dihydrochloride"],
+      "Routes": [
+        {
+          "Name": "sublingual",
+          "Dosage": "5mg"
+        }
+      ],
+      "Sources": ["WICK AngiMed Mentholgeschmack 5 mg/1 mg Lutschtabletten"]
+    },
+    {
+      "Name": "Xylometazoline",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "insufflated"
+        }
+      ],
+      "Sources": ["German Pharmacy: NasenSpray-ratiopharm Erwachsene"]
+    },
+    {
+      "Name": "Domperidone",
+      "Indication": "{icd 'R11'}",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "10mg"
+        }
+      ],
+      "Sources": ["Italian pharmacy: Domperidone Teva 10mg tablets"]
+    },
+    {
+      "Name": "Sildenafil",
+      "Salts": ["Citrate"],
+      "Indication": "{sev 'light'} {icd 'N48.4'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "22-75mg"
+        }
+      ],
+      "Effects": ["{wkp 'Erection'}s are easier to get and more intense"],
+      "Sources": ["Powder from chinese vendor"]
+    },
+    {
+      "Name": "Bremelanotide",
+      "Indication": "Sexual disfunction after taking {sub 'venlafaxine'}",
+      "Routes": [
+        {
+          "Name": "subcutaneous",
+          "Dosage": "1.8mg"
+        }
+      ],
+      "Effects": [
+        "{wkp 'Erection'}s are easier to get and more intense",
+        "{sev 'light'} {xeff 'increased-libido'}"
+      ],
+      "Sources": ["Powder from chinese vendor"]
+    },
+    {
+      "Name": "Tadalafil",
+      "Indication": "{sev 'light'} {icd 'N48.4'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5mg"
+        }
+      ],
+      "Effects": ["{wkp 'Erection'}s are easier to get and more intense"]
+    },
+    {
+      "Name": "Flurbiprofen",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "100mg"
+        }
+      ],
+      "Sources": ["Turkish pharmacy: Majezik tablets"]
+    },
+    {
+      "Name": "Ibuprofen",
+      "Salts": ["Freebase", "Lysine"],
+      "Indication": "{sev 'light'} {icd 'R52.9'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "200-800mg"
+        }
+      ],
+      "Effects": ["{sev 'light'} {xeff 'pain-relief'}"],
+      "Sources": ["German pharmacy: generic tablets"]
+    },
+    {
+      "Name": "Ketoprofen",
+      "Indication": "{sev 'moderate'} {icd 'R52.9'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "50mg"
+        }
+      ],
+      "Effects": ["{sev 'moderate'} {xeff 'pain-relief'}"],
+      "Notes": ["Might help with pain better than {sub 'Ibuprofen'}"],
+      "Sources": ["Polish Pharmacy: Ketonal 50mg Capsules"]
+    },
+    {
+      "Name": "Diclofenac",
+      "Indication": "{icd 'M54.2'}",
+      "Salts": ["Sodium"],
+      "Routes": [
+        {
+          "Name": "Dermal"
+        }
+      ],
+      "Sources": ["German pharmacy: Diclo-ratiopharm Schmerzgel"]
+    },
+    {
+      "Name": "Paracetamol",
+      "Indication": "{sev 'light'} {icd 'R52.9'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "250-500mg"
+        },
+        {
+          "Name": "rectal",
+          "Dosage": "500mg"
+        }
+      ],
+      "Effects": ["{sev 'light'} {xeff 'pain-relief'}"],
+      "Sources": [
+        "German Pharmacy: generic tablets",
+        "Leidapharm {sub 'Paracetamol'} 500mg + {sub 'Caffeine'} 50mg tablets",
+        "Slovakian pharmacy: Caffetin tablets"
+      ]
+    },
+    {
+      "Name": "Dexibuprofen",
+      "Indication": "{sev 'light'} {icd 'R52.9'}",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "200mg"
+        }
+      ],
+      "Effects": ["{sev 'light'} {xeff 'pain-relief'}"],
+      "Sources": ["German Pharmacy: Dexibu-ratiopharm 200mg"]
+    },
+    {
+      "Name": "Amyl nitrite",
+      "Routes": [
+        {
+          "Name": "inhaled"
+        }
+      ]
+    },
+    {
+      "Name": "Lamotrigine",
+      "Indication": [
+        "unstable mood",
+        "{icd 'F33'}",
+        "random suicidal breakdowns",
+        "{icd 'F41.2'}"
+      ],
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "25-50mg"
+        }
+      ],
+      "Effects": [
+        "no major effects noted, didn't help with my mental breakdowns"
+      ],
+      "Notes": [
+        "After upping my dose to 50mg one of my lymph nodes got swollen; went away after a few days"
+      ],
+      "Sources": ["Powder from chinese vendor"]
+    },
+    {
+      "Name": "Oxytocin",
+      "Routes": [
+        {
+          "Name": "subcutaneous",
+          "Dosage": "0.125mg"
+        },
+        {
+          "Name": "insufflated"
+        }
+      ],
+      "Notes": [
+        "No effects noted other than my head feeling a bit more quiet (could be placebo)"
+      ],
+      "Sources": ["Powder from chinese vendor"]
+    },
+    {
+      "Name": "Pregabalin",
+      "Indication": ["{xeff 'anxiety'}", "{icd 'F41.2'}"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "24-300mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "50-100mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety-suppression'}; helps a lot in my day-to-day life",
+        "{sev 'light'} {xeff 'sedation'}",
+        "{sev 'light'} {xeff 'motor-control-loss'} at high doses or without tolerance",
+        "{sev 'light'} {xeff 'cognitive-euphoria'} at higher doses or without tolerance",
+        "{sev 'light'} {xeff 'pain-relief'}",
+        "{sev 'light'} {xeff 'emotion-suppression'}; might be helpful with autism or overwhelming emotions"
+      ],
+      "Adverse": [
+        "Might cause {xeff 'memory-suppression'} when consumed regularly at higher doses"
+      ],
+      "Notes": [
+        "Consuming ~120mg daliy from 1-2026 till 6-2026 because of stress and {xeff 'anxiety'}",
+        "Snorting pregabalin is not worth it, but it will have a stronger peak and shorter duration",
+        "Improves sleep quality"
+      ],
+      "Sources": [
+        "Pregabalin Vivanta 200mg capsules",
+        "Pregabalin Aurobindo 200mg capsules",
+        "Pregabalin Aurobindo 75mg capsules",
+        "Pregabalin Aurobindo 50mg capsules",
+        "Powder from chinese vendor"
+      ]
+    },
+    {
+      "Name": "Buspirone",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "10mg"
+        }
+      ],
+      "Sources": ["Hexal Busp® 10mg tablets"]
+    },
+    {
+      "Name": "Ketamine",
+      "Indication": "{icd 'F33'}",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "15-100mg"
+        }
+      ],
+      "Effects": [
+        "{xeff 'auditory-distortion'}; music sounds different",
+        "{xeff 'environmental-cubism'}/{xeff 'visual-stretching'}; it felt like my door was moving with music",
+        "{xeff 'perspective-hallucination'}; allowed me to reflect on my life from a different perspective",
+        "{xeff 'tactile-suppression'} + {xeff 'pain-relief'}",
+        "{xeff 'increased-sense-of-humor'}",
+        "{sev 'moderate'} {xeff 'anxiety-suppression'}",
+        "{sev 'moderate'} {xeff 'motivation-enhancement'} and {xeff 'depression-reduction'} in the days after using {sub 'Ketamine'}"
+      ],
+      "Adverse": [
+        "{xeff 'nausea'} when consumed in high doses",
+        "{wkp 'Vomiting'}",
+        "{xeff 'thought-deceleration'}, {xeff 'confusion'}, {xeff 'analysis-suppression'}; sometimes feeling stupid"
+      ],
+      "Sources": ["S-Ketamine: DNM Germany"]
+    },
+    {
+      "Name": "Nitrous oxide",
+      "Routes": [
+        {
+          "Name": "inhaled"
+        }
+      ],
+      "Effects": [
+        "{xeff 'tactile-suppression'}",
+        "{xeff 'perspective-hallucination'}; allowed me to reflect on my life from a different perspective",
+        "{xeff 'increased-sense-of-humor'}",
+        "{xeff 'auditory-distortion'}",
+        "{xeff 'time-distortion'}"
+      ],
+      "Adverse": ["{xeff 'thought-deceleration'} after use"],
+      "Sources": [
+        "Corner shop (Frankfurt Bahnhofviertel): Exotic Whip",
+        "Ja! Sprühsahne"
+      ]
+    },
+    {
+      "Name": "Isopropyl nitrite",
+      "Routes": [
+        {
+          "Name": "inhaled"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'increased-heart-rate'}",
+        "{sev 'light'} {xeff 'cognitive-euphoria'}"
+      ],
+      "Adverse": ["{sev 'moderate'} {xeff 'headache'}"],
+      "Sources": ["self synthesized at home"]
+    },
+    {
+      "Name": "Cannabidiol",
+      "Routes": [
+        {
+          "Name": "Oral"
+        },
+        {
+          "Name": "smoked"
+        }
+      ],
+      "Effects": ["{xeff 'headache'}", "{xeff 'analysis-suppression'}"]
+    },
+    {
+      "Name": "1-Propanoyl-lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "sublingual",
+          "Dosage": "50μg"
+        }
+      ]
+    },
+    {
+      "Name": "1-(3-(Trimethylsilyl)propionyl)-lysergic acid diethylamide",
+      "Routes": [
+        {
+          "Name": "sublingual",
+          "Dosage": "10-75μg"
+        }
+      ],
+      "Sources": ["Legel high store in Berlin, Germany"]
+    },
+    {
+      "Name": "Tryptophan",
+      "Indication": "{icd 'G47.0'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.5-2g"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'sedation'}",
+        "{sev 'moderate'} {xeff 'sleepiness'}"
+      ],
+      "Notes": ["Good natural sleep aid"],
+      "Sources": ["German Amazon"]
+    },
+    {
+      "Name": "Valerian",
+      "Composite": true,
+      "Notes": ["Unsure about the effects"]
+    },
+    {
+      "Name": "Magnesium",
+      "Salts": ["Carbonate", "Citrate", "Bisglycinate"],
+      "Routes": [
+        {
+          "Name": "oral"
+        }
+      ],
+      "Sources": ["Grocery store", "supplement shop (buxtrade)"]
+    },
+    {
+      "Name": "Taurine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "500mg-1g"
+        }
+      ],
+      "Sources": ["Bulk.com (supplement store)", "Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Oxitriptan",
+      "Indication": "{xeff 'depression'} and {xeff 'anxiety'} after {sub 'Mephedrone'} consumption",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "100mg"
+        }
+      ],
+      "Notes": ["Might improve wellbeing after {sub 'Mephedrone'} consumption"]
+    },
+    {
+      "Name": "Cannabis",
+      "Composite": true,
+      "Routes": [
+        {
+          "Name": "oral"
+        },
+        {
+          "Name": "smoked"
+        }
+      ],
+      "Sources": ["Found on the ground in Hamburg, Germany", "German pharmacy"]
+    },
+    {
+      "Name": "Melatonin",
+      "Indication": "{icd 'G47.0'}",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.3-100mg"
+        },
+        {
+          "Name": "sublingual",
+          "Dosage": "0.5-5mg"
+        },
+        {
+          "Name": "rectal",
+          "Dosage": "1.5mg"
+        },
+        {
+          "Name": "insufflated",
+          "Dosage": "7mg"
+        }
+      ],
+      "Effects": [
+        "{xeff 'sleepiness'}",
+        "{sev 'light'} {xeff 'sedation'}",
+        "{sev 'light'} {xeff 'decreased-libido'}"
+      ],
+      "Notes": [
+        "My favorite sleep aid, hangover is non existent and the availability is very good",
+        "Doses over 0.5mg make no sense",
+        "Seems to hit harder and faster rectally",
+        "Ineffective while on stimulants"
+      ],
+      "Sources": [
+        "German Amazon: Melatonin 0.5mg",
+        "ZzzQuil gummies",
+        "S3 Chemicals: Melatonin (min. 99%, Food Grade)",
+        "Polish pharmacy: Melatonin 5mg",
+        "Italian pharmacy",
+        "German pharmacy",
+        "Slovakian pharmacy: Melatonin 3mg"
+      ]
+    },
+    {
+      "Name": "Mebufotenin",
+      "Salts": ["Freebase"],
+      "Routes": [
+        {
+          "Name": "smoked"
+        }
+      ],
+      "Notes": ["vaped via a ceramic coil vape"],
+      "Sources": ["NL RC Vendor: 5-MeO-DMT"]
+    },
+    {
+      "Name": "N1-Tert-butoxycarbonyldimethyltryptamine",
+      "Routes": [
+        {
+          "Name": "smoked",
+          "Dosage": "20mg"
+        }
+      ],
+      "Effects": [
+        "Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'drifting'} {xeff 'colour-enhancement'}",
+        "{xeff 'mouth-numbing'}"
+      ],
+      "Notes": [
+        "Gets converted to {sub 'dimethyltryptamine'} under heat",
+        "Byproducts might cause local anaesthesia in the mouth when smoked",
+        "Felt more unhinged afterwards"
+      ]
+    },
+    {
+      "Name": "5-Methoxy-N,N-diisopropyltryptamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "6-6.7mg"
+        }
+      ],
+      "Effects": [
+        "{xeff 'drifting'}",
+        "{xeff 'stimulation'}",
+        "{xeff 'colour-enhancement'}",
+        "{sev 'light'} {xeff 'increased-libido'}",
+        "{xeff 'increased-sense-of-humor'}",
+        "{sev 'light'} {xeff 'appetite-suppression'}"
+      ],
+      "Sources": ["NL RC Vendor: 5-Meo-DIPT"]
+    },
+    {
+      "Name": "4-propionyloxy-N-methyl-N-ethyltryptamine",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20mg"
+        }
+      ],
+      "Effects": [
+        "{xeff 'drifting'}",
+        "{xeff 'geometry'}",
+        "{xeff 'colour-enhancement'}",
+        "{sev 'light'} {xeff 'stimulation'}"
+      ],
+      "Adverse": [
+        "{sev 'light'} {xeff 'nausea'} that fades away after the comeup"
+      ],
+      "Notes": ["Feels like 2CB but with more bodyload and longer duration"],
+      "Sources": ["NL RC Vendor: 4-PrO-MET"]
+    },
+    {
+      "Name": "N-(2-Methoxybenzyl)-5-methoxytryptamine",
+      "Salts": ["hydrochloride"],
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "20-40mg",
+          "Onset": "30 minutes",
+          "Comeup": "~1.5 hours",
+          "Duration": "~7 hours"
+        }
+      ],
+      "Effects": ["{sev 'moderate'} pleasant {xeff 'stimulation'}"],
+      "DEffects": [
+        {
+          "Condition": "open-eye visuals",
+          "Effects": [
+            "{sev 'strong'} {xeff 'colour-enhancement'}",
+            "{sev 'light'} {xeff 'chromatic-aberration'}",
+            "{sev 'strong'} {xeff 'Tracers'}",
+            "{sev 'moderate'} {xeff 'increased-pareidolia'}",
+            "{sev 'light'} {xeff 'visual-acuity-enhancement'}",
+            "{sev 'light'} {xeff 'drifting?s=melting' 'melting'}",
+            "seeing faces/cartoon art on on walls/the ground"
+          ]
+        },
+        {
+          "Condition": "closed-eye visuals",
+          "Effects": [
+            "{sev 'moderate'} {xeff 'internal-hallucination'}, mostly interesting 3D-Scenes, that can partly be controlled by the thought stream"
+          ]
+        },
+        {
+          "Condition": "cognetive effects",
+          "Effects": [
+            "{sev 'light'} {xeff 'cognitive-euphoria'}",
+            "feeling very relaxed",
+            "{sev 'strong'} {xeff 'increased-sense-of-humor'}; made fun of peoples drug consumption at a rave and laughed for multiple minutes about a guy wearing a Drachenlord T-Shirt walking into the {wkp 'McDonalds'}"
+          ]
+        }
+      ],
+      "Adverse": [
+        "{sev 'moderate'} {xeff 'motor-control-loss'}, (hands trembling) in higher doses; struggling with sorting capsules",
+        "{sev 'light'} {xeff 'muscle-tension'}",
+        "{sev 'light'} {xeff 'thought-deceleration'}",
+        "{sev 'light'} {xeff 'vasoconstriction'} (i think)",
+        "{sev 'light'} {xeff 'increased-blood-pressure'}",
+        "feels like i could have a {xeff 'seizure'} any moment"
+      ],
+      "Notes": [
+        "Very interesting closed eye visuals",
+        "Barely any {xeff 'anxiety'} red to other psychedelics"
+      ]
+    },
+    {
+      "Name": "2C-B-FLY",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "5-15mg"
+        }
+      ],
+      "Sources": ["NL RC Vendor: 2C-B-FLY 10 MG Pellets"]
+    },
+    {
+      "Name": "2,5-Dimethoxy-4-bromophenethylamine",
+      "Salts": ["hydrochloride", "hydrobromide"],
+      "Routes": [
+        {
+          "Name": "insufflated",
+          "Dosage": "9-11mg"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "10-30mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'motivation-enhancement'} in lower doses",
+        "{sev 'strong'} Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'tracers'} {xeff 'environmental-patterning'} {xeff 'drifting'} {xeff 'colour-enhancement'}",
+        "{xeff 'time-distortion'}"
+      ],
+      "DEffects": [
+        {
+          "Route": "Insufflated",
+          "Effects": ["{sev 'strong'} Nose Burn"]
+        }
+      ],
+      "Adverse": [
+        "{sev 'light'} {xeff 'anxiety'}",
+        "{wkp 'Vomiting'}",
+        "{sev 'moderate'} {xeff 'nausea'} that fades away after the comeup"
+      ],
+      "Notes": ["My favorite psychedelic"],
+      "Sources": [
+        "DNM Germany: 2-CB powder",
+        "DNM Germany: 2-CB 20mg rocket tablets"
+      ]
+    }
+  ]
 }

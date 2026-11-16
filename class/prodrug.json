@@ -3,31 +3,22 @@
   "Entries": [
     {
       "Title": "1-Valeryl-D-lysergic acid diethylamide",
-      "Abr": [
-        "1V-LSD",
-        "Valerie"
-      ],
+      "Abr": ["1V-LSD", "Valerie"],
       "MW": "407.5 g/mol"
     },
     {
       "Title": "Benzphetamine",
       "MW": "239.35 g/mol",
-      "Abr": [
-
-      ]
+      "Abr": []
     },
     {
       "Title": "Clobenzorex",
       "MW": "259.77 g/mol",
-      "Abr": [
-
-      ]
+      "Abr": []
     },
     {
       "Title": "Dimethylamphetamine",
-      "Abr": [
-        "Metrotonin"
-      ],
+      "Abr": ["Metrotonin"],
       "MW": "163.26 g/mol"
     },
     {
@@ -37,29 +28,21 @@
     },
     {
       "Title": "Butylamphetamine",
-      "Abr": [
-        "BA"
-      ],
+      "Abr": ["BA"],
       "MW": "191.31 g/mol"
     },
     {
       "Title": "Lisdexamphetamine",
-      "Abr": [
-        "Vyvanse"
-      ],
+      "Abr": ["Vyvanse"],
       "MW": "263.38 g/mol"
     },
     {
       "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxyamphetamine",
-      "Abr": [
-        "Lys-MDA"
-      ]
+      "Abr": ["Lys-MDA"]
     },
     {
       "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
-      "Abr": [
-        "Lys-MDMA"
-      ],
+      "Abr": ["Lys-MDMA"],
       "MW": "321.4 g/mol"
     },
     {
@@ -111,22 +94,16 @@
     {
       "Title": "Diethylpropion",
       "MW": "205.30 g/mol",
-      "Abr": [
-
-      ]
+      "Abr": []
     },
     {
       "Title": "Psilacetin",
-      "Abr": [
-        "4-AcO-DMT"
-      ],
+      "Abr": ["4-AcO-DMT"],
       "MW": "246.30 g/mol"
     },
     {
       "Title": "Baeocystin",
-      "Abr": [
-        "4-PO-NMT"
-      ],
+      "Abr": ["4-PO-NMT"],
       "MW": "270.22 g/mol"
     },
     {
@@ -136,23 +113,17 @@
     },
     {
       "Title": "Diacetylmorphine",
-      "Abr": [
-        "Heroin"
-      ],
+      "Abr": ["Heroin"],
       "MW": "369.4 g/mol"
     },
     {
       "Title": "Spironolactone",
       "MW": "416.6 g/mol",
-      "Abr": [
-
-      ]
+      "Abr": []
     },
     {
       "Title": "Estradiol enantate",
-      "Abr": [
-        "EEN"
-      ],
+      "Abr": ["EEN"],
       "MW": "384.6 g/mol"
     },
     {
@@ -161,44 +132,32 @@
     },
     {
       "Title": "Estradiol acetate",
-      "Abr": [
-        "EA"
-      ],
+      "Abr": ["EA"],
       "MW": "314.4 g/mol"
     },
     {
       "Title": "Estradiol benzoate",
-      "Abr": [
-        "EB"
-      ],
+      "Abr": ["EB"],
       "MW": "376.5 g/mol"
     },
     {
       "Title": "Estradiol cypionate",
-      "Abr": [
-        "EC"
-      ],
+      "Abr": ["EC"],
       "MW": "396.6 g/mol"
     },
     {
       "Title": "Estradiol dipropionate",
-      "Abr": [
-        "EDP"
-      ],
+      "Abr": ["EDP"],
       "MW": "384.5 g/mol"
     },
     {
       "Title": "Estradiol undecylate",
-      "Abr": [
-        "EU"
-      ],
+      "Abr": ["EU"],
       "MW": "440.7 g/mol"
     },
     {
       "Title": "Estradiol valerate",
-      "Abr": [
-        "EV"
-      ],
+      "Abr": ["EV"],
       "MW": "356.5 g/mol"
     }
   ]

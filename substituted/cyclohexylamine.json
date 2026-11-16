@@ -12,9 +12,7 @@
     },
     {
       "Title": "Benocyclidine",
-      "Abr": [
-        "BTCP"
-      ],
+      "Abr": ["BTCP"],
       "MW": "299.5 g/mol"
     },
     {
@@ -31,17 +29,11 @@
     }
   ],
   "Parent": "cycloalkylamine",
-  "Children": [
-
-  ],
+  "Children": [],
   "First": {
     "Title": "Cyclohexylamine",
     "Abr": "",
     "MW": "99.17 g/mol"
   },
-  "Analogues": [
-    "aniline",
-    "alkylbenzene",
-    "phenol"
-  ]
+  "Analogues": ["aniline", "alkylbenzene", "phenol"]
 }

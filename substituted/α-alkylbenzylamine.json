@@ -14,9 +14,7 @@
   ],
   "First": {
     "Title": "α-Methylbenzylamine",
-    "Abr": [
-      "α-PEA"
-    ],
+    "Abr": ["α-PEA"],
     "MW": "121.18 g/mol"
   },
   "Parent": "benzylamine",

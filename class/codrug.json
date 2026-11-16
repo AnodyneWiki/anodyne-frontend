@@ -3,22 +3,16 @@
   "Entries": [
     {
       "Title": "Lisdexamphetamine",
-      "Abr": [
-        "Vyvanse"
-      ],
+      "Abr": ["Vyvanse"],
       "MW": "263.38 g/mol"
     },
     {
       "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxyamphetamine",
-      "Abr": [
-        "Lys-MDA"
-      ]
+      "Abr": ["Lys-MDA"]
     },
     {
       "Title": "N-(L-Lysinamidyl)-3,4-methylenedioxymethamphetamine",
-      "Abr": [
-        "Lys-MDMA"
-      ],
+      "Abr": ["Lys-MDMA"],
       "MW": "321.4 g/mol"
     },
     {

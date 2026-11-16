@@ -3,23 +3,17 @@
   "Entries": [
     {
       "Title": "Methylnaphthidate",
-      "Abr": [
-        "HDMP-28"
-      ],
+      "Abr": ["HDMP-28"],
       "MW": "283.4 g/mol"
     },
     {
       "Title": "Ethylnaphthidate",
-      "Abr": [
-        "HDEP-28"
-      ],
+      "Abr": ["HDEP-28"],
       "MW": "297.4 g/mol"
     },
     {
       "Title": "Naphthylmetrazine",
-      "Abr": [
-        "PAL-704"
-      ],
+      "Abr": ["PAL-704"],
       "MW": "227.30 g/mol"
     },
     {

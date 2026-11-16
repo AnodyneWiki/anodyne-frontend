@@ -5,36 +5,22 @@
   "Entries": [
     {
       "Title": "Mescaline",
-      "Abr": [
-        "TMPEA"
-      ],
+      "Abr": ["TMPEA"],
       "MW": "211.26 g/mol"
     },
     {
       "Title": "Benzscaline",
-      "Abr": [
-        "4-BzlO-3,5-DMPEA",
-        "BZ"
-      ],
+      "Abr": ["4-BzlO-3,5-DMPEA", "BZ"],
       "MW": "287.35 g/mol"
     },
     {
       "Title": "Allylescaline",
-      "Abr": [
-        "AL"
-      ],
+      "Abr": ["AL"],
       "MW": "237.29 g/mol"
     }
   ],
-  "Parents": [
-    "phenethylamine",
-    "ether"
-  ],
-  "Analogues": [
-    "2,5-dimethoxyphenethylamine"
-  ],
-  "Children": [
-    "3,5-dimethoxyamphetamine"
-  ],
+  "Parents": ["phenethylamine", "ether"],
+  "Analogues": ["2,5-dimethoxyphenethylamine"],
+  "Children": ["3,5-dimethoxyamphetamine"],
   "Wikipedia": "Scaline"
 }

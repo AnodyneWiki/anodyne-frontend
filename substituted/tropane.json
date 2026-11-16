@@ -3,9 +3,7 @@
   "Entries": [
     {
       "Title": "Scopolamine",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "303.35 g/mol"
     },
     {
@@ -15,30 +13,20 @@
     },
     {
       "Title": "Butylscopolamine",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "360.5 g/mol"
     },
     {
       "Title": "Homatropine",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "275.34 g/mol"
     },
     {
       "Title": "Cocaine",
-      "Abr": [
-        "Coke"
-      ],
+      "Abr": ["Coke"],
       "MW": "303.35 g/mol"
     }
   ],
-  "Children": [
-    "phenyltropane"
-  ],
-  "Parents": [
-    "amine"
-  ]
+  "Children": ["phenyltropane"],
+  "Parents": ["amine"]
 }

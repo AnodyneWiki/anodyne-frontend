@@ -92,7 +92,5 @@
     "MW": "168.19 g/mol"
   },
   "Parent": "tryptamine",
-  "Analogues": [
-    "hexahydroazepinoindole"
-  ]
+  "Analogues": ["hexahydroazepinoindole"]
 }

@@ -233,16 +233,12 @@
     },
     {
       "Title": "γ-Hydroxybutyric acid",
-      "Abr": [
-        "GHB"
-      ],
+      "Abr": ["GHB"],
       "MW": "104.10 g/mol"
     },
     {
       "Title": "γ-Butyrolactone",
-      "Abr": [
-        "GBL"
-      ],
+      "Abr": ["GBL"],
       "MW": "86.09 g/mol"
     }
   ]

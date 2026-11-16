@@ -1,8 +1,6 @@
 {
   "Title": "magnus",
-  "Name": [
-    "Magnus"
-  ],
+  "Name": ["Magnus"],
   "About": "{p}Hiii, I‘m Magnus, chill and helpful guy, always looking forward to new experiences.{Ep}{p}If you have any questions feel free to ask for anything, I like giving advice, if your question is in my power to answer, or just chat if you want to :){Ep}",
   "Birth": "2003-08",
   "Deceased": "2025-09",
@@ -269,14 +267,8 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "freebase",
-        "benzoate"
-      ],
-      "Effects": [
-        "{xeff 'wakefulness'}",
-        "{sev 'light'} {xeff 'stimulation'}"
-      ],
+      "Salts": ["freebase", "benzoate"],
+      "Effects": ["{xeff 'wakefulness'}", "{sev 'light'} {xeff 'stimulation'}"],
       "Notes": "smoked, vaped, snus"
     },
     {
@@ -287,13 +279,8 @@
           "Dosage": "400mg"
         }
       ],
-      "Salts": [
-        "freebase"
-      ],
-      "Effects": [
-        "{xeff 'wakefulness'}",
-        "{sev 'light'} {xeff 'stimulation'}"
-      ],
+      "Salts": ["freebase"],
+      "Effects": ["{xeff 'wakefulness'}", "{sev 'light'} {xeff 'stimulation'}"],
       "Notes": ""
     },
     {
@@ -316,9 +303,7 @@
           "Name": "Insufflation"
         }
       ],
-      "Salts": [
-        "sulfate"
-      ],
+      "Salts": ["sulfate"],
       "Effects": [
         "{xeff 'focus enhancement'}",
         "{xeff 'increased music appreciation'}",
@@ -337,9 +322,7 @@
           "Dosage": "70mg"
         }
       ],
-      "Salts": [
-        "dimesylate"
-      ],
+      "Salts": ["dimesylate"],
       "Effects": [
         "very good {xeff 'focus enhancement'}",
         "{xeff 'increased music appreciation'}",
@@ -360,9 +343,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Notes": "very close to {sub 'dextroamphetamine'}"
     },
     {
@@ -375,9 +356,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "hydrochloride"
-      ],
+      "Salts": ["hydrochloride"],
       "Effects": [
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
         "{sev 'strong'} {xeff 'empathy, affection, and sociability enhancement'} and strong feeling of love",
@@ -399,9 +378,7 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [
-        "succinate"
-      ],
+      "Salts": ["succinate"],
       "Effects": [
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
         "{xeff 'empathy, affection, and sociability enhancement'}",
@@ -444,9 +421,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{sev 'light'} {xeff 'empathy, affection, and sociability enhancement'}",
         "{xeff 'focus enhancement'}",
@@ -468,12 +443,8 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
-      "Effects": [
-        "{sev 'light'} {xeff 'focus enhancement'}"
-      ],
+      "Salts": ["Hydrochloride"],
+      "Effects": ["{sev 'light'} {xeff 'focus enhancement'}"],
       "Notes": "over all a rather weak stim, underwhelming"
     },
     {
@@ -486,9 +457,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{xeff 'focus enhancement'}",
         "{xeff 'irritability'}",
@@ -506,12 +475,8 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "hydrochloride"
-      ],
-      "Effects": [
-        "{sev 'light'} {xeff 'focus enhancement'}"
-      ],
+      "Salts": ["hydrochloride"],
+      "Effects": ["{sev 'light'} {xeff 'focus enhancement'}"],
       "Notes": "disappointing; {sub 'caffeine' 'caffeine'}+"
     },
     {
@@ -524,9 +489,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "hydrochloride"
-      ],
+      "Salts": ["hydrochloride"],
       "Notes": "effects close to {sub 'methylphenidate' 'methylphenidat'} with lower potency and less clean, underwhelming"
     },
     {
@@ -539,9 +502,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "hydrochloride"
-      ],
+      "Salts": ["hydrochloride"],
       "Notes": [
         "{sub 'methylphenidate' 'methylphenidate'}'s big brother",
         "very similar pharmacological effects longer duration, higher potency more recreational",
@@ -556,9 +517,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "hydrochloride"
-      ],
+      "Salts": ["hydrochloride"],
       "Effects": [
         "{xeff 'cognitive euphoria'}",
         "{xeff 'empathy, affection, and sociability enhancement'}",
@@ -576,9 +535,7 @@
           "Name": "Insufflation"
         }
       ],
-      "Salts": [
-        "freebase"
-      ],
+      "Salts": ["freebase"],
       "Notes": [
         "very clean experience",
         "one of the best functional stimulants I've encountered",
@@ -608,9 +565,7 @@
           "Name": "Oral"
         }
       ],
-      "Salts": [
-        "tartrate"
-      ]
+      "Salts": ["tartrate"]
     },
     {
       "Name": "Zopiclone",
@@ -733,9 +688,7 @@
         }
       ],
       "Salts": [],
-      "Effects": [
-        "{sev 'light'} {xeff 'anxiety suppression'}"
-      ],
+      "Effects": ["{sev 'light'} {xeff 'anxiety suppression'}"],
       "Notes": "little effect"
     },
     {
@@ -1022,9 +975,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "hydrochloride"
-      ],
+      "Salts": ["hydrochloride"],
       "Notes": ""
     },
     {
@@ -1034,9 +985,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "hydrochloride"
-      ],
+      "Salts": ["hydrochloride"],
       "Notes": ""
     },
     {
@@ -1046,9 +995,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "hydrochloride"
-      ],
+      "Salts": ["hydrochloride"],
       "Notes": ""
     },
     {
@@ -1058,9 +1005,7 @@
           "Name": "Insufflated"
         }
       ],
-      "Salts": [
-        "hydrochloride"
-      ],
+      "Salts": ["hydrochloride"],
       "Notes": ""
     },
     {

@@ -3,9 +3,7 @@
   "Entries": [
     {
       "Title": "1-Butanoyl-d-lysergic acid diethylamide",
-      "Abr": [
-        "1B-LSD"
-      ],
+      "Abr": ["1B-LSD"],
       "MW": "393.5 g/mol"
     },
     {
@@ -15,10 +13,7 @@
     },
     {
       "Title": "Lysergic acid diethylamide",
-      "Abr": [
-        "LSD",
-        "LSD-25"
-      ],
+      "Abr": ["LSD", "LSD-25"],
       "MW": "323.4 g/mol"
     },
     {
@@ -33,140 +28,92 @@
     },
     {
       "Title": "Ergonovine",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "325.4 g/mol"
     },
     {
       "Title": "Ergocornine",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "561.7 g/mol"
     },
     {
       "Title": "2-Bromolysergic acid diethylamide",
-      "Abr": [
-        "2-Br-LSD"
-      ],
+      "Abr": ["2-Br-LSD"],
       "MW": "402.3 g/mol"
     },
     {
       "Title": "Cabergoline",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "451.6 g/mol"
     },
     {
       "Title": "1-Valeryl-D-lysergic acid diethylamide",
-      "Abr": [
-        "1V-LSD",
-        "Valerie"
-      ],
+      "Abr": ["1V-LSD", "Valerie"],
       "MW": "407.5 g/mol"
     },
     {
       "Title": "Lysergic acid fluorodiethylamide",
-      "Abr": [
-        "F-LSD"
-      ],
+      "Abr": ["F-LSD"],
       "MW": "341.4 g/mol"
     },
     {
       "Title": "Lysergic acid dimethylamide",
-      "Abr": [
-        "DAM",
-        "DAM-57"
-      ],
+      "Abr": ["DAM", "DAM-57"],
       "MW": "295.4 g/mol"
     },
     {
       "Title": "Lysergic acid methylamide",
-      "Abr": [
-        "LAM",
-        "NM-LA"
-      ],
+      "Abr": ["LAM", "NM-LA"],
       "MW": "281.35 g/mol"
     },
     {
       "Title": "6-Allyl-6-norlysergic acid diethylamide",
-      "Abr": [
-        "AL-LAD",
-        "ALLAD"
-      ],
+      "Abr": ["AL-LAD", "ALLAD"],
       "MW": "349.5 g/mol"
     },
     {
       "Title": "N1-(Cyclopropylmethanoyl)-lysergic acid diethylamide",
-      "Abr": [
-        "1cP-LSD"
-      ],
+      "Abr": ["1cP-LSD"],
       "MW": "391.5 g/mol"
     },
     {
       "Title": "1-(3-(Trimethylsilyl)propionyl)-lysergic acid diethylamide",
-      "Abr": [
-        "1S-LSD"
-      ],
+      "Abr": ["1S-LSD"],
       "MW": "451.7 g/mol"
     },
     {
       "Title": "1-Propanoyl-lysergic acid diethylamide",
-      "Abr": [
-        "1P-LSD"
-      ],
+      "Abr": ["1P-LSD"],
       "MW": "379.5 g/mol"
     },
     {
       "Title": "1-(Ferrocenecarbonyl)-lysergic acid diethylamide",
-      "Abr": [
-        "1Fe-LSD"
-      ],
+      "Abr": ["1Fe-LSD"],
       "MW": "535.5 g/mol"
     },
     {
       "Title": "Ergine",
-      "Abr": [
-        "LAA",
-        "LA-111"
-      ],
+      "Abr": ["LAA", "LA-111"],
       "MW": "267.33 g/mol"
     },
     {
       "Title": "Lysergic acid ethylamide",
-      "Abr": [
-        "LAE",
-        "LAE-32"
-      ],
+      "Abr": ["LAE", "LAE-32"],
       "MW": "295.4 g/mol"
     },
     {
       "Title": "Lysergic acid dipropylamide",
-      "Abr": [
-        "LSDP",
-        "LSDPr",
-        "LADP",
-        "LPP",
-        "DPL"
-      ],
+      "Abr": ["LSDP", "LSDPr", "LADP", "LPP", "DPL"],
       "MW": "351.5 g/mol"
     },
     {
       "Title": "Lysergic acid diallylamide",
-      "Abr": [
-        "LDA",
-        "DAL"
-      ],
+      "Abr": ["LDA", "DAL"],
       "MW": "347.5 g/mol"
     },
     {
       "Title": "Lysergic acid 2,4-dimethylazetidide",
-      "Abr": [
-        "LSZ",
-        "LA-Az"
-      ],
+      "Abr": ["LSZ", "LA-Az"],
       "MW": "335.4 g/mol"
     }
   ],

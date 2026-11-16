@@ -83,10 +83,7 @@
     },
     {
       "Title": "Ketamine",
-      "Abr": [
-        "2-Cl-2'-Oxo-PCM",
-        "K"
-      ],
+      "Abr": ["2-Cl-2'-Oxo-PCM", "K"],
       "MW": "237.72 g/mol"
     },
     {
@@ -123,10 +120,7 @@
     },
     {
       "Title": "Oxaflozane",
-      "Abr": [
-        "CERM-1766",
-        "1766-CERM"
-      ],
+      "Abr": ["CERM-1766", "1766-CERM"],
       "MW": "273.29 g/mol"
     },
     {
@@ -167,9 +161,7 @@
     }
   ],
   "Subjective Effects": {
-    "Visual Effects": [
-      "Visual acuity suppression"
-    ],
+    "Visual Effects": ["Visual acuity suppression"],
     "Cognitive Effects": [
       "Analysis enhancement",
       "Emotion intensification",

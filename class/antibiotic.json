@@ -4,16 +4,12 @@
     {
       "Title": "Clindamycin",
       "MW": "425.0 g/mol",
-      "Abr": [
-
-      ]
+      "Abr": []
     },
     {
       "Title": "Tyrothricin",
       "MW": "1228.4 g/mol",
-      "Abr": [
-
-      ]
+      "Abr": []
     },
     {
       "Title": "Isoniazid",
@@ -22,9 +18,7 @@
     {
       "Title": "Doxycycline",
       "MW": "444.4 g/mol",
-      "Abr": [
-
-      ]
+      "Abr": []
     },
     {
       "Title": "Benzylpenicillin",
@@ -50,9 +44,7 @@
     },
     {
       "Title": "Clavulanic acid",
-      "Abr": [
-        "RX-10100"
-      ]
+      "Abr": ["RX-10100"]
     }
   ]
 }

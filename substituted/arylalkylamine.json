@@ -58,11 +58,6 @@
     "phenylpropylamine",
     "thiopropamine"
   ],
-  "Analogues": [
-    "annulenylalkylamine",
-    "cycloalkylamine"
-  ],
-  "Parents": [
-   "amine"
-  ]
+  "Analogues": ["annulenylalkylamine", "cycloalkylamine"],
+  "Parents": ["amine"]
 }

@@ -28,9 +28,7 @@
     },
     {
       "Title": "Pentobarbital",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "226.27 g/mol"
     },
     {
@@ -50,9 +48,7 @@
     },
     {
       "Title": "Talbutal",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "224.26 g/mol"
     },
     {
@@ -66,11 +62,6 @@
     "Abr": "",
     "MW": "184.19 g/mol"
   },
-  "Analogues": [
-    "thiobarbiturate"
-  ],
-  "Parents": [
-    "amine",
-    "ketone"
-  ]
+  "Analogues": ["thiobarbiturate"],
+  "Parents": ["amine", "ketone"]
 }

@@ -68,10 +68,7 @@
     },
     {
       "Title": "Propentofylline",
-      "Abr": [
-        "HWA 285",
-        "HWA-285"
-      ],
+      "Abr": ["HWA 285", "HWA-285"],
       "MW": "306.36 g/mol"
     },
     {
@@ -81,7 +78,5 @@
     }
   ],
   "Wikipedia": "Xanthine",
-  "Parents": [
-    "amine"
-  ]
+  "Parents": ["amine"]
 }

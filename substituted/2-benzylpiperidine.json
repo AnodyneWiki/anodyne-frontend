@@ -3,9 +3,7 @@
   "Entries": [
     {
       "Title": "2-Benzylpiperidine",
-      "Abr": [
-        "2-BZPD"
-      ],
+      "Abr": ["2-BZPD"],
       "MW": "175.27 g/mol"
     },
     {
@@ -15,9 +13,7 @@
     },
     {
       "Title": "Desoxypipradrol",
-      "Abr": [
-        "2-DPMP"
-      ],
+      "Abr": ["2-DPMP"],
       "MW": "251.4 g/mol"
     },
     {
@@ -52,16 +48,12 @@
     },
     {
       "Title": "AL-1095",
-      "Abr": [
-        "AL-1095"
-      ],
+      "Abr": ["AL-1095"],
       "MW": "327.8 g/mol"
     },
     {
       "Title": "2-Benzoylpiperidine",
-      "Abr": [
-        "2-BZOPD"
-      ],
+      "Abr": ["2-BZOPD"],
       "MW": "189.25 g/mol"
     },
     {
@@ -81,23 +73,17 @@
     },
     {
       "Title": "N-Phenethylnoroxymorphone",
-      "Abr": [
-        "PHM"
-      ],
+      "Abr": ["PHM"],
       "MW": "391.5 g/mol"
     },
     {
       "Title": "Dextromethorphan",
-      "Abr": [
-        "DXM"
-      ],
+      "Abr": ["DXM"],
       "MW": "271.4 g/mol"
     },
     {
       "Title": "Levomethorphan",
-      "Abr": [
-        "LVM"
-      ],
+      "Abr": ["LVM"],
       "MW": "271.4 g/mol"
     },
     {
@@ -177,13 +163,8 @@
       "MW": "357.4 g/mol"
     }
   ],
-  "Children": [
-    "phenidate"
-  ],
-  "Parents": [
-    "piperidine",
-    "amphetamine"
-  ],
+  "Children": ["phenidate"],
+  "Parents": ["piperidine", "amphetamine"],
   "Analogues": [
     "3-benzylmorpholine",
     "2-benzylpyrrolidine",

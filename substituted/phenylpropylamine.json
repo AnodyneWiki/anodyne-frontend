@@ -3,16 +3,12 @@
   "Entries": [
     {
       "Title": "3,4-Methylenedioxy-3-methylaminobutane",
-      "Abr": [
-        "Homo-MDMA"
-      ],
+      "Abr": ["Homo-MDMA"],
       "MW": "207.27 g/mol"
     },
     {
       "Title": "3,4-Methylenedioxyphenylaminobutane",
-      "Abr": [
-        "Homo-MDA"
-      ],
+      "Abr": ["Homo-MDA"],
       "MW": "193.24 g/mol"
     },
     {
@@ -22,16 +18,12 @@
     },
     {
       "Title": "7-Amino-6,7,8,9-tetrahydro-5H-benzocycloheptene",
-      "Abr": [
-        "7-AB"
-      ],
+      "Abr": ["7-AB"],
       "MW": "161.24 g/mol"
     },
     {
       "Title": "1-(2-Benzhydryloxyethyl)-4-(3-phenylpropyl)piperazine",
-      "Abr": [
-        "GBR-12935"
-      ],
+      "Abr": ["GBR-12935"],
       "MW": "414.6 g/mol"
     },
     {
@@ -41,17 +33,12 @@
     },
     {
       "Title": "Methiodone",
-      "Abr": [
-        "IC-26",
-        "WIN 1161-3"
-      ],
+      "Abr": ["IC-26", "WIN 1161-3"],
       "MW": "345.5 g/mol"
     },
     {
       "Title": "Tapentadol",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "221.34 g/mol"
     },
     {
@@ -66,10 +53,7 @@
     },
     {
       "Title": "Desmetramadol",
-      "Abr": [
-        "Desmetramadol",
-        "O-DSMT"
-      ],
+      "Abr": ["Desmetramadol", "O-DSMT"],
       "MW": "249.35 g/mol"
     },
     {
@@ -78,16 +62,12 @@
     },
     {
       "Title": "3-(4-{2-[Bis(4-fluorophenyl)methoxy]ethyl}-1-piperazinyl)-1-phenylpropyl decanoate",
-      "Abr": [
-        "DBL-583"
-      ],
+      "Abr": ["DBL-583"],
       "MW": "620.8 g/mol"
     },
     {
       "Title": "TCB-2",
-      "Abr": [
-        "TCB-2"
-      ],
+      "Abr": ["TCB-2"],
       "MW": "272.14 g/mol"
     },
     {
@@ -104,37 +84,27 @@
     },
     {
       "Title": "Iometopane",
-      "Abr": [
-        "RTI-55"
-      ],
+      "Abr": ["RTI-55"],
       "MW": "385.24 g/mol"
     },
     {
       "Title": "2-β-Carbomethoxy-3-β-(4-fluorophenyl)tropane",
-      "Abr": [
-        "WIN-35428"
-      ],
+      "Abr": ["WIN-35428"],
       "MW": "277.33 g/mol"
     },
     {
       "Title": "Dichloropane",
-      "Abr": [
-        "RTI-111"
-      ],
+      "Abr": ["RTI-111"],
       "MW": "314.2 g/mol"
     },
     {
       "Title": "2β-Carbomethoxy-3β-(3-methyl-4-chlorophenyl)tropane",
-      "Abr": [
-        "RTI-112"
-      ],
+      "Abr": ["RTI-112"],
       "MW": "307.8 g/mol"
     },
     {
       "Title": "2β-Carboisopropoxy-3β-(4-iodophenyl)tropane",
-      "Abr": [
-        "RTI-121"
-      ],
+      "Abr": ["RTI-121"],
       "MW": "413.3 g/mol"
     },
     {
@@ -175,9 +145,7 @@
     },
     {
       "Title": "Desmethylprodine",
-      "Abr": [
-        "MPPP"
-      ],
+      "Abr": ["MPPP"],
       "MW": "247.33 g/mol"
     },
     {
@@ -194,10 +162,7 @@
     },
     {
       "Title": "Chlorphenamine",
-      "Abr": [
-        "CP",
-        "CPM"
-      ],
+      "Abr": ["CP", "CPM"],
       "MW": "274.79 g/mol"
     },
     {
@@ -222,9 +187,7 @@
     },
     {
       "Title": "1-Methyl-4-phenyl-1,2,3,6-tetrahydropyridine",
-      "Abr": [
-        "MPP+"
-      ],
+      "Abr": ["MPP+"],
       "MW": "173.25 g/mol"
     },
     {
@@ -233,10 +196,7 @@
     }
   ],
   "Parent": "arylalkylamine",
-  "Children": [
-    "1-aminoindane",
-    "tryptamine"
-  ],
+  "Children": ["1-aminoindane", "tryptamine"],
   "First": {
     "Title": "Phenylpropylamine",
     "Abr": "",

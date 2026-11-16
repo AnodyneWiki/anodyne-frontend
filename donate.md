@@ -3,6 +3,7 @@
 If you enjoy this project and have the means, consider donating to keep us afloat.
 
 ### Usage
+
 - Hosting costs
 - Domain registration
 - Instant noodles for developers

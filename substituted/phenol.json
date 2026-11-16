@@ -3,16 +3,12 @@
   "Entries": [
     {
       "Title": "Bisphenol A",
-      "Abr": [
-        "BPA"
-      ],
+      "Abr": ["BPA"],
       "MW": "228.29 g/mol"
     },
     {
       "Title": "Bisphenol S",
-      "Abr": [
-        "BPS"
-      ],
+      "Abr": ["BPS"],
       "MW": "250.27 g/mol"
     },
     {
@@ -32,16 +28,12 @@
     },
     {
       "Title": "Bisphenol A diglycidyl ether",
-      "Abr": [
-        "BADGE"
-      ],
+      "Abr": ["BADGE"],
       "MW": "340.4 g/mol"
     },
     {
       "Title": "Bisphenol AF",
-      "Abr": [
-        "BPAF"
-      ],
+      "Abr": ["BPAF"],
       "MW": "336.23 g/mol"
     },
     {
@@ -51,16 +43,12 @@
     },
     {
       "Title": "Bisphenol F diglycidyl ether",
-      "Abr": [
-        "BFDGE"
-      ],
+      "Abr": ["BFDGE"],
       "MW": "312.4 g/mol"
     },
     {
       "Title": "3,4-Dihydroxyphenylacetaldehyde",
-      "Abr": [
-        "DOPAL"
-      ],
+      "Abr": ["DOPAL"],
       "MW": "152.15 g/mol"
     },
     {
@@ -94,9 +82,7 @@
     },
     {
       "Title": "Acetylsalicylic acid",
-      "Abr": [
-        "ASA"
-      ],
+      "Abr": ["ASA"],
       "MW": "180.16 g/mol"
     },
     {
@@ -109,9 +95,7 @@
     },
     {
       "Title": "Benzofuranylpropylaminopentane",
-      "Abr": [
-        "BPAP"
-      ],
+      "Abr": ["BPAP"],
       "MW": "245.36 g/mol"
     },
     {
@@ -120,128 +104,92 @@
     },
     {
       "Title": "Cannabidiol",
-      "Abr": [
-        "CBD"
-      ],
+      "Abr": ["CBD"],
       "MW": "314.5 g/mol"
     },
     {
       "Title": "Δ-8-tetrahydrocannabinol",
-      "Abr": [
-        "Δ-8-THC"
-      ],
+      "Abr": ["Δ-8-THC"],
       "MW": "314.5 g/mol"
     },
     {
       "Title": "Δ-9-tetrahydrocannabinol",
-      "Abr": [
-        "THC"
-      ],
+      "Abr": ["THC"],
       "MW": "314.5 g/mol"
     },
     {
       "Title": "Hexahydrocannabinol",
-      "Abr": [
-        "HHC"
-      ],
+      "Abr": ["HHC"],
       "MW": "316.5 g/mol"
     },
     {
       "Title": "10-Hydroxyhexahydrocannabinol",
-      "Abr": [
-        "10-OH-HHC"
-      ],
+      "Abr": ["10-OH-HHC"],
       "MW": "332.5 g/mol"
     },
     {
       "Title": "Estrone",
-      "Abr": [
-        "E1"
-      ],
+      "Abr": ["E1"],
       "MW": "270.4 g/mol"
     },
     {
       "Title": "Estradiol",
-      "Abr": [
-        "E2"
-      ],
+      "Abr": ["E2"],
       "MW": "272.4 g/mol"
     },
     {
       "Title": "Estradiol acetate",
-      "Abr": [
-        "EA"
-      ],
+      "Abr": ["EA"],
       "MW": "314.4 g/mol"
     },
     {
       "Title": "Estradiol benzoate",
-      "Abr": [
-        "EB"
-      ],
+      "Abr": ["EB"],
       "MW": "376.5 g/mol"
     },
     {
       "Title": "Estradiol cypionate",
-      "Abr": [
-        "EC"
-      ],
+      "Abr": ["EC"],
       "MW": "396.6 g/mol"
     },
     {
       "Title": "Estradiol dipropionate",
-      "Abr": [
-        "EDP"
-      ],
+      "Abr": ["EDP"],
       "MW": "384.5 g/mol"
     },
     {
       "Title": "Estradiol enantate",
-      "Abr": [
-        "EEN"
-      ],
+      "Abr": ["EEN"],
       "MW": "384.6 g/mol"
     },
     {
       "Title": "Estradiol undecylate",
-      "Abr": [
-        "EU"
-      ],
+      "Abr": ["EU"],
       "MW": "440.7 g/mol"
     },
     {
       "Title": "Estradiol valerate",
-      "Abr": [
-        "EV"
-      ],
+      "Abr": ["EV"],
       "MW": "356.5 g/mol"
     },
     {
       "Title": "Estradiol butyrylacetate",
-      "Abr": [
-        "EBA"
-      ],
+      "Abr": ["EBA"],
       "MW": "384.5 g/mol"
     },
     {
       "Title": "Estradiol dibutyrate",
-      "Abr": [
-        "EDBu"
-      ],
+      "Abr": ["EDBu"],
       "MW": "412.6 g/mol"
     },
     {
       "Title": "Estradiol dienantate",
-      "Abr": [
-        "EDE"
-      ],
+      "Abr": ["EDE"],
       "MW": "496.7 g/mol"
     },
     {
       "Title": "Estradiol diundecylate",
-      "Abr": [
-        "EDE"
-      ],
+      "Abr": ["EDE"],
       "MW": "608.9 g/mol"
     },
     {
@@ -250,9 +198,7 @@
     },
     {
       "Title": "Estradiol furoate",
-      "Abr": [
-        "EF"
-      ],
+      "Abr": ["EF"],
       "MW": "366.4 g/mol"
     },
     {
@@ -261,65 +207,47 @@
     },
     {
       "Title": "Estradiol hexahydrobenzoate",
-      "Abr": [
-        "EHHB"
-      ],
+      "Abr": ["EHHB"],
       "MW": "382.5 g/mol"
     },
     {
       "Title": "Estradiol phenylpropionate",
-      "Abr": [
-        "EPP"
-      ],
+      "Abr": ["EPP"],
       "MW": "404.5 g/mol"
     },
     {
       "Title": "Estradiol pivalate",
-      "Abr": [
-        "E2-TMA"
-      ],
+      "Abr": ["E2-TMA"],
       "MW": "356.5 g/mol"
     },
     {
       "Title": "Estradiol propionate",
-      "Abr": [
-        "EP"
-      ],
+      "Abr": ["EP"],
       "MW": "328.4 g/mol"
     },
     {
       "Title": "Estradiol propoxyphenylpropionate",
-      "Abr": [
-        "EPPP"
-      ],
+      "Abr": ["EPPP"],
       "MW": "462.6 g/mol"
     },
     {
       "Title": "Estradiol sulfate",
-      "Abr": [
-        "E2S"
-      ],
+      "Abr": ["E2S"],
       "MW": "370.5 g/mol"
     },
     {
       "Title": "Estradiol sulfamate",
-      "Abr": [
-        "E2MATE"
-      ],
+      "Abr": ["E2MATE"],
       "MW": "351.5 g/mol"
     },
     {
       "Title": "Estriol",
-      "Abr": [
-        "E3"
-      ],
+      "Abr": ["E3"],
       "MW": "288.4 g/mol"
     },
     {
       "Title": "Estetrol",
-      "Abr": [
-        "E4"
-      ],
+      "Abr": ["E4"],
       "MW": "304.4 g/mol"
     },
     {
@@ -344,23 +272,17 @@
     },
     {
       "Title": "16α-Lactone-estradiol",
-      "Abr": [
-        "16α-LE2"
-      ],
+      "Abr": ["16α-LE2"],
       "MW": "328.4 g/mol"
     },
     {
       "Title": "8β-Vinylestradiol",
-      "Abr": [
-        "8β-VE2"
-      ],
+      "Abr": ["8β-VE2"],
       "MW": "298.4 g/mol"
     },
     {
       "Title": "Ethinylestradiol",
-      "Abr": [
-        "EE"
-      ],
+      "Abr": ["EE"],
       "MW": "296.4 g/mol"
     },
     {
@@ -385,16 +307,12 @@
     },
     {
       "Title": "Diethylstilbestrol",
-      "Abr": [
-        "DES"
-      ],
+      "Abr": ["DES"],
       "MW": "268.3 g/mol"
     },
     {
       "Title": "Diarylpropionitrile",
-      "Abr": [
-        "DPN"
-      ],
+      "Abr": ["DPN"],
       "MW": "239.27 g/mol"
     },
     {
@@ -471,9 +389,7 @@
     },
     {
       "Title": "Resiniferatoxin",
-      "Abr": [
-        "RTX"
-      ],
+      "Abr": ["RTX"],
       "MW": "628.7 g/mol"
     },
     {
@@ -486,23 +402,17 @@
     },
     {
       "Title": "2,4-Dichlorophenoxyacetic acid",
-      "Abr": [
-        "2,4-D"
-      ],
+      "Abr": ["2,4-D"],
       "MW": "221.03 g/mol"
     },
     {
       "Title": "2,4,5-Trichlorophenoxyacetic acid",
-      "Abr": [
-        "2,4,5-T"
-      ],
+      "Abr": ["2,4,5-T"],
       "MW": "255.5 g/mol"
     },
     {
       "Title": "2,3,7,8-Tetrachlorodibenzodioxin",
-      "Abr": [
-        "TCDD"
-      ],
+      "Abr": ["TCDD"],
       "MW": "322.0 g/mol"
     },
     {
@@ -516,9 +426,5 @@
     "MW": "94.11 g/mol"
   },
   "Parent": "alcohol",
-  "Analogues": [
-    "alkylbenzene",
-    "aniline",
-    "cyclohexylamine"
-  ]
+  "Analogues": ["alkylbenzene", "aniline", "cyclohexylamine"]
 }

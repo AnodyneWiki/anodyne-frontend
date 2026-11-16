@@ -23,10 +23,7 @@
     },
     {
       "Title": "3,4-Dihydroxyphenylalanine",
-      "Abr": [
-        "DOPA",
-        "L-DOPA"
-      ],
+      "Abr": ["DOPA", "L-DOPA"],
       "MW": "197.19 g/mol"
     },
     {
@@ -56,9 +53,7 @@
     },
     {
       "Title": "Phenylalanine",
-      "Abr": [
-        "Phe"
-      ],
+      "Abr": ["Phe"],
       "MW": "165.19 g/mol"
     },
     {
@@ -78,9 +73,7 @@
     },
     {
       "Title": "Histidine",
-      "Abr": [
-        "His"
-      ],
+      "Abr": ["His"],
       "MW": "155.15 g/mol"
     },
     {
@@ -120,9 +113,7 @@
     },
     {
       "Title": "Methionine",
-      "Abr": [
-        "Met"
-      ],
+      "Abr": ["Met"],
       "MW": "149.21 g/mol"
     },
     {
@@ -147,9 +138,7 @@
     },
     {
       "Title": "Threonine",
-      "Abr": [
-        "Thr"
-      ],
+      "Abr": ["Thr"],
       "MW": "119.12 g/mol"
     },
     {
@@ -164,9 +153,7 @@
     },
     {
       "Title": "Acetylcysteine",
-      "Abr": [
-        "NAC"
-      ],
+      "Abr": ["NAC"],
       "MW": "163.20 g/mol"
     },
     {
@@ -260,11 +247,6 @@
     "Abr": "Ala",
     "MW": "89.09 g/mol"
   },
-  "Parents": [
-    "amine",
-    "carboxylic acid"
-  ],
-  "Children": [
-    "gabapentinoid"
-  ]
+  "Parents": ["amine", "carboxylic acid"],
+  "Children": ["gabapentinoid"]
 }

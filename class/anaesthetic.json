@@ -53,10 +53,7 @@
     },
     {
       "Title": "Ketamine",
-      "Abr": [
-        "2-Cl-2'-Oxo-PCM",
-        "K"
-      ],
+      "Abr": ["2-Cl-2'-Oxo-PCM", "K"],
       "MW": "237.72 g/mol"
     },
     {
@@ -106,9 +103,7 @@
     },
     {
       "Title": "Carbon tetrachloride",
-      "Abr": [
-        "Carbon tet"
-      ],
+      "Abr": ["Carbon tet"],
       "MW": "153.8 g/mol"
     }
   ]

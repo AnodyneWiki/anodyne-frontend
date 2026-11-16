@@ -4,9 +4,7 @@
   "Position": "4",
   "First": {
     "Title": "2,5-Dimethoxyphenethylamine",
-    "Abr": [
-      "2C-H"
-    ],
+    "Abr": ["2C-H"],
     "MW": "181.23 g/mol"
   },
   "Entries": [
@@ -17,9 +15,7 @@
     },
     {
       "Title": "2,5-Dimethoxy-4-bromophenethylamine",
-      "Abr": [
-        "2C-B"
-      ],
+      "Abr": ["2C-B"],
       "MW": "260.13 g/mol"
     },
     {
@@ -39,9 +35,7 @@
     },
     {
       "Title": "2,5-Dimethoxy-4-iodophenethylamine",
-      "Abr": [
-        "2C-I"
-      ],
+      "Abr": ["2C-I"],
       "MW": "307.13 g/mol"
     },
     {
@@ -71,9 +65,7 @@
     },
     {
       "Title": "2,4,5-Trimethoxyphenethylamine",
-      "Abr": [
-        "2C-O"
-      ],
+      "Abr": ["2C-O"],
       "MW": "211.26 g/mol"
     },
     {
@@ -163,27 +155,16 @@
     },
     {
       "Title": "Pentamethoxyphenethylamine",
-      "Abr": [
-        "PeMPEA"
-      ],
+      "Abr": ["PeMPEA"],
       "MW": "271.31 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-methylselenophenethylamine",
-      "Abr": [
-        "2C-Se"
-      ],
+      "Abr": ["2C-Se"],
       "MW": "274.23 g/mol"
     }
   ],
-  "Parents": [
-    "phenethylamine",
-    "ether"
-  ],
-  "Children": [
-    "2,5-dimethoxyamphetamine"
-  ],
-  "Analogues": [
-    "3,5-dimethoxyphenethylamine"
-  ]
+  "Parents": ["phenethylamine", "ether"],
+  "Children": ["2,5-dimethoxyamphetamine"],
+  "Analogues": ["3,5-dimethoxyphenethylamine"]
 }

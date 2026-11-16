@@ -1,15 +1,10 @@
 {
   "Title": "emily",
-  "Name": [
-    "emily",
-    "mira"
-  ],
+  "Name": ["emily", "mira"],
   "About": "I hate computers",
   "Birth": "2002-07",
   "Location": "Germany",
-  "Weight": [
-    "2025/26: ~73kg"
-  ],
+  "Weight": ["2025/26: ~73kg"],
   "Links": [
     {
       "Name": "Signal",
@@ -37,44 +32,23 @@
   "RoutesOfAdministration": [
     {
       "Name": "Inhaled",
-      "Paraphernalia": [
-        "Vaporizer",
-        "Cigarette",
-        "Ballon",
-        "Aluminium foil"
-      ],
-      "Sites": [
-        "Lungs"
-      ]
+      "Paraphernalia": ["Vaporizer", "Cigarette", "Ballon", "Aluminium foil"],
+      "Sites": ["Lungs"]
     },
     {
       "Name": "Subcutaneous",
-      "Paraphernalia": [
-        "Insulin pen",
-        "1ml syringe"
-      ],
-      "Sites": [
-        "Stomach"
-      ]
+      "Paraphernalia": ["Insulin pen", "1ml syringe"],
+      "Sites": ["Stomach"]
     },
     {
       "Name": "Intrarectal",
-      "Paraphernalia": [
-        "soft capsule",
-        "Suppository"
-      ],
-      "Sites": [
-        "Rectum"
-      ]
+      "Paraphernalia": ["soft capsule", "Suppository"],
+      "Sites": ["Rectum"]
     },
     {
       "Name": "Intramuscular",
-      "Paraphernalia": [
-        "1ml syringe"
-      ],
-      "Sites": [
-        "Vastus lateralis"
-      ]
+      "Paraphernalia": ["1ml syringe"],
+      "Sites": ["Vastus lateralis"]
     },
     {
       "Name": "Intranasal",
@@ -83,18 +57,12 @@
         "{wkp 'Trans_woman' 'Trans womans'} {wkp 'Breast' 'Breasts'}",
         "Nasalspray"
       ],
-      "Sites": [
-        "Nose"
-      ]
+      "Sites": ["Nose"]
     },
     {
       "Name": "Transdermal",
-      "Paraphernalia": [
-        "Gel"
-      ],
-      "Sites": [
-        "Lower arm"
-      ]
+      "Paraphernalia": ["Gel"],
+      "Sites": ["Lower arm"]
     },
     {
       "Name": "Oral",
@@ -106,9 +74,7 @@
         "Tablet",
         "Powder"
       ],
-      "Sites": [
-        "Mouth"
-      ]
+      "Sites": ["Mouth"]
     }
   ],
   "TriedSubstances": [
@@ -217,9 +183,7 @@
           "Duration": "~ 7-8 h"
         }
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{sev 'light'} to {sev 'moderate'} atypical {xeff 'stimulation'} compareable to {sub '2C-B'}",
         "{sev 'strong'} {xeff 'increased sense of humor'}",
@@ -533,9 +497,7 @@
       "Adverse": [
         "{sev 'strong'} {xeff 'nausea'} during the comedown lasting at least 6-7h after 3 doses 5mg subq"
       ],
-      "Notes": [
-        "sucks ass recreationally"
-      ]
+      "Notes": ["sucks ass recreationally"]
     },
     {
       "Name": "Oxycodone",
@@ -554,9 +516,7 @@
           "Dosage": "7.2mg"
         }
       ],
-      "Source": [
-        "Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"
-      ]
+      "Source": ["Crushed Tilidin AL comp. 200 mg/16 mg XR tablet"]
     },
     {
       "Name": "Tilidine",
@@ -674,9 +634,7 @@
         "{xeff 'sedation'}",
         "strange visual effects"
       ],
-      "Notes": [
-        "{sev 'light'} hangover"
-      ]
+      "Notes": ["{sev 'light'} hangover"]
     },
     {
       "Name": "Zopiclone",
@@ -975,12 +933,8 @@
           "Dosage": "50mg"
         }
       ],
-      "Source": [
-        "Quviviq 50mg tablet"
-      ],
-      "Indication": [
-        "{wkp 'Insomnia'}"
-      ],
+      "Source": ["Quviviq 50mg tablet"],
+      "Indication": ["{wkp 'Insomnia'}"],
       "Notes": [
         "uncertain activity but worth a try since the long term adverse effects seem to be a lot more tolerable compared to other sleeping medication"
       ]
@@ -1087,9 +1041,7 @@
           "Dosage": "1g"
         }
       ],
-      "Source": [
-        "Bulk.com (supplement store)"
-      ]
+      "Source": ["Bulk.com (supplement store)"]
     },
     {
       "Name": "Oxytocin",
@@ -1102,9 +1054,7 @@
           "Dosage": "125μg"
         }
       ],
-      "Notes": [
-        "uncertain activity"
-      ]
+      "Notes": ["uncertain activity"]
     },
     {
       "Name": "Amyl nitrite",
@@ -1149,489 +1099,373 @@
     },
     {
       "Name": "3-FPO",
-      "Salts": [
-            "hydrochloride"
-        ]
+      "Salts": ["hydrochloride"]
     },
     {
-        "Name": "Methamphetamine"
+      "Name": "Methamphetamine"
     },
     {
-        "Name": "Thozalinone",
-        "Salts": [
-          "hydrochloride"
-        ]
+      "Name": "Thozalinone",
+      "Salts": ["hydrochloride"]
     },
     {
       "Name": "Coffea",
       "Composite": true,
       "Routes": [
-          {
-              "Name": "Oral"
-          }
+        {
+          "Name": "Oral"
+        }
       ]
     },
     {
-        "Name": "Pyridoxine",
-        "Routes": [
-            {
-                "Name": "oral",
-                "Dosage": "1mg"
-            }
-        ],
-        "Sources": [
-            "Bulk Preworkout Dope max"
-        ]
-        },
+      "Name": "Pyridoxine",
+      "Routes": [
         {
-            "Name": "Levacecarnine",
-            "Salts": [
-                "Hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "300mg"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "1mg"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Levacecarnine",
+      "Salts": ["Hydrochloride"],
+      "Routes": [
         {
-            "Name": "Theanine",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "400mg"
-                }
-            ],
-            "Sources": [
-                "German Amazon"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "300mg"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Theanine",
+      "Routes": [
         {
-            "Name": "Arginine oxoglurate",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5g"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "400mg"
+        }
+      ],
+      "Sources": ["German Amazon"]
+    },
+    {
+      "Name": "Arginine oxoglurate",
+      "Routes": [
         {
-            "Name": "Beta-Alanine",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5g"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "5g"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Beta-Alanine",
+      "Routes": [
         {
-            "Name": "Citrulline",
-            "Salts": [
-                "Malate",
-                "Freebase"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "5g (3g malate + 2g freebase)"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "5g"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Citrulline",
+      "Salts": ["Malate", "Freebase"],
+      "Routes": [
         {
-            "Name": "Creatine",
-            "Salts": [
-                "Monohydrate"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "3.4g"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "5g (3g malate + 2g freebase)"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Creatine",
+      "Salts": ["Monohydrate"],
+      "Routes": [
         {
-            "Name": "Sodium chloride",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "500mg"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ],
-            "Notes": [
-                "pink Himalayan salt"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "3.4g"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Sodium chloride",
+      "Routes": [
         {
-            "Name": "Panax ginseng",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "100mg (extract)"
-                }
-            ],
-            "Sources": [
-                "Bulk Preworkout Dope max"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "500mg"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"],
+      "Notes": ["pink Himalayan salt"]
+    },
+    {
+      "Name": "Panax ginseng",
+      "Routes": [
         {
-            "Name": "Choline-Alfoscerate",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "300-600mg"
-                }
-            ],
-            "Sources": [
-                "Alpha GPC supplement"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "100mg (extract)"
+        }
+      ],
+      "Sources": ["Bulk Preworkout Dope max"]
+    },
+    {
+      "Name": "Choline-Alfoscerate",
+      "Routes": [
         {
-            "Name": "3,4-Dihydroxyphenylalanine",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "100mg"
-                }
-            ],
-            "Effects": [
-                "{xeff 'stimulation'}",
-                "{xeff 'motivation-enhancement'}"
-            ],
-            "Sources": [
-                "polish chemical online shop: Levodopa"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "300-600mg"
+        }
+      ],
+      "Sources": ["Alpha GPC supplement"]
+    },
+    {
+      "Name": "3,4-Dihydroxyphenylalanine",
+      "Routes": [
         {
-            "Name": "Oxazepam",
-            "Indication": [
-                "{icd 'F41.1'}"
-            ],
-            "Sources": [
-                "Oxazepam-ratiopharm 50 mg tablets"
-            ]
-      },
+          "Name": "oral",
+          "Dosage": "100mg"
+        }
+      ],
+      "Effects": ["{xeff 'stimulation'}", "{xeff 'motivation-enhancement'}"],
+      "Sources": ["polish chemical online shop: Levodopa"]
+    },
+    {
+      "Name": "Oxazepam",
+      "Indication": ["{icd 'F41.1'}"],
+      "Sources": ["Oxazepam-ratiopharm 50 mg tablets"]
+    },
+    {
+      "Name": "Midazolam",
+      "Indication": ["{xeff 'anxiety'}", "{icd 'F41.1'}"],
+      "Sources": ["Galenika Flormidal 15mg Tablet"]
+    },
+    {
+      "Name": "Diazepam",
+      "Indication": ["{xeff 'anxiety'}", "{icd 'F41.1'}"],
+      "Sources": ["Hemofarm Diazepam HF 10mg Tablet"]
+    },
+    {
+      "Name": "Neomycin",
+      "Routes": [
         {
-            "Name": "Midazolam",
-            "Indication": [
-                "{xeff 'anxiety'}",
-                "{icd 'F41.1'}"
-            ],
-            "Sources": [
-                "Galenika Flormidal 15mg Tablet"
-            ]
-          },
+          "Name": "transdermal"
+        }
+      ],
+      "Sources": ["Italian pharmacy: Trofodermin creme"]
+    },
+    {
+      "Name": "Clostebol acetate",
+      "Routes": [
         {
-            "Name": "Diazepam",
-            "Indication": [
-                "{xeff 'anxiety'}",
-                "{icd 'F41.1'}"
-            ],
-            "Sources": [
-                "Hemofarm Diazepam HF 10mg Tablet"
-            ]
-          },
+          "Name": "transdermal"
+        }
+      ],
+      "Sources": ["Italian pharmacy: Trofodermin creme"]
+    },
+    {
+      "Name": "Hydroxyzine",
+      "Indication": ["{icd 'F41.1'}"],
+      "Salts": ["hydrochloride"],
+      "Sources": ["Turkish pharmacy: Atarax 25mg tablets"]
+    },
+    {
+      "Name": "Azelastine",
+      "Salts": ["hydrochloride"],
+      "Dosage": [
         {
-            "Name": "Neomycin",
-            "Routes": [
-                {
-                    "Name": "transdermal"
-                }
-            ],
-            "Sources": [
-                "Italian pharmacy: Trofodermin creme"
-            ]
-        },
+          "Name": "Insufflated",
+          "Dosage": "0.28mg"
+        }
+      ]
+    },
+    {
+      "Name": "Amisulpride",
+      "Routes": [
         {
-            "Name": "Clostebol acetate",
-            "Routes": [
-                {
-                    "Name": "transdermal"
-                }
-            ],
-            "Sources": [
-                "Italian pharmacy: Trofodermin creme"
-            ]
-        },
-       {
-            "Name": "Hydroxyzine",
-            "Indication": [
-                "{icd 'F41.1'}"
-            ],
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Sources": [
-                "Turkish pharmacy: Atarax 25mg tablets"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "50mg"
+        }
+      ],
+      "Sources": ["Amisulprid PUREN 100 mg"]
+    },
+    {
+      "Name": "Quetiapine",
+      "Salts": ["Hemifumarate"],
+      "Sources": ["Quetiapin-neuraxpharm 50mg tablets"]
+    },
+    {
+      "Name": "Propyphenazone",
+      "Indication": "{icd 'R52.9'}",
+      "Routes": [
         {
-            "Name": "Azelastine",
-            "Salts":[
-                "hydrochloride"
-            ],
-            "Dosage": [
-                {
-                    "Name": "Insufflated",
-                    "Dosage": "0.28mg"
-                }
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "210mg"
+        }
+      ],
+      "Sources": ["Slovakian pharmacy: Caffetin tablets"]
+    },
+    {
+      "Name": "Panthenol",
+      "Routes": [
         {
-              "Name": "Amisulpride",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "50mg"
-                }
-            ],
-            "Sources": [
-                "Amisulprid PUREN 100 mg"
-            ]
-        },
+          "Name": "transdermal"
+        }
+      ],
+      "Sources": [
+        "German pharmacy: Bepanthen",
+        "German pharmacy: Panthenol-ratiopharm"
+      ]
+    },
+    {
+      "Name": "Octenidine",
+      "Indication": "antisepectic wound treatment",
+      "Routes": [
         {
-            "Name": "Quetiapine",
-            "Salts": [
-                "Hemifumarate"
-            ],
-            "Sources": [
-                "Quetiapin-neuraxpharm 50mg tablets"
-            ]
-        },
-        {            
-            "Name": "Propyphenazone",
-            "Indication": "{icd 'R52.9'}",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "210mg"
-                }
-            ],
-            "Sources": [
-                "Slovakian pharmacy: Caffetin tablets"
-            ]
-        },
+          "Name": "Dermal"
+        }
+      ]
+    },
+    {
+      "Name": "Ambroxol",
+      "Salts": ["hydrochloride"],
+      "Routes": [
         {
-            "Name": "Panthenol",
-            "Routes": [
-                {
-                    "Name": "transdermal"
-                }
-            ],
-            "Sources": [
-                "German pharmacy: Bepanthen",
-                "German pharmacy: Panthenol-ratiopharm"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "15mg"
+        }
+      ],
+      "Sources": ["German pharmacy: Ambroxol-ratiopharm® Hustensaft"]
+    },
+    {
+      "Name": "Nicoboxil",
+      "Indication": ["{icd 'R45.8'}", "{icd 'M54.2'}"],
+      "Routes": [
         {
-            "Name": "Octenidine",
-            "Indication": "antisepectic wound treatment",
-            "Routes": [
-                {
-                    "Name": "Dermal"
-                }
-            ]
-        },
+          "Name": "Dermal"
+        }
+      ],
+      "Notes": ["very effective for back pain"],
+      "Sources": ["German pharmacy: Finalgon"]
+    },
+    {
+      "Name": "Nonivamide",
+      "Indication": ["{icd 'R45.8'}", "{icd 'M54.2'}"],
+      "Routes": [
         {
-            "Name": "Ambroxol",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "15mg"
-                }
-            ],
-            "Sources": [
-                "German pharmacy: Ambroxol-ratiopharm® Hustensaft"
-            ]
-        },
+          "Name": "Dermal"
+        }
+      ],
+      "Sources": ["German pharmacy: Finalgon"]
+    },
+    {
+      "Name": "Venlafaxine",
+      "Salts": ["Hydrochloride"]
+    },
+    {
+      "Name": "Cetylpyridinium chloride",
+      "Sources": ["German Pharmacy: Dolo-Dobendan"]
+    },
+    {
+      "Name": "Xylometazoline",
+      "Salts": ["hydrochloride"],
+      "Routes": [
         {
-            "Name": "Nicoboxil",
-            "Indication": [
-                "{icd 'R45.8'}",
-                "{icd 'M54.2'}"
-            ],
-            "Routes": [
-                {
-                    "Name": "Dermal"
-                }
-            ],
-            "Notes": [
-                "very effective for back pain"
-            ],
-            "Sources": [
-                "German pharmacy: Finalgon"
-            ]
-        },
+          "Name": "insufflated"
+        }
+      ],
+      "Sources": ["German Pharmacy: NasenSpray-ratiopharm Erwachsene"]
+    },
+    {
+      "Name": "Domperidone",
+      "Indication": "{icd 'R11'}",
+      "Routes": [
         {
-            "Name": "Nonivamide",
-            "Indication": [
-                "{icd 'R45.8'}",
-                "{icd 'M54.2'}"
-            ],
-            "Routes": [
-                {
-                    "Name": "Dermal"
-                }
-            ],
-            "Sources": [
-                "German pharmacy: Finalgon"
-            ]
-        },
+          "Name": "Oral",
+          "Dosage": "10mg"
+        }
+      ],
+      "Sources": ["Italian pharmacy: Domperidone Teva 10mg tablets"]
+    },
+    {
+      "Name": "Bremelanotide",
+      "Routes": [
         {
-            "Name": "Venlafaxine",
-            "Salts":[
-              "Hydrochloride"
-            ]
-        },
-       {
-            "Name": "Cetylpyridinium chloride",
-            "Sources": [
-                "German Pharmacy: Dolo-Dobendan"
-            ]
-        },
+          "Name": "subcutaneous",
+          "Dosage": "1.8mg"
+        }
+      ],
+      "Sources": ["Powder from chinese vendor"]
+    },
+    {
+      "Name": "Flurbiprofen",
+      "Routes": [
         {
-            "Name": "Xylometazoline",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-               {
-                    "Name": "insufflated"
-               } 
-            ],
-            "Sources": [
-                "German Pharmacy: NasenSpray-ratiopharm Erwachsene"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "100mg"
+        }
+      ]
+    },
+    {
+      "Name": "Buspirone",
+      "Indication": "{icd 'F41.1'}",
+      "Salts": ["hydrochloride"],
+      "Routes": [
         {
-            "Name": "Domperidone",
-            "Indication": "{icd 'R11'}",
-            "Routes": [
-                {
-                "Name": "Oral",
-                "Dosage": "10mg"
-                }
-            ],
-            "Sources": [
-                "Italian pharmacy: Domperidone Teva 10mg tablets"
-            ]
-        },
+          "Name": "oral",
+          "Dosage": "10mg"
+        }
+      ],
+      "Sources": ["Hexal Busp® 10mg tablets"]
+    },
+    {
+      "Name": "Isopropyl nitrite",
+      "Routes": [
         {
-            "Name": "Bremelanotide",
-            "Routes": [
-                {
-                    "Name": "subcutaneous",
-                    "Dosage": "1.8mg"
-                }
-            ],
-            "Sources": [
-                "Powder from chinese vendor"
-            ]
-        },
+          "Name": "inhaled"
+        }
+      ]
+    },
+    {
+      "Name": "1-(3-(Trimethylsilyl)propionyl)-lysergic acid diethylamide",
+      "Routes": [
         {
-            "Name": "Flurbiprofen",
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "100mg"
-                }
-            ]
-        },
+          "Name": "sublingual"
+        }
+      ],
+      "Sources": ["Legel high store in Berlin, Germany"]
+    },
+    {
+      "Name": "Valerian",
+      "Composite": true,
+      "Notes": ["Unsure about the effects"]
+    },
+    {
+      "Name": "Magnesium",
+      "Salts": ["Citrate", "Bisglycinate"],
+      "Routes": [
         {
-            "Name": "Buspirone",
-            "Indication": "{icd 'F41.1'}",
-            "Salts": [
-                "hydrochloride"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral",
-                    "Dosage": "10mg"
-                }
-            ],
-            "Sources": [
-                "Hexal Busp® 10mg tablets"
-            ]
-        },
+          "Name": "oral"
+        }
+      ],
+      "Sources": ["Grocery store", "supplement shop (buxtrade)"]
+    },
+    {
+      "Name": "Mebufotenin",
+      "Routes": [
         {
-            "Name": "Isopropyl nitrite",
-            "Routes": [
-                {
-                    "Name": "inhaled"
-                }
-            ]
-        },
-        {
-            "Name": "1-(3-(Trimethylsilyl)propionyl)-lysergic acid diethylamide",
-            "Routes": [
-                {
-                    "Name": "sublingual"
-                }
-            ],
-            "Sources": [
-                "Legel high store in Berlin, Germany"
-            ]
-        },
-        {
-            "Name": "Valerian",
-            "Composite": true,
-            "Notes": [
-                "Unsure about the effects"
-            ]
-        },
-        {
-            "Name": "Magnesium",
-            "Salts": [
-                "Citrate",
-                "Bisglycinate"
-            ],
-            "Routes": [
-                {
-                    "Name": "oral"
-                }
-            ],
-            "Sources": [
-                "Grocery store",
-                "supplement shop (buxtrade)"
-            ]
-        },
-        {
-            "Name": "Mebufotenin",
-            "Routes": [
-                {
-                    "Name": "smoked"
-                }
-            ],
-            "Sources": [
-                "NL RC Vendor: 5-MeO-DMT"
-            ]
-        },
-         {
-            "Name": "Loperamide"
-        },
-        {
-          "Name": "Menthol"
-        } 
+          "Name": "smoked"
+        }
+      ],
+      "Sources": ["NL RC Vendor: 5-MeO-DMT"]
+    },
+    {
+      "Name": "Loperamide"
+    },
+    {
+      "Name": "Menthol"
+    }
   ]
 }

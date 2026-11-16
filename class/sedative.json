@@ -3,23 +3,17 @@
   "Entries": [
     {
       "Title": "Pellotine",
-      "Abr": [
-        "Peyotline"
-      ],
+      "Abr": ["Peyotline"],
       "MW": "237.29 g/mol"
     },
     {
       "Title": "Anhalonidine",
       "MW": "223.27 g/mol",
-      "Abr": [
-
-      ]
+      "Abr": []
     },
     {
       "Title": "Methaqualone",
-      "Abr": [
-        "Quaalude"
-      ],
+      "Abr": ["Quaalude"],
       "MW": "250.29 g/mol"
     },
     {
@@ -39,9 +33,7 @@
     },
     {
       "Title": "Methylmethaqualone",
-      "Abr": [
-        "MMQ"
-      ],
+      "Abr": ["MMQ"],
       "MW": "264.32 g/mol"
     },
     {
@@ -71,9 +63,7 @@
     },
     {
       "Title": "Fenadiazole",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "162.15 g/mol"
     },
     {
@@ -82,9 +72,7 @@
     },
     {
       "Title": "Tryptophan",
-      "Abr": [
-        "Trp"
-      ],
+      "Abr": ["Trp"],
       "MW": "204.22 g/mol"
     },
     {

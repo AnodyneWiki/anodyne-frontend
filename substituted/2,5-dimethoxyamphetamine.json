@@ -10,9 +10,7 @@
   "Entries": [
     {
       "Title": "2,5-Dimethoxy-4-methylamphetamine",
-      "Abr": [
-        "DOM"
-      ],
+      "Abr": ["DOM"],
       "MW": "209.28 g/mol"
     },
     {
@@ -37,9 +35,7 @@
     },
     {
       "Title": "2,4,5-Trimethoxyamphetamine",
-      "Abr": [
-        "TMA-2"
-      ],
+      "Abr": ["TMA-2"],
       "MW": "225.28 g/mol"
     },
     {
@@ -149,9 +145,7 @@
     },
     {
       "Title": "2,5-Dimethoxy-4-methylsulfonylamphetamine",
-      "Abr": [
-        "DOMS"
-      ],
+      "Abr": ["DOMS"],
       "MW": "273.35 g/mol"
     },
     {
@@ -161,24 +155,15 @@
     },
     {
       "Title": "2,5-Dimethoxy-4-ethoxyamphetamine",
-      "Abr": [
-        "MEM"
-      ],
+      "Abr": ["MEM"],
       "MW": "239.31 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-methylmethamphetamine",
-      "Abr": [
-        "Beatrice",
-        "N-methyl-DOM",
-        "MDO-D",
-        "MDOM"
-      ],
+      "Abr": ["Beatrice", "N-methyl-DOM", "MDO-D", "MDOM"],
       "MW": "223.31 g/mol"
     }
   ],
   "Parent": "2,5-dimethoxyphenethylamine",
-  "Analogues": [
-    "3,5-dimethoxyamphetamine"
-  ]
+  "Analogues": ["3,5-dimethoxyamphetamine"]
 }

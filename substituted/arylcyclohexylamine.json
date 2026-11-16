@@ -3,16 +3,12 @@
   "Entries": [
     {
       "Title": "2-Fluorodeschloroketamine",
-      "Abr": [
-        "2-FDCK"
-      ],
+      "Abr": ["2-FDCK"],
       "MW": "221.27 g/mol"
     },
     {
       "Title": "3-Methoxyeticyclidine",
-      "Abr": [
-        "3-MeO-PCE"
-      ],
+      "Abr": ["3-MeO-PCE"],
       "MW": "233.35 g/mol"
     },
     {
@@ -22,16 +18,12 @@
     },
     {
       "Title": "Deschloroketamine",
-      "Abr": [
-        "DCK"
-      ],
+      "Abr": ["DCK"],
       "MW": "203.28 g/mol"
     },
     {
       "Title": "Dieticyclidine",
-      "Abr": [
-        "PCDE"
-      ],
+      "Abr": ["PCDE"],
       "MW": "231.38 g/mol"
     },
     {
@@ -41,112 +33,77 @@
     },
     {
       "Title": "Eticyclidine",
-      "Abr": [
-        "PCE"
-      ],
+      "Abr": ["PCE"],
       "MW": "203.32 g/mol"
     },
     {
       "Title": "Eticyclidone",
-      "Abr": [
-        "2'-Oxo-PCE",
-        "O-PCE"
-      ],
+      "Abr": ["2'-Oxo-PCE", "O-PCE"],
       "MW": "217.31 g/mol"
     },
     {
       "Title": "Fluorexetamine",
-      "Abr": [
-        "FXE"
-      ],
+      "Abr": ["FXE"],
       "MW": "235.30 g/mol"
     },
     {
       "Title": "Hydroxetamine",
-      "Abr": [
-        "HXE"
-      ],
+      "Abr": ["HXE"],
       "MW": "233.31 g/mol"
     },
     {
       "Title": "Ketamine",
-      "Abr": [
-        "2-Cl-2'-Oxo-PCM",
-        "K"
-      ],
+      "Abr": ["2-Cl-2'-Oxo-PCM", "K"],
       "MW": "237.72 g/mol"
     },
     {
       "Title": "Methoxetamine",
-      "Abr": [
-        "MXE"
-      ],
+      "Abr": ["MXE"],
       "MW": "247.33 g/mol"
     },
     {
       "Title": "Methoxisopropamine",
-      "Abr": [
-        "MXiPr"
-      ],
+      "Abr": ["MXiPr"],
       "MW": "261.36 g/mol"
     },
     {
       "Title": "Methoxpropamine",
-      "Abr": [
-        "MXPr"
-      ],
+      "Abr": ["MXPr"],
       "MW": "261.36 g/mol"
     },
     {
       "Title": "Norketamine",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "223.70 g/mol"
     },
     {
       "Title": "Fluoroketamine",
-      "Abr": [
-        "2-FDCK"
-      ],
+      "Abr": ["2-FDCK"],
       "MW": "221.27 g/mol"
     },
     {
       "Title": "Bromoketamine",
-      "Abr": [
-        "2-Br-2'-Oxo-PCM",
-        "2-Br-DCK"
-      ],
+      "Abr": ["2-Br-2'-Oxo-PCM", "2-Br-DCK"],
       "MW": "282.18 g/mol"
     },
     {
       "Title": "Methoxyketamine",
-      "Abr": [
-        "2-MeO-DCK"
-      ],
+      "Abr": ["2-MeO-DCK"],
       "MW": "233.31 g/mol"
     },
     {
       "Title": "Ethketamine",
-      "Abr": [
-        "NENK",
-        "2-Cl-2'-Oxo-PCE"
-      ],
+      "Abr": ["NENK", "2-Cl-2'-Oxo-PCE"],
       "MW": "251.75 g/mol"
     },
     {
       "Title": "Deoxymethoxetamine",
-      "Abr": [
-        "DMXE"
-      ],
+      "Abr": ["DMXE"],
       "MW": "231.33 g/mol"
     },
     {
       "Title": "2-Fluoro-N-ethylnordeschloroketamine",
-      "Abr": [
-        "2F-NENDCK",
-        "2-FXE"
-      ],
+      "Abr": ["2F-NENDCK", "2-FXE"],
       "MW": "235.30 g/mol"
     }
   ],

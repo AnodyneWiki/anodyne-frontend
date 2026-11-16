@@ -8,16 +8,12 @@
     },
     {
       "Title": "2β-Carboisopropoxy-3β-(4-iodophenyl)tropane",
-      "Abr": [
-        "RTI-121"
-      ],
+      "Abr": ["RTI-121"],
       "MW": "413.3 g/mol"
     },
     {
       "Title": "2-β-Carbomethoxy-3-β-(4-fluorophenyl)tropane",
-      "Abr": [
-        "WIN-35428"
-      ],
+      "Abr": ["WIN-35428"],
       "MW": "277.33 g/mol"
     }
   ],

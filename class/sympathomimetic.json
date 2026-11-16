@@ -28,9 +28,7 @@
     },
     {
       "Title": "2,5-Dimethoxyamphetamine",
-      "Abr": [
-        "2,5-DMA"
-      ],
+      "Abr": ["2,5-DMA"],
       "MW": "195.26 g/mol"
     },
     {
@@ -58,9 +56,7 @@
     },
     {
       "Title": "Pholedrine",
-      "Abr": [
-        "4-HMA"
-      ],
+      "Abr": ["4-HMA"],
       "MW": "165.23 g/mol"
     },
     {
@@ -75,9 +71,7 @@
     },
     {
       "Title": "N,N-Dimethyldopamine",
-      "Abr": [
-        "DMDA"
-      ],
+      "Abr": ["DMDA"],
       "MW": "181.23 g/mol"
     },
     {
@@ -88,9 +82,7 @@
     {
       "Title": "Synephrine",
       "MW": "167.20 g/mol",
-      "Abr": [
-
-      ]
+      "Abr": []
     },
     {
       "Title": "Tyramine",
@@ -112,9 +104,7 @@
     },
     {
       "Title": "4-Hydroxyamphetamine",
-      "Abr": [
-        "4-HA"
-      ],
+      "Abr": ["4-HA"],
       "MW": "151.21 g/mol"
     },
     {
@@ -129,9 +119,7 @@
     },
     {
       "Title": "Phenylpropanolamine",
-      "Abr": [
-        "PPA"
-      ],
+      "Abr": ["PPA"],
       "MW": "151.21 g/mol"
     },
     {
@@ -141,9 +129,7 @@
     },
     {
       "Title": "Metaraminol",
-      "Abr": [
-        "Metaradrine"
-      ],
+      "Abr": ["Metaradrine"],
       "MW": "167.20 g/mol"
     },
     {
@@ -173,16 +159,12 @@
     },
     {
       "Title": "4-Fluoroephedrine",
-      "Abr": [
-        "4-FEP"
-      ],
+      "Abr": ["4-FEP"],
       "MW": "183.22 g/mol"
     },
     {
       "Title": "Oxilofrine",
-      "Abr": [
-        "4-HEP"
-      ],
+      "Abr": ["4-HEP"],
       "MW": "181.23 g/mol"
     },
     {
@@ -291,8 +273,6 @@
       "Increased heart rate",
       "Vasoconstriction"
     ],
-    "Cognitive Effects": [
-      "Wakefulness"
-    ]
+    "Cognitive Effects": ["Wakefulness"]
   }
 }

@@ -7,6 +7,7 @@
 **Psychosis** describes a state in which perception, thought, memory or belief detach from the external world, manifesting as delusions and hallucinations.
 
 ## Pharmacology
+
 Psychosis through schizophrenia has long been associated with excessive {{template "lsu" "dopamine"}} signaling, aswell as more recently being linked to decreased {{template "lsu" "glutamate"}} signaling.
 
 <div style="overflow: hidden; background-color: var(--background-color-interactive-subtle);">See also: {{template "wkp" "Dopamine hypothesis of schizophrenia"}} / {{template "wkp" "Glutamate hypothesis of schizophrenia"}}</div>
@@ -21,12 +22,17 @@ Psychosis through schizophrenia has long been associated with excessive {{templa
 {{/*<h3>Delusions</h3>
 #### {{template "wkp" "Ideas of reference"}}
 #### Somatic delusions
+
 #### {{template "wkp" "Delusional parasitosis"}}
+
 #### Paranoia
+
 #### {{template "wkp" "Thought broadcasting"}}*/}}
 
 ## Causes
+
 ### Organic psychosis
+
 Psychosis can arise naturally due to a range of conditions such as {{template "wkp" "dementia"}}, {{template "wkp" (dict "src" "parkinson%27s disease" "alias" "parkinson's disease")}}, {{template "wkp" "schizophrenia"}} and {{template "wkp" "bipolar disorder"}}, risk-factors also include psychological trauma, prolonged sleep deprivation, {{template "wkp" "traumatic brain injury"}}(TBI) and {{template "wkp" (dict "src" "Postpartum psychosis" "alias" "giving birth")}}.
 
 ### {{template "wkp" "Substance-induced psychosis"}}
@@ -68,15 +74,18 @@ Commonly implicated substances typically stem from the {{template "lsb" (dict "a
 {{template "imgbox" (dict "src" "/structure/haloperidol.svg" "desc" "{sub 'haloperidol' 'Haloperidol'}")}}
 
 ## Treatment
+
 Most common treatment for psychosis both acutely and long-term is the administration of typical- or atypical- {{template "lc" (dict "src" "antipsychotic" "alias" "antipsychotics")}} such as {{template "lsu" "haloperidol"}} or {{template "lsu" "olanzapine"}}.
 
 In case of stimulant-psychosis or in case of acute agitation careful use of {{template "lsb" (dict "src" "benzodiazepine" "alias" "benzodiazepines")}} may be helpful.
 <div class=spacer></div>
 
 ## See also
-* [Antipsychotics](/class/antipsychotic)
-* <a class=logo href=/>Anodyne</a>
+
+- [Antipsychotics](/class/antipsychotic)
+- <a class=logo href=/>Anodyne</a>
 
 ## External links
-* {{template "wkp" (dict "src" "psychosis" "alias" "Psychosis (Wikipedia)")}}
-* {{template "xeff" (dict "src" "psychosis" "alias" "Psychosis (Effect Index)")}}
+
+- {{template "wkp" (dict "src" "psychosis" "alias" "Psychosis (Wikipedia)")}}
+- {{template "xeff" (dict "src" "psychosis" "alias" "Psychosis (Effect Index)")}}

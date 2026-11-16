@@ -1,75 +1,99 @@
 {
-"Name": "Composite",
-"Entries": [
-	{ "Title": "Kratom", "Abr": [ "Mitragyna speciosa" ], "Wkp": "Mitragyna speciosa", "Substances": [
-		{ "Name": "Mitragynine" },
-		{ "Name": "7-Hydroxymitragynine" },
-		{ "Name": "Speciociliatine" },
-		{ "Name": "Paynantheine" },
-		{ "Name": "Corynantheidine" },
-		{ "Name": "Speciogynine" },
-		{ "Name": "Mitraphylline" },
-		{ "Name": "Rhynchophylline" },
-		{ "Name": "(-)-Mitralactonal" },
-		{ "Name": "Ajmalicine" },
-		{ "Name": "Mitragynaline" }
-	]
-	},
-	{ "Title": "Opium", "Abr": [ "Poopy tears", "Lachryma papaveris"], "Wkp": "Opium", "Substances": [
-		{ "Name": "Morphine" },
-		{ "Name": "Codeine" },
-		{ "Name": "Thebaine" },
-		{ "Name": "Papaverine" },
-		{ "Name": "Noscapine" }
-	]
-	},
-	{ "Title": "Tobacco", "Abr": [ "Nicotiana" ], "Wkp": "Tobacco", "Substances": [
-		{ "Name": "Nicotine", "Concentration": "90-95%" },
-		{ "Name": "Nornicotine", "Concentration": "~2.5%" },
-		{ "Name": "Anatabine", "Concentration": "~2.5%" },
-		{ "Name": "Anabasine" },
-		{ "Name": "Myosmine" },
-		{ "Name": "Cotinine" },
-		{ "Name": "2,3'-Bipyridine" },
-		{ "Name": "Yohimbine" },
-		{ "Name": "Ajmalicine" },
-		{ "Name": "Harmine" },
-		{ "Name": "Harmaline" }
-	]
-	},
-	{ "Title": "Coffea", "Wkp": "Coffea", "Substances": [
-		{ "Name": "Caffeine" }
-	]
-	},
-	{ "Title": "Psilocybe cubensis", "Abr": [ "Magic mushroom", "Shroom" ], "Wkp": "Psilocybe cubensis", "Substances": [
-		{ "Name": "Psilocybin" },
-		{ "Name": "Psilocin" }
-	]
-	},
-	{
-		"Title": "Valerian", "Abr": [ "Valerian root extract" ], "Wkp": "Valerian_(herb)", "Substances": [
-			{ "Name": "(7S)-6,7-Dihydro-4,7-dimethyl-5H-cyclopenta(c)pyridine" },
-			{ "Name": "Pentanoic-Acid" },
-			{ "Name": "Gamma-Aminobutyric-Acid" },
-			{ "Name": "Isovaleric-Acid" },
-			{ "Name": "(-)-Valerenic acid" },
-			{ "Name": "Isovaleramide" },
-			{ "Name": "Bornyl acetate" }
-		]
-
-	},
-	{ "Title": "Panax ginseng", "Abr": [ "Ginseng", "Korean ginseng" ], "Wkp": "Panax ginseng", "Substances": [
-		{ "Name": "Ginsenoside Rb1" },
-		{ "Name": "Ginsenoside Rg1" }
-	]
-	},
-	{ "Title": "Borax combo", "Abr": [ "Blue Bliss", "Pink Star" ], "Wkp": "Borax combo", "Substances": [
-		{ "Name": "5-(N-methyl-2-aminopropyl)benzofuran" },
-		{ "Name": "5,6-methylenedioxy-2-aminoindane" },
-		{ "Name": "2-Fluoromethamphetamine" },
-		{ "Name": "5-Methoxy-N-methyl-N-isopropyltryptamine" },
-		{ "Name": "Metocin" }
-	]
-	}
-]
+  "Name": "Composite",
+  "Entries": [
+    {
+      "Title": "Kratom",
+      "Abr": ["Mitragyna speciosa"],
+      "Wkp": "Mitragyna speciosa",
+      "Substances": [
+        { "Name": "Mitragynine" },
+        { "Name": "7-Hydroxymitragynine" },
+        { "Name": "Speciociliatine" },
+        { "Name": "Paynantheine" },
+        { "Name": "Corynantheidine" },
+        { "Name": "Speciogynine" },
+        { "Name": "Mitraphylline" },
+        { "Name": "Rhynchophylline" },
+        { "Name": "(-)-Mitralactonal" },
+        { "Name": "Ajmalicine" },
+        { "Name": "Mitragynaline" }
+      ]
+    },
+    {
+      "Title": "Opium",
+      "Abr": ["Poopy tears", "Lachryma papaveris"],
+      "Wkp": "Opium",
+      "Substances": [
+        { "Name": "Morphine" },
+        { "Name": "Codeine" },
+        { "Name": "Thebaine" },
+        { "Name": "Papaverine" },
+        { "Name": "Noscapine" }
+      ]
+    },
+    {
+      "Title": "Tobacco",
+      "Abr": ["Nicotiana"],
+      "Wkp": "Tobacco",
+      "Substances": [
+        { "Name": "Nicotine", "Concentration": "90-95%" },
+        { "Name": "Nornicotine", "Concentration": "~2.5%" },
+        { "Name": "Anatabine", "Concentration": "~2.5%" },
+        { "Name": "Anabasine" },
+        { "Name": "Myosmine" },
+        { "Name": "Cotinine" },
+        { "Name": "2,3'-Bipyridine" },
+        { "Name": "Yohimbine" },
+        { "Name": "Ajmalicine" },
+        { "Name": "Harmine" },
+        { "Name": "Harmaline" }
+      ]
+    },
+    {
+      "Title": "Coffea",
+      "Wkp": "Coffea",
+      "Substances": [{ "Name": "Caffeine" }]
+    },
+    {
+      "Title": "Psilocybe cubensis",
+      "Abr": ["Magic mushroom", "Shroom"],
+      "Wkp": "Psilocybe cubensis",
+      "Substances": [{ "Name": "Psilocybin" }, { "Name": "Psilocin" }]
+    },
+    {
+      "Title": "Valerian",
+      "Abr": ["Valerian root extract"],
+      "Wkp": "Valerian_(herb)",
+      "Substances": [
+        { "Name": "(7S)-6,7-Dihydro-4,7-dimethyl-5H-cyclopenta(c)pyridine" },
+        { "Name": "Pentanoic-Acid" },
+        { "Name": "Gamma-Aminobutyric-Acid" },
+        { "Name": "Isovaleric-Acid" },
+        { "Name": "(-)-Valerenic acid" },
+        { "Name": "Isovaleramide" },
+        { "Name": "Bornyl acetate" }
+      ]
+    },
+    {
+      "Title": "Panax ginseng",
+      "Abr": ["Ginseng", "Korean ginseng"],
+      "Wkp": "Panax ginseng",
+      "Substances": [
+        { "Name": "Ginsenoside Rb1" },
+        { "Name": "Ginsenoside Rg1" }
+      ]
+    },
+    {
+      "Title": "Borax combo",
+      "Abr": ["Blue Bliss", "Pink Star"],
+      "Wkp": "Borax combo",
+      "Substances": [
+        { "Name": "5-(N-methyl-2-aminopropyl)benzofuran" },
+        { "Name": "5,6-methylenedioxy-2-aminoindane" },
+        { "Name": "2-Fluoromethamphetamine" },
+        { "Name": "5-Methoxy-N-methyl-N-isopropyltryptamine" },
+        { "Name": "Metocin" }
+      ]
+    }
+  ]
 }

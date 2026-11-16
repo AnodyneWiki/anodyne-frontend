@@ -3,9 +3,7 @@
   "Entries": [
     {
       "Title": "Aniline",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "93.13 g/mol"
     },
     {
@@ -25,65 +23,47 @@
     },
     {
       "Title": "1-Pentyl-3-(1-naphthoyl)indole",
-      "Abr": [
-        "JWH-018"
-      ],
+      "Abr": ["JWH-018"],
       "MW": "341.4 g/mol"
     },
     {
       "Title": "Metamizole",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "311.36 g/mol"
     },
     {
       "Title": "Avizafone",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "430.9 g/mol"
     },
     {
       "Title": "Rilmazafone",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "475.3 g/mol"
     },
     {
       "Title": "Clonazafone desglycyl",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "333.72 g/mol"
     },
     {
       "Title": "Metacetamol",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "151.16 g/mol"
     },
     {
       "Title": "Ampyrone",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "203.24 g/mol"
     },
     {
       "Title": "Doxycycline",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "444.4 g/mol"
     },
     {
       "Title": "Lidocaine",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "234.34 g/mol"
     },
     {
@@ -103,9 +83,7 @@
     },
     {
       "Title": "Penitrem A",
-      "Abr": [
-        "Tremortin"
-      ],
+      "Abr": ["Tremortin"],
       "MW": "634.2 g/mol"
     },
     {
@@ -115,9 +93,7 @@
     },
     {
       "Title": "JWH-210",
-      "Abr": [
-        "JWH-210"
-      ],
+      "Abr": ["JWH-210"],
       "MW": "369.5 g/mol"
     },
     {
@@ -162,46 +138,32 @@
     },
     {
       "Title": "N,N-Dimethylisotryptamine",
-      "Abr": [
-        "isoDMT"
-      ],
+      "Abr": ["isoDMT"],
       "MW": "188.27 g/mol"
     },
     {
       "Title": "α-Methylisotryptamine",
-      "Abr": [
-        "isoAMT"
-      ],
+      "Abr": ["isoAMT"],
       "MW": "174.24 g/mol"
     },
     {
       "Title": "5-Methoxy-N,N-dimethylisotryptamine",
-      "Abr": [
-        "5-MeO-isoDMT"
-      ],
+      "Abr": ["5-MeO-isoDMT"],
       "MW": "218.29 g/mol"
     },
     {
       "Title": "6-Methoxy-N,N-dimethylisotryptamine",
-      "Abr": [
-        "6-MeO-isoDMT"
-      ],
+      "Abr": ["6-MeO-isoDMT"],
       "MW": "218.29 g/mol"
     },
     {
       "Title": "Zalsupindole",
-      "Abr": [
-        "DLX-001",
-        "AAZ-A-154"
-      ],
+      "Abr": ["DLX-001", "AAZ-A-154"],
       "MW": "232.32 g/mol"
     },
     {
       "Title": "(S)-5-fluoro-6-chloro-α-methylisotryptamine",
-      "Abr": [
-        "Ro60-0175",
-        "(S)-5-F-6-Cl-isoAMT"
-      ],
+      "Abr": ["Ro60-0175", "(S)-5-F-6-Cl-isoAMT"],
       "MW": "226.68 g/mol"
     },
     {
@@ -226,16 +188,12 @@
     },
     {
       "Title": "Alprazolam",
-      "Abr": [
-        "Xanax"
-      ],
+      "Abr": ["Xanax"],
       "MW": "308.8 g/mol"
     },
     {
       "Title": "4'-Chlorodiazepam",
-      "Abr": [
-        "Ro5-4864"
-      ],
+      "Abr": ["Ro5-4864"],
       "MW": "319.2 g/mol"
     },
     {
@@ -272,9 +230,7 @@
     },
     {
       "Title": "Diazepam",
-      "Abr": [
-        "Valium"
-      ],
+      "Abr": ["Valium"],
       "MW": "284.74 g/mol"
     },
     {
@@ -399,9 +355,7 @@
     },
     {
       "Title": "Climazolam",
-      "Abr": [
-        "Ro21-3982"
-      ],
+      "Abr": ["Ro21-3982"],
       "MW": "342.2 g/mol"
     },
     {
@@ -422,37 +376,27 @@
     },
     {
       "Title": "JWH-193",
-      "Abr": [
-        "JWH-193"
-      ],
+      "Abr": ["JWH-193"],
       "MW": "398.5 g/mol"
     },
     {
       "Title": "JWH-198",
-      "Abr": [
-        "JWH-198"
-      ],
+      "Abr": ["JWH-198"],
       "MW": "414.5 g/mol"
     },
     {
       "Title": "JWH-200",
-      "Abr": [
-        "JWH-200"
-      ],
+      "Abr": ["JWH-200"],
       "MW": "384.5 g/mol"
     },
     {
       "Title": "Pravadoline",
-      "Abr": [
-        "WIN 48,098"
-      ],
+      "Abr": ["WIN 48,098"],
       "MW": "378.5 g/mol"
     },
     {
       "Title": "6-Bromopravadoline",
-      "Abr": [
-        "WIN 54,461"
-      ],
+      "Abr": ["WIN 54,461"],
       "MW": "457.4 g/mol"
     },
     {
@@ -469,9 +413,7 @@
     },
     {
       "Title": "2,4-Dinitrophenol",
-      "Abr": [
-        "DNP"
-      ],
+      "Abr": ["DNP"],
       "MW": "184.11 g/mol"
     },
     {
@@ -499,9 +441,7 @@
       "MW": "215.29 g/mol"
     }
   ],
-  "Parents": [
-    "amine"
-  ],
+  "Parents": ["amine"],
   "Children": [
     "phenylpiperazine",
     "aminoalkylindole",
@@ -509,9 +449,5 @@
     "isotryptamine",
     "benzodiazepine"
   ],
-  "Analogues": [
-    "alkylbenzene",
-    "cyclohexylamine",
-    "phenol"
-  ]
+  "Analogues": ["alkylbenzene", "cyclohexylamine", "phenol"]
 }

@@ -4,9 +4,7 @@
   "About": "{p}{Ep}",
   "Links": [],
   "Psyche": {
-    "Interests": [
-      "Unix-like systems"
-    ],
+    "Interests": ["Unix-like systems"],
     "Attributes": []
   },
   "Complications": [],
@@ -123,7 +121,7 @@
         }
       ]
     },
-   {
+    {
       "Name": "Hexahydrocannabinol",
       "Routes": [
         {

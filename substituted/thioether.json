@@ -8,41 +8,26 @@
     },
     {
       "Title": "Dichlorodiethyl sulfide",
-      "Abr": [
-        "Mustard gas"
-      ],
+      "Abr": ["Mustard gas"],
       "MW": "159.08 g/mol"
     },
     {
       "Title": "1,2-Bis(2-chloroethylthio)ethane",
-      "Abr": [
-        "Sesquimustard",
-        "Agent Q",
-        "TL-86"
-      ],
+      "Abr": ["Sesquimustard", "Agent Q", "TL-86"],
       "MW": "219.2 g/mol"
     },
     {
       "Title": "Bis(2-chloroethylthioethyl) ether",
-      "Abr": [
-        "O-mustard"
-      ],
+      "Abr": ["O-mustard"],
       "MW": "263.2 g/mol"
     },
     {
       "Title": "2-Chloroethyl ethyl sulfide",
-      "Abr": [
-        "Half mustard"
-      ],
+      "Abr": ["Half mustard"],
       "MW": "124.63 g/mol"
     }
   ],
-  "Analogues": [
-    "ether"
-  ],
-  "Children": [
-    "thienodiazepine",
-    "thiopropamine"
-  ],
+  "Analogues": ["ether"],
+  "Children": ["thienodiazepine", "thiopropamine"],
   "Wikipedia": "Organic sulfide"
 }

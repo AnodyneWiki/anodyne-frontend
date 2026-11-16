@@ -8,9 +8,7 @@
     },
     {
       "Title": "Sildenafil",
-      "Abr": [
-        "Viagra"
-      ],
+      "Abr": ["Viagra"],
       "MW": "474.6 g/mol"
     },
     {
@@ -25,13 +23,6 @@
     "2-benzylpiperazine",
     "1-cinnamylpiperazine"
   ],
-  "Parents": [
-    "amine"
-  ],
-  "Analogues": [
-    "pyrrolidine",
-    "pyridine",
-    "piperidine",
-    "morpholine"
-  ]
+  "Parents": ["amine"],
+  "Analogues": ["pyrrolidine", "pyridine", "piperidine", "morpholine"]
 }

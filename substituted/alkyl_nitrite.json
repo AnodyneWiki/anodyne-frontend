@@ -32,8 +32,6 @@
       "MW": "103.12 g/mol"
     }
   ],
-  "Parents": [
-    "ether"
-  ],
+  "Parents": ["ether"],
   "Wikipedia": "Alkyl nitrite"
 }

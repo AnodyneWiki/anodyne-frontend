@@ -73,7 +73,5 @@
     }
   ],
   "Parent": "thienodiazepine",
-  "Analogues": [
-    "triazolobenzodiazepine"
-  ]
+  "Analogues": ["triazolobenzodiazepine"]
 }
