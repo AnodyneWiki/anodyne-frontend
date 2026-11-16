@@ -31,7 +31,7 @@
       "{wkp 'attention deficit hyperactivity disorder'} (diagnosed {icd 'F90.0'}G)",
       "{wkp 'generalized anxiety disorder'} (diagnosed {icd 'F41.1'}G)",
       "{wkp 'major depressive episode'} (diagnosed {icd 'F32.1'}G)",
-      "{wkp 'insomnia'} (diagnosed {icd 'G47.0'}F"
+      "{wkp 'insomnia'} (diagnosed {icd 'G47.0'}F)"
     ]
   },
   "RoutesOfAdministration": [
