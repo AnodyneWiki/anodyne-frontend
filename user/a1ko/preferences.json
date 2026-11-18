@@ -654,7 +654,7 @@
       "Name": "Δ-9-tetrahydrocannabinol",
       "Routes": [
         {
-          "Name": "inhaled"
+          "Name": "vaporized"
         }
       ]
     },
@@ -662,7 +662,23 @@
       "Name": "Hexahydrocannabinol",
       "Routes": [
         {
-          "Name": "inhaled"
+          "Name": "vaporized"
+        }
+      ]
+    },
+    {
+      "Name": "JWH-210",
+      "Routes": [
+        {
+          "Name": "Oral"
+        }
+      ]
+    },
+    {
+      "Name": "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-1h-indazole-3-carboxamide",
+      "Routes": [
+        {
+          "Name": "smoked"
         }
       ]
     },

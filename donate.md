@@ -2,12 +2,6 @@
 
 If you enjoy this project and have the means, consider donating to keep us afloat.
 
-### Usage
-- Hosting costs
-- Domain registration
-- Instant noodles for developers
-- Drugs for developers
-
 ### Cryptocurrency
 
 - <b>Bitcoin:</b> bc1qyyem62wz9w37cz83ju7tmmagerlxlwyxrj834s

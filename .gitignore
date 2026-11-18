@@ -9,3 +9,7 @@ sitemap.xml
 certificates/
 rate_limit
 js/3Dmol*.js
+preferences.json.*.archive
+assets/*.mov
+assets/*.apk
+molpic

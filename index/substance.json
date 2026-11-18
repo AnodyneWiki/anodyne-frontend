@@ -307,6 +307,7 @@
 	{ "Title": "3'-Methyl-α-pyrrolidinopentiophenone", "Abr": ["3-Me-PVP", "3-Me-α-PVP", "O-2480"],"Classes": [ "Stimulant" ], "Search": "CID11470616" },
 
 	{ "Title": "Alanine", "Abr": "Ala" },
+	{ "Title": "β-Alanine", "Abr": "β-Ala" },
 	{ "Title": "Valine", "Abr": "Val" },
 	{ "Title": "Isoleucine", "Abr": "Ile" },
 	{ "Title": "Leucine", "Abr": "Leu" },
@@ -1565,6 +1566,7 @@
 	{ "Title": "6-Bromopravadoline", "Abr": "WIN 54,461" },
 	{ "Title": "N-(1-Adamantyl)-1-pentyl-1H-indazole-3-carboxamide", "Abr": [ "APICA", "2NE1" ] },
 	{ "Title": "N-(1-Adamantyl)-1-pentyl-1H-indazole-3-carboxamide", "Abr": [ "APINACA", "AKB48" ] },
+	{ "Title": "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-1h-indazole-3-carboxamide", "Abr": [ "ADB-Butinaca" ] },
 
 	{ "Title": "Dihydrotanshinone I", "Classes": [ "Cytotoxin" ] },
 	{ "Title": "Beclometasone" },
