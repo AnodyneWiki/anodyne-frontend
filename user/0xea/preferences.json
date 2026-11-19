@@ -1629,7 +1629,12 @@
         "{sev 'intense'} {xeff 'paranoia'}",
         "{xeff 'unspeakable horrors'}",
         "{xeff 'feelings of impending doom'}",
-        "{sev 'intense'} {xeff 'auditory hallucination'} (voices, complex distressing alternative scenarios)"
+        "{sev 'intense'} {xeff 'auditory hallucination'} (voices, complex distressing alternative scenarios)",
+        "{sev 'strong'} {xeff 'anxiety'}",
+        "{sev 'strong'} {xeff 'teeth grinding'}",
+        "{sev 'moderate'} impulsiveness",
+        "{sev 'intense'} {xeff 'focus enhancement'}",
+        "{sev 'strong'} {xeff 'motivation enhancement'}"
       ],
       "DEffects": [
         {
