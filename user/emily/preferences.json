@@ -1466,6 +1466,15 @@
     },
     {
       "Name": "Menthol"
+    },
+    {
+      "Name": "Sulfamethoxazole"
+    },
+    {
+      "Name": "Trimethoprim"
+    },
+    {
+      "Name": "Metocin"
     }
   ]
 }

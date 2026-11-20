@@ -4814,6 +4814,8 @@
     { "Title": "Esomeprazole", "Classes": ["Proton pump inhibitor"] },
     { "Title": "Bremelanotide" },
     { "Title": "Choline-Alfoscerate" },
-    { "Title": "Ambroxol" }
+    { "Title": "Ambroxol" },
+    { "Title": "Trimethoprim", "Classes": ["Antibiotic"] },
+    { "Title": "Sulfamethoxazole", "Classes": ["Antibiotic"] }
   ]
 }

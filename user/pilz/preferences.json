@@ -2029,6 +2029,17 @@
       ]
     },
     {
+      "Name": "Metocin",
+      "Salts": ["Fumarate"],
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "20mg"
+        }
+      ],
+      "Sources": ["NL RC Vendor: 4-HO-MET"]
+    },
+    {
       "Name": "Mebufotenin",
       "Salts": ["Freebase"],
       "Routes": [
