@@ -888,6 +888,16 @@
       "Sources": ["Hemofarm Lorazepam HF 2.5mg Tablet"]
     },
     {
+      "Name": "Clonazolam",
+      "Indication": ["{xeff 'anxiety'}", "{icd 'F41.2'}"],
+      "Routes": [
+        {
+          "Name": "sublingual",
+          "Dosage": "0.3mg"
+        }
+      ]
+    },
+    {
       "Name": "Clonazepam",
       "Indication": ["{xeff 'anxiety'}", "{icd 'F41.2'}"],
       "Routes": [
@@ -1405,7 +1415,7 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "37.5-150mg"
+          "Dosage": "37.5-450mg"
         }
       ],
       "Effects": [
@@ -1448,7 +1458,10 @@
         "150mg/day seem to much for me",
         "Effects stabilized after 5-7 days"
       ],
-      "Sources": ["Venlafaxin Aurobindo 75mg XR capsules"]
+      "Sources": [
+        "Venlafaxin Aurobindo 75mg XR capsules",
+        "crushed AAA Pharma Velafaxin 225mg XR OROS tablets"
+      ]
     },
     {
       "Name": "Sertraline",
