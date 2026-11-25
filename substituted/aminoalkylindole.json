@@ -33,14 +33,9 @@
     },
     {
       "Title": "JWH-210",
-      "Abr": [
-        "JWH-210"
-      ],
+      "Abr": ["JWH-210"],
       "MW": "369.5 g/mol"
     }
   ],
-  "Parents": [
-    "aniline",
-    "ketone"
-  ]
+  "Parents": ["aniline", "ketone"]
 }

@@ -23,7 +23,6 @@
 {{- with $v.Nationality}}<tr><th contenteditable=false class="InfoboxLabel">Nationality</th><td id=userlocation contenteditable={{$v.Editable}} class=InfoboxData>{{.}}</td></tr>{{end}}
 </table></div>
 
-
 {{template "UserAbout" $v}}
 
 {{template "UserRefs" $v}}

@@ -129,6 +129,9 @@
 	{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "pre" "administration"))}}
 {{- end}}
 
+{{define "icd" -}}
+	{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "cls" "logo" "pre" "https://icd.who.int/browse10/2019/en#"))}}
+{{- end}}
 {{define "wkp" -}}
 	{{template "lpr" (kindIs "string" . | ternary (dict "alias" . "src" .) . | merge (dict "cls" "logo" "pre" "https://en.wikipedia.org/wiki"))}}
 {{- end}}
@@ -153,7 +156,7 @@
 		{{$new := printf `<a class=logo href='https://www.effectindex.com/effects/%s'>%s</a>` ($src | replace " " "-") ($src | replace "-" " ") -}}
 		{{$out = $out | replace $org $new -}}
 	{{end -}}
-	{{- range list (list "a" "a" "/") (list "sub" "a" "/substance/" ) (list "wkp" "a" "https://en.wikipedia.org/wiki/" "logo") (list "roa" "a" "/administration/") (list "subst" "a" "/substituted/") (list "class" "a" "/class/") (list "user" "a" "/user/" ) (list "xeff" "a" "https://www.effectindex.com/effects/" "logo") (list "ieff" "a" "/effect/")}}
+	{{- range list (list "a" "a" "/") (list "sub" "a" "/substance/" ) (list "wkp" "a" "https://en.wikipedia.org/wiki/" "logo") (list "icd" "a" "https://icd.who.int/browse10/2019/en#/" "logo") (list "roa" "a" "/administration/") (list "subst" "a" "/substituted/") (list "class" "a" "/class/") (list "user" "a" "/user/" ) (list "xeff" "a" "https://www.effectindex.com/effects/" "logo") (list "ieff" "a" "/effect/")}}
 		{{- $class := "" -}}
 		{{if len . | eq 4 -}}
 			{{$class = last . | printf "class=%s " -}}
@@ -174,7 +177,7 @@
 		{{- $out = ($out | replace (printf "{%s}" .) (printf "<%s>" .) | replace (printf "{E%s}" .) (printf "</%s>" .))}}
 	{{- end}}
 	{{- $out = (regexReplaceAll `\*([^*]+)\*` $out `<em>${1}</em>`) }}
-	{{- range list (list "a" "a" "/") (list "sub" "a" "/substance/" ) (list "wkp" "a" "https://en.wikipedia.org/wiki/" "logo") (list "roa" "a" "/administration/") (list "subst" "a" "/substituted/") (list "class" "a" "/class/") (list "user" "a" "/user/" ) (list "xeff" "a" "https://www.effectindex.com/effects/" "logo") (list "ieff" "a" "/effect/")}}
+	{{- range list (list "a" "a" "/") (list "sub" "a" "/substance/" ) (list "wkp" "a" "https://en.wikipedia.org/wiki/" "logo") (list "icd" "a" "https://icd.who.int/browse10/2019/en#/" "logo") (list "roa" "a" "/administration/") (list "subst" "a" "/substituted/") (list "class" "a" "/class/") (list "user" "a" "/user/" ) (list "xeff" "a" "https://www.effectindex.com/effects/" "logo") (list "ieff" "a" "/effect/")}}
 		{{- $class := "" -}}
 		{{if len . | eq 4 -}}
 			{{$class = last . | printf "class=%s " -}}

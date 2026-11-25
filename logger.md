@@ -5,6 +5,7 @@
 We highly recommend keeping track of and ideally logging most if not all of your consumption.
 
 Advantages:
+
 - Heightened awareness of tolerance, dosing, duration and possible interactions
 - Ability to look back on prior consumption and learn from consumption patters
 - (Incase of public loggers) Others people being aware of your usage and looking out for your wellbeing

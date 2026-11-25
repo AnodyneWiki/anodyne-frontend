@@ -32,11 +32,6 @@
     "Abr": null,
     "MW": "141.24 g/mol"
   },
-  "Parents": [
-    "arylalkylamine",
-    "thioether"
-  ],
-  "Analogues": [
-    "amphetamine"
-  ]
+  "Parents": ["arylalkylamine", "thioether"],
+  "Analogues": ["amphetamine"]
 }

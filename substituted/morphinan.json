@@ -3,9 +3,7 @@
   "Entries": [
     {
       "Title": "6-Monoacetylmorphine",
-      "Abr": [
-        "6-MAM"
-      ],
+      "Abr": ["6-MAM"],
       "MW": "327.4 g/mol"
     },
     {
@@ -30,9 +28,7 @@
     },
     {
       "Title": "Diacetylmorphine",
-      "Abr": [
-        "Heroin"
-      ],
+      "Abr": ["Heroin"],
       "MW": "369.4 g/mol"
     },
     {
@@ -102,13 +98,14 @@
     },
     {
       "Title": "N-Phenethylnoroxymorphone",
-      "Abr": [
-        "PHM"
-      ],
+      "Abr": ["PHM"],
       "MW": "391.5 g/mol"
+    },
+    {
+      "Title": "3-Monoacetylmorphine",
+      "Abr": ["3-MAM"],
+      "MW": "327.4 g/mol"
     }
   ],
-  "Parents": [
-    "amphetamine"
-  ]
+  "Parents": ["amphetamine"]
 }

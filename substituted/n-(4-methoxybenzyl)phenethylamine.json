@@ -5,30 +5,22 @@
   "Entries": [
     {
       "Title": "N-(4-Methoxybenzyl)phenethylamine",
-      "Abr": [
-        "NB4OMe"
-      ],
+      "Abr": ["NB4OMe"],
       "MW": "241.33 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-N-(4-methoxybenzyl)phenethylamine",
-      "Abr": [
-        "25H-NB4OMe"
-      ],
+      "Abr": ["25H-NB4OMe"],
       "MW": "301.4 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-chloro-N-(4-methoxybenzyl)phenethylamine",
-      "Abr": [
-        "25C-NB4OMe"
-      ],
+      "Abr": ["25C-NB4OMe"],
       "MW": "335.8 g/mol"
     },
     {
       "Title": "2,5-Dimethoxy-4-iodo-N-(4-methoxybenzyl)phenethylamine",
-      "Abr": [
-        "25I-NB4OMe"
-      ],
+      "Abr": ["25I-NB4OMe"],
       "MW": "427.3 g/mol"
     }
   ],

@@ -1,8 +1,6 @@
 {
   "Title": "a1ko",
-  "Name": [
-    "aiko"
-  ],
+  "Name": ["aiko"],
   "About": "{p}I shoot up with and sleep in the same bed as Anodyne's creator.{Ep}{p}Love you {user '0xea'}.{Ep}",
   "Birth": "2007-11",
   "Location": "Germany",
@@ -17,9 +15,7 @@
     }
   ],
   "Psyche": {
-    "Interests": [
-
-    ],
+    "Interests": [],
     "Attributes": [
       "{wkp 'autism spectrum disorder' 'autism'} (diagnosed)",
       "{wkp 'obsessive–compulsive disorder'} (diagnosed)",
@@ -38,12 +34,8 @@
       "{wkp 'transsexual'} ({wkp 'Trans woman' 'male to female'} since September 2024)"
     ]
   },
-  "RoutesOfAdministration": [
-
-  ],
-  "Preferences": [
-
-  ],
+  "RoutesOfAdministration": [],
+  "Preferences": [],
   "TriedSubstances": [
     {
       "Name": "Metocin",
@@ -55,10 +47,7 @@
           "Name": "oral"
         }
       ],
-      "Effects": [
-        "{xeff 'stimulation'}",
-        "{xeff 'wakefulness'}"
-      ]
+      "Effects": ["{xeff 'stimulation'}", "{xeff 'wakefulness'}"]
     },
     {
       "Name": "4-Propionyloxy-N-methyl-N-ethyltryptamine",
@@ -68,9 +57,7 @@
           "Dosage": "10mg"
         }
       ],
-      "Effects": [
-        "{xeff 'drifting'}"
-      ]
+      "Effects": ["{xeff 'drifting'}"]
     },
     {
       "Name": "Melatonin",
@@ -425,9 +412,7 @@
       "DEffects": [
         {
           "Dosage": "+100mg",
-          "Effects": [
-            "{wkp 'opioid overdose'}"
-          ]
+          "Effects": ["{wkp 'opioid overdose'}"]
         }
       ]
     },
@@ -453,9 +438,7 @@
           "Name": "insufflated"
         }
       ],
-      "Sources": [
-        "NYXOID 1.8mg: Nasalspray"
-      ],
+      "Sources": ["NYXOID 1.8mg: Nasalspray"],
       "Effects": [
         "{rev} {xeff 'respiratory depression'} (in case of {sub 'diacetylmorphine'} overdose)",
         "{xeff 'anxiety'}",
@@ -635,9 +618,7 @@
           "Dosage": "100-400mg"
         }
       ],
-      "Effects": [
-        "{xeff 'increased libido'}"
-      ]
+      "Effects": ["{xeff 'increased libido'}"]
     },
     {
       "Name": "Cannabidiol",
@@ -764,8 +745,7 @@
           "Name": "intravenous"
         }
       ],
-      "Effects": [
-      ]
+      "Effects": []
     },
     {
       "Name": "3,4-Methylenedioxymethamphetamine",
@@ -865,13 +845,11 @@
     },
     {
       "Name": "Clophedrone",
-      "Routes": [
-      ]
+      "Routes": []
     },
     {
       "Name": "Clephedrone",
-      "Routes": [
-      ]
+      "Routes": []
     },
     {
       "Name": "Bupropion",
@@ -942,12 +920,8 @@
       "Sources": [
         "α-Pyrrolidinobutyrophenone: Research-chemical-vendor Netherlands (questionable purity and identity; mislabeled bag)"
       ],
-      "Salts": [
-        "Ascorbate"
-      ],
-      "Effects": [
-        "{sev 'moderate'} {xeff 'cognitive euphoria'}"
-      ]
+      "Salts": ["Ascorbate"],
+      "Effects": ["{sev 'moderate'} {xeff 'cognitive euphoria'}"]
     },
     {
       "Name": "α-Pyrrolidinopentiophenone",
@@ -959,9 +933,7 @@
       "Sources": [
         "α-PVP: Research-chemical-vendor Netherlands (orangeish crystal shards)"
       ],
-      "Salts": [
-        "Hydrochloride"
-      ],
+      "Salts": ["Hydrochloride"],
       "Effects": [
         "{xeff 'cognitive euphoria'}",
         "{xeff 'psychosis'}",
@@ -978,12 +950,8 @@
           "Active": "3-15 minutes"
         }
       ],
-      "Salts": [
-        "Citrate"
-      ],
-      "Effects": [
-        "{sev 'intense'} {xeff 'cognitive euphoria'}"
-      ],
+      "Salts": ["Citrate"],
+      "Effects": ["{sev 'intense'} {xeff 'cognitive euphoria'}"],
       "After": [
         "{sev 'intense'} {xeff 'cognitive dysphoria'}",
         "{sev 'moderate'} {xeff 'suicidal ideation'}"
@@ -996,13 +964,8 @@
           "Name": "Intravenous"
         }
       ],
-      "Salts": [
-        "Citrate",
-        "Freebase"
-      ],
-      "Odor": [
-        "Freebase: unpleasant smell of cucumbers and cum"
-      ],
+      "Salts": ["Citrate", "Freebase"],
+      "Odor": ["Freebase: unpleasant smell of cucumbers and cum"],
       "Effects": [
         "{xeff 'anxiety'}",
         "{xeff 'depression reduction'}",

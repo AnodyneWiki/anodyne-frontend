@@ -27,12 +27,7 @@
       "MW": "425.0 g/mol"
     }
   ],
-  "Analogues": [
-    "piperidine",
-    "pyridine",
-    "piperazine",
-    "morpholine"
-  ],
+  "Analogues": ["piperidine", "pyridine", "piperazine", "morpholine"],
   "Children": [
     "arylcyclohexylpyrrolidine",
     "2-benzylpyrrolidine",
@@ -40,7 +35,5 @@
     "phenethylpyrrolidine",
     "nitazepyne"
   ],
-  "Parents": [
-    "amine"
-  ]
+  "Parents": ["amine"]
 }

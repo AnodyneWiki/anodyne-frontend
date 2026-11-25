@@ -1,11 +1,15 @@
 {
+  "Name": "antiandrogen",
   "Entries": [
     {
       "Title": "Spironolactone",
-      "Abr": [
-
-      ],
-      "MW": "416.6 g/mol"
+      "MW": "416.6 g/mol",
+      "Abr": []
+    },
+    {
+      "Title": "Progesterone",
+      "Abr": ["P4"],
+      "MW": "314.5 g/mol"
     }
   ]
 }

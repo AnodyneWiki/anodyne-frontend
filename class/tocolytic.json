@@ -1,9 +1,10 @@
 {
+  "Name": "tocolytic",
   "Entries": [
     {
       "Title": "Ritodrine",
-      "Abr": "",
-      "MW": "287.35 g/mol"
+      "MW": "287.35 g/mol",
+      "Abr": ""
     }
   ]
 }

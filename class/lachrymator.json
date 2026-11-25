@@ -1,9 +1,10 @@
 {
+  "Name": "lachrymator",
   "Entries": [
     {
       "Title": "Benzyl chloride",
-      "Abr": null,
-      "MW": "126.58 g/mol"
+      "MW": "126.58 g/mol",
+      "Abr": null
     }
   ]
 }

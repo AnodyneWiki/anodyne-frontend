@@ -8,9 +8,7 @@
     },
     {
       "Title": "3,4-Methylenedioxymephenidine",
-      "Abr": [
-        "UWA-001"
-      ],
+      "Abr": ["UWA-001"],
       "MW": "255.31 g/mol"
     },
     {
@@ -20,16 +18,12 @@
     },
     {
       "Title": "Diphenidine",
-      "Abr": [
-        "DPD"
-      ],
+      "Abr": ["DPD"],
       "MW": "265.4 g/mol"
     },
     {
       "Title": "Isopropylphenidine",
-      "Abr": [
-        "NPDPA"
-      ],
+      "Abr": ["NPDPA"],
       "MW": "239.35 g/mol"
     },
     {
@@ -39,23 +33,17 @@
     },
     {
       "Title": "Methoxphenidine",
-      "Abr": [
-        "MXP"
-      ],
+      "Abr": ["MXP"],
       "MW": "295.4 g/mol"
     },
     {
       "Title": "Propylphenidine",
-      "Abr": [
-        "N-Pr-α-Ph-PEA"
-      ],
+      "Abr": ["N-Pr-α-Ph-PEA"],
       "MW": "239.35 g/mol"
     },
     {
       "Title": "α-Pyrrolidino-2-phenylacetophenone",
-      "Abr": [
-        "α-D2PV"
-      ],
+      "Abr": ["α-D2PV"],
       "MW": "265.3 g/mol"
     },
     {
@@ -70,9 +58,7 @@
     },
     {
       "Title": "1-Cyclohexyl-4-(1,2-diphenylethyl)piperazine",
-      "Abr": [
-        "MT-45"
-      ],
+      "Abr": ["MT-45"],
       "MW": "348.5 g/mol"
     },
     {
@@ -84,6 +70,19 @@
       "Title": "Apomorphine",
       "MW": "267.32 g/mol",
       "Abr": null
+    },
+    {
+      "Title": "Aporphine",
+      "MW": "235.32 g/mol"
+    },
+    {
+      "Title": "Fluorolintane",
+      "Abr": ["2-FPPP"],
+      "MW": "269.4 g/mol"
+    },
+    {
+      "Title": "Indapyrophenidone",
+      "MW": "305.4 g/mol"
     }
   ],
   "First": {

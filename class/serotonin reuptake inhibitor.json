@@ -2,7 +2,7 @@
   "Entries": [
     {
       "Title": "5,6-Dihydroxytryptamine",
-      "Abr": "5,6-DHT",
+      "Abr": ["5,6-DHT"],
       "MW": "192.21 g/mol"
     },
     {
@@ -12,9 +12,7 @@
     },
     {
       "Title": "Fluvoxamine",
-      "Abr": [
-
-      ],
+      "Abr": [],
       "MW": "318.33 g/mol"
     },
     {
@@ -31,6 +29,19 @@
       "Title": "Dasotraline",
       "Abr": null,
       "MW": "292.2 g/mol"
+    },
+    {
+      "Title": "Trazodone",
+      "MW": "371.9 g/mol"
+    },
+    {
+      "Title": "Paroxetine",
+      "MW": "329.4 g/mol"
+    },
+    {
+      "Title": "Escitalopram",
+      "MW": "324.4 g/mol"
     }
-  ]
+  ],
+  "Name": "serotonin reuptake inhibitor"
 }

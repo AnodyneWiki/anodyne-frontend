@@ -167,9 +167,7 @@
     },
     {
       "Title": "Estradiol enantate",
-      "Abr": [
-        "EEN"
-      ],
+      "Abr": ["EEN"],
       "MW": "384.6 g/mol"
     },
     {
@@ -183,9 +181,5 @@
       "MW": "360.4 g/mol"
     }
   ],
-  "Children": [
-    "androstene",
-    "estrane",
-    "pregnane"
-  ]
+  "Children": ["androstene", "estrane", "pregnane"]
 }

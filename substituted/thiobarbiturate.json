@@ -42,11 +42,6 @@
     "Abr": "",
     "MW": "200.26 g/mol"
   },
-  "Analogues": [
-    "barbiturate"
-  ],
-  "Parents": [
-    "amine",
-    "ketone"
-  ]
+  "Analogues": ["barbiturate"],
+  "Parents": ["amine", "ketone"]
 }

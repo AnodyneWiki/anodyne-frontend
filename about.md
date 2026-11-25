@@ -84,8 +84,8 @@ Under no circumstances do we take responsibility for any serious complications a
 <h3>Effects{{template "pexnd" $v.Collapse}}</h3>
     <div class=collapserContent>
 <ul>
-<li><a href=https://anodyne.wiki/effect/psychosis>psychosis</a></li>
-{{/*<li><a href=https://anodyne.wiki/effect/stimfapping>stimfapping (satire)</a></li>*/}}
+<li><a href=/effect/psychosis>psychosis</a></li>
+{{/*<li><a href=/effect/stimfapping>stimfapping (satire)</a></li>*/}}
 <li><a class=logo href=https://www.effectindex.com>Subjective Effect Index</a></li>
 <li><a class=logo href=http://sideeffects.embl.de>SIDER 4.1 (Side Effect Resource)</a></li>
 </ul>
@@ -96,7 +96,7 @@ Under no circumstances do we take responsibility for any serious complications a
     <div class=collapserContent>
 <ul>
 {{range $subst := sortAlpha (listFiles "class")}}
-<li><a href='https://anodyne.wiki/class/{{(trimSuffix ".json" $subst | replace "_" " " | lower)}}'>{{(trimSuffix ".json" $subst | replace "_" " ")}}s</a></li>{{end}}
+<li><a href='/class/{{(trimSuffix ".json" $subst | replace "_" " " | lower)}}'>{{(trimSuffix ".json" $subst | replace "_" " ")}}s</a></li>{{end}}
 </ul>
     </div>
 </div>

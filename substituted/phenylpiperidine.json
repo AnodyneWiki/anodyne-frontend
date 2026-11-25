@@ -13,14 +13,9 @@
     },
     {
       "Title": "Desmethylprodine",
-      "Abr": [
-        "MPPP"
-      ],
+      "Abr": ["MPPP"],
       "MW": "247.33 g/mol"
     }
   ],
-  "Parents": [
-    "aniline",
-    "piperidine"
-  ]
+  "Parents": ["aniline", "piperidine"]
 }

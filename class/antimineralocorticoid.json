@@ -1,11 +1,10 @@
 {
+  "Name": "antimineralocorticoid",
   "Entries": [
     {
       "Title": "Spironolactone",
-      "Abr": [
-
-      ],
-      "MW": "416.6 g/mol"
+      "MW": "416.6 g/mol",
+      "Abr": []
     }
   ]
 }

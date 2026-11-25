@@ -14,43 +14,43 @@
     },
     {
       "Title": "Ibogainalog",
-      "Abr": [
-        "IBG"
-      ],
+      "Abr": ["IBG"],
       "MW": "230.31 g/mol"
     },
     {
       "Title": "Tabernanthalog",
-      "Abr": [
-        "TBG"
-      ],
+      "Abr": ["TBG"],
       "MW": "230.31 g/mol"
     },
     {
       "Title": "Noribogainalog",
-      "Abr": [
-        "nor-IBG"
-      ],
+      "Abr": ["nor-IBG"],
       "MW": "216.28 g/mol"
     },
     {
       "Title": "Catharanthalog",
-      "Abr": [
-        "CAG"
-      ],
+      "Abr": ["CAG"],
       "MW": "258.32 g/mol"
     },
     {
       "Title": "6-Methylhexahydroazepinoindoles",
-      "Abr": [
-        "PNU-22394",
-        "PNU-22394A"
-      ],
+      "Abr": ["PNU-22394", "PNU-22394A"],
       "MW": "200.28 g/mol"
+    },
+    {
+      "Title": "Ibogaine",
+      "MW": "310.4 g/mol"
+    },
+    {
+      "Title": "18-Methoxycoronaridine",
+      "Abr": ["18-MC"],
+      "MW": "368.5 g/mol"
+    },
+    {
+      "Title": "PHA-57378",
+      "MW": "228.29 g/mol"
     }
   ],
   "Parent": "tryptamine",
-  "Analogues": [
-    "β-carboline"
-  ]
+  "Analogues": ["β-carboline"]
 }

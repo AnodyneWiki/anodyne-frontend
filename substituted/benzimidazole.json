@@ -31,10 +31,6 @@
       "MW": "400.3 g/mol"
     }
   ],
-  "Children": [
-    "nitazene"
-  ],
-  "Parents": [
-    "aniline"
-  ]
+  "Children": ["nitazene"],
+  "Parents": ["aniline"]
 }

@@ -1,10 +1,6 @@
 {
   "Title": "ninerik",
-  "Name": [
-    "Ninerik",
-    "Hakon",
-    "HF"
-  ],
+  "Name": ["Ninerik", "Hakon", "HF"],
   "About": "{p}Hello....? Anyone out there? No...?{Ep}{p}Silence, uuueehhhh? I wonder how long it's been... {Ep}{p}Months, years even?{Ep}",
   "Birth": "2007-09",
   "Location": "Norway",
@@ -32,12 +28,7 @@
           "Dosage": "35-680mg"
         }
       ],
-      "Sources": [
-        "Energy drinks",
-        "Coffee",
-        "Tea",
-        "Bulk.com 200mg tablets"
-      ],
+      "Sources": ["Energy drinks", "Coffee", "Tea", "Bulk.com 200mg tablets"],
       "Effects": [
         "{sev 'light'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'wakefulness'}",
@@ -48,22 +39,16 @@
         "{sev 'light'} {xeff 'shakiness'} at medium to high doses",
         "{wkp 'addiction'} (since the start of 2026)"
       ],
-      "Classes": [
-        "Stimulant"
-      ],
+      "Classes": ["Stimulant"],
       "Indication": [
         "{xeff 'sleepiness'}",
         "{xeff 'headache'} from {sub 'Caffeine'} withdrawals"
       ],
-      "Notes": [
-        "Awful awful awful stimulant"
-      ]
+      "Notes": ["Awful awful awful stimulant"]
     },
     {
       "Name": "Amphetamine",
-      "Sources": [
-        "DNM: Speed"
-      ],
+      "Sources": ["DNM: Speed"],
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'wakefulness'}",
@@ -79,9 +64,7 @@
         "{xeff 'dehydration'}",
         "{sev 'light'} {xeff 'drifting'} when heavily de-hydrated"
       ],
-      "Classes": [
-        "Stimulant"
-      ],
+      "Classes": ["Stimulant"],
       "Notes": [
         "I will not consume any more amphetamine. I will not consume any more amphetamine. I will not consume any more amphetamine. Okay just one more time :P"
       ]
@@ -98,12 +81,8 @@
           "Dosage": "9-14mg"
         }
       ],
-      "Sources": [
-        "DNM"
-      ],
-      "Salts": [
-        "Hydrobromide"
-      ],
+      "Sources": ["DNM"],
+      "Salts": ["Hydrobromide"],
       "Effects": [
         "{sev 'light'} {xeff 'nausea'} fading as peak comes",
         "{sev 'strong'} {xeff 'pupil-dilation'}",
@@ -119,9 +98,7 @@
       "DEffects": [
         {
           "Route": "Oral",
-          "Effects": [
-            "{sev 'moderate'} {xeff 'teeth-grinding'}"
-          ]
+          "Effects": ["{sev 'moderate'} {xeff 'teeth-grinding'}"]
         },
         {
           "Route": "Insufflated",
@@ -131,14 +108,8 @@
           ]
         }
       ],
-      "Classes": [
-        "Stimulant",
-        "Psychedelic",
-        "Entactogen"
-      ],
-      "Notes": [
-        "My favorite psychedelic"
-      ]
+      "Classes": ["Stimulant", "Psychedelic", "Entactogen"],
+      "Notes": ["My favorite psychedelic"]
     },
     {
       "Name": "Cetirizine",
@@ -148,18 +119,10 @@
           "Dosage": "10mg"
         }
       ],
-      "Sources": [
-        "Pharmacy"
-      ],
-      "Indication": [
-        "Allergies"
-      ],
-      "Effects": [
-        "{wkp 'Antihistamine'}"
-      ],
-      "Notes": [
-        "Seems to be more effective than 5mg {wkp 'Desloratadine'}"
-      ]
+      "Sources": ["Pharmacy"],
+      "Indication": ["Allergies"],
+      "Effects": ["{wkp 'Antihistamine'}"],
+      "Notes": ["Seems to be more effective than 5mg {wkp 'Desloratadine'}"]
     },
     {
       "Name": "Ketamine",
@@ -175,13 +138,8 @@
         "{xeff 'increased-music-appreciation'}",
         "{xeff 'cognitive-disconnection'}"
       ],
-      "Classes": [
-        "Dissociative",
-        "Psychedelic"
-      ],
-      "Notes": [
-        "Don't like the drip (bad technique) :<"
-      ]
+      "Classes": ["Dissociative", "Psychedelic"],
+      "Notes": ["Don't like the drip (bad technique) :<"]
     },
     {
       "Name": "3,4-Methylenedioxymethamphetamine",
@@ -204,13 +162,8 @@
         "{xeff 'wakefulness'}",
         "{xeff 'teeth-grinding'}"
       ],
-      "Classes": [
-        "Stimulant",
-        "Entactogen"
-      ],
-      "Odor": [
-        "Liquorice"
-      ],
+      "Classes": ["Stimulant", "Entactogen"],
+      "Odor": ["Liquorice"],
       "Notes": [
         "Hurts less than {sub '2C-B'} when insufflated, but still stings slightly"
       ]
@@ -223,19 +176,11 @@
           "Dosage": "20mg"
         }
       ],
-      "Sources": [
-        "Friend"
-      ],
-      "Salts": [
-        "Dimesylate"
-      ],
+      "Sources": ["Friend"],
+      "Salts": ["Dimesylate"],
       "Effects": [],
-      "Classes": [
-        "Stimulant"
-      ],
-      "Notes": [
-        "Ik ben de situatie aan het monitoren"
-      ]
+      "Classes": ["Stimulant"],
+      "Notes": ["Ik ben de situatie aan het monitoren"]
     },
     {
       "Name": "Ethanol",
@@ -256,12 +201,8 @@
         "{xeff 'frequent-urination'}",
         "{xeff 'double-vision'}"
       ],
-      "Classes": [
-        "Depressant"
-      ],
-      "Notes": [
-        "mmmmmpf vodka"
-      ]
+      "Classes": ["Depressant"],
+      "Notes": ["mmmmmpf vodka"]
     },
     {
       "Name": "Tyrosine",
@@ -271,19 +212,13 @@
           "Dosage": "1000-2000mg"
         }
       ],
-      "Sources": [
-        "Bulk.com supplement store"
-      ],
+      "Sources": ["Bulk.com supplement store"],
       "Effects": [
         "{sev 'light'} {xeff 'stimulation'}",
         "{sev 'light'} {xeff 'wakefulness'}"
       ],
-      "Classes": [
-        "Stimulant"
-      ],
-      "Notes": [
-        "Combines nicely with {sub 'Caffeine'} & {sub 'Amphetamine'}"
-      ]
+      "Classes": ["Stimulant"],
+      "Notes": ["Combines nicely with {sub 'Caffeine'} & {sub 'Amphetamine'}"]
     },
     {
       "Name": "Modafinil",
@@ -293,10 +228,7 @@
           "Dosage": "100-400mg"
         }
       ],
-      "Sources": [
-        "DNM",
-        "Pharmacy"
-      ],
+      "Sources": ["DNM", "Pharmacy"],
       "Effects": [
         "{sev 'moderate'} {xeff 'wakefulness'}",
         "{sev 'light'} {xeff 'stimulation'}",
@@ -304,12 +236,8 @@
         "{sev 'light'} {xeff 'motivation-enhancement'}",
         "{xeff 'headache'} disappearing with more frequent usage"
       ],
-      "Classes": [
-        "Stimulant"
-      ],
-      "Notes": [
-        "Yummy wakefulness"
-      ]
+      "Classes": ["Stimulant"],
+      "Notes": ["Yummy wakefulness"]
     },
     {
       "Name": "Clephedrone",
@@ -319,9 +247,7 @@
           "Dosage": "unknown"
         }
       ],
-      "Sources": [
-        "DNM: Redbull pressies"
-      ],
+      "Sources": ["DNM: Redbull pressies"],
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'empathy-affection-and-sociability-enhancement'}",
@@ -340,10 +266,7 @@
         "{sev 'light'} {xeff 'pupil-dilation'}",
         "{sev 'light'} {xeff 'sleepiness'}?"
       ],
-      "Classes": [
-        "Stimulant",
-        "Cytotoxin"
-      ],
+      "Classes": ["Stimulant", "Cytotoxin"],
       "Notes": [
         "Yucky cytotoxin with an {sev 'intense'} almost psychedelic like come-up"
       ]
@@ -356,9 +279,7 @@
           "Dosage": "12-17mg"
         }
       ],
-      "Sources": [
-        "DNM"
-      ],
+      "Sources": ["DNM"],
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'compulsive-redosing'}",
@@ -373,12 +294,8 @@
         "{sev 'light'} {xeff 'tactile-enhancement'}",
         "{sev 'light'} {xeff 'time-distortion'}"
       ],
-      "Classes": [
-        "Stimulant"
-      ],
-      "Notes": [
-        "Less cozy compared to {sub 'Amphetamine'}"
-      ]
+      "Classes": ["Stimulant"],
+      "Notes": ["Less cozy compared to {sub 'Amphetamine'}"]
     },
     {
       "Name": "Methylphenidate",
@@ -388,9 +305,7 @@
           "Dosage": "10mg"
         }
       ],
-      "Sources": [
-        "Friend"
-      ],
+      "Sources": ["Friend"],
       "Effects": [
         "{sev 'light'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'motivation-enhancement'}",
@@ -399,9 +314,7 @@
         "{sev 'light'} {xeff 'increased-perspiration'}",
         "{sev 'light'} {xeff 'spontaneous-tactile-sensations'}"
       ],
-      "Classes": [
-        "Stimulant"
-      ]
+      "Classes": ["Stimulant"]
     }
   ],
   "Psyche": {
@@ -412,8 +325,6 @@
       "{wkp 'machining'}",
       "{wkp 'CNC machining'}"
     ],
-    "Attributes": [
-      "{wkp 'workaholic'}"
-    ]
+    "Attributes": ["{wkp 'workaholic'}"]
   }
 }

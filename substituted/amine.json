@@ -8,9 +8,7 @@
     },
     {
       "Title": "Methylhexanamine",
-      "Abr": [
-        "1,3-DMAA"
-      ],
+      "Abr": ["1,3-DMAA"],
       "MW": "115.22 g/mol"
     },
     {
@@ -25,9 +23,7 @@
     },
     {
       "Title": "1,4-Dimethylamylamine",
-      "Abr": [
-        "1,4-DMAA"
-      ],
+      "Abr": ["1,4-DMAA"],
       "MW": "115.22 g/mol"
     },
     {
@@ -57,16 +53,12 @@
     },
     {
       "Title": "Clavulanic acid",
-      "Abr": [
-        "RX-10100"
-      ],
+      "Abr": ["RX-10100"],
       "MW": "199.16 g/mol"
     },
     {
       "Title": "β-Alanine",
-      "Abr": [
-        "β-Ala"
-      ],
+      "Abr": ["β-Ala"],
       "MW": "89.09 g/mol"
     }
   ],

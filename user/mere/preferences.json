@@ -141,9 +141,7 @@
     {
       "Name": "Cannabis",
       "Composite": true,
-      "Notes": [
-        "in form of dried flower, oil"
-      ]
+      "Notes": ["in form of dried flower, oil"]
     },
     {
       "Name": "Psilocybe cubensis",

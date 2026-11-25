@@ -33,7 +33,7 @@
     },
     {
       "Title": "3,4-Methylenedioxyphentermine",
-      "Abr": "MDPH",
+      "Abr": ["MDPH"],
       "MW": "193.24 g/mol"
     },
     {
@@ -55,6 +55,19 @@
       "Title": "Etolorex",
       "Abr": "",
       "MW": "227.73 g/mol"
+    },
+    {
+      "Title": "α-Methyl-p-tyrosine",
+      "Abr": ["AMPT"],
+      "MW": "195.21 g/mol"
+    },
+    {
+      "Title": "Carbidopa",
+      "MW": "226.23 g/mol"
+    },
+    {
+      "Title": "Methyldopa",
+      "MW": "211.21 g/mol"
     }
   ],
   "Parent": "amphetamine"

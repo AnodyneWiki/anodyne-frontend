@@ -35,9 +35,7 @@
     {
       "Title": "Diazepam",
       "MW": "284.74 g/mol",
-      "Abr": [
-        "Valium"
-      ]
+      "Abr": ["Valium"]
     },
     {
       "Title": "Diclazepam",
@@ -160,15 +158,7 @@
       "MW": "315.71 g/mol"
     }
   ],
-  "Children": [
-    "triazolobenzodiazepine",
-    "imidazobenzodiazepine"
-  ],
-  "Analogues": [
-    "thienodiazepine",
-    "pyridodiazepine"
-  ],
-  "Parents": [
-    "aniline"
-  ]
+  "Children": ["triazolobenzodiazepine", "imidazobenzodiazepine"],
+  "Analogues": ["thienodiazepine", "pyridodiazepine"],
+  "Parents": ["aniline"]
 }

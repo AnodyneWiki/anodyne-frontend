@@ -3,30 +3,22 @@
   "Entries": [
     {
       "Title": "Methylphenidate",
-      "Abr": [
-        "MPH"
-      ],
+      "Abr": ["MPH"],
       "MW": "233.31 g/mol"
     },
     {
       "Title": "4-Fluoroethylphenidate",
-      "Abr": [
-        "4-FEPH"
-      ],
+      "Abr": ["4-FEPH"],
       "MW": "265.32 g/mol"
     },
     {
       "Title": "4-Fluoromethylphenidate",
-      "Abr": [
-        "4-FMPH"
-      ],
+      "Abr": ["4-FMPH"],
       "MW": "251.30 g/mol"
     },
     {
       "Title": "4-Methylmethylphenidate",
-      "Abr": [
-        "4-MMPH"
-      ],
+      "Abr": ["4-MMPH"],
       "MW": "247.33 g/mol"
     },
     {
@@ -36,37 +28,27 @@
     },
     {
       "Title": "Ethylphenidate",
-      "Abr": [
-        "EPH"
-      ],
+      "Abr": ["EPH"],
       "MW": "247.33 g/mol"
     },
     {
       "Title": "Isopropylphenidate",
-      "Abr": [
-        "IPH"
-      ],
+      "Abr": ["IPH"],
       "MW": "261.36 g/mol"
     },
     {
       "Title": "Methylnaphthidate",
-      "Abr": [
-        "HDMP-28"
-      ],
+      "Abr": ["HDMP-28"],
       "MW": "283.4 g/mol"
     },
     {
       "Title": "Propylphenidate",
-      "Abr": [
-        "PPH"
-      ],
+      "Abr": ["PPH"],
       "MW": "261.36 g/mol"
     },
     {
       "Title": "3,4-Dichloromethylphenidate",
-      "Abr": [
-        "3,4-DCMP"
-      ],
+      "Abr": ["3,4-DCMP"],
       "MW": "302.2 g/mol"
     },
     {
@@ -76,50 +58,35 @@
     },
     {
       "Title": "Serdexmethylphenidate",
-      "Abr": [
-        "SDX"
-      ],
+      "Abr": ["SDX"],
       "MW": "499.5 g/mol"
     },
     {
       "Title": "N-Benzylmethylphenidate",
-      "Abr": [
-        "NBMPH"
-      ],
+      "Abr": ["NBMPH"],
       "MW": "323.4 g/mol"
     },
     {
       "Title": "Dexmethylphenidate",
-      "Abr": [
-        "d-MPH"
-      ],
+      "Abr": ["d-MPH"],
       "MW": "233.31 g/mol"
     },
     {
       "Title": "3-Bromomethylphenidate",
-      "Abr": [
-        "3-Br-MPH"
-      ],
+      "Abr": ["3-Br-MPH"],
       "MW": "312.20 g/mol"
     },
     {
       "Title": "3-Chloromethylphenidate",
-      "Abr": [
-        "3-Cl-MPH"
-      ],
+      "Abr": ["3-Cl-MPH"],
       "MW": "267.75 g/mol"
     },
     {
       "Title": "3-Methylmethylphenidate",
-      "Abr": [
-        "3-Me-MPH"
-      ],
+      "Abr": ["3-Me-MPH"],
       "MW": "247.33 g/mol"
     }
   ],
-  "Parents": [
-    "2-benzylpiperidine",
-    "carboxylic acid"
-  ],
+  "Parents": ["2-benzylpiperidine", "carboxylic acid"],
   "Wikipedia": "List_of_methylphenidate_analogues"
 }

@@ -1,8 +1,6 @@
 {
   "Title": "nervewing",
-  "Name": [
-    "Nervewing"
-  ],
+  "Name": ["Nervewing"],
   "About": "{p}Psychoactive chemicals blogger #1 erowid experience vaults contributor former dissociatiive chemist bug and invertebrate enthusiast{Ep}{p}{a 'https://nervewing.blogspot.com'}{Ep}",
   "Location": "United states",
   "Birth": "1996-01",
@@ -26,10 +24,7 @@
     }
   ],
   "Psyche": {
-    "Interests": [
-      "synthesis",
-      "zoology"
-    ],
+    "Interests": ["synthesis", "zoology"],
     "Attributes": []
   },
   "RoutesOfAdministration": [],
@@ -115,9 +110,7 @@
     },
     {
       "Name": "Lysergic acid",
-      "Sources": [
-        "Argyreia nervosa"
-      ]
+      "Sources": ["Argyreia nervosa"]
     },
     {
       "Name": "Lysergic acid diethylamide"
@@ -184,9 +177,7 @@
     },
     {
       "Name": "Psilocin",
-      "Sources": [
-        "Synthetic"
-      ]
+      "Sources": ["Synthetic"]
     },
     {
       "Name": "Cocaine"
@@ -289,9 +280,7 @@
     },
     {
       "Name": "Cathinone",
-      "Sources": [
-        "Catha edulis"
-      ]
+      "Sources": ["Catha edulis"]
     },
     {
       "Name": "Metaphedrone"
@@ -340,9 +329,7 @@
     },
     {
       "Name": "Cocaine",
-      "Salts": [
-        "Freebase"
-      ]
+      "Salts": ["Freebase"]
     },
     {
       "Name": "Mirtazapine"
@@ -685,9 +672,7 @@
     },
     {
       "Name": "Muscimol",
-      "Sources": [
-        "As a decarboxylated Amanita muscaria extract"
-      ]
+      "Sources": ["As a decarboxylated Amanita muscaria extract"]
     },
     {
       "Name": "O-PCiPr"
@@ -816,4 +801,3 @@
   "SubstanceMatrixCellW": "50px",
   "SubstanceMatrixCellH": "50px"
 }
-

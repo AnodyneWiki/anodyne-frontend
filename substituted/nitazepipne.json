@@ -12,12 +12,7 @@
       "MW": "408.5 g/mol"
     }
   ],
-  "Parents": [
-    "nitazene",
-    "piperidine"
-  ],
-  "Analogues": [
-    "nitazepyne"
-  ],
+  "Parents": ["nitazene", "piperidine"],
+  "Analogues": ["nitazepyne"],
   "Wikipedia": "List of benzimidazole opioids"
 }

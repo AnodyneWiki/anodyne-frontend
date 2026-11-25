@@ -123,32 +123,22 @@
     },
     {
       "Title": "Allylescaline",
-      "Abr": [
-        "AL"
-      ],
+      "Abr": ["AL"],
       "MW": "237.29 g/mol"
     },
     {
       "Title": "Benzscaline",
-      "Abr": [
-        "4-BzlO-3,5-DMPEA",
-        "BZ"
-      ],
+      "Abr": ["4-BzlO-3,5-DMPEA", "BZ"],
       "MW": "287.35 g/mol"
     },
     {
       "Title": "L-3,4-Dihydroxyphenylalanine",
-      "Abr": [
-        "L-DOPA"
-      ],
+      "Abr": ["L-DOPA"],
       "MW": "197.19 g/mol"
     },
     {
       "Title": "3,4-Dihydroxyphenylalanine",
-      "Abr": [
-        "DOPA",
-        "L-DOPA"
-      ],
+      "Abr": ["DOPA", "L-DOPA"],
       "MW": "197.19 g/mol"
     }
   ],
@@ -157,8 +147,5 @@
     "Abr": "DA",
     "MW": "153.18 g/mol"
   },
-  "Parents": [
-    "phenethylamine",
-    "alcohol"
-  ]
+  "Parents": ["phenethylamine", "alcohol"]
 }

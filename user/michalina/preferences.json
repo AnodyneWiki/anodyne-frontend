@@ -1,9 +1,6 @@
 {
   "Title": "michalina",
-  "Name": [
-    "misia",
-    "eliza (formerly)"
-  ],
+  "Name": ["misia", "eliza (formerly)"],
   "About": "{p}hello! I'm Michalina and welcome to my Anodyne userpage. Nice to meet you!. drug of choice: 4-MMC, 3-CMC and 2C-B.{Ep}",
   "Birth": "2005-03",
   "Location": "East Poland",
@@ -52,23 +49,13 @@
     },
     {
       "Name": "Brephedrone",
-      "Effects": [
-        "weak euphoria",
-        "stimulation",
-        "increased libido"
-      ]
+      "Effects": ["weak euphoria", "stimulation", "increased libido"]
     },
     {
       "Name": "Amphetamine",
-      "Salts": [
-        "bmk"
-      ],
-      "Effects": [
-        "stimulation"
-      ],
-      "Notes": [
-        "none of euphoria has been present, pure stimulation"
-      ]
+      "Salts": ["bmk"],
+      "Effects": ["stimulation"],
+      "Notes": ["none of euphoria has been present, pure stimulation"]
     },
     {
       "Name": "3,4-Methylenedioxymethamphetamine",
@@ -82,9 +69,7 @@
     },
     {
       "Name": "Clephedrone",
-      "Notes": [
-        "similar effects to 4-MMC, but lesser"
-      ]
+      "Notes": ["similar effects to 4-MMC, but lesser"]
     },
     {
       "Name": "Metaphedrone"
@@ -101,9 +86,7 @@
     },
     {
       "Name": "α-Pyrrolidinopentiophenone",
-      "Source": [
-        "sample"
-      ],
+      "Source": ["sample"],
       "Effects": [
         "most heavy stimulation from all stimulants I've been tooked",
         "{xeff 'psychosis'}",
@@ -130,10 +113,7 @@
         "nauesa",
         "passing out"
       ],
-      "Notes": [
-        "crazy experience made at the meeting in may 2025",
-        "chemsex"
-      ]
+      "Notes": ["crazy experience made at the meeting in may 2025", "chemsex"]
     },
     {
       "Name": "Morphine",
@@ -162,17 +142,11 @@
         "sedation",
         "opiate itch"
       ],
-      "Notes": [
-        "as above in morphine"
-      ]
+      "Notes": ["as above in morphine"]
     },
     {
       "Name": "Codeine",
-      "Effects": [
-        "light sedation",
-        "little euphoria",
-        "stomach pain"
-      ],
+      "Effects": ["light sedation", "little euphoria", "stomach pain"],
       "Notes": [
         "lean or pills from pharmacy (1 package codeine per individual is allowed, sometimes pharmacist verifies age, because de facto codeine like dxm in Poland is controlled OTC substance for adults only +18)"
       ]
@@ -200,9 +174,7 @@
         "wild euphoria",
         "trip tooked 15 minutes"
       ],
-      "Notes": [
-        "R-ketamine isomer"
-      ]
+      "Notes": ["R-ketamine isomer"]
     },
     {
       "Name": "THC",
@@ -234,9 +206,7 @@
         "blacked out",
         "uncounsious"
       ],
-      "Notes": [
-        "usually ethanol in form of vodka"
-      ]
+      "Notes": ["usually ethanol in form of vodka"]
     },
     {
       "Name": "Cocaine",
@@ -249,9 +219,7 @@
         "geeking",
         "invicible"
       ],
-      "Notes": [
-        "0,5g Cocaine tried in december 2025 with my former friend"
-      ]
+      "Notes": ["0,5g Cocaine tried in december 2025 with my former friend"]
     },
     {
       "Name": "2,5-Dimethoxy-4-bromophenethylamine",
@@ -279,9 +247,7 @@
         "blurred vision",
         "moving vision"
       ],
-      "Notes": [
-        "tried with 2c-b in june 2026"
-      ]
+      "Notes": ["tried with 2c-b in june 2026"]
     }
   ],
   "Psyche": {
