@@ -1,0 +1,21 @@
+{
+  "Name": "phenylpiperidine",
+  "Entries": [
+    {
+      "Title": "Pethidine",
+      "Abr": null,
+      "MW": "247.33 g/mol"
+    },
+    {
+      "Title": "Prodine",
+      "Abr": null,
+      "MW": "261.36 g/mol"
+    },
+    {
+      "Title": "Desmethylprodine",
+      "Abr": ["MPPP"],
+      "MW": "247.33 g/mol"
+    }
+  ],
+  "Parents": ["aniline", "piperidine"]
+}

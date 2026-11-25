@@ -26,9 +26,7 @@ The info we provide shouldn't be the sole reference guiding your consumption nor
 
 Not the dosing ranges based on averages derived from former logs, any automatically gathered/derived info regarding compounds interactions/and activity and neither any advice given inside usernotes).
 
-Under no circumstances do we take responsibility for the serious complications and loss of life sustained doing so.
-
-We hope to make a positive impact on the safety of our users but the responsibility for your safety is yours.
+Under no circumstances do we take responsibility for any serious complications and loss of life sustained doing so.
 </div></div>
 
 <div class=collapser>
@@ -56,7 +54,6 @@ We hope to make a positive impact on the safety of our users but the responsibil
 <li><a href='/legal'>Legal</a></li>
 <li><a href='/donate'>Donate</a></li>
 <li><a href='/quotes'>Quotes</a></li>
-<li><a class=logo href=https://dbi-igs.org/>DBI-IGS</a></li>
 </ul>
 </div>
 </div>

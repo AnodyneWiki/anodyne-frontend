@@ -29,6 +29,7 @@
   ],
   "Analogues": ["pyrrolidine", "pyridine", "piperazine", "morpholine"],
   "Children": [
+    "phenylpiperidine",
     "phenethylpiperidine",
     "piperidinophenone",
     "arylcyclohexylpiperidine",

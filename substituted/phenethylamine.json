@@ -820,6 +820,11 @@
     {
       "Title": "Oxymetazoline",
       "MW": "260.37 g/mol"
+    },
+    {
+      "Title": "N-(1-Amino-3,3-dimethyl-1-oxobutan-2-yl)-1-butyl-1h-indazole-3-carboxamide",
+      "Abr": ["ADB-Butinaca"],
+      "MW": "330.4 g/mol"
     }
   ],
   "Parent": "arylalkylamine",

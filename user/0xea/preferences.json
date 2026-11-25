@@ -1,6 +1,6 @@
 {
   "Title": "0xea",
-  "Name": ["Xea", "Christie"],
+  "Name": ["0xea"],
   "About": "{p}Hyia~!,{Ep}{p}I am the creator of AnodyneWiki.{Ep}{p}I spend a year moderating PsychonautWiki before a falling out with the rest of the moderation team.{Ep}{p}{user 'a1ko'} is my partner.{Ep}{p}Feel free to chat me up! <3{Ep}",
   "Birth": "2005-02",
   "Location": "Germany",
@@ -32,7 +32,7 @@
     },
     {
       "Name": "Discord",
-      "Url": "im_0xea"
+      "Url": "0xea231"
     },
     {
       "Name": "Signal",
@@ -50,7 +50,6 @@
   "Psyche": {
     "Interests": [
       "{wkp 'psychopharmacology'}",
-      "synthesis",
       "compounding",
       "{wkp 'unix-like'} systems"
     ],
@@ -62,7 +61,8 @@
       "{wkp 'self-destructive behaviour'} (self-punshing, head-banging, cutting, injecting, intentional overdose)",
       "reaccuring {xeff 'suicidal ideation'} (since ~2018)",
       "{roa 'intravenous'} {wkp 'stimulant use disorder'} (since december 2023; longest period of abstinence 113 days; periods of {xeff 'wakefulness'} up to +7 days, psychological breakdown and severe episodes of {wkp 'stimulant psychosis'})",
-      "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'reduplicative paramnesia'}, {wkp 'delusional parasitosis'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'}, {wkp 'gang stalking'}, {wkp 'truman show delusion'}, {wkp 'messiah complex'}, {wkp 'reduplicative paramnesia'}, {wkp 'pathological jealousy'}, {wkp 'scrupulosity'}, {wkp 'erotomania'}, {wkp 'reincarnation'})"
+      "prior {xeff 'delusion' 'delusions'} (paranoid, persecutory, {wkp 'delusions of reference'}, {wkp 'somatic symptom disorder' 'somatic'}, {wkp 'thought broadcasting'}, {wkp 'somantic delusion' 'hypochondriasis'}, {wkp 'delusions of grandeur'}, {wkp 'fregoli delusion'}, {wkp 'reduplicative paramnesia'}, {wkp 'delusional parasitosis'}, {wkp 'intermetamorphosis'}, {wkp 'mirrored-self misidentification'}, {wkp 'Cotard%27s syndrome' 'cotard{apos}s syndrome'}, {wkp 'gang stalking'}, {wkp 'truman show delusion'}, {wkp 'messiah complex'}, {wkp 'reduplicative paramnesia'}, {wkp 'pathological jealousy'}, {wkp 'scrupulosity'}, {wkp 'erotomania'}, {wkp 'reincarnation'})",
+      "{wkp 'dissociative identity disorder'} (undiagnosed; alters with different gender identities, values, voices and risk-tolerance)"
     ]
   },
   "Preferences": [],
@@ -91,7 +91,9 @@
         "{xeff 'bronchodilation' 'bronchodilation'}",
         "{sev 'light'} {xeff 'stimulation' 'stimulation'}",
         "{xeff 'increased heart rate'}"
-      ]
+      ],
+      "Classes": ["Sympathomimetic"],
+      "Indication": ["Unexplained respiratory depression"]
     },
     {
       "Name": "Formoterol",
@@ -329,7 +331,8 @@
         "freebase smells strongly of rotten fish",
         "pristine sulfate is practically odorless"
       ],
-      "Notes": ["intravenously quite practical {class 'stimulant'}"]
+      "Notes": ["intravenously quite practical {class 'stimulant'}"],
+      "Classes": ["Sympathomimetic", "Stimulant"]
     },
     {
       "Name": "Dextroamphetamine",
@@ -359,7 +362,8 @@
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{xeff 'paranoia'}",
         "{xeff 'delusion'} (paranoid, shadow police)"
-      ]
+      ],
+      "Classes": ["Stimulant"]
     },
     {
       "Name": "Methamphetamine",
@@ -389,7 +393,7 @@
         },
         {
           "Name": "Intravenous",
-          "Dosage": "10-110mg",
+          "Dosage": "10-120mg",
           "Onset": "10-15 seconds",
           "Duration": "1-8 hours"
         },
@@ -454,7 +458,8 @@
         "{xeff 'panic attack'} (for 3-6 days)",
         "{xeff 'depression'} (for 1-4 weeks)",
         "{xeff 'motivation suppression'} (for 1-2 weeks)"
-      ]
+      ],
+      "Classes": ["Stimulant", "Entactogen"]
     },
     {
       "Name": "Dextromethamphetamine",
@@ -537,7 +542,8 @@
         "{xeff 'panic attack'} (for 3-6 days)",
         "{xeff 'depression'} (for 1-4 weeks)",
         "{xeff 'motivation suppression'} (for 1-2 weeks)"
-      ]
+      ],
+      "Classes": ["Stimulant", "Entactogen"]
     },
     {
       "Name": "4-Phenylmethamphetamine",
@@ -576,7 +582,8 @@
       ],
       "Notes": [
         "requires gentle heating to fully dissolve (regardless of acidic conditions)"
-      ]
+      ],
+      "Classes": ["Stimulant"]
     },
     {
       "Name": "3-Fluoroamphetamine",
@@ -624,7 +631,8 @@
         "{sev 'strong'} {xeff 'compulsive redosing'}",
         "{sev 'strong'} {xeff 'increased bodily temperature'}"
       ],
-      "Notes": ["unpleasant"]
+      "Notes": ["unpleasant"],
+      "Classes": ["Stimulant", "Entactogen"]
     },
     {
       "Name": "3-Fluoroethamphetamine",
@@ -686,7 +694,10 @@
         "{xeff 'anxiety'} (above 100mg)",
         "{xeff 'panic attack'} (above 100mg)"
       ],
-      "Odor": ["freebase distinct atypical yet uniquely nasty amine type smell"]
+      "Odor": [
+        "freebase distinct atypical yet uniquely nasty amine type smell"
+      ],
+      "Classes": ["Sympathomimetic"]
     },
     {
       "Name": "5-Methoxy-2-aminoindane",
@@ -766,6 +777,16 @@
       ]
     },
     {
+      "Name": "N-Cyclohexylmethylone",
+      "Routes": [
+        {
+          "Name": "intravenous",
+          "Dosage": "20-75mg"
+        }
+      ],
+      "Effects": ["{sev 'moderate'} {xeff 'Tinnitus'}"]
+    },
+    {
       "Name": "Lisdexamphetamine",
       "Routes": [
         {
@@ -780,7 +801,7 @@
           "Dosage": "50-150mg"
         }
       ],
-      "Classes": ["Stimulant"],
+      "Classes": ["Stimulant", "Prodrug", "Codrug"],
       "Salts": ["Dimesylate"],
       "Sources": ["Elvanse Lisdexamfetamine Dimesylate"],
       "Effects": [
@@ -834,7 +855,8 @@
         "{xeff 'delusion'} (of being poisoned by the friends taking care of me when suddenly a day after psychosis onset {xeff 'drifting'} effects kicked in)",
         "immensely distressed by the ~100 syringes in my bed"
       ],
-      "Notes": ["more potent than expected"]
+      "Notes": ["more potent than expected"],
+      "Classes": ["Stimulant"]
     },
     {
       "Name": "Metaphedrone",
@@ -922,7 +944,7 @@
       "Routes": [
         {
           "Name": "Intravenous",
-          "Dosage": "75mg"
+          "Dosage": "75-180mg"
         }
       ],
       "Classes": ["Entactogen", "Stimulant"],
@@ -961,7 +983,7 @@
         },
         {
           "Name": "Intravenous",
-          "Dosage": "60mg"
+          "Dosage": "51-450mg"
         }
       ],
       "Sources": [
@@ -969,7 +991,11 @@
         "4-BMC: Research-chemical-vendor"
       ],
       "Salts": ["Hydrochloride?"],
-      "Effects": ["{rev} {xeff 'constipation'}"]
+      "Effects": [
+        "{rev} {xeff 'constipation'}",
+        "{xeff 'Tinnitus'}",
+        "{xeff 'Anxiety'}"
+      ]
     },
     {
       "Name": "Mephedrone",
@@ -1166,7 +1192,8 @@
           "Effects": ["acute {wkp 'gag reflex' 'gag-reflex'}"]
         }
       ],
-      "Notes": "potencial {xeff 'serotonin syndrome'} risk"
+      "Notes": "potencial {xeff 'serotonin syndrome'} risk",
+      "Classes": ["Stimulant"]
     },
     {
       "Name": "N-Ethyl-nor-pentedrone",
@@ -1233,9 +1260,22 @@
       "Routes": [
         {
           "Name": "Intravenous",
-          "Dosage": "10-120mg",
+          "Dosage": "10-230mg",
           "Onset": "5-15 seconds",
-          "Comeup": "~1 minute"
+          "Comeup": "~1 minute",
+          "Duration": "1-3 hours"
+        },
+        {
+          "Name": "intranasal",
+          "Dosage": "70mg"
+        },
+        {
+          "Name": "inhaled",
+          "Dosage": "45-65mg"
+        },
+        {
+          "Name": "subcutaneous",
+          "Dosage": "45mg"
         }
       ],
       "Classes": ["Stimulant", "Sympathomimetic"],
@@ -1254,9 +1294,21 @@
         "{sev 'strong'} {xeff 'motivation enhancement'}",
         "{sev 'moderate'} {xeff 'appetite suppression'}",
         "{sev 'strong'} {xeff 'increased music appreciation'}",
-        "{sev 'light'} {xeff 'Irritability'}"
+        "{sev 'moderate'} {xeff 'irritability'} (screaming at my veins in anger)",
+        "{sev 'moderate'} {xeff 'psychosis'}(2 days into bindge strong visual alteration, minor hallucinations, minor voices)\"",
+        "{sev 'moderate'} {xeff 'dehydration'} (noted during single session))",
+        "{sev 'light'} {xeff 'empathy, affection, and sociability enhancement'}",
+        "{sev 'moderate'} {xeff 'memory suppression'} (impaired short-term memory)"
       ],
-      "Notes": ["somewhat smoother than {sub 'NEP'}"]
+      "Notes": ["less rough and more functional than {sub 'NEP'}"],
+      "Tolerance": [
+        "steadily builds up over the span of a bindge till the point of absolute-tolerance",
+        "long-term use leads to almost absolute tolerance to any other stimulants; went through ~1g of {sub 'Methamphetamine'} in a single night feeling nothing and ending up going to sleep"
+      ],
+      "After": [
+        "{sev 'strong'} {xeff 'depression'}",
+        "{sev 'moderate'} {xeff 'anxiety'}"
+      ]
     },
     {
       "Name": "N-Ethyl-nor-heptedrone",
@@ -1312,7 +1364,7 @@
         },
         {
           "Name": "Vaporized",
-          "Dosage": "15mg"
+          "Dosage": "10-15mg"
         },
         {
           "Name": "Intrarectal",
@@ -1341,7 +1393,12 @@
         "{sev 'intense'} {xeff 'paranoia'}",
         "{xeff 'unspeakable horrors'}",
         "{xeff 'feelings of impending doom'}",
-        "{sev 'intense'} {xeff 'auditory hallucination'} (voices, complex distressing alternative scenarios)"
+        "{sev 'intense'} {xeff 'auditory hallucination'} (voices, complex distressing alternative scenarios)",
+        "{sev 'strong'} {xeff 'anxiety'}",
+        "{sev 'strong'} {xeff 'teeth grinding'}",
+        "{sev 'moderate'} impulsiveness",
+        "{sev 'intense'} {xeff 'focus enhancement'}",
+        "{sev 'strong'} {xeff 'motivation enhancement'}"
       ],
       "DEffects": [
         {
@@ -1393,7 +1450,8 @@
       ],
       "Notes": [
         "\"literally craving the next shoot 3 minutes after having had a serious one... I imagine this is what being addicted to crack must feel like\""
-      ]
+      ],
+      "Classes": ["Stimulant", "Sympathomimetic"]
     },
     {
       "Name": "α-Pyrrolidinocyclohexanophenone",
@@ -1413,7 +1471,8 @@
         "{xeff 'physical euphoria'}",
         "{xeff 'increased bodily temperature'}",
         "{sev 'moderate'} {xeff 'anxiety'}"
-      ]
+      ],
+      "Classes": ["Stimulant", "Sympathomimetic"]
     },
     {
       "Name": "α-Pyrrolidino-2-phenylacetophenone",
@@ -1431,7 +1490,8 @@
       "Effects": [
         "{xeff 'anxiety' 'anxiety'}",
         "dissociating {xeff 'stimulation'}"
-      ]
+      ],
+      "Classes": ["Dissociative"]
     },
     {
       "Name": "5-Dihydrobenzofuranpyrovalerone",
@@ -1449,7 +1509,8 @@
         "{xeff 'anxiety'}"
       ],
       "Odor": ["cellar", "old closet"],
-      "Notes": ["uncomfortable intravenously"]
+      "Notes": ["uncomfortable intravenously"],
+      "Classes": ["Stimulant"]
     },
     {
       "Name": "3,4-Methylenedioxy-α-pyrrolidinoisohexanophenone",
@@ -1470,6 +1531,11 @@
         "{sev 'intense'} {xeff 'depression reduction'}",
         "{xeff 'psychosis'}",
         "{xeff 'suicidal ideation'}"
+      ],
+      "Classes": ["Stimulant", "Entactogen", "Sympathomimetic"],
+      "Notes": [],
+      "Tolerance": [
+        "Anihilated strong stimulant tolerance, like the first time taking stimulants."
       ]
     },
     {
@@ -1488,7 +1554,8 @@
         "{sev 'strong'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'cognitive euphoria'}",
         "{sev 'light'} {xeff 'increased libido'}"
-      ]
+      ],
+      "Classes": ["stimulant"]
     },
     {
       "Name": "3,4-Methylenedioxy-α-pyrrolidinohexiophenone",
@@ -1499,7 +1566,7 @@
         },
         {
           "Name": "Intravenous",
-          "Dosage": "15mg"
+          "Dosage": "4-15mg"
         },
         {
           "Name": "Vaporized"
@@ -1529,7 +1596,8 @@
             "when dosed too frequently multi-hour peroids of strong dissociation"
           ]
         }
-      ]
+      ],
+      "Classes": ["stimulant", "sympathomimetic"]
     },
     {
       "Name": "Methylphenidate",
@@ -1538,7 +1606,8 @@
           "Name": "Oral"
         },
         {
-          "Name": "Intravenous"
+          "Name": "Intravenous",
+          "Dosage": "5-20mg"
         }
       ],
       "Salts": ["Hydrochloride"],
@@ -1560,7 +1629,8 @@
           ]
         }
       ],
-      "Indication": "executive dysfunction"
+      "Indication": "executive dysfunction",
+      "Classes": ["stimulant", "sympathomimetic"]
     },
     {
       "Name": "Ethylphenidate",
@@ -1623,7 +1693,8 @@
           ]
         }
       ],
-      "Notes": "pleasant vaporized"
+      "Notes": "pleasant vaporized",
+      "Classes": ["Sympathomimetic", "Stimulant"]
     },
     {
       "Name": "Cocaine",
@@ -1666,7 +1737,8 @@
       "Name": "Butylscopolamine",
       "Routes": [
         {
-          "Name": "Oral"
+          "Name": "Oral",
+          "Dosage": "10mg"
         }
       ],
       "Sources": ["Buscopan Plus: pharmacy"],
@@ -1704,7 +1776,7 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "4g"
+          "Dosage": "1600-4000mg"
         }
       ]
     },
@@ -1738,6 +1810,15 @@
       ],
       "Indication": ["{xeff 'headache'}", "{sev 'light'} pain"],
       "Effects": ["{sev 'light'} {xeff 'headache'} suppression"]
+    },
+    {
+      "Name": "Dexibuprofen",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "200mg"
+        }
+      ]
     },
     {
       "Name": "Ketoprofen",
@@ -1871,7 +1952,8 @@
       "Name": "Tryptophan",
       "Routes": [
         {
-          "Name": "Oral"
+          "Name": "Oral",
+          "Dosage": "1100mg"
         }
       ],
       "Notes": "uncertain activity"
@@ -2115,7 +2197,8 @@
       "Name": "Progesterone",
       "Routes": [
         {
-          "Name": "Oral"
+          "Name": "Oral",
+          "Dosage": "200mg"
         }
       ],
       "Indication": "Male to female transsexuality"
@@ -2125,6 +2208,10 @@
       "Routes": [
         {
           "Name": "Transdermal"
+        },
+        {
+          "Name": "oral",
+          "Dosage": "2mg"
         }
       ],
       "Salts": ["Hemihydrate"],
@@ -2402,6 +2489,47 @@
         {
           "Route": "Vaporized",
           "Effects": ["{sev 'moderate'} {xeff 'respiratory depression'}"]
+        }
+      ]
+    },
+    {
+      "Name": "Clonazolam",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "0.3-1.2mg"
+        },
+        {
+          "Name": "intravenous",
+          "Dosage": "0.3mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety suppression'}",
+        "{sev 'strong'} {xeff 'respiratory depression'}",
+        "{sev 'moderate'} {xeff 'nausea'}"
+      ]
+    },
+    {
+      "Name": "Midazolam",
+      "Routes": [
+        {
+          "Name": "intravenous",
+          "Dosage": "3.7-15mg"
+        }
+      ],
+      "Salts": ["maleate"],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'anxiety suppression'}",
+        "{sev 'moderate'} {xeff 'cognitive euphoria'}"
+      ]
+    },
+    {
+      "Name": "Olanzapine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosages": "10mg"
         }
       ]
     },
@@ -2796,17 +2924,33 @@
       ]
     },
     {
+      "Name": "Tramadol",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "200mg"
+        },
+        {
+          "Name": "intravenous",
+          "Dosage": "50mg"
+        }
+      ]
+    },
+    {
       "Name": "Promethazine",
       "Routes": [
         {
-          "Name": "Oral"
+          "Name": "Oral",
+          "Dosage": "50mg"
         }
       ],
       "Salts": ["Hydrochloride"],
       "Indication": "{xeff 'nausea'}",
       "Effects": [
         "{sev 'light'} {xeff 'nausea suppression'}",
-        "ineffective in treating {xeff 'panic-attack' 'acute panic'}"
+        "ineffective in treating {xeff 'panic-attack' 'acute panic'}",
+        "{sev 'moderate'} {xeff 'dry mouth'}",
+        "{sev 'moderate'} {xeff 'sedation'}"
       ],
       "Notes": [
         "strongly delayed onset",
@@ -2869,15 +3013,6 @@
         "{xeff 'respiratory depression'}"
       ],
       "Notes": "unsure about effects on allergy"
-    },
-    {
-      "Name": "Olanzapine",
-      "Routes": [
-        {
-          "Name": "Oral",
-          "Dosages": "10mg"
-        }
-      ]
     },
     {
       "Name": "Omberacetam",
@@ -3010,6 +3145,10 @@
           "Name": "Insufflated",
           "Dosage": "45mg",
           "Duration": "~3 hours"
+        },
+        {
+          "Name": "intravenous",
+          "Dosage": "10mg"
         }
       ],
       "Salts": ["Hydrochloride"],
@@ -3018,6 +3157,22 @@
         "mind melting dissociative effects"
       ],
       "Effects": ["{sev 'strong'} {xeff 'Language suppression'}"]
+    },
+    {
+      "Name": "2-Fluoro-N-ethylnordeschloroketamine",
+      "Routes": [
+        {
+          "Name": "intravenous",
+          "Dosage": "5-60mg"
+        }
+      ],
+      "Effects": [
+        "{sev 'light'} {xeff 'physical disconnection'}",
+        "{sev 'light'} {xeff 'spatial disorientation'}"
+      ],
+      "Notes": [
+        "surprisingly mild requiring 60mg {roa 'intravenous'} to vaugely khole"
+      ]
     },
     {
       "Name": "Eticyclidone",
@@ -3099,7 +3254,7 @@
         "{sev 'light'} {xeff 'suicidal ideation'}",
         "revelations and interesting thought exploration",
         "traveling through vivid complex yet internal landscapes",
-        "{sev 'strong'} {xeff 'Language suppression'}"
+        "{sev 'strong'} {xeff 'language suppression'}"
       ]
     },
     {
@@ -3243,7 +3398,8 @@
         "{xeff 'appetite enhancement'}",
         "{sev 'moderate'} {xeff 'anxiety suppression'}",
         "{xeff 'analysis suppression'}"
-      ]
+      ],
+      "Classes": ["Cannabinoid"]
     },
     {
       "Name": "γ-Aminobutyric acid",
@@ -3260,7 +3416,8 @@
       "Name": "Ascorbic acid",
       "Routes": [
         {
-          "Name": "Oral"
+          "Name": "Oral",
+          "Dosage": "6000mg"
         },
         {
           "Name": "Intravenous"
@@ -3308,7 +3465,8 @@
       "Name": "Theanine",
       "Routes": [
         {
-          "Name": "Oral"
+          "Name": "Oral",
+          "Dosage": "500mg"
         }
       ],
       "Notes": "{sev 'light'} but pleasant effects"
@@ -3328,7 +3486,7 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "200-1700mg",
+          "Dosage": "100-1700mg",
           "Onset": "30-45 minutes",
           "Duration": "6-12 hours"
         },
@@ -3469,7 +3627,7 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "1-5g"
+          "Dosage": "1000-20000mg"
         },
         {
           "Name": "Inhaled"
@@ -3529,7 +3687,8 @@
           "Name": "Vaporized"
         },
         {
-          "Name": "Intravenous"
+          "Name": "Intravenous",
+          "Dosage": "0.5ml"
         }
       ],
       "Notes": ""
@@ -3619,7 +3778,8 @@
       "Name": "Lactose",
       "Routes": [
         {
-          "Name": "Oral"
+          "Name": "Oral",
+          "Dosage": "3000mg"
         },
         {
           "Name": "Intravenous"
@@ -3640,7 +3800,8 @@
       "Name": "Bicarbonate",
       "Routes": [
         {
-          "Name": "Oral"
+          "Name": "Oral",
+          "Dosage": "2000mg"
         }
       ],
       "Salts": ["Sodium"],
@@ -3889,6 +4050,16 @@
         "{sev 'light'} {xeff 'focus enhancement'}",
         "{sev 'light'} {xeff 'wakefulness'}"
       ]
+    },
+    {
+      "Name": "Magnesium",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "1g"
+        }
+      ],
+      "Salts": ["glycinate"]
     }
   ],
   "Routes": [

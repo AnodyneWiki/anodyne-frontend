@@ -22,11 +22,6 @@
 
 **{{title $v.Title}}** administration{{if $v.Aliases}} (also known as {{range $i, $alias := $v.Aliases}}{{if not (eq $i 0)}}{{if not (eq $i (sub (len $v.Aliases) 1))}}, {{else}} or {{end}}{{end}}**{{$alias}}**{{end}}){{end}}{{with $v.About}} {{template "user" .}}{{end}}
 
-<h3>Anatomy</h3>
-<h4>Arms</h4>
-
-<img width=350px src="/assets/arm.png">
-
 <h3>Procedure</h3>
 
 **Under no circumstance should the instructions below be used as a sole resource for users looking to start, they are only meant for demonstrative purposes.**
@@ -44,7 +39,7 @@ _Supplies_:
   - Cigarette filter (risk of contamination if the filter contains glas fragments)
   - Luer-lock Syringe Filter
     - 0.22μm / 0.45μm - PTFE / PES / PVDF membrane
-- Saline
+- Saline (Water / 0.9% Sodium Chloride)
 
 The instructions below are optimized for the following factors:
 
@@ -69,7 +64,8 @@ _Instructions_:
 2. Weigh the desired dose on a centrifuge tube's cap.
 3. Withdraw your desired volume of saline from a vial.
 4. Add your desired dose into the centrifuge tube, spray it with saline and let it dissolve your dose.
-   - incase the drug is in its freebase form (common examples: heroin, crack cocaine) add a equivilant amount of either citric, tartaric or ascorbic acid.
+   - incase the drug is in its freebase form (common examples: heroin, crack, pregabalin) add the molar-equivilant amount of either ascorbic acid, citric acid or tartaric acid.
+   - incase the drug can't properly dissolve in water (common examples: alprazolam, diazepam, thc) Appropriate injectable solvent miscible with water
 5. Draw the solution back up into the previously used syringe.
 6. Transfer the solution into a fresh syringe with a wheel filter connected to a fresh needle.
    - (Optional - minimizes residual loss, unnecessary repeatition and usage of filters) Draw a desired amount of the solution into a smaller syringe for immediate use.

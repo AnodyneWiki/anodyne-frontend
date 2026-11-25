@@ -2,8 +2,9 @@
   "Title": "ninerik",
   "Name": ["Ninerik", "Hakon", "HF"],
   "About": "{p}Hello....? Anyone out there? No...?{Ep}{p}Silence, uuueehhhh? I wonder how long it's been... {Ep}{p}Months, years even?{Ep}",
-  "Birth": "2007-01",
+  "Birth": "2007-09",
   "Location": "Norway",
+  "Weight": "58kg",
   "Links": [
     {
       "Name": "Discord",
@@ -12,6 +13,10 @@
     {
       "Name": "Signal",
       "Url": "ninerik.55"
+    },
+    {
+      "Name": "Github",
+      "Url": "https://github.com/ninneri"
     }
   ],
   "TriedSubstances": [
@@ -20,14 +25,10 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "80-500mg"
+          "Dosage": "35-680mg"
         }
       ],
-      "Sources": [
-        "Energy drinks",
-        "Workplace coffee machine",
-        "bulk.com 200mg tablets"
-      ],
+      "Sources": ["Energy drinks", "Coffee", "Tea", "Bulk.com 200mg tablets"],
       "Effects": [
         "{sev 'light'} {xeff 'stimulation'}",
         "{sev 'moderate'} {xeff 'wakefulness'}",
@@ -37,7 +38,13 @@
         "{sev 'intense'} {xeff 'headache'} at higher doses",
         "{sev 'light'} {xeff 'shakiness'} at medium to high doses",
         "{wkp 'addiction'} (since the start of 2026)"
-      ]
+      ],
+      "Classes": ["Stimulant"],
+      "Indication": [
+        "{xeff 'sleepiness'}",
+        "{xeff 'headache'} from {sub 'Caffeine'} withdrawals"
+      ],
+      "Notes": ["Awful awful awful stimulant"]
     },
     {
       "Name": "Amphetamine",
@@ -46,16 +53,18 @@
         "{sev 'moderate'} {xeff 'stimulation'}",
         "{sev 'strong'} {xeff 'wakefulness'}",
         "{xeff 'cognitive-euphoria'}",
-        "{xeff 'vasoconstriction'}",
+        "{sev 'moderate'} {xeff 'vasoconstriction'}",
         "{sev 'strong'} {xeff 'appetite suppression'}",
         "{sev 'moderate'} {xeff 'increased heart rate'}",
-        "{xeff 'increased-libido'}",
+        "{sev 'moderate'} {xeff 'increased-libido'}",
         "{sev 'moderate'} {xeff 'increased-perspiration'}",
         "{sev 'light'} {xeff 'increased-bodily-temperature'}",
-        "{sev 'moderate'} {xeff 'compulsive-redosing'}",
+        "{sev 'light'} {xeff 'compulsive-redosing'}",
         "{sev 'light'} {xeff 'teeth-grinding'}",
+        "{xeff 'dehydration'}",
         "{sev 'light'} {xeff 'drifting'} when heavily de-hydrated"
       ],
+      "Classes": ["Stimulant"],
       "Notes": [
         "I will not consume any more amphetamine. I will not consume any more amphetamine. I will not consume any more amphetamine. Okay just one more time :P"
       ]
@@ -72,11 +81,13 @@
           "Dosage": "9-14mg"
         }
       ],
-      "Sources": ["DNM: Batman"],
+      "Sources": ["DNM"],
+      "Salts": ["Hydrobromide"],
       "Effects": [
         "{sev 'light'} {xeff 'nausea'} fading as peak comes",
         "{sev 'strong'} {xeff 'pupil-dilation'}",
         "{sev 'strong'} {xeff 'tactile-enhancement'} (warm aura)",
+        "{sev 'strong'} {xeff 'spontaneous-tactile-sensations'}",
         "occasional {xeff 'laughter-fits'}",
         "{xeff 'geometry'}",
         "{xeff 'transformations'}",
@@ -97,9 +108,8 @@
           ]
         }
       ],
-      "Notes": [
-        "Probably one of my favorite psychedelics. Written when on 2C-B ^-^"
-      ]
+      "Classes": ["Stimulant", "Psychedelic", "Entactogen"],
+      "Notes": ["My favorite psychedelic"]
     },
     {
       "Name": "Cetirizine",
@@ -111,8 +121,8 @@
       ],
       "Sources": ["Pharmacy"],
       "Indication": ["Allergies"],
-      "Effects": ["{wkp 'antihistamine'}"],
-      "Notes": ["Seems to be more effective than 5mg {wkp 'desloratadine'}"]
+      "Effects": ["{wkp 'Antihistamine'}"],
+      "Notes": ["Seems to be more effective than 5mg {wkp 'Desloratadine'}"]
     },
     {
       "Name": "Ketamine",
@@ -128,7 +138,8 @@
         "{xeff 'increased-music-appreciation'}",
         "{xeff 'cognitive-disconnection'}"
       ],
-      "Notes": ["Don't like the drip :<"]
+      "Classes": ["Dissociative", "Psychedelic"],
+      "Notes": ["Don't like the drip (bad technique) :<"]
     },
     {
       "Name": "3,4-Methylenedioxymethamphetamine",
@@ -151,10 +162,25 @@
         "{xeff 'wakefulness'}",
         "{xeff 'teeth-grinding'}"
       ],
-      "Odor": ["liquorice"],
+      "Classes": ["Stimulant", "Entactogen"],
+      "Odor": ["Liquorice"],
       "Notes": [
         "Hurts less than {sub '2C-B'} when insufflated, but still stings slightly"
       ]
+    },
+    {
+      "Name": "Lisdexamphetamine",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "20mg"
+        }
+      ],
+      "Sources": ["Friend"],
+      "Salts": ["Dimesylate"],
+      "Effects": [],
+      "Classes": ["Stimulant"],
+      "Notes": ["Ik ben de situatie aan het monitoren"]
     },
     {
       "Name": "Ethanol",
@@ -175,6 +201,7 @@
         "{xeff 'frequent-urination'}",
         "{xeff 'double-vision'}"
       ],
+      "Classes": ["Depressant"],
       "Notes": ["mmmmmpf vodka"]
     },
     {
@@ -185,11 +212,12 @@
           "Dosage": "1000-2000mg"
         }
       ],
-      "Sources": ["bulk.com supplement store"],
+      "Sources": ["Bulk.com supplement store"],
       "Effects": [
         "{sev 'light'} {xeff 'stimulation'}",
         "{sev 'light'} {xeff 'wakefulness'}"
       ],
+      "Classes": ["Stimulant"],
       "Notes": ["Combines nicely with {sub 'Caffeine'} & {sub 'Amphetamine'}"]
     },
     {
@@ -197,16 +225,18 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "100-200mg"
+          "Dosage": "100-400mg"
         }
       ],
-      "Sources": ["DNM/Pharmacy"],
+      "Sources": ["DNM", "Pharmacy"],
       "Effects": [
         "{sev 'moderate'} {xeff 'wakefulness'}",
         "{sev 'light'} {xeff 'stimulation'}",
         "{sev 'light'} {xeff 'increased-bodily-temperature'}",
-        "{sev 'light'} {xeff 'motivation-enhancement'}"
+        "{sev 'light'} {xeff 'motivation-enhancement'}",
+        "{xeff 'headache'} disappearing with more frequent usage"
       ],
+      "Classes": ["Stimulant"],
       "Notes": ["Yummy wakefulness"]
     },
     {
@@ -220,40 +250,81 @@
       "Sources": ["DNM: Redbull pressies"],
       "Effects": [
         "{sev 'moderate'} {xeff 'stimulation'}",
-        "{sev 'light'} {xeff 'increased-heart-rate'}",
         "{sev 'strong'} {xeff 'empathy-affection-and-sociability-enhancement'}",
         "{sev 'strong'} {xeff 'time-distortion'}",
-        "{sev 'moderate'} {xeff 'compulsive-redosing'}",
+        "{sev 'light'} {xeff 'motivation-enhancement'}",
+        "{sev 'strong'} {xeff 'dehydration'} / {xeff 'dry-mouth'}",
+        "{sev 'light'} {xeff 'compulsive-redosing'}",
+        "{sev 'light'} {xeff 'increased-heart-rate'}",
+        "{sev 'moderate'} {xeff 'increased-bodily-temperature'}",
+        "{sev 'moderate'} {xeff 'temperature-regulation-suppression'}",
+        "{sev 'moderate'} {xeff 'increased-perspiration'}",
+        "{sev 'moderate'} {xeff 'teeth-grinding'}",
         "{sev 'light'} {xeff 'tracers'} fading as peak comes",
         "{sev 'moderate'} {xeff 'vibrating-vision'} fading as peak comes",
         "{sev 'light'} {xeff 'spontaneous-tactile-sensations'}",
-        "{sev 'moderate'} {xeff 'increased-bodily-temperature'} / {xeff 'temperature-regulation-suppression'}",
-        "{sev 'moderate'} {xeff 'increased-perspiration'}",
-        "{sev 'moderate'} {xeff 'teeth-grinding'}",
-        "{sev 'strong'} {xeff'dehydration'} / {xeff'dry-mouth'}",
-        "{sev 'light'} {xeff 'motivation-enhancement'}",
         "{sev 'light'} {xeff 'pupil-dilation'}",
         "{sev 'light'} {xeff 'sleepiness'}?"
       ],
+      "Classes": ["Stimulant", "Cytotoxin"],
       "Notes": [
-        "Yucky cytotoxin with quite an {sev 'intense'} come-up. Written when on 4-CMC ^_^"
+        "Yucky cytotoxin with an {sev 'intense'} almost psychedelic like come-up"
       ]
+    },
+    {
+      "Name": "N-Ethyl-nor-pentedrone",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "12-17mg"
+        }
+      ],
+      "Sources": ["DNM"],
+      "Effects": [
+        "{sev 'moderate'} {xeff 'stimulation'}",
+        "{sev 'strong'} {xeff 'compulsive-redosing'}",
+        "{sev 'moderate'} {xeff 'increased-heart-rate'}",
+        "{sev 'strong'} {xeff 'dehydration'} / {xeff 'dry-mouth'}",
+        "{sev 'moderate'} {xeff 'motivation-enhancement'}",
+        "{sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}",
+        "{sev 'moderate'} {xeff 'increased-perspiration'}",
+        "{sev 'light'} {xeff 'teeth-grinding'}",
+        "{sev 'light'} {xeff 'vasoconstriction'}",
+        "{sev 'light'} {xeff 'increased-music-appreciation'}",
+        "{sev 'light'} {xeff 'tactile-enhancement'}",
+        "{sev 'light'} {xeff 'time-distortion'}"
+      ],
+      "Classes": ["Stimulant"],
+      "Notes": ["Less cozy compared to {sub 'Amphetamine'}"]
+    },
+    {
+      "Name": "Methylphenidate",
+      "Routes": [
+        {
+          "Name": "Oral",
+          "Dosage": "10mg"
+        }
+      ],
+      "Sources": ["Friend"],
+      "Effects": [
+        "{sev 'light'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'motivation-enhancement'}",
+        "{sev 'light'} {xeff 'increased-heart-rate'}",
+        "{sev 'light'} {xeff 'empathy-affection-and-sociability-enhancement'}",
+        "{sev 'light'} {xeff 'increased-perspiration'}",
+        "{sev 'light'} {xeff 'spontaneous-tactile-sensations'}"
+      ],
+      "Classes": ["Stimulant"]
     }
   ],
   "Psyche": {
     "Interests": [
       "drugs",
-      "gaming",
-      "collecting art books",
+      "working overtime",
       "{wkp 'minesweeper (video game)'}",
       "{wkp 'machining'}",
-      "{wkp 'CNC machining'}",
-      "working overtime"
+      "{wkp 'CNC machining'}"
     ],
-    "Attributes": [
-      "{wkp 'adhd'} (Diagnosed)",
-      "{wkp 'high-functioning autism'} (Diagnosed)",
-      "{wkp 'workaholic'}"
-    ]
+    "Attributes": ["{wkp 'workaholic'}"]
   }
 }
