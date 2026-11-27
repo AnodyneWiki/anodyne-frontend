@@ -19,9 +19,24 @@
       let
         pkgs = import nixpkgs { inherit system; };
         treefmtEval = treefmt-nix.lib.evalModule pkgs ./treefmt.nix;
+        anodyne-frontend = pkgs.stdenvNoCC.mkDerivation {
+          pname = "anodyne-frontend";
+          version = "unstable";
+          src = ./.;
+
+          dontBuild = true;
+
+          installPhase = ''
+            cp -r . $out
+          '';
+      };
       in
       {
         formatter = treefmtEval.config.build.wrapper;
+        packages = {
+          default = anodyne-frontend;
+          anodyne-frontend = anodyne-frontend;
+        };
         checks.formatting = treefmtEval.config.build.check ./.;
       }
     );

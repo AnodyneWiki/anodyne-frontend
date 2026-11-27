@@ -895,7 +895,8 @@
           "Name": "sublingual",
           "Dosage": "0.3mg"
         }
-      ]
+      ],
+      "Sources": [ "RC Vendor" ]
     },
     {
       "Name": "Clonazepam",
@@ -1768,11 +1769,11 @@
       "Routes": [
         {
           "Name": "Oral",
-          "Dosage": "25-50mg"
+          "Dosage": "25-200mg"
         }
       ],
       "Effects": [
-        "no major effects noted, didn't help with my mental breakdowns"
+        "might have helped with unstable mood and {xeff 'depression'}"
       ],
       "Notes": [
         "After upping my dose to 50mg one of my lymph nodes got swollen; went away after a few days"
@@ -1835,11 +1836,15 @@
     {
       "Name": "Buspirone",
       "Salts": ["hydrochloride"],
+      "Indication": "Sexual disfunction after taking {sub 'venlafaxine'}",
       "Routes": [
         {
           "Name": "oral",
           "Dosage": "10mg"
         }
+      ],
+      "Notes": [
+        "not taken long enough for any effects"
       ],
       "Sources": ["Hexal Busp® 10mg tablets"]
     },
@@ -2180,6 +2185,14 @@
           "Name": "oral",
           "Dosage": "5-15mg"
         }
+      ],
+      "Effects": [
+        "{sev 'strong'} {xeff 'stimulation'}",
+        "{sev 'moderate'} {xeff 'motivation-enhancement'} in lower doses",
+        "{sev 'moderate'} Visuals: {xeff 'depth-perception-distortions'} {xeff 'geometry'} {xeff 'tracers'} {xeff 'drifting'} {xeff 'colour-enhancement'}"
+      ],
+      "Notes": [
+        "Very simmilar to {sub '2,5-Dimethoxy-4-bromophenethylamine'} but has a longer duration and higher potency"
       ],
       "Sources": ["NL RC Vendor: 2C-B-FLY 10 MG Pellets"]
     },
