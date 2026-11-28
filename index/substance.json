@@ -4821,6 +4821,7 @@
     { "Title": "Choline-Alfoscerate" },
     { "Title": "Ambroxol" },
     { "Title": "Trimethoprim", "Classes": ["Antibiotic"] },
-    { "Title": "Sulfamethoxazole", "Classes": ["Antibiotic"] }
+    { "Title": "Sulfamethoxazole", "Classes": ["Antibiotic"] },
+    { "Title": "Risperidone", "Classes": ["Antipsychotic"] }
   ]
 }

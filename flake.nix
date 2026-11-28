@@ -29,13 +29,13 @@
           installPhase = ''
             cp -r . $out
           '';
-      };
+        };
       in
       {
         formatter = treefmtEval.config.build.wrapper;
         packages = {
           default = anodyne-frontend;
-          anodyne-frontend = anodyne-frontend;
+          inherit anodyne-frontend;
         };
         checks.formatting = treefmtEval.config.build.check ./.;
       }

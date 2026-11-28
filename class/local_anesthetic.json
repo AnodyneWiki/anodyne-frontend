@@ -9,6 +9,22 @@
       "Title": "Cocaine",
       "Abr": ["Coke"],
       "MW": "303.35 g/mol"
+    },
+    {
+      "Title": "Lidocaine",
+      "MW": "234.34 g/mol"
+    },
+    {
+      "Title": "Benzocaine",
+      "MW": "165.19 g/mol"
+    },
+    {
+      "Title": "Tetracaine",
+      "MW": "264.36 g/mol"
+    },
+    {
+      "Title": "Procaine",
+      "MW": "236.31 g/mol"
     }
   ]
 }

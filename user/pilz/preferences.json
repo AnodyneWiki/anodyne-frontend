@@ -896,7 +896,7 @@
           "Dosage": "0.3mg"
         }
       ],
-      "Sources": [ "RC Vendor" ]
+      "Sources": ["RC Vendor"]
     },
     {
       "Name": "Clonazepam",
@@ -1292,6 +1292,16 @@
       ],
       "Notes": ["didn't expect this to be this compfy"],
       "Sources": ["Amisulprid PUREN 100 mg"]
+    },
+    {
+      "Name": "Risperidone",
+      "Routes": [
+        {
+          "Name": "oral",
+          "Dosage": "1mg"
+        }
+      ],
+      "Sources": ["Risperidon Aurobindo 1 mg tablets"]
     },
     {
       "Name": "Quetiapine",
@@ -1843,9 +1853,7 @@
           "Dosage": "10mg"
         }
       ],
-      "Notes": [
-        "not taken long enough for any effects"
-      ],
+      "Notes": ["not taken long enough for any effects"],
       "Sources": ["Hexal Busp® 10mg tablets"]
     },
     {

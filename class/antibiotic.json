@@ -45,6 +45,12 @@
     {
       "Title": "Clavulanic acid",
       "Abr": ["RX-10100"]
+    },
+    {
+      "Title": "Trimethoprim"
+    },
+    {
+      "Title": "Sulfamethoxazole"
     }
   ]
 }

@@ -11,6 +11,35 @@
     {
       "Title": "Ipsapirone",
       "MW": "401.5 g/mol"
+    },
+    {
+      "Title": "Bromazolam",
+      "MW": "353.2 g/mol"
+    },
+    {
+      "Title": "Clonazepam",
+      "MW": "315.71 g/mol"
+    },
+    {
+      "Title": "Diazepam",
+      "Abr": ["Valium"],
+      "MW": "284.74 g/mol"
+    },
+    {
+      "Title": "Lormetazepam",
+      "MW": "335.2 g/mol"
+    },
+    {
+      "Title": "Oxazepam",
+      "MW": "286.71 g/mol"
+    },
+    {
+      "Title": "Temazepam",
+      "MW": "300.74 g/mol"
+    },
+    {
+      "Title": "Midazolam",
+      "MW": "325.8 g/mol"
     }
   ]
 }
